@@ -46,6 +46,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-04T03:39:59.152Z"
   },
+  "akuma-ga-kitarite": {
+    "title": "悪魔が来りて笛を吹く",
+    "isbn": "9784041304044",
+    "matchedTitle": "悪魔が来りて笛を吹く 金田一耕助ファイル　4",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4044/9784041304044.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:18.527Z"
+  },
   "akuma-no-temariuta": {
     "title": "悪魔の手毬唄",
     "isbn": "9784041304020",
@@ -129,6 +137,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5013/9784488415013_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:53.870Z"
+  },
+  "byoinzaka": {
+    "title": "病院坂の首縊りの家",
+    "isbn": "9784041304617",
+    "matchedTitle": "病院坂の首縊りの家（上） 金田一耕助ファイル20",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4617/9784041304617_1_14.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:22.201Z",
+    "note": "書影は角川文庫版の上巻。"
   },
   "cadiz": {
     "title": "カディスの赤い星",
@@ -642,6 +659,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:21.052Z"
   },
+  "jami-no-shizuku": {
+    "title": "邪魅の雫",
+    "isbn": "9784062763714",
+    "matchedTitle": "文庫版　邪魅の雫",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3714/9784062763714.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:32.067Z"
+  },
+  "joobachi": {
+    "title": "女王蜂",
+    "isbn": "9784041304112",
+    "matchedTitle": "女王蜂 金田一耕助ファイル9",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4112/9784041304112_1_18.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:19.698Z"
+  },
   "jorogumo": {
     "title": "絡新婦の理",
     "isbn": "9784065319192",
@@ -913,6 +946,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:03.238Z"
   },
+  "kurotokage": {
+    "title": "黒蜥蜴",
+    "isbn": "9784488401054",
+    "matchedTitle": "黒蜥蜴",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1054/9784488401054.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:29.718Z",
+    "note": "登録は光文社だが書影は創元推理文庫版。作品は同一。"
+  },
   "kyofu-no-tani": {
     "title": "恐怖の谷",
     "isbn": "9784041086223",
@@ -1153,6 +1195,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:27.288Z"
   },
+  "mitsukubito": {
+    "title": "三つ首塔",
+    "isbn": "9784041304068",
+    "matchedTitle": "三つ首塔 金田一耕助ファイル13",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4068/9784041304068_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:21.039Z"
+  },
   "mittsu-no-hitsugi": {
     "title": "三つの棺",
     "isbn": null,
@@ -1311,6 +1361,15 @@
     "resolvedAt": "2026-08-04T03:51:37.139Z",
     "note": "登録したクリスティー文庫・黒原敏行訳〔新訳版〕に手動で合わせた(自動取得では英語学習用版が当たっていた)"
   },
+  "ningen-isu": {
+    "title": "人間椅子",
+    "isbn": "9784041053287",
+    "matchedTitle": "人間椅子 江戸川乱歩ベストセレクション（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3287/9784041053287_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:27.372Z",
+    "note": "登録は光文社だが書影は角川文庫『江戸川乱歩ベストセレクション(1)』。表題作として収録。"
+  },
   "ningyo-wa-naze": {
     "title": "人形はなぜ殺される",
     "isbn": null,
@@ -1342,6 +1401,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1103/9784488451103.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:16.290Z"
+  },
+  "onmoraki": {
+    "title": "陰摩羅鬼の瑕",
+    "isbn": "9784062754996",
+    "matchedTitle": "文庫版　陰摩羅鬼の瑕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4996/9784062754996.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:30.903Z"
   },
   "ooinaru-nemuri": {
     "title": "大いなる眠り",
@@ -1384,6 +1451,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0417/9784151300417_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:01:39.142Z"
+  },
+  "panorama-to": {
+    "title": "パノラマ島奇談",
+    "isbn": "9784394301523",
+    "matchedTitle": "パノラマ島奇談",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1523/9784394301523.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:28.535Z",
+    "note": "登録は光文社だが書影は春陽文庫版。作品は同一。"
   },
   "rakuen-miyabe": {
     "title": "楽園",
@@ -1554,6 +1630,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:26.799Z"
   },
+  "shinri-shiken": {
+    "title": "心理試験",
+    "isbn": "9784394301585",
+    "matchedTitle": "心理試験",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1585/9784394301585.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:24.640Z",
+    "note": "登録は光文社(江戸川乱歩全集)だが書影は春陽文庫版。作品は同一。"
+  },
   "shinzanmono": {
     "title": "新参者",
     "isbn": "9784062776288",
@@ -1561,6 +1646,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6288/9784062776288_1_17.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:01.596Z"
+  },
+  "shirayukihime": {
+    "title": "白ゆき姫殺人事件",
+    "isbn": "9784087451580",
+    "matchedTitle": "白ゆき姫殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1580/9784087451580.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:35.519Z"
   },
   "shisei-satsujin": {
     "title": "刺青殺人事件",
@@ -1577,6 +1670,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7069/9784062647069_1_15.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:54.988Z"
+  },
+  "shokuzai": {
+    "title": "贖罪",
+    "isbn": "9784575515039",
+    "matchedTitle": "贖罪",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5039/9784575515039.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:34.358Z",
+    "note": "登録は東京創元社(単行本)だが書影は双葉文庫版。作品は同一。"
   },
   "shuki-gentei": {
     "title": "秋期限定栗きんとん事件",
@@ -1929,6 +2031,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:21.056Z",
     "note": "書影は講談社文庫版。登録した刊行元は原書房(単行本)。"
+  },
+  "yaneura": {
+    "title": "屋根裏の散歩者",
+    "isbn": "9784394301509",
+    "matchedTitle": "屋根裏の散歩者",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1509/9784394301509.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:11:26.167Z",
+    "note": "登録は光文社だが書影は春陽文庫版。作品は同一。"
   },
   "yatsuhakamura": {
     "title": "八つ墓村",

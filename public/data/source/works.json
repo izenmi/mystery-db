@@ -9215,5 +9215,444 @@
     },
     "sourceNote": "2012年4月23日、原書房〈ミステリー・リーグ〉より書き下ろしで刊行(2015年6月講談社文庫)。刀城言耶シリーズ第6長編。第66回日本推理作家協会賞の候補となったが、候補は登録しない方針のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akuma-ga-kitarite",
+    "title": "悪魔が来りて笛を吹く",
+    "titleKana": "あくまがきたりてふえをふく",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku",
+      "sengo-nihon",
+      "kaiki-gensou"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1951,
+    "status": "completed",
+    "synopsis": "毒殺事件の容疑をかけられた元子爵が失踪し、遺書らしきものだけが残される。降霊術の席に現れた影と、当主が遺したフルート曲「悪魔が来りて笛を吹く」。没落華族の屋敷で続く惨劇に金田一耕助が挑む。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪魔が来りて笛を吹く"
+    },
+    "sourceNote": "『宝石』1951年11月〜1953年11月連載、単行本は1954年5月8日岩谷書店。発表年は連載開始年の1951年を採り、刊行元は現在流通する角川文庫版に合わせた。第7回探偵作家クラブ賞の候補(候補は登録しない方針のため未登録)。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "joobachi",
+    "title": "女王蜂",
+    "titleKana": "じょおうばち",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku",
+      "kotou",
+      "sengo-nihon"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1951,
+    "status": "completed",
+    "synopsis": "伊豆の孤島で育った美しい娘・大道寺智子。彼女の周囲では、想いを寄せた男たちが次々に命を落としてきた。十九年前の父の死の真相を含め、金田一耕助が一族の因縁を解きほぐしていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/女王蜂_(横溝正史)"
+    },
+    "sourceNote": "『キング』1951年6月号〜1952年5月号連載、1952年に講談社『傑作長篇小説全集』第14として刊行。発表年は連載開始年の1951年を採り、刊行元は現在流通する角川文庫版に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mitsukubito",
+    "title": "三つ首塔",
+    "titleKana": "みつくびとう",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "meitantei",
+      "suspense",
+      "kazoku",
+      "sengo-nihon"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1955,
+    "status": "completed",
+    "synopsis": "莫大な遺産の相続条件として、見知らぬ男との結婚を求められた音禰。条件を満たす前に相手が殺され、彼女自身も追われる立場になる。逃避行の果てに、三つ首塔と呼ばれる場所へたどり着く。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三つ首塔"
+    },
+    "sourceNote": "1955年発表の金田一耕助シリーズ長編。映画1本・テレビドラマ4作が制作されている。刊行元は現在流通する角川文庫版に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "byoinzaka",
+    "title": "病院坂の首縊りの家",
+    "titleKana": "びょういんざかのくびくくりのいえ",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku",
+      "sengo-nihon"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "廃屋となった洋館の梁に、生首を吊るした風鈴のような仕掛けが残されていた。二十年の時を隔てて繰り返される事件と、写真館の一家をめぐる血の因縁。「金田一耕助最後の事件」として書かれた長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/病院坂の首縊りの家"
+    },
+    "sourceNote": "『野性時代』1975年〜1977年連載。「金田一耕助最後の事件」として知られる。発表年は連載開始年の1975年を採り、刊行元は現在流通する角川文庫版に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinri-shiken",
+    "title": "心理試験",
+    "titleKana": "しんりしけん",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [
+      "akechi-kogoro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "tojo",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1925,
+    "status": "completed",
+    "synopsis": "完全犯罪を計画した学生・蕗屋清一郎は、老婆を殺害し、証拠を残さぬよう周到に振る舞う。警察が用いる心理試験まで想定して備えた彼の前に、明智小五郎が現れる。犯人側から語られる倒叙形式の短編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/心理試験"
+    },
+    "sourceNote": "『新青年』1925年2月号掲載。明智小五郎シリーズ第2作で、『D坂の殺人事件』から始まる6か月連続短編掲載の2作目。倒叙形式をとる。刊行元は既存の乱歩作品と同じく光文社(光文社文庫・江戸川乱歩全集)に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yaneura",
+    "title": "屋根裏の散歩者",
+    "titleKana": "やねうらのさんぽしゃ",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [
+      "akechi-kogoro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "tojo",
+      "meitantei",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1925,
+    "status": "completed",
+    "synopsis": "何をしても退屈な青年・郷田三郎は、下宿の押入から天井裏に上がれることに気づき、住人たちの生活を覗き見る楽しみを覚える。やがてその遊びは、ある思いつきへとつながっていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/屋根裏の散歩者"
+    },
+    "sourceNote": "『新青年』1925年8月号掲載。明智小五郎シリーズ第5作で倒叙形式をとる。書籍としては1926年1月刊『創作探偵小説集第二巻「屋根裏の散歩者」』(春陽堂)に収録。刊行元は現在流通する光文社文庫・江戸川乱歩全集に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ningen-isu",
+    "title": "人間椅子",
+    "titleKana": "にんげんいす",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1925,
+    "status": "completed",
+    "synopsis": "女流作家のもとに、一通の奇妙な手紙が届く。差出人は椅子職人を名乗り、自ら作った大きな椅子の内部に入り込み、そこに座る人の温もりだけを頼りに暮らしていたと告白する。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人間椅子_(江戸川乱歩)"
+    },
+    "sourceNote": "『苦楽』1925年9月号掲載の短編。書籍としては1926年1月刊『創作探偵小説集第二巻「屋根裏の散歩者」』(春陽堂)に収録。刊行元は現在流通する光文社文庫・江戸川乱歩全集に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "panorama-to",
+    "title": "パノラマ島奇談",
+    "titleKana": "ぱのらまとうきたん",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense",
+      "kotou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1926,
+    "status": "completed",
+    "synopsis": "売れない小説家・人見広介は、自分と瓜二つの富豪が急死したことを知る。彼はその男に成り代わり、莫大な財産を使って、かねて夢想してきた理想郷を孤島に築こうとする。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パノラマ島奇談"
+    },
+    "sourceNote": "『新青年』1926年〜1927年連載の中編。発表年は連載開始年の1926年を採った。刊行元は現在流通する光文社文庫・江戸川乱歩全集に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kurotokage",
+    "title": "黒蜥蜴",
+    "titleKana": "くろとかげ",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [
+      "akechi-kogoro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "meitantei",
+      "suspense",
+      "kaiki-gensou"
+    ],
+    "seriesName": "明智小五郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1934,
+    "status": "completed",
+    "synopsis": "宝石や美しいものを狙う女賊「黒蜥蜴」が、大阪の宝石商の娘と家宝のダイヤを予告して奪おうとする。護衛を依頼された明智小五郎と黒蜥蜴が、変装と罠を重ねながら対決する通俗長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒蜥蜴"
+    },
+    "sourceNote": "『日の出』(新潮社)1934年1月号〜12月号連載。乱歩の通俗連載長編の一つ。三島由紀夫の戯曲化でも知られる。刊行元は現在流通する光文社文庫・江戸川乱歩全集に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "onmoraki",
+    "title": "陰摩羅鬼の瑕",
+    "titleKana": "おんもらきのきず",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "youkai",
+      "meitantei",
+      "kaiki-gensou"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "四度の結婚のたびに、初夜に花嫁を殺されてきたという侯爵。五度目の婚礼を前に依頼を受けた関口らが「鳥の城」と呼ばれる館を訪ねる。またも花嫁が死に、中禅寺秋彦が呼ばれる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰摩羅鬼の瑕"
+    },
+    "sourceNote": "2003年、講談社より刊行。百鬼夜行シリーズ第8弾。各種ランキングに入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jami-no-shizuku",
+    "title": "邪魅の雫",
+    "titleKana": "じゃみのしずく",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "youkai",
+      "meitantei",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "大磯・平塚一帯で毒殺と思われる死が相次ぐ。被害者たちに接点は見えず、警察も手を焼く。関係者それぞれの視点が積み重なるなかで、中禅寺秋彦が「邪魅」の正体を落としにかかる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/邪魅の雫"
+    },
+    "sourceNote": "2006年、講談社より刊行。百鬼夜行シリーズ第9弾。当初2005年9月発売と告知されたが原稿未完のため約1年延期された経緯がWikipedia日本語版に記されている。第7回本格ミステリ大賞候補(候補は登録しない方針のため未登録)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shokuzai",
+    "title": "贖罪",
+    "titleKana": "しょくざい",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "iyamisu",
+      "suspense",
+      "kazoku",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "小学校の校庭で少女が殺され、遊んでいた四人の同級生は犯人の顔を思い出せなかった。母親から「犯人を見つけるか、罪を償え」と告げられた四人が、十五年後にそれぞれの立場で語り出す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/贖罪_(湊かなえ)"
+    },
+    "sourceNote": "2009年6月、東京創元社より刊行(2012年6月双葉文庫)。著者の第3作で、『告白』と同じく章ごとに語り手が変わる独白形式。第63回日本推理作家協会賞の候補(候補は登録しない方針のため未登録)。2012年WOWOWでドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shirayukihime",
+    "title": "白ゆき姫殺人事件",
+    "titleKana": "しらゆきひめさつじんじけん",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "iyamisu",
+      "shakaiha",
+      "suspense",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "美人OLが殺され、同僚の地味な女性に疑いが向けられる。関係者の証言、週刊誌の記事、匿名の書き込み。伝聞と憶測が積み重なるうちに、一人の人物像が勝手に作り上げられていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白ゆき姫殺人事件"
+    },
+    "sourceNote": "『小説すばる』2011年5月号〜2012年1月号連載、2012年7月に集英社より刊行。発表年は連載開始年の2011年を採った。2014年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]
