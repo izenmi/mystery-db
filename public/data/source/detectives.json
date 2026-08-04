@@ -235,8 +235,9 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミス・マープル"
     },
-    "sourceNote": "人物像・登場作品数はWikipedia日本語版で確認した。初登場は『牧師館の殺人』だが本DBに未登録のため初登場作は設定していない。",
-    "updatedAt": "2026-08-04"
+    "sourceNote": "人物像・登場作品数はWikipedia日本語版で確認した。初登場作『牧師館の殺人』(1930年)を2026-08-04の追加で登録したため初登場作を設定した。",
+    "updatedAt": "2026-08-04",
+    "firstAppearanceWorkId": "bokushikan"
   },
   {
     "id": "philo-vance",
@@ -523,11 +524,11 @@
     "creatorAuthorId": "ellery-queen",
     "occupation": "推理作家・素人探偵",
     "description": "作者と同じ名を持つ推理作家。ニューヨーク市警の警視である父リチャードの捜査に加わり、手がかりを論理的に組み立てて犯人を一人に絞り込む。",
-    "firstAppearanceWorkId": "greek-coffin",
+    "firstAppearanceWorkId": "roman-hat",
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/エラリー・クイーン"
     },
-    "sourceNote": "人物像はWikipedia日本語版で確認した。初登場は『ローマ帽子の謎』だが本DBに未登録のため、登録済み作品のうち最も早い『ギリシャ棺の謎』を初登場作としている。",
+    "sourceNote": "人物像はWikipedia日本語版で確認した。初登場作『ローマ帽子の謎』(1929年)を2026-08-04の追加で登録したため初登場作を設定した。",
     "updatedAt": "2026-08-04"
   },
   {

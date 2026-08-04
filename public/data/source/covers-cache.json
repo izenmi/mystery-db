@@ -145,6 +145,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:05.573Z"
   },
+  "bokushikan": {
+    "title": "牧師館の殺人",
+    "isbn": "9784151310355",
+    "matchedTitle": "牧師館の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0355/9784151310355_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:48.189Z",
+    "note": "登録どおりクリスティー文庫の羽田詩津子訳。自動取得では偕成社の児童向け版が当たっていたため差し替えた。"
+  },
   "bone-collector": {
     "title": "ボーン・コレクター",
     "isbn": "9784167661342",
@@ -361,6 +370,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:16:59.910Z"
   },
+  "french-powder": {
+    "title": "フランス白粉の謎",
+    "isbn": "9784488104375",
+    "matchedTitle": "フランス白粉の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4375/9784488104375.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:08.594Z"
+  },
   "fuin-saido": {
     "title": "封印再度",
     "isbn": "9784062647991",
@@ -368,6 +385,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7991/9784062647991.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:56.157Z"
+  },
+  "fukushu-no-megami": {
+    "title": "復讐の女神",
+    "isbn": "9784151300455",
+    "matchedTitle": "復讐の女神",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0455/9784151300455.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:06.302Z"
   },
   "furenzoku-satsujin": {
     "title": "不連続殺人事件",
@@ -565,6 +590,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:23:50.032Z"
   },
+  "hakuchu-no-akuma": {
+    "title": "白昼の悪魔",
+    "isbn": "9784151310201",
+    "matchedTitle": "白昼の悪魔〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0201/9784151310201_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:01.713Z"
+  },
   "hanochi": {
     "title": "半落ち",
     "isbn": "9784062751940",
@@ -653,6 +686,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2519/9784061842519_1_10.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:38.575Z"
+  },
+  "hollow": {
+    "title": "ホロー荘の殺人",
+    "isbn": "9784151300226",
+    "matchedTitle": "ホロー荘の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0226/9784151300226_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:00.549Z"
   },
   "holmes-boken": {
     "title": "シャーロック・ホームズの冒険",
@@ -802,6 +843,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4333/9784334764333_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:44.727Z"
+  },
+  "jaaku-no-ie": {
+    "title": "邪悪の家",
+    "isbn": "9784151310065",
+    "matchedTitle": "邪悪の家",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0065/9784151310065_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:31:58.254Z"
   },
   "jami-no-shizuku": {
     "title": "邪魅の雫",
@@ -1512,6 +1561,14 @@
     "resolvedAt": "2026-08-04T03:39:36.159Z",
     "note": "登録は小学館(単行本上下巻)だが書影は新潮文庫版(全5巻)の第1巻。作品は同一。"
   },
+  "mono-ienu-shonin": {
+    "title": "もの言えぬ証人",
+    "isbn": "9784151300141",
+    "matchedTitle": "もの言えぬ証人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0141/9784151300141_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:05.154Z"
+  },
   "morgue-gai": {
     "title": "モルグ街の殺人",
     "isbn": "9784102028056",
@@ -1628,6 +1685,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9666/9784065249666_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:40.105Z"
+  },
+  "naze-evans": {
+    "title": "なぜ、エヴァンズに頼まなかったのか?",
+    "isbn": "9784151300783",
+    "matchedTitle": "なぜ、エヴァンズに頼まなかったのか？",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1513/15130078.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:02.840Z"
   },
   "nazotoki-dinner": {
     "title": "謎解きはディナーのあとで",
@@ -1752,6 +1817,14 @@
     "resolvedAt": "2026-08-04T05:11:28.535Z",
     "note": "登録は光文社だが書影は春陽文庫版。作品は同一。"
   },
+  "pocket-full-of-rye": {
+    "title": "ポケットにライ麦を",
+    "isbn": "9784151310409",
+    "matchedTitle": "ポケットにライ麦を〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0409/9784151310409_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:31:55.964Z"
+  },
   "rakuen-miyabe": {
     "title": "楽園",
     "isbn": "9784167549077",
@@ -1822,6 +1895,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2926/9784167902926.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:38.750Z"
+  },
+  "roman-hat": {
+    "title": "ローマ帽子の謎",
+    "isbn": "9784488104368",
+    "matchedTitle": "ローマ帽子の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4368/9784488104368.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:07.447Z"
   },
   "ruiko-meikyu": {
     "title": "涙香迷宮",
@@ -1927,6 +2008,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6012/9784488496012.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:22.699Z"
+  },
+  "shi-tono-yakusoku": {
+    "title": "死との約束",
+    "isbn": "9784151300165",
+    "matchedTitle": "死との約束",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0165/9784151300165.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:31:53.648Z"
   },
   "shijinso": {
     "title": "屍人荘の殺人",
@@ -2051,6 +2140,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/9784488451011.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:13.364Z"
+  },
+  "siamese-twin": {
+    "title": "シャム双子の謎",
+    "isbn": "9784488104474",
+    "matchedTitle": "シャム双子の謎【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4474/9784488104474_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:09.742Z"
+  },
+  "sleeping-murder": {
+    "title": "スリーピング・マーダー",
+    "isbn": "9784151300462",
+    "matchedTitle": "スリーピング・マーダー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0462/9784151300462.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:31:59.400Z"
   },
   "sojo-satsujin": {
     "title": "僧正殺人事件",
@@ -2229,6 +2334,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0116/9784167110116_1_11.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:36:11.698Z"
+  },
+  "ten-days-wonder": {
+    "title": "十日間の不思議",
+    "isbn": "9784150701543",
+    "matchedTitle": "十日間の不思議〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1543/9784150701543.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:49.458Z",
+    "note": "登録どおり早川書房の越前敏弥訳〔新訳版〕。自動取得では解決できずISBN指定で設定した。"
   },
   "ten-to-sen": {
     "title": "点と線",
@@ -2520,6 +2634,14 @@
     "resolvedAt": "2026-08-04T05:03:09.775Z",
     "note": "登録どおり東京創元社の中村有希訳【新訳版】。自動取得では角川文庫(越前敏弥訳)が当たっていたため差し替えた。"
   },
+  "zero-jikan-e": {
+    "title": "ゼロ時間へ",
+    "isbn": "9784151300820",
+    "matchedTitle": "ゼロ時間へ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0820/9784151300820.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:31:54.823Z"
+  },
   "zero-no-shoten": {
     "title": "ゼロの焦点",
     "isbn": "9784101109169",
@@ -2528,5 +2650,13 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:37.688Z",
     "note": "登録は光文社(カッパ・ノベルス)だが書影は新潮文庫の改版。作品は同一。"
+  },
+  "zo-wa-wasurenai": {
+    "title": "象は忘れない",
+    "isbn": "9784151300325",
+    "matchedTitle": "象は忘れない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0325/9784151300325.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:32:03.995Z"
   }
 }

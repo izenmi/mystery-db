@@ -11346,5 +11346,622 @@
     },
     "sourceNote": "2016年8月、文藝春秋より刊行。葉村晶シリーズの連作短編集。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shi-tono-yakusoku",
+    "title": "死との約束",
+    "titleKana": "しとのやくそく",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "takahashi-yutaka"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "kazoku"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1938,
+    "jpPublishedYear": 2004,
+    "originalTitle": "Appointment with Death",
+    "status": "completed",
+    "synopsis": "エルサレムのホテルで、ポアロは「あの女を殺さなければ」という声を耳にする。数日後、家族を支配していた老婦人がペトラの遺跡で死体となって発見される。容疑者は家族全員だった。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/死との約束"
+    },
+    "sourceNote": "原題 Appointment with Death、1938年発表。ポアロシリーズかつ中近東シリーズの長編第3作。邦訳は早川書房クリスティー文庫の高橋豊訳(2004年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "zero-jikan-e",
+    "title": "ゼロ時間へ",
+    "titleKana": "ぜろじかんへ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "mikawa-kiyoshi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1944,
+    "jpPublishedYear": 2004,
+    "originalTitle": "Towards Zero",
+    "status": "completed",
+    "synopsis": "殺人はある日突然起きるのではなく、はるか以前から準備されて「ゼロ時間」に向かって進む。海辺の屋敷に集まった人々のあいだで、その時が訪れる。バトル警視が事件に当たる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼロ時間へ"
+    },
+    "sourceNote": "原題 Towards Zero、1944年発表。犯行計画の段階から「ゼロ時間」へ遡る独特の叙述法をとる。邦訳は早川書房クリスティー文庫の三川基好訳(2004年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "pocket-full-of-rye",
+    "title": "ポケットにライ麦を",
+    "titleKana": "ぽけっとにらいむぎを",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "yamamoto-yayoi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "mitate-satsujin",
+      "honkaku"
+    ],
+    "seriesName": "ミス・マープルシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 2020,
+    "originalTitle": "A Pocket Full of Rye",
+    "status": "completed",
+    "synopsis": "実業家が会社で毒殺され、上着のポケットにはライ麦が詰められていた。続く死も、マザー・グースの童謡をなぞるように起きる。かつての女中を案じたミス・マープルが屋敷を訪れる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポケットにライ麦を"
+    },
+    "sourceNote": "原題 A Pocket Full of Rye、1953年発表。マープル長編第6作で、童謡になぞらえた見立て殺人を扱う。邦訳は早川書房クリスティー文庫の山本やよい訳〔新訳版〕(2020年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bokushikan",
+    "title": "牧師館の殺人",
+    "titleKana": "ぼくしかんのさつじん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "haneda-shizuko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku"
+    ],
+    "seriesName": "ミス・マープルシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1930,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Murder at the Vicarage",
+    "status": "completed",
+    "synopsis": "セント・メアリ・ミード村の牧師館の書斎で、村の嫌われ者の大佐が射殺される。二人の人物が相次いで自白し、事件はかえって混乱する。編み物をしながら話を聞いていた老嬢が口を開く。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/牧師館の殺人"
+    },
+    "sourceNote": "原題 The Murder at the Vicarage、1930年発表。ミス・マープルの長編初登場作。『ミス・マープル最初の事件』(創元推理文庫)の訳題もある。邦訳は早川書房クリスティー文庫の羽田詩津子訳(2011年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jaaku-no-ie",
+    "title": "邪悪の家",
+    "titleKana": "じゃあくのいえ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "masaki-yoshihiro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "kazoku"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1932,
+    "jpPublishedYear": 2011,
+    "originalTitle": "Peril at End House",
+    "status": "completed",
+    "synopsis": "コーンウォールで休暇中のポアロは、古い屋敷に住む若い娘が三度も命を狙われていることを知る。屋敷の名はエンド・ハウス。彼は事故に見せかけられた出来事の連続を防ごうとする。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/邪悪の家"
+    },
+    "sourceNote": "原題 Peril at End House、1932年発表。著者の長編12作目、ポアロシリーズ第6作。邦訳は早川書房クリスティー文庫の真崎義博訳(2011年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sleeping-murder",
+    "title": "スリーピング・マーダー",
+    "titleKana": "すりーぴんぐまーだー",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "ayakawa-azusa"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "kazoku"
+    ],
+    "seriesName": "ミス・マープルシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1976,
+    "jpPublishedYear": 2004,
+    "originalTitle": "Sleeping Murder",
+    "status": "completed",
+    "synopsis": "新居を購入した若い女性は、なぜかその家の間取りを知っていた。忘れていたはずの幼い日の記憶が蘇り、彼女は自分が何かを目撃していたのだと気づく。ミス・マープル最後の事件。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スリーピング・マーダー"
+    },
+    "sourceNote": "原題 Sleeping Murder、1976年刊。マープルシリーズ最後の作品。邦訳は早川書房クリスティー文庫の綾川梓訳(2004年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hollow",
+    "title": "ホロー荘の殺人",
+    "titleKana": "ほろーそうのさつじん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "nakamura-yoshimi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "yakata-mono"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1946,
+    "jpPublishedYear": 2003,
+    "originalTitle": "The Hollow",
+    "status": "completed",
+    "synopsis": "週末の招待客が集うホロー荘のプールサイドで、医師が撃たれて倒れていた。銃を手にした妻がそばに立っている。あまりにも整いすぎた光景を前に、招かれていたポアロは違和感を覚える。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ホロー荘の殺人"
+    },
+    "sourceNote": "原題 The Hollow、1946年発表。邦訳は早川書房クリスティー文庫の中村能三訳(2003年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hakuchu-no-akuma",
+    "title": "白昼の悪魔",
+    "titleKana": "はくちゅうのあくま",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "tamura-yoshinobu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "closed-circle"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1941,
+    "jpPublishedYear": 2025,
+    "originalTitle": "Evil under the Sun",
+    "status": "completed",
+    "synopsis": "避暑地の島のホテルで、周囲の男たちを惹きつけていた元女優が、人目の多い浜辺で絞殺される。誰もが互いを見ていたはずの状況で、犯行の隙はどこにあったのか。ポアロが検討を重ねる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白昼の悪魔"
+    },
+    "sourceNote": "原題 Evil under the Sun、1941年発表。邦訳は早川書房クリスティー文庫の田村義進訳〔新訳版〕(2025年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "naze-evans",
+    "title": "なぜ、エヴァンズに頼まなかったのか?",
+    "titleKana": "なぜえゔぁんずにたのまなかったのか",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tamura-ryuichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense",
+      "honkaku",
+      "seishun"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "jpPublishedYear": 2004,
+    "originalTitle": "Why Didn't They Ask Evans?",
+    "status": "completed",
+    "synopsis": "崖から落ちた男が、息を引き取る直前に「なぜエヴァンズに頼まなかったのか」と言い残す。牧師の息子ボビーと令嬢フランキーは、その一言だけを手がかりに素人探偵を始める。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/なぜ、エヴァンズに頼まなかったのか?"
+    },
+    "sourceNote": "原題 Why Didn't They Ask Evans?(米題は「ブーメランの手がかり」の意)、1934年発表。邦訳は早川書房クリスティー文庫の田村隆一訳(2004年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "zo-wa-wasurenai",
+    "title": "象は忘れない",
+    "titleKana": "ぞうはわすれない",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "nakamura-yoshimi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "kazoku"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1972,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Elephants Can Remember",
+    "status": "completed",
+    "synopsis": "十数年前、夫婦が崖の上で射殺体となって見つかった。心中か、どちらかが殺したのか。当時を知る人々の記憶を訪ね歩く推理作家オリヴァ夫人と、ポアロが過去の事件を組み立て直す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/象は忘れない"
+    },
+    "sourceNote": "原題 Elephants Can Remember、1972年刊。ポアロシリーズ長編第32作。邦訳は早川書房クリスティー文庫の中村能三訳(2003年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mono-ienu-shonin",
+    "title": "もの言えぬ証人",
+    "titleKana": "ものいえぬしょうにん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "kajima-shozo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "kazoku"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1937,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Dumb Witness",
+    "status": "completed",
+    "synopsis": "階段から落ちて怪我をした老婦人が、その二か月後に病死した。ポアロのもとに届いたのは、彼女が事故の直後に書いた助けを求める手紙だった。すでに遅い依頼を、彼はそれでも引き受ける。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/もの言えぬ証人"
+    },
+    "sourceNote": "原題 Dumb Witness、1937年発表。ヘイスティングスが語り手を務めるポアロもの。邦訳は早川書房クリスティー文庫の加島祥造訳(2003年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fukushu-no-megami",
+    "title": "復讐の女神",
+    "titleKana": "ふくしゅうのめがみ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "inui-shinichiro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "kazoku"
+    ],
+    "seriesName": "ミス・マープルシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1971,
+    "jpPublishedYear": 2004,
+    "originalTitle": "Nemesis",
+    "status": "completed",
+    "synopsis": "亡くなった富豪から、ミス・マープルに奇妙な依頼が届く。何を調べるのかは示されないまま、彼女は名園めぐりのバス旅行に参加する。旅の途中で、依頼の意味が少しずつ形をとっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アガサ・クリスティ"
+    },
+    "sourceNote": "原題 Nemesis、1971年11月5日にイギリスで刊行されたことを英語版Wikipediaで確認。マープルシリーズの長編。邦訳は早川書房クリスティー文庫の乾信一郎訳(2004年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "roman-hat",
+    "title": "ローマ帽子の謎",
+    "titleKana": "ろーまぼうしのなぞ",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "nakamura-yuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "国名シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Roman Hat Mystery",
+    "status": "completed",
+    "synopsis": "満員の劇場で、弁護士が毒殺された。周囲の席だけが空いており、被害者のシルクハットだけが消えていた。警視である父リチャードとともに、エラリー・クイーンが初めて事件に取り組む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ローマ帽子の謎"
+    },
+    "sourceNote": "原題 The Roman Hat Mystery、1929年発表。エラリー・クイーンの処女作で、探偵エラリーの初登場作。国名シリーズ第1作。邦訳は東京創元社の中村有希訳(2011年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "french-powder",
+    "title": "フランス白粉の謎",
+    "titleKana": "ふらんすおしろいのなぞ",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "nakamura-yuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "国名シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1930,
+    "jpPublishedYear": 2012,
+    "originalTitle": "The French Powder Mystery",
+    "status": "completed",
+    "synopsis": "デパートのショーウィンドウで、実演のためベッドが引き出されると、女性の死体が転がり出た。店内という限られた空間で、エラリー・クイーンが物証を一つずつ突き合わせる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フランス白粉の謎"
+    },
+    "sourceNote": "原題 The French Powder Mystery、1930年発表。国名シリーズ第2作。邦訳は東京創元社の中村有希訳(2012年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "siamese-twin",
+    "title": "シャム双子の謎",
+    "titleKana": "しゃむふたごのなぞ",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "nakamura-yuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "closed-circle"
+    ],
+    "seriesName": "国名シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1933,
+    "jpPublishedYear": 2025,
+    "originalTitle": "The Siamese Twin Mystery",
+    "status": "completed",
+    "synopsis": "山火事に追われたエラリー父子は、山頂の医師の館に避難する。火に囲まれて逃げ場のない館で当主が射殺され、被害者の手には引き裂かれたトランプが握られていた。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シャム双子の謎"
+    },
+    "sourceNote": "原題 The Siamese Twin Mystery、1933年発表。国名シリーズ第7作。邦訳は東京創元社の中村有希訳【新訳版】(2025年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ten-days-wonder",
+    "title": "十日間の不思議",
+    "titleKana": "とおかかんのふしぎ",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "echizen-toshiya"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "kazoku"
+    ],
+    "seriesName": "ライツヴィルもの",
+    "origin": "overseas",
+    "firstPublishedYear": 1948,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Ten Days' Wonder",
+    "status": "completed",
+    "synopsis": "記憶が飛ぶことに怯える青年が、エラリーに助けを求める。彼の家族が暮らすライツヴィルの屋敷を訪れたエラリーは、十日のあいだに起きる出来事に、ある規則が潜んでいることに気づく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十日間の不思議"
+    },
+    "sourceNote": "原題 Ten Days' Wonder、1948年発表。架空の町ライツヴィルを舞台にした作品の第3話。邦訳は早川書房の越前敏弥訳〔新訳版〕(2021年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

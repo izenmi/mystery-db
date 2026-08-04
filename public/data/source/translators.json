@@ -284,5 +284,69 @@
     "description": "小説家・翻訳者。チャンドラーやフィッツジェラルドなどアメリカ文学の翻訳を数多く手がけている。",
     "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takahashi-yutaka",
+    "name": "高橋豊",
+    "nameKana": "たかはしゆたか",
+    "description": "英米ミステリの翻訳者。クリスティー作品の邦訳を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mikawa-kiyoshi",
+    "name": "三川基好",
+    "nameKana": "みかわきよし",
+    "description": "英米文学の翻訳者。クリスティーやハードボイルド作品の邦訳を手がけた。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "masaki-yoshihiro",
+    "name": "真崎義博",
+    "nameKana": "まさきよしひろ",
+    "description": "英米文学の翻訳者。ミステリから一般文芸まで幅広く訳している。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ayakawa-azusa",
+    "name": "綾川梓",
+    "nameKana": "あやかわあずさ",
+    "description": "英米ミステリの翻訳者。クリスティー作品の邦訳を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tamura-yoshinobu",
+    "name": "田村義進",
+    "nameKana": "たむらよしのぶ",
+    "description": "英米ミステリの翻訳者。クリスティーの新訳版などを手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tamura-ryuichi",
+    "name": "田村隆一",
+    "nameKana": "たむらりゅういち",
+    "description": "詩人・翻訳者。クリスティーをはじめとする英米ミステリの邦訳を多く残した。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kajima-shozo",
+    "name": "加島祥造",
+    "nameKana": "かじましょうぞう",
+    "description": "詩人・英米文学者・翻訳者。クリスティーやフォークナーの邦訳を手がけた。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inui-shinichiro",
+    "name": "乾信一郎",
+    "nameKana": "いぬいしんいちろう",
+    "description": "小説家・翻訳者。クリスティー作品をはじめとする英米ミステリを訳した。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
