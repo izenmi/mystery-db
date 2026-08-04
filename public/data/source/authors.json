@@ -979,5 +979,16 @@
     },
     "sourceNote": "経歴・代表作はWikipedia日本語版および英語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shirodaira-kyo",
+    "name": "城平京",
+    "nameKana": "しろだいらきょう",
+    "description": "小説と漫画原作の双方を手がける作家。怪異や超常の設定を、論理を積み上げるミステリの型に落とし込む作風で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/城平京"
+    },
+    "sourceNote": "経歴・代表作はWikipedia日本語版で確認した。生年は公表されていないため記載していない。",
+    "updatedAt": "2026-08-04"
   }
 ]

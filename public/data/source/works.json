@@ -9654,5 +9654,563 @@
     },
     "sourceNote": "『小説すばる』2011年5月号〜2012年1月号連載、2012年7月に集英社より刊行。発表年は連載開始年の2011年を採った。2014年映画化。以上をWikipedia日本語版で確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kadan",
+    "title": "果断 隠蔽捜査2",
+    "titleKana": "かだんいんぺいそうさつー",
+    "authorIds": [
+      "konno-bin"
+    ],
+    "detectiveIds": [
+      "ryuzaki-shinya"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha",
+      "suspense"
+    ],
+    "seriesName": "隠蔽捜査シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "所轄署長に左遷された竜崎伸也の管内で、立てこもり事件が発生する。人質の安全と組織の面子が衝突するなか、彼は原則に従って即断を下し、その責任を一人で引き受ける。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2008,
+        "result": "第21回受賞"
+      },
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2008,
+        "result": "第61回受賞(長編および連作短編集部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/隠蔽捜査"
+    },
+    "sourceNote": "2007年、新潮社より刊行。隠蔽捜査シリーズ第2作。第21回山本周五郎賞・第61回日本推理作家協会賞を受賞。以上をWikipedia日本語版(シリーズ記事・著者記事の受賞歴)で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "soul-cage",
+    "title": "ソウルケイジ",
+    "titleKana": "そうるけいじ",
+    "authorIds": [
+      "honda-tetsuya"
+    ],
+    "detectiveIds": [
+      "himekawa-reiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "kazoku"
+    ],
+    "seriesName": "姫川玲子シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "多摩川の河川敷に停められたワゴン車から、切断された左手首だけが見つかる。持ち主とされる男は行方不明のままだった。姫川玲子は、被害者が育った家庭の事情に踏み込んでいく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソウルケイジ"
+    },
+    "sourceNote": "2007年3月、光文社より刊行(2009年10月光文社文庫)。姫川玲子シリーズ第2作。以上をWikipedia日本語版(作品記事・著者記事の著作一覧)で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "invisible-rain",
+    "title": "インビジブルレイン",
+    "titleKana": "いんびじぶるれいん",
+    "authorIds": [
+      "honda-tetsuya"
+    ],
+    "detectiveIds": [
+      "himekawa-reiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "noir",
+      "suspense"
+    ],
+    "seriesName": "姫川玲子シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "暴力団幹部の刺殺事件を追う姫川玲子は、組織犯罪対策課の刑事と行動を共にすることになる。捜査を進めるほど、警察と暴力団の境界が曖昧になっていく。シリーズ第4作。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インビジブルレイン"
+    },
+    "sourceNote": "2009年11月、光文社より刊行(2012年7月光文社文庫)。姫川玲子シリーズ第4作。2013年公開の映画『ストロベリーナイト』の原作。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kenji-no-honkai",
+    "title": "検事の本懐",
+    "titleKana": "けんじのほんかい",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "houtei",
+      "rensaku-tanpen",
+      "shakaiha",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "佐方貞人シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "「罪を認めた被告人にも、認めるだけの理由がある」。事件の背後にある事情を最後まで確かめようとする検事・佐方貞人を描く連作短編集。過去の弁護士時代の一件も明かされる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/検事の本懐"
+    },
+    "sourceNote": "2011年11月、宝島社より刊行(2012年宝島社文庫、2018年角川文庫)。第15回大藪春彦賞受賞(2013年)・第25回山本周五郎賞候補。大藪春彦賞は本DB未登録の賞のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "a-dewa-nai-kimi-to",
+    "title": "Aではない君と",
+    "titleKana": "えーではないきみと",
+    "authorIds": [
+      "yakumaru-gaku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "kazoku",
+      "houtei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "離婚して離れて暮らしていた息子が、殺人の容疑で逮捕される。父は「なぜ」を知るために動き出すが、少年審判の手続きは加害者家族に多くを教えない。加害者の側から少年犯罪を描く長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Aではない君と"
+    },
+    "sourceNote": "『週刊現代』2014年9月13日号〜2015年7月18日号連載、2015年9月16日に講談社より刊行。発表年は連載開始年の2014年を採った。第37回吉川英治文学新人賞受賞(2015年)は本DB未登録の賞のため未登録。2018年ドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bakudan",
+    "title": "爆弾",
+    "titleKana": "ばくだん",
+    "authorIds": [
+      "go-katsuhiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "酔って暴れた中年男が留置場で、都内で爆発が起きると予告する。言葉どおりに爆発が続き、警察は取調室でこの男と向き合うほかなくなる。取り調べだけで進行する長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/爆弾_(小説)"
+    },
+    "sourceNote": "『小説現代』2022年3月号掲載、同年4月20日に講談社より単行本刊行(2024年講談社文庫)。2025年映画化、2025年よりコミカライズ。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kataegiki",
+    "title": "傍聞き",
+    "titleKana": "かたえぎき",
+    "authorIds": [
+      "nagaoka-hiroki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "tanpenshu",
+      "kazoku",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "刑事、消防士、救急救命士。人の生死に関わる仕事に就く者たちを主人公にした短編四編を収める。表題作では、刑事の母と娘のあいだで交わされる会話の「聞かせ方」が鍵になる。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2008,
+        "result": "第61回受賞(短編部門、表題作「傍聞き」)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/傍聞き"
+    },
+    "sourceNote": "『小説推理』2007年〜2008年掲載の4編を、2008年10月8日に双葉社より単行本化(2011年双葉文庫)。表題作が第61回日本推理作家協会賞短編部門を受賞。発表年は掲載開始年の2007年を採った。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "alibi-kuzushi",
+    "title": "アリバイ崩し承ります",
+    "titleKana": "ありばいくずしうけたまわります",
+    "authorIds": [
+      "oyama-seiichiro"
+    ],
+    "detectiveIds": [
+      "tokeiya-tenshu"
+    ],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "meitantei",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "商店街の外れにある時計店では、時計の修理と並んで「アリバイ崩し」も請け負っている。捜査に行き詰まった刑事が話を持ち込むたび、若い女性店主が時間の齟齬を指摘してみせる連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2019,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アリバイ崩し承ります"
+    },
+    "sourceNote": "2018年、実業之日本社より刊行(2019年11月に同社より文庫版)。『本格ミステリ・ベスト10』2019年版第1位。2020年テレビ朝日系でドラマ化、同年漫画化。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shokuzai-no-sonata",
+    "title": "贖罪の奏鳴曲",
+    "titleKana": "しょくざいのそなた",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [
+      "mikoshiba-reiji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "houtei",
+      "suspense",
+      "noir",
+      "shakaiha"
+    ],
+    "seriesName": "御子柴礼司シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "高額な報酬で知られる弁護士・御子柴礼司には、公にできない過去があった。旧知の人物の死体を自ら運んだ夜から、彼は依頼人の弁護と自分自身の始末を並行して進めることになる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/贖罪の奏鳴曲"
+    },
+    "sourceNote": "2013年11月、講談社より刊行。御子柴礼司シリーズ第1作。刊行年・出版社は楽天ブックスの書誌情報で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "misshitsu-no-kagi",
+    "title": "密室の鍵貸します",
+    "titleKana": "みっしつのかぎかします",
+    "authorIds": [
+      "higashigawa-tokuya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "seishun",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "恋人を寝取られた大学生が、酔って気を失っている間に相手が殺される。第一容疑者にされた彼は、自ら犯人を探すはめになる。ユーモアと本格の骨格を併せ持つ著者のデビュー長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東川篤哉"
+    },
+    "sourceNote": "2002年4月、光文社〈カッパ・ノベルス〉より刊行(2006年2月光文社文庫)。Kappa-One登竜門で有栖川有栖の推薦を受けたデビュー作。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "miroku-no-tenohira",
+    "title": "弥勒の掌",
+    "titleKana": "みろくのてのひら",
+    "authorIds": [
+      "abiko-takemaru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "kazoku",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "妻を殺された高校教師と、妻が失踪した刑事。二人はそれぞれ、新興宗教団体の影に行き当たる。交互に語られる二つの捜索が、やがて一点で交わる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/我孫子武丸"
+    },
+    "sourceNote": "2005年4月、文藝春秋より刊行(2008年3月文春文庫)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。各種ランキングに入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ruiko-meikyu",
+    "title": "涙香迷宮",
+    "titleKana": "るいこうめいきゅう",
+    "authorIds": [
+      "takemoto-koji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "misshitsu",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "黒岩涙香が遺したとされる地下の隠し部屋から、いろは歌四十八首と暗号が見つかる。解読の依頼を受けた囲碁棋士・牧場智久が現地に赴くと、そこで殺人が起きる。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2017,
+        "result": "第17回受賞"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2017,
+        "result": "国内編第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹本健治"
+    },
+    "sourceNote": "2016年3月、講談社より刊行(2018年3月講談社文庫)。『このミステリーがすごい!』2017年版国内編第1位、第17回本格ミステリ大賞受賞。作品単独のWikipedia記事はないため著者記事の著作一覧・受賞歴で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gukoroku",
+    "title": "愚行録",
+    "titleKana": "ぐこうろく",
+    "authorIds": [
+      "nukui-tokuro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "iyamisu",
+      "shakaiha",
+      "kazoku",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "一家四人が殺害された事件から一年。週刊誌記者が、被害者夫婦を知る人々に話を聞いて回る。語られる思い出はどれも好意的でありながら、少しずつ他人への悪意が透けて見えてくる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/愚行録"
+    },
+    "sourceNote": "2006年3月22日、東京創元社より刊行。第135回直木賞の候補(候補は登録しない方針のため未登録)。2017年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "genocide",
+    "title": "ジェノサイド",
+    "titleKana": "じぇのさいど",
+    "authorIds": [
+      "takano-kazuaki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "tokushu-settei",
+      "shakaiha",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "傭兵たちがコンゴの奥地へ送り込まれる極秘の任務と、父を亡くした日本の大学院生が引き継いだ研究。二つの物語が並行して進み、人類そのものの行方に関わる一点で交差する。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2012,
+        "result": "第65回受賞(長編及び連作短編集部門)"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2012,
+        "result": "第1位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2011,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェノサイド_(小説)"
+    },
+    "sourceNote": "『野性時代』2010年4月号〜2011年4月号連載、2011年3月30日に角川書店より刊行。発表年は連載開始年の2010年を採った。第65回日本推理作家協会賞・第2回山田風太郎賞(本DB未登録のため未登録)受賞、『このミステリーがすごい!』2012年版1位、2011年『週刊文春ミステリーベスト10』1位。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyoko-suiri",
+    "title": "虚構推理",
+    "titleKana": "きょこうすいり",
+    "authorIds": [
+      "shirodaira-kyo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "youkai",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "怪異たちの知恵の神となった少女・岩永琴子と、不死の身体を得た青年。二人は、都市伝説として広まった怪異を鎮めるため、真実ではなく「誰もが納得する虚構の推理」を組み立てていく。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2012,
+        "result": "第12回受賞(小説部門)"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2012,
+        "result": "第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚構推理"
+    },
+    "sourceNote": "2011年、講談社より刊行。第12回本格ミステリ大賞(小説部門)受賞、『本格ミステリ・ベスト10』2012年版4位。2015年以降コミカライズ、のちアニメ化。累計500万部。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

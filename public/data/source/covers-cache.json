@@ -7,6 +7,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:06.508Z"
   },
+  "a-dewa-nai-kimi-to": {
+    "title": "Aではない君と",
+    "isbn": "9784062937146",
+    "matchedTitle": "Aではない君と",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7146/9784062937146_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:47.053Z"
+  },
   "abc-satsujin": {
     "title": "ABC殺人事件",
     "isbn": "9784151300110",
@@ -62,6 +70,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:32.558Z"
   },
+  "alibi-kuzushi": {
+    "title": "アリバイ崩し承ります",
+    "isbn": "9784408555485",
+    "matchedTitle": "アリバイ崩し承ります",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5485/9784408555485.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:52.163Z"
+  },
   "ankokukan": {
     "title": "暗黒館の殺人",
     "isbn": "9784062758550",
@@ -95,6 +111,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0212/9784101250212.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:24.490Z"
+  },
+  "bakudan": {
+    "title": "爆弾",
+    "isbn": "9784065273470",
+    "matchedTitle": "爆弾",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3470/9784065273470_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:49.349Z"
   },
   "baskerville": {
     "title": "バスカヴィル家の犬",
@@ -355,6 +379,15 @@
     "resolvedAt": "2026-08-04T04:04:12.406Z",
     "note": "書影は創元推理文庫版。タイトルの副題(Yの悲劇'88)が書誌側にないため自動取得では解決できなかった。"
   },
+  "genocide": {
+    "title": "ジェノサイド",
+    "isbn": "9784041172483",
+    "matchedTitle": "ジェノサイド　上　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2483/9784041172483_1_14.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:16:31.860Z",
+    "note": "書影は角川文庫の新装版(上巻)。自動取得では下巻が当たっていたため差し替えた。"
+  },
   "genwaku-no-shi": {
     "title": "幻惑の死と使途",
     "isbn": "9784062730112",
@@ -426,6 +459,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3217/9784488103217_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:40.048Z"
+  },
+  "gukoroku": {
+    "title": "愚行録",
+    "isbn": "9784488425036",
+    "matchedTitle": "愚行録",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5036/9784488425036_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:16:00.338Z"
   },
   "gusha-no-endroll": {
     "title": "愚者のエンドロール",
@@ -659,6 +700,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:21.052Z"
   },
+  "invisible-rain": {
+    "title": "インビジブルレイン",
+    "isbn": "9784334764333",
+    "matchedTitle": "インビジブルレイン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4333/9784334764333_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:44.727Z"
+  },
   "jami-no-shizuku": {
     "title": "邪魅の雫",
     "isbn": "9784062763714",
@@ -731,6 +780,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:16.807Z"
   },
+  "kadan": {
+    "title": "果断 隠蔽捜査2",
+    "isbn": null,
+    "matchedTitle": "果断ー隠蔽捜査2ー（新潮文庫）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2736/2000000182736.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T05:15:42.433Z"
+  },
   "kage-no-kisetsu": {
     "title": "陰の季節",
     "isbn": "9784167659011",
@@ -797,6 +854,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:36.348Z"
   },
+  "kataegiki": {
+    "title": "傍聞き",
+    "isbn": "9784575514537",
+    "matchedTitle": "傍聞き",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4537/9784575514537.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:51.002Z"
+  },
   "kayo-club": {
     "title": "火曜クラブ",
     "isbn": "9784151300547",
@@ -804,6 +869,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0547/9784151300547.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:01:40.324Z"
+  },
+  "kenji-no-honkai": {
+    "title": "検事の本懐",
+    "isbn": "9784041066591",
+    "matchedTitle": "検事の本懐",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6591/9784041066591_1_20.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:45.871Z",
+    "note": "登録は宝島社(単行本)だが書影は角川文庫版。作品は同一。"
   },
   "kiganjo": {
     "title": "奇岩城",
@@ -979,6 +1053,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2403/9784094062403.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:15.650Z"
+  },
+  "kyoko-suiri": {
+    "title": "虚構推理",
+    "isbn": "9784065145302",
+    "matchedTitle": "虚構推理",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5302/9784065145302.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:16:03.780Z"
   },
   "kyokotsu-no-yume": {
     "title": "狂骨の夢",
@@ -1186,6 +1268,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0270/9784062760270.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:42.391Z"
+  },
+  "miroku-no-tenohira": {
+    "title": "弥勒の掌",
+    "isbn": null,
+    "matchedTitle": "弥勒の掌",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6919/2000002486919.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T05:15:57.914Z"
+  },
+  "misshitsu-no-kagi": {
+    "title": "密室の鍵貸します",
+    "isbn": "9784334740207",
+    "matchedTitle": "密室の鍵貸します",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0207/9784334740207_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:54.466Z"
   },
   "misshitsu-shushuka-work": {
     "title": "密室蒐集家",
@@ -1516,6 +1614,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:38.750Z"
   },
+  "ruiko-meikyu": {
+    "title": "涙香迷宮",
+    "isbn": "9784062938723",
+    "matchedTitle": "涙香迷宮",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8723/9784062938723_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:59.191Z"
+  },
   "ryu-wa-nemuru": {
     "title": "龍は眠る",
     "isbn": "9784101369143",
@@ -1680,6 +1786,14 @@
     "resolvedAt": "2026-08-04T05:11:34.358Z",
     "note": "登録は東京創元社(単行本)だが書影は双葉文庫版。作品は同一。"
   },
+  "shokuzai-no-sonata": {
+    "title": "贖罪の奏鳴曲",
+    "isbn": "9784062776660",
+    "matchedTitle": "贖罪の奏鳴曲",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6660/9784062776660_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:53.326Z"
+  },
   "shuki-gentei": {
     "title": "秋期限定栗きんとん事件",
     "isbn": "9784488451059",
@@ -1778,6 +1892,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4407/9784061844407_1_55.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:34:47.975Z"
+  },
+  "soul-cage": {
+    "title": "ソウルケイジ",
+    "isbn": "9784334746681",
+    "matchedTitle": "ソウルケイジ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6681/9784334746681_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:15:43.581Z"
   },
   "strawberry-night": {
     "title": "ストロベリーナイト",

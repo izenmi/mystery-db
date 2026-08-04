@@ -682,5 +682,33 @@
     },
     "sourceNote": "人物像はWikipedia日本語版『ユダの窓』の記事で確認した。初登場は『黒死荘の殺人』だが本DBに未登録のため、登録済みの『ユダの窓』を初登場作としている。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tokeiya-tenshu",
+    "name": "時計屋の店主",
+    "nameKana": "とけいやのてんしゅ",
+    "creatorAuthorId": "oyama-seiichiro",
+    "occupation": "時計店の店主",
+    "description": "祖父から店を継いだ若い女性店主。持ち込まれた事件の話を聞くと、時間の使われ方の矛盾を見つけ出し、容疑者のアリバイを崩してみせる。",
+    "firstAppearanceWorkId": "alibi-kuzushi",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アリバイ崩し承ります"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mikoshiba-reiji",
+    "name": "御子柴礼司",
+    "nameKana": "みこしばれいじ",
+    "creatorAuthorId": "nakayama-shichiri",
+    "occupation": "弁護士",
+    "description": "法外な報酬を要求することで知られる弁護士。少年期に重い過去を背負っており、それを隠したまま依頼人の弁護に立つ。",
+    "firstAppearanceWorkId": "shokuzai-no-sonata",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/贖罪の奏鳴曲"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]
