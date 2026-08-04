@@ -289,5 +289,61 @@
     },
     "sourceNote": "人物像・後世への影響はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kamizu-kyosuke",
+    "name": "神津恭介",
+    "nameKana": "かみづきょうすけ",
+    "creatorAuthorId": "takagi-akimitsu",
+    "occupation": "東京大学の法医学者",
+    "description": "端整な容貌と明晰な頭脳を併せ持つ若き法医学者。友人の作家・松下研三を記録役として、戦後日本の各地で起きる難事件に取り組む。",
+    "firstAppearanceWorkId": "shisei-satsujin",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神津恭介"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "onitsura-keibu",
+    "name": "鬼貫警部",
+    "nameKana": "おにつらけいぶ",
+    "creatorAuthorId": "ayukawa-tetsuya",
+    "occupation": "警視庁の警部",
+    "description": "派手さのない実直な捜査で知られる警部。容疑者が用意したアリバイを、時刻表と現場の積み重ねで少しずつ崩していく。",
+    "firstAppearanceWorkId": "kuroi-trunk",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鮎川哲也"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事で確認した。初登場は『ペトロフ事件』だが本DBに未登録のため、登録済み作品のうち最も早い『黒いトランク』を初登場作としている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hoshikage-ryuzo",
+    "name": "星影龍三",
+    "nameKana": "ほしかげりゅうぞう",
+    "creatorAuthorId": "ayukawa-tetsuya",
+    "occupation": "素人探偵",
+    "description": "鮎川哲也がもう一つの探偵役として造形した人物。事件の細部から論理を組み立て、鮮やかな解決を示す名探偵型のキャラクター。",
+    "firstAppearanceWorkId": "rirasou",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鮎川哲也"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事で確認した。登録済み作品のうち最も早い『りら荘事件』を初登場作としている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kose-hakase",
+    "name": "巨勢博士",
+    "nameKana": "こせはかせ",
+    "creatorAuthorId": "sakaguchi-ango",
+    "occupation": "素人探偵",
+    "description": "坂口安吾が造形した探偵役。物証よりも人々の言動に残る「心理の足跡」をたどり、動機の側から犯人像を絞り込んでいく。",
+    "firstAppearanceWorkId": "furenzoku-satsujin",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/不連続殺人事件"
+    },
+    "sourceNote": "人物像・推理の方法はWikipedia日本語版『不連続殺人事件』の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -261,5 +261,125 @@
     },
     "sourceNote": "生年・経歴・推理小説史上の位置づけはWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "abiko-takemaru",
+    "name": "我孫子武丸",
+    "nameKana": "あびこたけまる",
+    "description": "新本格の世代に属する作家。コミカルな速水三兄妹シリーズから重い筆致の作品まで幅広く手がけ、ゲームのシナリオ執筆でも知られる。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/我孫子武丸"
+    },
+    "sourceNote": "生年・経歴・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "utano-shogo",
+    "name": "歌野晶午",
+    "nameKana": "うたのしょうご",
+    "description": "新本格ムーブメントのなかでデビューした作家。技巧を凝らした構成の作品を得意とする。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/歌野晶午"
+    },
+    "sourceNote": "生年・経歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamaguchi-masaya",
+    "name": "山口雅也",
+    "nameKana": "やまぐちまさや",
+    "description": "特殊な設定を本格ミステリの論理と噛み合わせる作風の作家。ミステリ評論・アンソロジー編纂でも活動している。",
+    "birthYear": 1954,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山口雅也"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takemoto-koji",
+    "name": "竹本健治",
+    "nameKana": "たけもとこうじ",
+    "description": "雑誌『幻影城』出身の作家。ミステリと幻想・ゲームの要素を織り交ぜた作品を書き続けている。",
+    "birthYear": 1954,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竹本健治"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nakai-hideo",
+    "name": "中井英夫",
+    "nameKana": "なかいひでお",
+    "description": "歌人・編集者としても活動した作家。『虚無への供物』は日本探偵小説史上の三大奇書の一つに数えられる。",
+    "birthYear": 1922,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中井英夫"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yumeno-kyusaku",
+    "name": "夢野久作",
+    "nameKana": "ゆめのきゅうさく",
+    "description": "幻想と怪奇に満ちた作品で知られる探偵小説家。代表作『ドグラ・マグラ』は三大奇書の一つ。",
+    "birthYear": 1889,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夢野久作"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "oguri-mushitaro",
+    "name": "小栗虫太郎",
+    "nameKana": "おぐりむしたろう",
+    "description": "衒学趣味を前面に出した作風の探偵小説家。『黒死館殺人事件』は三大奇書の一つに数えられる。",
+    "birthYear": 1901,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小栗虫太郎"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sakaguchi-ango",
+    "name": "坂口安吾",
+    "nameKana": "さかぐちあんご",
+    "description": "無頼派を代表する小説家・評論家。『不連続殺人事件』など推理小説も手がけた。",
+    "birthYear": 1906,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/坂口安吾"
+    },
+    "sourceNote": "生年・経歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takagi-akimitsu",
+    "name": "高木彬光",
+    "nameKana": "たかぎあきみつ",
+    "description": "戦後本格推理の代表的な書き手。名探偵・神津恭介を生み出し、法廷ものや社会派作品も手がけた。",
+    "birthYear": 1920,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高木彬光"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ayukawa-tetsuya",
+    "name": "鮎川哲也",
+    "nameKana": "あゆかわてつや",
+    "description": "アリバイ崩しを得意とした本格推理の作家。鬼貫警部・星影龍三の二つの探偵役を持ち、新人育成やアンソロジー編纂にも力を注いだ。",
+    "birthYear": 1919,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鮎川哲也"
+    },
+    "sourceNote": "生没年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

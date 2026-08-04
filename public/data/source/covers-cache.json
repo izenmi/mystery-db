@@ -64,6 +64,24 @@
     "resolvedAt": "2026-08-04T02:50:10.529Z",
     "note": "BOOK☆WALKERが解決したのは創元推理文庫『江戸川乱歩全集2 D坂の殺人事件』の書影で、works.jsonに登録している光文社(光文社文庫の江戸川乱歩全集)とは版が異なる。画像を目視し、漫画版(『漫画 D坂の殺人事件』泉こうてん)ではなく小説版であることを確認済み。"
   },
+  "dogura-magura": {
+    "title": "ドグラ・マグラ",
+    "isbn": "9784041366035",
+    "matchedTitle": "ドグラ・マグラ（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6035/9784041366035_1_28.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:20.574Z",
+    "note": "書影は角川文庫版(上巻)。"
+  },
+  "furenzoku-satsujin": {
+    "title": "不連続殺人事件",
+    "isbn": "9784041100196",
+    "matchedTitle": "不連続殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0196/9784041100196_1_14.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:22.923Z",
+    "note": "登録は新潮文庫だが書影は角川文庫版。作品は同一。"
+  },
   "gekko-game": {
     "title": "月光ゲーム Yの悲劇'88",
     "isbn": null,
@@ -102,6 +120,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:15.122Z"
   },
+  "hako-no-naka-no-shitsuraku": {
+    "title": "匣の中の失楽",
+    "isbn": "9784062932790",
+    "matchedTitle": "新装版　匣の中の失楽",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2790/9784062932790.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:18.220Z"
+  },
   "hanochi": {
     "title": "半落ち",
     "isbn": "9784062751940",
@@ -109,6 +135,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1940/9784062751940.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:02.771Z"
+  },
+  "hazakura": {
+    "title": "葉桜の季節に君を想うということ",
+    "isbn": "9784167733018",
+    "matchedTitle": "葉桜の季節に君を想うということ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3018/9784167733018.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:15.895Z"
   },
   "hiiro-no-kenkyu": {
     "title": "緋色の研究",
@@ -168,6 +202,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:40.057Z",
     "note": "書影は講談社文庫の改訂完全版。"
+  },
+  "ikeru-shikabane": {
+    "title": "生ける屍の死",
+    "isbn": "9784334776732",
+    "matchedTitle": "生ける屍の死（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6732/9784334776732.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:17.060Z",
+    "note": "登録は東京創元社(初刊)だが書影は光文社文庫版(上巻)。作品は同一。"
   },
   "incite-mill": {
     "title": "インシテミル",
@@ -250,6 +293,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:17.473Z"
   },
+  "kokushikan": {
+    "title": "黒死館殺人事件",
+    "isbn": "9784309409054",
+    "matchedTitle": "黒死館殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9054/9784309409054_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:21.745Z",
+    "note": "登録は角川文庫だが書影は河出書房新社版。作品は同一。"
+  },
   "kotou-no-oni": {
     "title": "孤島の鬼",
     "isbn": "9784488401016",
@@ -275,6 +327,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:12.771Z"
   },
+  "kuroi-trunk": {
+    "title": "黒いトランク",
+    "isbn": "9784488403034",
+    "matchedTitle": "黒いトランク",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4884/48840303.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:29.344Z"
+  },
   "kyojintei": {
     "title": "兇人邸の殺人",
     "isbn": "9784488028459",
@@ -290,6 +350,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9612/9784062649612.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:31.050Z"
+  },
+  "kyomu-e-no-kumotsu": {
+    "title": "虚無への供物",
+    "isbn": "9784062739955",
+    "matchedTitle": "新装版　虚無への供物（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9955/9784062739955_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:19.393Z",
+    "note": "書影は講談社の新装版(上巻)。"
   },
   "magan-no-hako": {
     "title": "魔眼の匣の殺人",
@@ -383,6 +452,14 @@
     "resolvedAt": "2026-08-04T03:51:37.139Z",
     "note": "登録したクリスティー文庫・黒原敏行訳〔新訳版〕に手動で合わせた(自動取得では英語学習用版が当たっていた)"
   },
+  "ningyo-wa-naze": {
+    "title": "人形はなぜ殺される",
+    "isbn": null,
+    "matchedTitle": "人形はなぜ殺される",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5707/2000000255707.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T03:57:27.548Z"
+  },
   "ningyokan": {
     "title": "人形館の殺人",
     "isbn": "9784062767163",
@@ -406,6 +483,14 @@
     "coverUrl": "https://c.bookwalker.jp/9793961/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:01.730Z"
+  },
+  "rirasou": {
+    "title": "りら荘事件",
+    "isbn": "9784488403140",
+    "matchedTitle": "りら荘事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4884/48840314.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:30.514Z"
   },
   "riyu": {
     "title": "理由",
@@ -432,6 +517,14 @@
     "resolvedAt": "2026-08-04T03:39:37.367Z",
     "note": "初刊は出版芸術社だが書影は新潮文庫版。登録した刊行元(新潮社)と一致。"
   },
+  "satsuriku-ni-itaru-yamai": {
+    "title": "殺戮にいたる病",
+    "isbn": "9784062937801",
+    "matchedTitle": "新装版　殺戮にいたる病",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7801/9784062937801_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:14.721Z"
+  },
   "senseijutsu": {
     "title": "占星術殺人事件",
     "isbn": null,
@@ -455,6 +548,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6288/9784062776288_1_17.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:01.596Z"
+  },
+  "shisei-satsujin": {
+    "title": "刺青殺人事件",
+    "isbn": "9784334766443",
+    "matchedTitle": "刺青殺人事件　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6443/9784334766443_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:57:24.080Z"
   },
   "sojo-satsujin": {
     "title": "僧正殺人事件",

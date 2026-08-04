@@ -2776,5 +2776,448 @@
     },
     "sourceNote": "原題 The Murders in the Rue Morgue、1841年発表。世界初の推理小説とされ、デュパンの初登場作。日本では1887年に饗庭篁村が翻案「ルーモルグの人殺し」として初紹介。本DBでは新潮文庫『モルグ街の殺人・黄金虫』(巽孝之訳、2009年)を採用した。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "satsuriku-ni-itaru-yamai",
+    "title": "殺戮にいたる病",
+    "titleKana": "さつりくにいたるやまい",
+    "authorIds": [
+      "abiko-takemaru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "iyamisu",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "東京で猟奇的な連続殺人が続いている。犯行を重ねる男、息子の様子に不安を覚える母、退職した元刑事。三者の視点が交互に語られ、それぞれの日常が少しずつ壊れていく。冒頭で犯人逮捕の場面を示したうえで、そこへ至る道筋を追う構成をとる。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1993,
+        "result": "第16位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/我孫子武丸"
+    },
+    "sourceNote": "1992年9月、講談社より刊行(1994年講談社ノベルス、1996年講談社文庫、2017年新装版)。『このミステリーがすごい!』1993年版で16位。作品単独のWikipedia記事はないため、著者記事の著作一覧と楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hazakura",
+    "title": "葉桜の季節に君を想うということ",
+    "titleKana": "はざくらのきせつにきみをおもうということ",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "shiritsu-tantei",
+      "suspense",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "「何でもやってやろう屋」を名乗る元探偵の成瀬将虎は、知人から悪徳商法の調査を頼まれる。同じころ、彼は駅で自殺しようとした女性を助け、心を寄せていく。人助けと調査が並行して進むなかで、物語は思いがけない像を結ぶ。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2004,
+        "result": "第57回受賞"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2004,
+        "result": "第4回受賞"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2004,
+        "result": "第1位"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2004,
+        "result": "第1位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2003,
+        "result": "第2位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/葉桜の季節に君を想うということ"
+    },
+    "sourceNote": "2003年3月30日、文藝春秋より刊行。第57回日本推理作家協会賞・第4回本格ミステリ大賞を受賞し、『このミステリーがすごい!』2004年版と『本格ミステリ・ベスト10』2004年版で1位、『週刊文春』推理小説ベスト10の2003年度で2位。以上をWikipedia日本語版で確認。作品の仕掛けに関わるタグはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ikeru-shikabane",
+    "title": "生ける屍の死",
+    "titleKana": "いけるしかばねのし",
+    "authorIds": [
+      "yamaguchi-masaya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "kaiki-gensou",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "死者が蘇りはじめたアメリカの田舎町。広大な霊園を経営する一族のもとで、当主の死を機に相続争いが起こり、殺人が発生する。自らも蘇った身となった青年グリンが、限られた猶予のなかで一族の事件を解き明かそうとする。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1989,
+        "result": "第8位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/生ける屍の死"
+    },
+    "sourceNote": "1989年10月、東京創元社の書き下ろしシリーズ『鮎川哲也と十三の謎』第11巻として刊行された著者のデビュー作。『このミステリーがすごい!』1989年で8位。同ランキングの10年間ベスト・オブ・ベスト(1998年)1位、30年間キング・オブ・キングス(2018年)1位に選ばれているが、年間ランキングではないため受賞歴には登録していない。2018年に全面改稿版が刊行。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hako-no-naka-no-shitsuraku",
+    "title": "匣の中の失楽",
+    "titleKana": "はこのなかのしつらく",
+    "authorIds": [
+      "takemoto-koji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "kaiki-gensou",
+      "taju-kaiketsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "ミステリ愛好家の若者たちが集うサークルで、仲間の一人が密室で死ぬ。奇数章と偶数章で語られる世界が互いを小説として含み合い、どちらが現実なのか判然としないまま推理だけが積み上がっていく。アンチミステリーの系譜に置かれる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/匣の中の失楽"
+    },
+    "sourceNote": "雑誌『幻影城』1977年4月〜1978年2月連載の著者処女作。単行本は1978年7月に幻影城から刊行、1983年講談社文庫、1991年講談社ノベルス、2002年双葉文庫を経て2015年に講談社より新装版。発表年は連載開始年の1977年を採り、刊行元は現行の講談社とした。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyomu-e-no-kumotsu",
+    "title": "虚無への供物",
+    "titleKana": "きょむへのくもつ",
+    "authorIds": [
+      "nakai-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "kazoku",
+      "taju-kaiketsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "氷沼家の兄弟が相次いで不可解な死を遂げる。事件に集まった推理好きの面々は、それぞれの立場から次の犠牲者と犯人を予想し、推理合戦を繰り広げる。洞爺丸事故の記憶を背景に、探偵小説を読むこと自体を問い返す長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚無への供物"
+    },
+    "sourceNote": "1962年に「塔晶夫」名義で第8回江戸川乱歩賞に応募(候補は登録しない方針のため未登録)、1964年2月29日に講談社より単行本刊行。『黒死館殺人事件』『ドグラ・マグラ』とともに三大奇書に数えられる。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dogura-magura",
+    "title": "ドグラ・マグラ",
+    "titleKana": "どぐらまぐら",
+    "authorIds": [
+      "yumeno-kyusaku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "shinrai-dekinai-katarite",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1935,
+    "status": "completed",
+    "synopsis": "記憶を失った若者が、九州帝国大学の精神病棟で目を覚ます。自分が何者かも思い出せないまま、彼は二人の学者から、ある事件と「胎児の夢」をめぐる論文を読まされる。作中に文書が入れ子状に積み重なり、読者は語り手とともに足場を失っていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドグラ・マグラ"
+    },
+    "sourceNote": "構想・執筆に10年以上をかけ、1935年1月に松柏館書店より刊行。『黒死館殺人事件』『虚無への供物』とともに三大奇書に数えられる。刊行元は現在流通する角川文庫版に合わせた。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kokushikan",
+    "title": "黒死館殺人事件",
+    "titleKana": "こくしかんさつじんじけん",
+    "authorIds": [
+      "oguri-mushitaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "kaiki-gensou",
+      "misshitsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1934,
+    "status": "completed",
+    "synopsis": "神奈川の丘に建つ、ケルト・ルネサンス式の異様な館。降矢木家の当主が没したのち、館に住む楽人たちが次々に奇怪な死を遂げる。刑事弁護士・法水麟太郎が乗り込み、神秘学から医学まであらゆる知識を繰り出しながら事件を論じる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒死館殺人事件"
+    },
+    "sourceNote": "『新青年』1934年4月号〜12月号連載。膨大な衒学趣味で知られ、三大奇書の一つに数えられる。刊行元は現在流通する角川文庫版に合わせた(河出文庫版などもある)。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "furenzoku-satsujin",
+    "title": "不連続殺人事件",
+    "titleKana": "ふれんぞくさつじんじけん",
+    "authorIds": [
+      "sakaguchi-ango"
+    ],
+    "detectiveIds": [
+      "kose-hakase"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "dokusha-e-no-chosen",
+      "sengo-nihon",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1947,
+    "status": "completed",
+    "synopsis": "詩人の招きで山奥の旧家に集まった作家や画家たち。癖の強い客が入り乱れる屋敷で、脈絡を欠いたように見える殺人が次々に起こる。作者は連載中、読者に犯人当ての挑戦を投げかけた。巨勢博士が人々の心理の足跡から動機をたどる。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1949,
+        "result": "第2回受賞(当時の名称は探偵作家クラブ賞)"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/不連続殺人事件"
+    },
+    "sourceNote": "『日本小説』1947年9月号〜1948年8月号連載。単行本は1948年12月にイヴニングスター社より刊行され、第2回探偵作家クラブ賞(現在の日本推理作家協会賞)を受賞。連載時には犯人当ての懸賞が付けられた。刊行元は現在流通する新潮文庫版に合わせた。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shisei-satsujin",
+    "title": "刺青殺人事件",
+    "titleKana": "しせいさつじんじけん",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [
+      "kamizu-kyosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "sengo-nihon",
+      "meitantei"
+    ],
+    "seriesName": "神津恭介シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1948,
+    "status": "completed",
+    "synopsis": "見事な刺青を彫られた女性が、施錠された浴室で胴体だけを残して消える。刺青の意匠をめぐる因縁と、彫師一族の歴史が背景に浮かぶなか、若き法医学者・神津恭介が事件に挑む。戦後間もない東京を舞台にした著者のデビュー作。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/刺青殺人事件"
+    },
+    "sourceNote": "1947年に江戸川乱歩の激賞を受け、翌1948年に岩谷書店より『宝石選書』第1篇として刊行された著者のデビュー長編。神津恭介の初登場作。刊行元は現在流通する光文社文庫の新装版に合わせた。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ningyo-wa-naze",
+    "title": "人形はなぜ殺される",
+    "titleKana": "にんぎょうはなぜころされる",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [
+      "kamizu-kyosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "mitate-satsujin",
+      "dokusha-e-no-chosen",
+      "meitantei"
+    ],
+    "seriesName": "神津恭介シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1955,
+    "status": "completed",
+    "synopsis": "奇術ショーの予行で使われる予定だった人形の首が、本番前に持ち去られる。やがて人形の首が置かれた場所で、生身の人間の首なし死体が見つかる。なぜ人形が先に殺されたのか。神津恭介が見立てとすり替えの意味を問う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人形はなぜ殺される"
+    },
+    "sourceNote": "1955年、講談社より書き下ろしで刊行。『刺青殺人事件』と並ぶ神津恭介シリーズの代表作で「読者への挑戦」が挿入されている。1956年に第9回探偵作家クラブ賞の候補となったが、候補は登録しない方針のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kuroi-trunk",
+    "title": "黒いトランク",
+    "titleKana": "くろいとらんく",
+    "authorIds": [
+      "ayukawa-tetsuya"
+    ],
+    "detectiveIds": [
+      "onitsura-keibu"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "keisatsu-shosetsu",
+      "sengo-nihon"
+    ],
+    "seriesName": "鬼貫警部シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "汐留駅に留め置かれた黒いトランクから、腐乱した死体が見つかる。差出人として記された男は既に死んでいた。九州と東京を結ぶ鉄道と船の時刻を突き合わせながら、鬼貫警部が容疑者の鉄壁のアリバイを一つずつ検証していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鮎川哲也"
+    },
+    "sourceNote": "1956年7月、講談社〈書下ろし長篇小説全集〉として刊行。クロフツ『樽』を思わせる趣向と評される。作品単独のWikipedia記事はないため、著者記事の著作一覧と楽天ブックスの書誌情報で確認した。刊行元は現在流通する創元推理文庫版に合わせた。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rirasou",
+    "title": "りら荘事件",
+    "titleKana": "りらそうじけん",
+    "authorIds": [
+      "ayukawa-tetsuya"
+    ],
+    "detectiveIds": [
+      "hoshikage-ryuzo"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "mitate-satsujin",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "埼玉の山中にある学生用の寮「りら荘」に、音楽学校の学生たちが休暇で集まる。恋愛と嫉妬が渦巻くなか、遺体のそばにトランプのスペードのカードが一枚ずつ残される連続殺人が始まる。星影龍三が現れ、散らばった手がかりを束ねる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鮎川哲也"
+    },
+    "sourceNote": "『探偵実話』1956年9月〜1957年12月連載、単行本は1958年8月に光風社より刊行。星影龍三ものの長編代表作。発表年は連載開始年の1956年を採った(著者記事の年譜には1959年発表との記述もある)。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認し、刊行元は現在流通する創元推理文庫版に合わせた。",
+    "updatedAt": "2026-08-04"
   }
 ]
