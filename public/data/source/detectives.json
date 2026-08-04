@@ -513,5 +513,33 @@
     },
     "sourceNote": "人物像はWikipedia日本語版の作者記事で確認した。初登場は『レイトン・コートの謎』だが本DBに未登録のため、登録済み作品のうち『毒入りチョコレート事件』を初登場作としている。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ellery-queen-detective",
+    "name": "エラリー・クイーン(探偵)",
+    "nameKana": "えらりーくいーん",
+    "creatorAuthorId": "ellery-queen",
+    "occupation": "推理作家・素人探偵",
+    "description": "作者と同じ名を持つ推理作家。ニューヨーク市警の警視である父リチャードの捜査に加わり、手がかりを論理的に組み立てて犯人を一人に絞り込む。",
+    "firstAppearanceWorkId": "greek-coffin",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エラリー・クイーン"
+    },
+    "sourceNote": "人物像はWikipedia日本語版で確認した。初登場は『ローマ帽子の謎』だが本DBに未登録のため、登録済み作品のうち最も早い『ギリシャ棺の謎』を初登場作としている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "camille-verhoeven",
+    "name": "カミーユ・ヴェルーヴェン",
+    "nameKana": "かみーゆゔぇるーゔぇん",
+    "creatorAuthorId": "pierre-lemaitre",
+    "occupation": "パリ警視庁の警部",
+    "description": "身長145センチの小柄な警部。画家だった母の影響で絵心があり、現場をスケッチしながら考える。過去に負った傷を抱えたまま捜査に向き合う。",
+    "firstAppearanceWorkId": "sono-onna-alex",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピエール・ルメートル"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事および作品紹介で確認した。シリーズ第1作は『悲しみのイレーヌ』だが本DBに未登録のため、登録済みの『その女アレックス』を初登場作としている。",
+    "updatedAt": "2026-08-04"
   }
 ]

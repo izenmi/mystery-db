@@ -728,5 +728,17 @@
     },
     "sourceNote": "経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "pierre-lemaitre",
+    "name": "ピエール・ルメートル",
+    "nameKana": "ぴえーるるめーとる",
+    "description": "フランスの作家・脚本家。カミーユ・ヴェルーヴェン警部を主人公とする犯罪小説で国際的に知られ、のちに一般文芸でも高い評価を得た。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピエール・ルメートル"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

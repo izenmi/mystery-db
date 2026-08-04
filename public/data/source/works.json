@@ -4633,5 +4633,163 @@
     },
     "sourceNote": "原題 The Tragedy of X、1932年発表。ドルリー・レーンを探偵役とする「悲劇」四部作の第1部で、4作はバーナビー・ロス名義で発表された。本DBでは東京創元社の中村有希訳【新訳版】(2019年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。既存の『Yの悲劇』は宇野利泰訳を採用しており、訳者が異なる点に留意。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "greek-coffin",
+    "title": "ギリシャ棺の謎",
+    "titleKana": "ぎりしゃひつぎのなぞ",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "nakamura-yuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "国名シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1932,
+    "jpPublishedYear": 2014,
+    "originalTitle": "The Greek Coffin Mystery",
+    "status": "completed",
+    "synopsis": "美術商の葬儀の後、遺言状が棺とともに消えたことがわかる。掘り返された棺からは、もう一人の死体が出てきた。大学を出たばかりのエラリー・クイーンが初めて手がけた事件として語られ、彼が推理を軽々しく口にしなくなった理由が示される。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ギリシア棺の謎"
+    },
+    "sourceNote": "原題 The Greek Coffin Mystery、1932年刊。国名シリーズ第4作だが作中の時系列では最初の事件にあたる。Wikipedia日本語版の記事名は『ギリシア棺の謎』だが、本DBでは採用した東京創元社・中村有希訳(2014年)の書名『ギリシャ棺の謎』を用いた。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "saiyaku-no-machi",
+    "title": "災厄の町",
+    "titleKana": "さいやくのまち",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "echizen-toshiya"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "kazoku"
+    ],
+    "seriesName": "ライツヴィルもの",
+    "origin": "overseas",
+    "firstPublishedYear": 1942,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Calamity Town",
+    "status": "completed",
+    "synopsis": "静かな田舎町ライツヴィルに、作家エラリー・クイーンが偽名で滞在する。借りた家は、結婚式の直前に花婿が失踪したという曰くつきの新居だった。三年後に戻ってきた花婿と、町の人々の視線。やがて祝いの席で毒殺事件が起こる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/災厄の町"
+    },
+    "sourceNote": "原題 Calamity Town、1942年発表。架空の町ライツヴィルを舞台にした最初の作品であることをWikipedia日本語版で確認。本DBでは早川書房の越前敏弥訳〔新訳版〕(2014年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sono-onna-alex",
+    "title": "その女アレックス",
+    "titleKana": "そのおんなあれっくす",
+    "authorIds": [
+      "pierre-lemaitre"
+    ],
+    "detectiveIds": [
+      "camille-verhoeven"
+    ],
+    "translatorIds": [
+      "tachibana-akemi"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "カミーユ・ヴェルーヴェン警部シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Alex",
+    "status": "completed",
+    "synopsis": "若い女性アレックスが街頭で拉致され、監禁される。誘拐事件として捜査を指揮することになったのは、過去の事件で妻を失った小柄な警部カミーユ。被害者の身元すらつかめないまま時間だけが過ぎ、事件の様相は途中で大きく姿を変える。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2015,
+        "result": "海外部門第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピエール・ルメートル"
+    },
+    "sourceNote": "原題 Alex、2011年にフランスで刊行(カミーユ・ヴェルーヴェン三部作の第2作)であることを英語版Wikipediaで確認。邦訳は文藝春秋の橘明美訳(2014年、文春文庫)で、訳者・出版社・刊行年は楽天ブックスの書誌情報による。『このミステリーがすごい!2015』海外部門1位。『週刊文春ミステリーベスト10』『ミステリが読みたい!』の海外部門でも1位、フランスのリーヴル・ド・ポッシュ読者大賞ミステリ部門(2012年)・英国のインターナショナル・ダガー賞(2013年)を受賞しているが、年次または賞が本DBで扱えないため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kotei-no-kagi",
+    "title": "皇帝のかぎ煙草入れ",
+    "titleKana": "こうていのかぎたばこいれ",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "komatsuki-masako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1942,
+    "jpPublishedYear": 2012,
+    "originalTitle": "The Emperor's Snuff-Box",
+    "status": "completed",
+    "synopsis": "フランスの海辺の町。離婚したばかりのイヴが婚約者との将来を思い描いていた矢先、向かいの家で美術収集家が撲殺される。事件の夜、窓越しに何かを見ていたイヴは、自分こそが最有力の容疑者になっていることに気づく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/皇帝のかぎ煙草入れ"
+    },
+    "sourceNote": "原題 The Emperor's Snuff-Box、1942年発表。ノン・シリーズの長編でカー中期の代表作とされることをWikipedia日本語版で確認。本DBでは東京創元社の駒月雅子訳(2012年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

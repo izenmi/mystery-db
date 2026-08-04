@@ -163,6 +163,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-04T04:02:49.105Z"
   },
+  "greek-coffin": {
+    "title": "ギリシャ棺の謎",
+    "isbn": "9784488104399",
+    "matchedTitle": "ギリシャ棺の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4399/9784488104399_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:19:34.423Z"
+  },
   "greene-ke": {
     "title": "グリーン家殺人事件",
     "isbn": "9784488103217",
@@ -444,6 +452,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9549/9784041049549_1_8.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:10.971Z"
+  },
+  "kotei-no-kagi": {
+    "title": "皇帝のかぎ煙草入れ",
+    "isbn": "9784488118327",
+    "matchedTitle": "皇帝のかぎ煙草入れ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8327/9784488118327.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:19:40.096Z"
   },
   "kotou-no-oni": {
     "title": "孤島の鬼",
@@ -759,6 +775,14 @@
     "resolvedAt": "2026-08-04T03:39:37.367Z",
     "note": "初刊は出版芸術社だが書影は新潮文庫版。登録した刊行元(新潮社)と一致。"
   },
+  "saiyaku-no-machi": {
+    "title": "災厄の町",
+    "isbn": null,
+    "matchedTitle": "災厄の町",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0871/2000006240871.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T04:19:37.811Z"
+  },
   "satsuriku-ni-itaru-yamai": {
     "title": "殺戮にいたる病",
     "isbn": "9784062937801",
@@ -814,6 +838,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3149/9784488103149.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:38.888Z"
+  },
+  "sono-onna-alex": {
+    "title": "その女アレックス",
+    "isbn": "9784167901967",
+    "matchedTitle": "その女アレックス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1967/9784167901967.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:19:38.953Z"
   },
   "soshite-daremo": {
     "title": "そして誰もいなくなった",
