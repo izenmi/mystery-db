@@ -2313,5 +2313,468 @@
     },
     "sourceNote": "1992年2月15日、東京創元社より刊行。学生アリスシリーズ長編第3作で作者の代表作とされる。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "baskerville",
+    "title": "バスカヴィル家の犬",
+    "titleKana": "ばすかゔぃるけのいぬ",
+    "authorIds": [
+      "conan-doyle"
+    ],
+    "detectiveIds": [
+      "sherlock-holmes"
+    ],
+    "translatorIds": [
+      "nobuhara-ken"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "kaiki-gensou",
+      "shiritsu-tantei"
+    ],
+    "seriesName": "シャーロック・ホームズシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1902,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Hound of the Baskervilles",
+    "status": "completed",
+    "synopsis": "デヴォンシャーの荒野に建つバスカヴィル館には、魔犬の呪いの伝説が伝わっていた。当主が屋敷の門前で急死し、遺体のそばには巨大な犬の足跡が残されていた。跡継ぎの身を案じる医師の依頼を受け、ワトスンが先に現地へ入り、霧の荒野で調査を進める。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バスカヴィル家の犬"
+    },
+    "sourceNote": "原題 The Hound of the Baskervilles、1902年刊。邦訳は既存の『緋色の研究』と同じ新潮文庫・延原謙訳を採用した。楽天ブックスの書誌で新潮社版(延原謙訳、2011年改版)を確認しており、jpPublishedYearにはこの改版年を入れている(初訳年は未確認)。訳題を『バスカービルの魔犬』とする邦訳もある。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "holmes-boken",
+    "title": "シャーロック・ホームズの冒険",
+    "titleKana": "しゃーろっくほーむずのぼうけん",
+    "authorIds": [
+      "conan-doyle"
+    ],
+    "detectiveIds": [
+      "sherlock-holmes"
+    ],
+    "translatorIds": [
+      "nobuhara-ken"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "tanpenshu",
+      "shiritsu-tantei"
+    ],
+    "seriesName": "シャーロック・ホームズシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1892,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Adventures of Sherlock Holmes",
+    "status": "completed",
+    "synopsis": "『ストランド・マガジン』に連載された短編をまとめた、ホームズ物の最初の短編集。依頼人がベイカー街を訪れ、奇妙な事情を語り、ホームズが観察と推理でそれを解きほぐす。「ボヘミアの醜聞」「赤毛組合」「まだらの紐」など、シリーズの代表作が並ぶ。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シャーロック・ホームズの冒険"
+    },
+    "sourceNote": "原題 The Adventures of Sherlock Holmes、1892年刊。『ストランド・マガジン』1891年7月号からの連載をまとめた最初の短編集であることをWikipedia日本語版で確認。邦訳は新潮文庫の延原謙訳を採用し、楽天ブックスの書誌で新潮社版(2011年)を確認した。jpPublishedYearはこの版の年で、初訳年は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yottsu-no-shomei",
+    "title": "四つの署名",
+    "titleKana": "よっつのしょめい",
+    "authorIds": [
+      "conan-doyle"
+    ],
+    "detectiveIds": [
+      "sherlock-holmes"
+    ],
+    "translatorIds": [
+      "nobuhara-ken"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "shiritsu-tantei",
+      "suspense"
+    ],
+    "seriesName": "シャーロック・ホームズシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1890,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Sign of Four",
+    "status": "completed",
+    "synopsis": "毎年匿名で真珠が届くという奇妙な話を携えて、若い女性メアリ・モースタンがベイカー街を訪れる。父の失踪と真珠の送り主を追ううち、インドの財宝と四人の男が交わした約束が浮かび上がる。テムズ川での追跡を含む、ホームズ物の長編第2作。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/四つの署名"
+    },
+    "sourceNote": "原題 The Sign of Four、1890年に『リピンコット・マガジン』へ発表。ホームズ物の第2作であることをWikipedia日本語版で確認。邦訳は新潮文庫の延原謙訳を採用し、楽天ブックスの書誌で新潮社版(2011年)を確認した。jpPublishedYearはこの版の年で、初訳年は未確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "abc-satsujin",
+    "title": "ABC殺人事件",
+    "titleKana": "えーびーしーさつじんじけん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "horiuchi-shizuko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "suspense"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1936,
+    "jpPublishedYear": 2003,
+    "originalTitle": "The ABC Murders",
+    "status": "completed",
+    "synopsis": "ポアロのもとに、犯行を予告する挑戦状が届く。指定された日、指定された町で、頭文字がAの女性が殺され、遺体のそばには鉄道案内書が置かれていた。次はB、その次はCと、アルファベット順に続く殺人。無関係に見える被害者たちを結ぶ線をポアロが探す。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ABC殺人事件"
+    },
+    "sourceNote": "原題 The ABC Murders、1936年1月にイギリスで刊行(アメリカでは1935年11月に雑誌掲載の簡略版)。ポアロ長編第11作。日本語初訳は1935年の伴大矩訳だが、本DBでは現在流通する早川書房クリスティー文庫の堀内静子訳(2003年)を採用した。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nile-ni-shisu",
+    "title": "ナイルに死す",
+    "titleKana": "ないるにしす",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "kurohara-toshiyuki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku",
+      "closed-circle"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1937,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Death on the Nile",
+    "status": "completed",
+    "synopsis": "莫大な財産を相続した美貌の令嬢が、親友の婚約者を奪って結婚し、新婚旅行でエジプトへ向かう。ナイル川を行く観光船には、捨てられた親友の姿もあった。休暇で乗り合わせたポアロの目の前で、逃げ場のない船上に殺人が起こる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ナイルに死す"
+    },
+    "sourceNote": "原題 Death on the Nile、1937年発表。クローズド・サークルものの代表作とされることをWikipedia日本語版で確認。邦訳は早川書房クリスティー文庫の黒原敏行訳〔新訳版〕(2020年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yokoku-satsujin",
+    "title": "予告殺人",
+    "titleKana": "よこくさつじん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "haneda-shizuko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku"
+    ],
+    "seriesName": "ミス・マープルシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1950,
+    "jpPublishedYear": 2020,
+    "originalTitle": "A Murder is Announced",
+    "status": "completed",
+    "synopsis": "村の新聞に「殺人をお知らせします」という奇妙な広告が載る。日時と場所として指定された家に、面白半分の村人たちが集まったその時刻、灯りが消え銃声が響く。悪ふざけでは済まなくなった事件を、居合わせた事情に通じた老婦人ミス・マープルが見つめる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/予告殺人"
+    },
+    "sourceNote": "原題 A Murder is Announced、1950年刊。マープル長編第4作でクラドック警部の初登場作であることをWikipedia日本語版で確認。邦訳は早川書房クリスティー文庫の羽田詩津子訳〔新訳版〕(2020年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sojo-satsujin",
+    "title": "僧正殺人事件",
+    "titleKana": "そうじょうさつじんじけん",
+    "authorIds": [
+      "van-dine"
+    ],
+    "detectiveIds": [
+      "philo-vance"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "mitate-satsujin",
+      "meitantei"
+    ],
+    "seriesName": "ファイロ・ヴァンスシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "jpPublishedYear": 2010,
+    "originalTitle": "The Bishop Murder Case",
+    "status": "completed",
+    "synopsis": "ニューヨークで、弓の矢に射抜かれた男の死体が見つかる。被害者の名はコック・ロビン。現場には「僧正」を名乗る者からの、マザー・グースの一節を書き写した紙が残されていた。童謡になぞらえた殺人が続くなか、ファイロ・ヴァンスが捜査に加わる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僧正殺人事件"
+    },
+    "sourceNote": "原題 The Bishop Murder Case、1929年発表。邦訳は武田晃訳(1950年)、井上勇訳(1956年・創元推理文庫1959年)などがあるが、本DBでは現在流通する東京創元社の日暮雅通訳(2010年)を採用した。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "greene-ke",
+    "title": "グリーン家殺人事件",
+    "titleKana": "ぐりーんけさつじんじけん",
+    "authorIds": [
+      "van-dine"
+    ],
+    "detectiveIds": [
+      "philo-vance"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "yakata-mono",
+      "kazoku",
+      "meitantei"
+    ],
+    "seriesName": "ファイロ・ヴァンスシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1928,
+    "jpPublishedYear": 2024,
+    "originalTitle": "The Greene Murder Case",
+    "status": "completed",
+    "synopsis": "ニューヨークの古い大邸宅に住むグリーン家で、姉妹が銃撃される。遺言により、家族は全員この屋敷に住み続けなければならない。互いを憎み合う一族が閉じ込められた館で犠牲者が増えていくなか、ファイロ・ヴァンスが家の内側に踏み込む。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グリーン家殺人事件"
+    },
+    "sourceNote": "原題 The Greene Murder Case、1928年発表。邦訳は平林初之輔訳(1929年)、延原謙訳(1950年)、井上勇訳(1956年)などがあるが、本DBでは東京創元社の日暮雅通訳【新訳版】(2024年)を採用した。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mittsu-no-hitsugi",
+    "title": "三つの棺",
+    "titleKana": "みっつのひつぎ",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "misshitsu",
+      "meitantei"
+    ],
+    "seriesName": "フェル博士シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1935,
+    "jpPublishedYear": 2014,
+    "originalTitle": "The Three Coffins",
+    "status": "completed",
+    "synopsis": "自分は生き埋めにされた兄弟に狙われていると語った教授が、その夜、施錠された書斎で撃たれる。訪ねてきた覆面の男は、目撃者の前から消え失せていた。さらに雪の路上でも不可能な状況の殺人が起こる。フェル博士が密室の型を整理しながら真相に迫る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三つの棺"
+    },
+    "sourceNote": "米題 The Three Coffins / 英題 The Hollow Man、1935年発表。第17章「密室の講義」で知られる。邦訳は村崎敏郎訳(1955年)、三田村裕訳(1976年・ハヤカワ・ミステリ文庫1979年)などがあるが、本DBでは早川書房の加賀山卓朗訳〔新訳版〕(2014年)を採用した。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kakei-hotei",
+    "title": "火刑法廷",
+    "titleKana": "かけいほうてい",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1937,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Burning Court",
+    "status": "completed",
+    "synopsis": "編集者スティーヴンスは、電車の中で読んだ原稿の挿絵に、十七世紀に処刑された毒殺者の写真を見つける。写っていたのは自分の妻に生き写しの女だった。時を同じくして隣家の老人が急死し、密閉された墓室から遺体が消える。合理と怪異の境で物語が進む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火刑法廷"
+    },
+    "sourceNote": "原題 The Burning Court、1937年発表。推理小説と怪奇小説を融合させた作品として評価されることをWikipedia日本語版で確認。邦訳は西田政治訳(1955年)、小倉多加志訳などがあるが、本DBでは早川書房の加賀山卓朗訳〔新訳版〕(2011年)を採用した。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kiiroi-heya",
+    "title": "黄色い部屋の謎",
+    "titleKana": "きいろいへやのなぞ",
+    "authorIds": [
+      "gaston-leroux"
+    ],
+    "detectiveIds": [
+      "rouletabille"
+    ],
+    "translatorIds": [
+      "hiraoka-atsushi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "misshitsu",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1907,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Le Mystère de la chambre jaune",
+    "status": "completed",
+    "synopsis": "城館の離れにある黄色い部屋で、令嬢が何者かに襲われる。扉も窓も内側から閉ざされ、駆けつけた人々は誰も外に出ていない。名高い刑事と、十八歳の新聞記者ルールタビーユが、それぞれのやり方で不可能状況に挑む。密室ものの古典として知られる一作。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黄色い部屋の秘密"
+    },
+    "sourceNote": "原題 Le Mystère de la chambre jaune、1907年フランスで発表。『黄色い部屋の秘密』とも訳される。本DBでは東京創元社の平岡敦訳【新訳版】(2020年)を採用し、書名もその版の『黄色い部屋の謎』に合わせた。訳者・出版社・刊行年は楽天ブックスの書誌情報およびWikipedia日本語版の邦訳一覧で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "morgue-gai",
+    "title": "モルグ街の殺人",
+    "titleKana": "もるぐがいのさつじん",
+    "authorIds": [
+      "edgar-allan-poe"
+    ],
+    "detectiveIds": [
+      "auguste-dupin"
+    ],
+    "translatorIds": [
+      "tatsumi-takayuki"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "misshitsu",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1841,
+    "jpPublishedYear": 2009,
+    "originalTitle": "The Murders in the Rue Morgue",
+    "status": "completed",
+    "synopsis": "パリのモルグ街で母娘が惨殺される。四階の部屋は内側から閉ざされ、目撃者たちが聞いた犯人の声は誰一人として同じ言語だと言わない。新聞記事を読んだデュパンは、警察が見落とした一点に着目し、常識の外にある答えを提示する。推理小説の出発点とされる短編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モルグ街の殺人"
+    },
+    "sourceNote": "原題 The Murders in the Rue Morgue、1841年発表。世界初の推理小説とされ、デュパンの初登場作。日本では1887年に饗庭篁村が翻案「ルーモルグの人殺し」として初紹介。本DBでは新潮文庫『モルグ街の殺人・黄金虫』(巽孝之訳、2009年)を採用した。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -52,5 +52,53 @@
     "externalLinks": {},
     "sourceNote": "訳者名は各作品のWikipedia記事の邦訳一覧で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "horiuchi-shizuko",
+    "name": "堀内静子",
+    "nameKana": "ほりうちしずこ",
+    "description": "英米ミステリの翻訳者。早川書房のクリスティー文庫で複数の作品を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報および早川書房クリスティー文庫の刊行情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kurohara-toshiyuki",
+    "name": "黒原敏行",
+    "nameKana": "くろはらとしゆき",
+    "description": "英米文学の翻訳者。クリスティーの新訳版をはじめ、文芸・ミステリを幅広く訳している。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kagayama-takuro",
+    "name": "加賀山卓朗",
+    "nameKana": "かがやまたくろう",
+    "description": "英米文学の翻訳者。ディクスン・カーの新訳版やディケンズなどを手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "higurashi-masamichi",
+    "name": "日暮雅通",
+    "nameKana": "ひぐらしまさみち",
+    "description": "英米ミステリの翻訳者。シャーロック・ホームズ全集やヴァン・ダインの新訳を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hiraoka-atsushi",
+    "name": "平岡敦",
+    "nameKana": "ひらおかあつし",
+    "description": "フランス文学の翻訳者。ルルーやルブランなどフランス・ミステリの新訳を多く手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報およびWikipedia日本語版の邦訳一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tatsumi-takayuki",
+    "name": "巽孝之",
+    "nameKana": "たつみたかゆき",
+    "description": "アメリカ文学研究者・翻訳者。ポーの新訳のほか、SF・アメリカ文学の評論でも知られる。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報およびWikipedia日本語版の邦訳一覧で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

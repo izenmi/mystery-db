@@ -222,5 +222,72 @@
     },
     "sourceNote": "人物像はWikipedia日本語版で確認した。初登場は『さよなら妖精』だが本DBに未登録のため初登場作は設定していない。真相に関わる記述は含めていない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "miss-marple",
+    "name": "ミス・マープル",
+    "nameKana": "みすまーぷる",
+    "creatorAuthorId": "agatha-christie",
+    "occupation": "セント・メアリ・ミード村の老婦人",
+    "description": "編み物と園芸を好む、イギリスの小さな村に住む老嬢。長年村の人間関係を観察してきた経験から、目の前の事件を過去に見聞きした似た出来事に重ねて考え、答えにたどり着く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミス・マープル"
+    },
+    "sourceNote": "人物像・登場作品数はWikipedia日本語版で確認した。初登場は『牧師館の殺人』だが本DBに未登録のため初登場作は設定していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "philo-vance",
+    "name": "ファイロ・ヴァンス",
+    "nameKana": "ふぁいろゔぁんす",
+    "creatorAuthorId": "van-dine",
+    "occupation": "美術愛好家の素人探偵",
+    "description": "美術と心理学に通じたニューヨークの富裕な独身男性。地方検事の友人に請われて事件に関わり、物証よりも犯人の心理と美意識から犯行者を絞り込んでいく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S・S・ヴァン・ダイン"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事および各作品記事で確認した。初登場は『ベンスン殺人事件』だが本DBに未登録のため初登場作は設定していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gideon-fell",
+    "name": "ギデオン・フェル",
+    "nameKana": "ぎでおんふぇる",
+    "creatorAuthorId": "john-dickson-carr",
+    "occupation": "辞書編纂者・歴史家",
+    "description": "大柄で酒好きな博士。カー作品を代表する探偵で、不可能状況の分類と論理を語る「密室講義」で知られる。フェル博士と呼ばれることが多い。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ギデオン・フェル"
+    },
+    "sourceNote": "人物像・代表的な登場作品はWikipedia日本語版で確認した。初登場は『魔女の隠れ家』だが本DBに未登録のため初登場作は設定していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rouletabille",
+    "name": "ジョゼフ・ルールタビーユ",
+    "nameKana": "じょぜふるーるたびーゆ",
+    "creatorAuthorId": "gaston-leroux",
+    "occupation": "新聞記者",
+    "description": "十八歳にして事件記者として頭角を現した青年。「理性の正しい端をつかむ」ことを信条に、警察の名手とも対立しながら独自の推理を組み立てる。",
+    "firstAppearanceWorkId": "kiiroi-heya",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黄色い部屋の秘密"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版『黄色い部屋の秘密』の記事で確認した。単独記事は存在しないため作品記事を出典としている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "auguste-dupin",
+    "name": "C・オーギュスト・デュパン",
+    "nameKana": "しーおーぎゅすとでゅぱん",
+    "creatorAuthorId": "edgar-allan-poe",
+    "occupation": "パリに住む没落貴族",
+    "description": "世界初の名探偵といわれる人物。パリ郊外の古い館で語り手と暮らし、昼は閉め切った部屋で読書と瞑想にふける。警視総監が持ち込む難事件を、新聞記事と観察だけで解いてみせる。",
+    "firstAppearanceWorkId": "morgue-gai",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/C・オーギュスト・デュパン"
+    },
+    "sourceNote": "人物像・後世への影響はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

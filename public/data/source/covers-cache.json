@@ -1,4 +1,13 @@
 {
+  "abc-satsujin": {
+    "title": "ABC殺人事件",
+    "isbn": "9784151300110",
+    "matchedTitle": "ABC殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0110/9784151300110.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:51:35.887Z",
+    "note": "登録したクリスティー文庫・堀内静子訳に手動で合わせた(自動取得では偕成社の児童向け版が当たっていた)"
+  },
   "ackroyd": {
     "title": "アクロイド殺し",
     "isbn": null,
@@ -20,6 +29,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4020/9784041304020_1_20.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:32.558Z"
+  },
+  "baskerville": {
+    "title": "バスカヴィル家の犬",
+    "isbn": "9784102134078",
+    "matchedTitle": "バスカヴィル家の犬改版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4078/9784102134078.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:51:32.115Z",
+    "note": "登録した新潮文庫・延原謙訳の改版に手動で合わせた(自動取得では光文社文庫版が当たっていた)"
   },
   "byakuyako": {
     "title": "白夜行",
@@ -59,6 +77,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4037/9784041304037_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:33.990Z"
+  },
+  "greene-ke": {
+    "title": "グリーン家殺人事件",
+    "isbn": "9784488103217",
+    "matchedTitle": "グリーン家殺人事件【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3217/9784488103217_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:50:40.048Z"
   },
   "gusha-no-endroll": {
     "title": "愚者のエンドロール",
@@ -108,6 +134,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2519/9784061842519_1_10.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:38.575Z"
+  },
+  "holmes-boken": {
+    "title": "シャーロック・ホームズの冒険",
+    "isbn": "9784102134016",
+    "matchedTitle": "シャーロック・ホームズの冒険",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4016/9784102134016.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:51:33.375Z",
+    "note": "登録した新潮文庫・延原謙訳に手動で合わせた(自動取得では英語対訳版が当たっていた)"
   },
   "honjin-satsujin": {
     "title": "本陣殺人事件",
@@ -183,6 +218,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:36.398Z"
   },
+  "kakei-hotei": {
+    "title": "火刑法廷",
+    "isbn": null,
+    "matchedTitle": "火刑法廷〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2160/2000002962160.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T03:50:47.061Z"
+  },
   "kasha": {
     "title": "火車",
     "isbn": "9784101369181",
@@ -190,6 +233,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9181/9784101369181.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:36.348Z"
+  },
+  "kiiroi-heya": {
+    "title": "黄色い部屋の謎",
+    "isbn": "9784488108045",
+    "matchedTitle": "黄色い部屋の謎【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8045/9784488108045.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:50:48.222Z"
   },
   "kokurojo": {
     "title": "黒牢城",
@@ -272,6 +323,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:42.367Z"
   },
+  "mittsu-no-hitsugi": {
+    "title": "三つの棺",
+    "isbn": null,
+    "matchedTitle": "三つの棺〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2216/2000002962216.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T03:50:43.580Z"
+  },
   "mohohan": {
     "title": "模倣犯",
     "isbn": "9784101369242",
@@ -280,6 +339,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:36.159Z",
     "note": "登録は小学館(単行本上下巻)だが書影は新潮文庫版(全5巻)の第1巻。作品は同一。"
+  },
+  "morgue-gai": {
+    "title": "モルグ街の殺人",
+    "isbn": "9784102028056",
+    "matchedTitle": "モルグ街の殺人・黄金虫",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8056/9784102028056.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:51:38.389Z",
+    "note": "登録した新潮文庫『モルグ街の殺人・黄金虫』(巽孝之訳)に手動で合わせた(自動取得では別出版社版が当たっていた)"
   },
   "moryo-no-hako": {
     "title": "魍魎の匣",
@@ -305,6 +373,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:38.857Z",
     "note": "登録は光文社(カッパ・ノベルス)だが書影は南雲堂の改訂完全版。作品は同一。"
+  },
+  "nile-ni-shisu": {
+    "title": "ナイルに死す",
+    "isbn": "9784151310157",
+    "matchedTitle": "ナイルに死す〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0157/9784151310157_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:51:37.139Z",
+    "note": "登録したクリスティー文庫・黒原敏行訳〔新訳版〕に手動で合わせた(自動取得では英語学習用版が当たっていた)"
   },
   "ningyokan": {
     "title": "人形館の殺人",
@@ -378,6 +455,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6288/9784062776288_1_17.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:01.596Z"
+  },
+  "sojo-satsujin": {
+    "title": "僧正殺人事件",
+    "isbn": "9784488103149",
+    "matchedTitle": "僧正殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3149/9784488103149.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:50:38.888Z"
   },
   "soshite-daremo": {
     "title": "そして誰もいなくなった",
@@ -475,6 +560,23 @@
     "coverUrl": "https://c.bookwalker.jp/6856673/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:40.256Z"
+  },
+  "yokoku-satsujin": {
+    "title": "予告殺人",
+    "isbn": "9784151310386",
+    "matchedTitle": "予告殺人〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0386/9784151310386.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:50:37.769Z"
+  },
+  "yottsu-no-shomei": {
+    "title": "四つの署名",
+    "isbn": "9784102134061",
+    "matchedTitle": "四つの署名",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4061/9784102134061.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:51:34.641Z",
+    "note": "登録した新潮文庫・延原謙訳に手動で合わせた(自動取得では児童向け全集版が当たっていた)"
   },
   "zero-no-shoten": {
     "title": "ゼロの焦点",

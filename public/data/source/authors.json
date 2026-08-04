@@ -213,5 +213,53 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "van-dine",
+    "name": "S・S・ヴァン・ダイン",
+    "nameKana": "えすえすゔぁんだいん",
+    "description": "アメリカの推理作家・美術評論家。本名ウィラード・ハンティントン・ライト。名探偵ファイロ・ヴァンスを生み出し、「探偵小説作法二十則」でも知られる。",
+    "birthYear": 1888,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S・S・ヴァン・ダイン"
+    },
+    "sourceNote": "生没年・本名・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "john-dickson-carr",
+    "name": "ジョン・ディクスン・カー",
+    "nameKana": "じょんでぃくすんかー",
+    "description": "アメリカ生まれの推理作家。不可能犯罪と怪奇趣味を組み合わせた作風で「密室の巨匠」と呼ばれる。カーター・ディクスン名義の作品群もある。",
+    "birthYear": 1906,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョン・ディクスン・カー"
+    },
+    "sourceNote": "生年・作風・別名義はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gaston-leroux",
+    "name": "ガストン・ルルー",
+    "nameKana": "がすとんるるー",
+    "description": "フランスの作家・新聞記者。新聞記者ルールタビーユを探偵役とする推理小説のほか、『オペラ座の怪人』でも広く知られる。",
+    "birthYear": 1868,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガストン・ルルー"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "edgar-allan-poe",
+    "name": "エドガー・アラン・ポー",
+    "nameKana": "えどがーあらんぽー",
+    "description": "アメリカの作家・詩人。「モルグ街の殺人」で名探偵デュパンを登場させ、推理小説というジャンルそのものの出発点を作った。怪奇小説の書き手としても名高い。",
+    "birthYear": 1809,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エドガー・アラン・ポー"
+    },
+    "sourceNote": "生年・経歴・推理小説史上の位置づけはWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
