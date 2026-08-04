@@ -21,34 +21,41 @@
     "matchedTitle": "Ｄ坂の殺人事件",
     "coverUrl": "https://c.bookwalker.jp/5307281/t_700x780.jpg",
     "source": "bookwalker",
-    "resolvedAt": "2026-08-04T02:50:10.529Z"
+    "resolvedAt": "2026-08-04T02:50:10.529Z",
+    "note": "BOOK☆WALKERが解決したのは創元推理文庫『江戸川乱歩全集2 D坂の殺人事件』の書影で、works.jsonに登録している光文社(光文社文庫の江戸川乱歩全集)とは版が異なる。画像を目視し、漫画版(『漫画 D坂の殺人事件』泉こうてん)ではなく小説版であることを確認済み。"
   },
   "gokumonto": {
     "title": "獄門島",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T02:50:01.863Z"
+    "isbn": "9784041304037",
+    "matchedTitle": "獄門島 金田一耕助ファイル　3",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4037/9784041304037_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T02:57:33.990Z"
   },
   "hiiro-no-kenkyu": {
     "title": "緋色の研究",
-    "isbn": null,
-    "matchedTitle": null,
-    "coverUrl": null,
-    "source": null,
-    "resolvedAt": "2026-08-04T02:55:00.000Z",
-    "note": "BOOK☆WALKERの自動マッチは『【大活字シリーズ】英語原文で味わうSherlock Holmes1』(英語原文版)を拾ってしまうため手動で除去した。新潮文庫(延原謙訳)の電子版はBOOK☆WALKERの検索では確認できず(『シャーロック・ホームズの冒険』『同 叡智』はヒットする)。楽天の認証情報を渡して--retry-missesで再挑戦する余地あり。"
+    "isbn": "9784488101183",
+    "matchedTitle": "緋色の研究 【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1183/9784488101183_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T02:57:43.399Z",
+    "note": "楽天ブックスが解決したのは創元推理文庫の【新訳版】(ISBN 9784488101183)で、works.jsonに登録している新潮文庫・延原謙訳とは版が異なる。作品としては同一なので書影として採用した。以前BOOK☆WALKERが拾っていた『【大活字シリーズ】英語原文で味わうSherlock Holmes1』(英語原文の学習用版)は誤マッチだったため除去済み。"
   },
   "honjin-satsujin": {
     "title": "本陣殺人事件",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T02:49:45.327Z"
+    "isbn": "9784041304082",
+    "matchedTitle": "本陣殺人事件 金田一耕助ファイル2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4082/9784041304082.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T02:57:32.813Z"
   },
   "hyoka": {
     "title": "氷菓",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T02:52:29.045Z"
+    "isbn": "9784044271015",
+    "matchedTitle": "氷菓",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1015/9784044271015.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T02:57:42.230Z"
   },
   "jukkakukan": {
     "title": "十角館の殺人",
@@ -60,15 +67,19 @@
   },
   "kasha": {
     "title": "火車",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T02:51:24.287Z"
+    "isbn": "9784101369181",
+    "matchedTitle": "火車",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9181/9784101369181.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T02:57:36.348Z"
   },
   "mangan": {
     "title": "満願",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T02:52:12.745Z"
+    "isbn": "9784101287843",
+    "matchedTitle": "満願",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7843/9784101287843.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T02:57:39.916Z"
   },
   "medium": {
     "title": "medium 霊媒探偵城塚翡翠",
@@ -96,9 +107,11 @@
   },
   "rokuyon": {
     "title": "64",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T02:51:56.743Z"
+    "isbn": "9784167902926",
+    "matchedTitle": "64（ロクヨン） 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2926/9784167902926.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T02:57:38.750Z"
   },
   "senseijutsu": {
     "title": "占星術殺人事件",
@@ -166,9 +179,12 @@
   },
   "y-no-higeki": {
     "title": "Yの悲劇",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T02:53:36.196Z"
+    "isbn": "9784042507161",
+    "matchedTitle": "Yの悲劇",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7161/9784042507161.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T02:57:44.558Z",
+    "note": "楽天ブックスが解決したのは角川文庫版(ISBN 9784042507161)で、works.jsonに登録しているハヤカワ・ミステリ文庫の宇野利泰訳とは版が異なる。作品としては同一なので書影として採用した。"
   },
   "yogisha-x": {
     "title": "容疑者Xの献身",
