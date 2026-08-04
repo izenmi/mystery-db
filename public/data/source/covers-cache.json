@@ -30,6 +30,24 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:32.558Z"
   },
+  "ankokukan": {
+    "title": "暗黒館の殺人",
+    "isbn": "9784062758550",
+    "matchedTitle": "暗黒館の殺人（一）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8550/9784062758550.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:04.401Z",
+    "note": "書影は講談社文庫版(全4巻)の第1巻。"
+  },
+  "another": {
+    "title": "Another",
+    "isbn": "9784041000014",
+    "matchedTitle": "Another（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0014/9784041000014_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:54.718Z",
+    "note": "書影は角川文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
   "baskerville": {
     "title": "バスカヴィル家の犬",
     "isbn": "9784102134078",
@@ -38,6 +56,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:51:32.115Z",
     "note": "登録した新潮文庫・延原謙訳の改版に手動で合わせた(自動取得では光文社文庫版が当たっていた)"
+  },
+  "bikkurikan": {
+    "title": "びっくり館の殺人",
+    "isbn": "9784062767170",
+    "matchedTitle": "びっくり館の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7170/9784062767170_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:05.573Z"
   },
   "bone-collector": {
     "title": "ボーン・コレクター",
@@ -131,6 +157,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:16:59.910Z"
   },
+  "fuin-saido": {
+    "title": "封印再度",
+    "isbn": "9784062647991",
+    "matchedTitle": "封印再度",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7991/9784062647991.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:30:56.157Z"
+  },
   "furenzoku-satsujin": {
     "title": "不連続殺人事件",
     "isbn": "9784041100196",
@@ -148,6 +182,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:04:12.406Z",
     "note": "書影は創元推理文庫版。タイトルの副題(Yの悲劇'88)が書誌側にないため自動取得では解決できなかった。"
+  },
+  "genwaku-no-shi": {
+    "title": "幻惑の死と使途",
+    "isbn": "9784062730112",
+    "matchedTitle": "幻惑の死と使途",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0112/9784062730112.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:30:57.326Z"
   },
   "gokumonto": {
     "title": "獄門島",
@@ -304,6 +346,14 @@
     "resolvedAt": "2026-08-04T03:57:17.060Z",
     "note": "登録は東京創元社(初刊)だが書影は光文社文庫版(上巻)。作品は同一。"
   },
+  "ima-wa-mou-nai": {
+    "title": "今はもうない",
+    "isbn": "9784062730976",
+    "matchedTitle": "今はもうない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0976/9784062730976.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:30:59.695Z"
+  },
   "incite-mill": {
     "title": "インシテミル",
     "isbn": "9784167773700",
@@ -344,6 +394,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7328/9784065237328_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:21.052Z"
+  },
+  "jorogumo": {
+    "title": "絡新婦の理",
+    "isbn": "9784065319192",
+    "matchedTitle": "絡新婦の理",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9192/9784065319192_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:10.303Z"
   },
   "jukkakukan": {
     "title": "十角館の殺人",
@@ -419,6 +477,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8045/9784488108045.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:48.222Z"
+  },
+  "kimenkan": {
+    "title": "奇面館の殺人",
+    "isbn": "9784062930833",
+    "matchedTitle": "奇面館の殺人（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0833/9784062930833_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:33.858Z",
+    "note": "書影は講談社文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
   "kokuhaku": {
     "title": "告白",
@@ -501,6 +568,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4884/48840303.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:29.344Z"
+  },
+  "kuronekokan": {
+    "title": "黒猫館の殺人",
+    "isbn": "9784062777438",
+    "matchedTitle": "黒猫館の殺人〈新装改訂版〉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7438/9784062777438_1_15.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:03.238Z"
   },
   "kyojintei": {
     "title": "兇人邸の殺人",
@@ -692,6 +767,14 @@
     "resolvedAt": "2026-08-04T03:34:38.857Z",
     "note": "登録は光文社(カッパ・ノベルス)だが書影は南雲堂の改訂完全版。作品は同一。"
   },
+  "natsu-no-replica": {
+    "title": "夏のレプリカ",
+    "isbn": "9784062730129",
+    "matchedTitle": "夏のレプリカ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0129/9784062730129.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:30:58.487Z"
+  },
   "nile-ni-shisu": {
     "title": "ナイルに死す",
     "isbn": "9784151310157",
@@ -716,6 +799,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7163/9784062767163_1_21.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:43.534Z"
+  },
+  "nuribotoke-shitaku": {
+    "title": "塗仏の宴 宴の支度",
+    "isbn": "9784062738385",
+    "matchedTitle": "文庫版　塗仏の宴　宴の支度",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8385/9784062738385.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:11.474Z"
   },
   "o-to-circus": {
     "title": "王とサーカス",
@@ -831,6 +922,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:24.080Z"
   },
+  "shiteki-shiteki-jack": {
+    "title": "詩的私的ジャック",
+    "isbn": "9784062647069",
+    "matchedTitle": "詩的私的ジャック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7069/9784062647069_1_15.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:30:54.988Z"
+  },
   "sojo-satsujin": {
     "title": "僧正殺人事件",
     "isbn": "9784488103149",
@@ -886,6 +985,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0324/9784062760324_1_21.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:41.207Z"
+  },
+  "suki-ni-shite-mokei": {
+    "title": "数奇にして模型",
+    "isbn": "9784062731942",
+    "matchedTitle": "数奇にして模型",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1942/9784062731942.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:00.865Z"
   },
   "suna-no-utsuwa": {
     "title": "砂の器",
@@ -951,6 +1058,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:17:02.247Z"
   },
+  "tsumetai-misshitsu": {
+    "title": "冷たい密室と博士たち",
+    "isbn": "9784062645607",
+    "matchedTitle": "冷たい密室と博士たち",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5607/9784062645607.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:30:52.646Z"
+  },
   "ubume-no-natsu": {
     "title": "姑獲鳥の夏",
     "isbn": null,
@@ -958,6 +1073,14 @@
     "coverUrl": "https://c.bookwalker.jp/4060243/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:07.940Z"
+  },
+  "warawanai-sugakusha": {
+    "title": "笑わない数学者",
+    "isbn": "9784062646147",
+    "matchedTitle": "笑わない数学者　MATHEMATICAL　GOODBYE",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6147/9784062646147_1_15.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:30:53.818Z"
   },
   "x-no-higeki": {
     "title": "Xの悲劇",
@@ -1009,6 +1132,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:51:34.641Z",
     "note": "登録した新潮文庫・延原謙訳に手動で合わせた(自動取得では児童向け全集版が当たっていた)"
+  },
+  "yugen-to-bisho": {
+    "title": "有限と微小のパン",
+    "isbn": "9784062732949",
+    "matchedTitle": "有限と微小のパン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2949/9784062732949.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:31:02.061Z"
   },
   "zero-no-shoten": {
     "title": "ゼロの焦点",

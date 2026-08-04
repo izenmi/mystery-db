@@ -4791,5 +4791,560 @@
     },
     "sourceNote": "原題 The Emperor's Snuff-Box、1942年発表。ノン・シリーズの長編でカー中期の代表作とされることをWikipedia日本語版で確認。本DBでは東京創元社の駒月雅子訳(2012年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tsumetai-misshitsu",
+    "title": "冷たい密室と博士たち",
+    "titleKana": "つめたいみっしつとはかせたち",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "gakuen",
+      "meitantei"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "低温度実験室で、施錠された部屋の中から二人の研究者の死体が見つかる。零下の密室に入れた者はいないはずだった。実験に立ち会っていた犀川准教授と学生の西之園萌絵が、装置と手順を一つずつ検証していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1996年7月、講談社ノベルスより刊行(1999年3月講談社文庫)。S&Mシリーズ第2作。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "warawanai-sugakusha",
+    "title": "笑わない数学者",
+    "titleKana": "わらわないすうがくしゃ",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "meitantei",
+      "gakuen"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "隠遁した数学者が住む巨大な三ツ星館。パーティの夜、庭に据えられたオリオン像が一晩で消え、また戻る。同じ夜、館では死体が発見される。老数学者が出す問題と現実の謎が重なり合う、シリーズ第3作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1996年9月、講談社ノベルスより刊行(1999年7月講談社文庫)。S&Mシリーズ第3作。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shiteki-shiteki-jack",
+    "title": "詩的私的ジャック",
+    "titleKana": "してきしてきじゃっく",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "N大学の構内で、女子学生が奇妙な姿勢で殺される事件が続く。現場には音楽に関わる痕跡が残されていた。学園祭を控えた騒がしいキャンパスで、犀川と萌絵は連続する事件の規則性を探る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1997年1月、講談社ノベルスより刊行(1999年11月講談社文庫)。S&Mシリーズ第4作。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fuin-saido",
+    "title": "封印再度",
+    "titleKana": "ふういんさいど",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei",
+      "kazoku"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "旧家に伝わる、決して開かない壺と、その中に入っているはずの鍵。両者の関係が謎とされてきた家で当主が死亡し、現場は密室だった。家に伝わる問答と事件を、犀川と萌絵が同時に解いていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1997年4月、講談社ノベルスより刊行(2000年3月講談社文庫)。S&Mシリーズ第5作。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "genwaku-no-shi",
+    "title": "幻惑の死と使途",
+    "titleKana": "げんわくのしとしと",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "脱出マジックの最中に有名奇術師が死亡する。さらに搬送先から遺体が消え、通夜の席にも異変が起きる。奇術の仕掛けと事件の仕掛けが二重写しになるなか、犀川と萌絵が舞台裏をたどる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1997年10月、講談社ノベルスより刊行(2000年11月講談社文庫)。S&Mシリーズ第6作。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "natsu-no-replica",
+    "title": "夏のレプリカ",
+    "titleKana": "なつのれぷりか",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kazoku",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "萌絵の友人・簑沢杜萌の実家で、誘拐事件が起きる。同じ夏の出来事を扱う『幻惑の死と使途』と対になる一作で、屋敷に閉じた事件が別の視点から並行して語られる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1998年1月、講談社ノベルスより刊行(2000年11月講談社文庫)。S&Mシリーズ第7作で、前作『幻惑の死と使途』と同時期を描く対の作品。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ima-wa-mou-nai",
+    "title": "今はもうない",
+    "titleKana": "いまはもうない",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "closed-circle",
+      "jojutsu-trick"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "台風で孤立した山中の別荘。密室で当主の姪が死体となって発見される。外部から人が入れる状況ではなく、居合わせた者が疑われていく。シリーズのなかでも構成に工夫を凝らした一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1998年4月、講談社ノベルスより刊行(2001年3月講談社文庫)。S&Mシリーズ第8作。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。作品の仕掛けに関わるタグはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "suki-ni-shite-mokei",
+    "title": "数奇にして模型",
+    "titleKana": "すうきにしてもけい",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "gakuen",
+      "meitantei"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "模型を展示する同人イベントの会場で、密室状態の部屋から首のない死体が見つかる。同じ日、大学でも別の事件が起きていた。二つの現場を行き来しながら、犀川と萌絵が事実を並べ直す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1998年7月、講談社ノベルスより刊行(2001年7月講談社文庫)。S&Mシリーズ第9作。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yugen-to-bisho",
+    "title": "有限と微小のパン",
+    "titleKana": "ゆうげんとびしょうのぱん",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "meitantei",
+      "closed-circle"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "巨大企業が運営するテーマパークに招かれた犀川と萌絵。仮想現実の技術を売りにした施設で、現実と映像の区別がつかない状況のまま人が消え、死体が現れる。シリーズの最終作にあたる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S%26Mシリーズ"
+    },
+    "sourceNote": "1998年10月、講談社ノベルスより刊行(2001年11月講談社文庫、解説は島田荘司)。S&Mシリーズ第10作で完結編。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kuronekokan",
+    "title": "黒猫館の殺人",
+    "titleKana": "くろねこかんのさつじん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [
+      "shimada-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono",
+      "jojutsu-trick"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "火事で記憶を失った老人が、自分の書いた手記を携えて現れる。そこには北海道の山中に建つ黒猫館での殺人が記されていた。手記の内容を確かめるため、島田潔たちは現地へ向かう。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒猫館の殺人"
+    },
+    "sourceNote": "1992年4月、講談社ノベルスより刊行(1996年6月講談社文庫)。館シリーズ第6作。以上をWikipedia日本語版(著者記事の著作一覧)で確認。作品の仕掛けに関わるタグはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ankokukan",
+    "title": "暗黒館の殺人",
+    "titleKana": "あんこくかんのさつじん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono",
+      "kaiki-gensou",
+      "kazoku"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "熊本の湖に浮かぶ島に建つ、黒一色の館。招かれた学生の中村青司をめぐる因縁と、館に住む浦登家の異様な習わしが少しずつ姿を現す。総原稿二千五百枚に及ぶシリーズ最長の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/暗黒館の殺人"
+    },
+    "sourceNote": "2004年9月、講談社ノベルスより上下巻で刊行(2007年講談社文庫全4巻)。館シリーズ第7作でシリーズ最長。第5回本格ミステリ大賞(小説部門)の候補作(候補は登録しない方針のため未登録)。各種ランキング上位に入っているが著者記事の記載ではランキング名との対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bikkurikan",
+    "title": "びっくり館の殺人",
+    "titleKana": "びっくりかんのさつじん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono",
+      "seishun"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "町外れに建つ「びっくり館」に住む少年と、腹話術人形。子どもたちだけの秘密の集まりが続いたある日、館の中で事件が起きる。少年時代の記憶として語られる、シリーズ第8作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/びっくり館の殺人"
+    },
+    "sourceNote": "2006年3月、講談社のミステリーランドの1冊として刊行(2008年11月講談社ノベルス版)。館シリーズ第8作。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kimenkan",
+    "title": "奇面館の殺人",
+    "titleKana": "きめんかんのさつじん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [
+      "shimada-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono",
+      "closed-circle"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "雪に閉ざされた奇面館に集められた客たちは、館の主の趣向で顔を仮面で覆われ、素顔を隠したまま過ごすことになる。やがて仮面の下の顔を奪われた死体が見つかる。シリーズ第9作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/奇面館の殺人"
+    },
+    "sourceNote": "2012年1月、講談社ノベルスより刊行(2015年4月講談社文庫上下巻)。館シリーズ第9作。以上をWikipedia日本語版(著者記事の著作一覧)で確認。各種ランキングに入っているがランキング名との対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "another",
+    "title": "Another",
+    "titleKana": "あなざー",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "gakuen",
+      "seishun",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "転校してきた榊原恒一は、クラスの誰もが見えていないかのように振る舞う少女・見崎鳴に出会う。二十六年前からこの学級に続く「現象」の話を知ったとき、生徒とその身内が次々に死んでいく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Another"
+    },
+    "sourceNote": "2009年10月、角川書店より刊行(2011年角川文庫上下巻)。第10回本格ミステリ大賞(小説部門)および第1回山田風太郎賞の候補作(候補は登録しない方針のため未登録)。2012年にテレビアニメ化・映画化。以上をWikipedia日本語版(著者記事)で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jorogumo",
+    "title": "絡新婦の理",
+    "titleKana": "じょろうぐものことわり",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "youkai",
+      "meitantei",
+      "gakuen",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "目潰し魔と連続絞殺事件、そして女学校を舞台にした不穏な噂。ばらばらに見える出来事が、蜘蛛の巣のように一つの中心へ手繰り寄せられていく。中禅寺秋彦が巣の主に相対するシリーズ第5作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/絡新婦の理"
+    },
+    "sourceNote": "1996年11月、講談社ノベルスより刊行。百鬼夜行シリーズ第5作。各種ミステリランキングで上位に入っているが著者記事の記載ではランキング名と年次の対応を確定できなかったため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nuribotoke-shitaku",
+    "title": "塗仏の宴 宴の支度",
+    "titleKana": "ぬりぼとけのうたげうたげのしたく",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "youkai",
+      "kaiki-gensou",
+      "meitantei"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "存在しないはずの村、消えた記憶、繰り返される怪異。関口や榎木津らがそれぞれ別の依頼を受けて動くうち、六つの話がゆっくりと寄り集まっていく。二部構成の前半にあたる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/塗仏の宴"
+    },
+    "sourceNote": "1998年3月30日、講談社ノベルスより刊行。『塗仏の宴 宴の始末』(1998年9月)と対をなす二部構成の前半。百鬼夜行シリーズ。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
   }
 ]
