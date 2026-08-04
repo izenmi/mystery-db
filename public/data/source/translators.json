@@ -252,5 +252,37 @@
     "description": "英米ミステリの翻訳者。古典推理小説の新訳を手がけている。",
     "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamada-yoshiaki",
+    "name": "山田美明",
+    "nameKana": "やまだよしあき",
+    "description": "翻訳者。「ミレニアム」第2作を共訳で手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nakatani-yukiko",
+    "name": "中谷友紀子",
+    "nameKana": "なかたにゆきこ",
+    "description": "英米文学の翻訳者。ギリアン・フリンの作品などを手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "taguchi-toshiki",
+    "name": "田口俊樹",
+    "nameKana": "たぐちとしき",
+    "description": "英米ミステリの翻訳者。ハードボイルドを中心に多くの作品を訳し、新訳も手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "murakami-haruki",
+    "name": "村上春樹",
+    "nameKana": "むらかみはるき",
+    "description": "小説家・翻訳者。チャンドラーやフィッツジェラルドなどアメリカ文学の翻訳を数多く手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

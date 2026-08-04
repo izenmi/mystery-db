@@ -139,6 +139,14 @@
     "resolvedAt": "2026-08-04T04:56:50.236Z",
     "note": "書影は講談社文庫の新装版(上巻)。"
   },
+  "chi-no-shukaku": {
+    "title": "血の収穫",
+    "isbn": "9784488130060",
+    "matchedTitle": "血の収穫【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0060/9784488130060.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:44.864Z"
+  },
   "climbers-high": {
     "title": "クライマーズ・ハイ",
     "isbn": "9784167659035",
@@ -338,6 +346,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:57.326Z"
   },
+  "glass-key": {
+    "title": "ガラスの鍵",
+    "isbn": "9784334752101",
+    "matchedTitle": "ガラスの鍵",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2101/9784334752101.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:46.032Z",
+    "note": "書影は光文社古典新訳文庫版。"
+  },
   "gohiki-no-kobuta": {
     "title": "五匹の子豚",
     "isbn": "9784151310218",
@@ -361,6 +378,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0267/9784101250267.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:22.192Z"
+  },
+  "gone-girl": {
+    "title": "ゴーン・ガール",
+    "isbn": "9784094088304",
+    "matchedTitle": "ゴーン・ガール（下）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8304/9784094088304_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:43.709Z",
+    "note": "書影は小学館文庫版の下巻(上巻は楽天ブックスに書誌がない)。作品は同一。"
   },
   "goth": {
     "title": "GOTH リストカット事件",
@@ -431,6 +457,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3018/9784167733018.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:15.895Z"
+  },
+  "hi-to-tawamureru": {
+    "title": "ミレニアム2 火と戯れる女",
+    "isbn": "9784151792533",
+    "matchedTitle": "ミレニアム　2　火と戯れる女 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2533/9784151792533.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:42.541Z",
+    "note": "書影は早川書房版の上巻。"
   },
   "hiiro-no-kenkyu": {
     "title": "緋色の研究",
@@ -695,6 +730,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7286/9784065357286_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:36:09.332Z"
+  },
+  "kanashimi-no-irene": {
+    "title": "悲しみのイレーヌ",
+    "isbn": "9784167904807",
+    "matchedTitle": "悲しみのイレーヌ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4807/9784167904807.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:39.082Z"
+  },
+  "karasu-no-oyayubi": {
+    "title": "カラスの親指",
+    "isbn": "9784062769778",
+    "matchedTitle": "カラスの親指　by　rule　of　CROW’s　thumb",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9778/9784062769778_1_23.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:51.798Z"
   },
   "kasasagi": {
     "title": "カササギ殺人事件",
@@ -1292,6 +1343,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:16.290Z"
   },
+  "ooinaru-nemuri": {
+    "title": "大いなる眠り",
+    "isbn": "9784150704643",
+    "matchedTitle": "大いなる眠り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4643/9784150704643.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:47.178Z"
+  },
   "oreta-ryukotsu": {
     "title": "折れた竜骨",
     "isbn": "9784488451073",
@@ -1334,6 +1393,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:41:17.426Z",
     "note": "書影は文春文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
+  "ranhansha": {
+    "title": "乱反射",
+    "isbn": "9784022646385",
+    "matchedTitle": "乱反射",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6385/9784022646385.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:52.958Z"
   },
   "red-redmaynes": {
     "title": "赤毛のレドメイン家",
@@ -1405,6 +1472,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0871/2000006240871.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-04T04:19:37.811Z"
+  },
+  "saraba-itoshiki": {
+    "title": "さらば愛しき女よ",
+    "isbn": null,
+    "matchedTitle": "さらば愛しき女よ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2020/2000001712020.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T05:07:50.642Z"
   },
   "satsuriku-ni-itaru-yamai": {
     "title": "殺戮にいたる病",
@@ -1544,6 +1619,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1967/9784167901967.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:19:38.953Z"
+  },
+  "sono-sabaki-wa-shi": {
+    "title": "その裁きは死",
+    "isbn": "9784488265106",
+    "matchedTitle": "その裁きは死",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5106/9784488265106.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:40.229Z"
   },
   "soratobu-tire": {
     "title": "空飛ぶタイヤ",
@@ -1895,6 +1978,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:46.966Z"
   },
+  "yorugao": {
+    "title": "ヨルガオ殺人事件",
+    "isbn": "9784488265113",
+    "matchedTitle": "ヨルガオ殺人事件 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5113/9784488265113_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:08:06.963Z",
+    "note": "書影は東京創元社版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
   "yottsu-no-shomei": {
     "title": "四つの署名",
     "isbn": "9784102134061",
@@ -1911,6 +2003,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2949/9784062732949.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:02.061Z"
+  },
+  "yujo": {
+    "title": "幽女の如き怨むもの",
+    "isbn": "9784062930949",
+    "matchedTitle": "幽女の如き怨むもの",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0949/9784062930949_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:07:54.113Z",
+    "note": "登録は原書房(単行本)だが書影は講談社文庫版。作品は同一。"
   },
   "z-no-higeki": {
     "title": "Zの悲劇",

@@ -8767,5 +8767,453 @@
     },
     "sourceNote": "原題 The Wisdom of Father Brown、1914年発表の第2短編集。邦訳は東京創元社の中村保男訳(2017年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kanashimi-no-irene",
+    "title": "悲しみのイレーヌ",
+    "titleKana": "かなしみのいれーぬ",
+    "authorIds": [
+      "pierre-lemaitre"
+    ],
+    "detectiveIds": [
+      "camille-verhoeven"
+    ],
+    "translatorIds": [
+      "tachibana-akemi"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "カミーユ・ヴェルーヴェン警部シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2015,
+    "originalTitle": "Irène",
+    "status": "completed",
+    "synopsis": "パリで、猟奇的に飾り立てられた殺人現場が見つかる。捜査を率いるカミーユ・ヴェルーヴェン警部は、過去の犯罪小説を模した犯行だと気づく。妻イレーヌの出産を控えたまま、彼は模倣者を追う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピエール・ルメートル"
+    },
+    "sourceNote": "原題 Irène、2006年フランスで刊行されたカミーユ・ヴェルーヴェン三部作の第1作であることを英語版Wikipediaで確認。日本では第2作『その女アレックス』の後に紹介された。邦訳は文藝春秋の橘明美訳(2015年10月、文春文庫)で、訳者・出版社・刊行年は楽天ブックスの書誌情報による。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sono-sabaki-wa-shi",
+    "title": "その裁きは死",
+    "titleKana": "そのさばきはし",
+    "authorIds": [
+      "anthony-horowitz"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-ran"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "shiritsu-tantei"
+    ],
+    "seriesName": "ホーソーン&ホロヴィッツ・シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2020,
+    "originalTitle": "The Sentence Is Death",
+    "status": "completed",
+    "synopsis": "離婚専門の弁護士が高価なワインの瓶で撲殺され、壁には緑色の数字が書き残されていた。元刑事の探偵ホーソーンと、記録役として付き従う作家ホロヴィッツが、被害者の過去に分け入っていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンソニー・ホロヴィッツ"
+    },
+    "sourceNote": "原題 The Sentence Is Death、2019年刊のホーソーン&ホロヴィッツ・シリーズ第2作であることを英語版Wikipediaで確認。邦訳は東京創元社の山田蘭訳(2020年9月)で、訳者・出版社・刊行年は楽天ブックスの書誌情報による。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yorugao",
+    "title": "ヨルガオ殺人事件",
+    "titleKana": "よるがおさつじんじけん",
+    "authorIds": [
+      "anthony-horowitz"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-ran"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "yakata-mono",
+      "kaigai-koten"
+    ],
+    "seriesName": "スーザン・ライランド・シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2020,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Moonflower Murders",
+    "status": "completed",
+    "synopsis": "ホテルで起きた八年前の殺人と、その事件を題材にしたアティカス・ピュントもののミステリ。作中作を読み解けば真相がわかると言い残して従業員が失踪し、元編集者スーザン・ライランドが調査に赴く。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンソニー・ホロヴィッツ"
+    },
+    "sourceNote": "原題 Moonflower Murders、2020年刊のスーザン・ライランド・シリーズ第2作(『カササギ殺人事件』の続編)であることを英語版Wikipediaで確認。邦訳は東京創元社の山田蘭訳(2021年9月、上下巻)で、訳者・出版社・刊行年は楽天ブックスの書誌情報による。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hi-to-tawamureru",
+    "title": "ミレニアム2 火と戯れる女",
+    "titleKana": "みれにあむつーひとたわむれるおんな",
+    "authorIds": [
+      "stieg-larsson"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "helenhalme-miho",
+      "yamada-yoshiaki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "noir",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "ミレニアム",
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2011,
+    "originalTitle": "Flickan som lekte med elden",
+    "status": "completed",
+    "synopsis": "人身売買を追う記者とその恋人が射殺され、現場に残された銃からリスベット・サランデルの指紋が検出される。指名手配された彼女は姿を消し、ミカエルは単独で彼女の無実を証明しようとする。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴン・タトゥーの女"
+    },
+    "sourceNote": "原題 Flickan som lekte med elden、2006年にスウェーデンで死後刊行されたことを英語版Wikipediaで確認。「ミレニアム」三部作の第2作。邦訳は早川書房のヘレンハルメ美穂・山田美明訳(2011年11月、上下巻)で、訳者・出版社・刊行年は楽天ブックスの書誌情報による。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gone-girl",
+    "title": "ゴーン・ガール",
+    "titleKana": "ごーんがーる",
+    "authorIds": [
+      "gillian-flynn"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakatani-yukiko"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "suspense",
+      "iyamisu",
+      "kazoku",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2013,
+    "originalTitle": "Gone Girl",
+    "status": "completed",
+    "synopsis": "結婚五周年の朝、妻エイミーが姿を消す。荒らされたリビングと不自然な痕跡から、夫ニックに疑いが向けられる。夫の現在の語りと、妻が遺した日記が交互に置かれ、二つの証言は少しずつ食い違っていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴーン・ガール"
+    },
+    "sourceNote": "原題 Gone Girl、2012年発表。2014年にデヴィッド・フィンチャー監督で映画化。邦訳は小学館文庫の中谷友紀子訳(2013年6月、上下巻)で、訳者・出版社・刊行年は楽天ブックスの書誌情報による。作品の仕掛けに関わるタグはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chi-no-shukaku",
+    "title": "血の収穫",
+    "titleKana": "ちのしゅうかく",
+    "authorIds": [
+      "dashiell-hammett"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "hardboiled",
+      "noir",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "jpPublishedYear": 2019,
+    "originalTitle": "Red Harvest",
+    "status": "completed",
+    "synopsis": "鉱山町パーソンヴィルに派遣された探偵社の調査員「コンチネンタル・オプ」。依頼人は殺され、町はギャングと警察が癒着した無法地帯だった。オプは対立する勢力を互いに衝突させ、町を血で洗う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/血の収穫"
+    },
+    "sourceNote": "原題 Red Harvest、1929年発表。コンチネンタル・オプもの最初の長編で著者の処女長編。黒澤明『用心棒』への影響が指摘される。邦訳は東京創元社の田口俊樹訳【新訳版】(2019年)を採用し、楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "glass-key",
+    "title": "ガラスの鍵",
+    "titleKana": "がらすのかぎ",
+    "authorIds": [
+      "dashiell-hammett"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "kaigai-koten",
+      "hardboiled",
+      "noir",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1931,
+    "jpPublishedYear": 2010,
+    "originalTitle": "The Glass Key",
+    "status": "completed",
+    "synopsis": "政治ボスの右腕を務める賭博師ネッド・ボーモント。上院議員の息子が殺され、疑いはボスに向けられる。友情と打算の境が曖昧なまま、ネッドは自らの立場を賭けて事件の始末をつけようとする。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガラスの鍵"
+    },
+    "sourceNote": "原題 The Glass Key、1931年発表。邦訳は光文社古典新訳文庫の池田真紀子訳(2010年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ooinaru-nemuri",
+    "title": "大いなる眠り",
+    "titleKana": "おおいなるねむり",
+    "authorIds": [
+      "raymond-chandler"
+    ],
+    "detectiveIds": [
+      "philip-marlowe"
+    ],
+    "translatorIds": [
+      "murakami-haruki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "hardboiled",
+      "shiritsu-tantei",
+      "noir"
+    ],
+    "seriesName": "フィリップ・マーロウシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1939,
+    "jpPublishedYear": 2014,
+    "originalTitle": "The Big Sleep",
+    "status": "completed",
+    "synopsis": "老富豪スターンウッド将軍に呼ばれた私立探偵フィリップ・マーロウは、次女を強請る男の始末を依頼される。単純に見えた仕事は、行方不明の娘婿と、姉妹それぞれの秘密へとつながっていく。シリーズ第1作。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大いなる眠り"
+    },
+    "sourceNote": "原題 The Big Sleep、1939年刊。マーロウ長編シリーズ第1作。邦訳は双葉十三郎訳・村上春樹訳などがあり、本DBでは早川書房の村上春樹訳(2014年)を採用した。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "saraba-itoshiki",
+    "title": "さらば愛しき女よ",
+    "titleKana": "さらばいとしきひとよ",
+    "authorIds": [
+      "raymond-chandler"
+    ],
+    "detectiveIds": [
+      "philip-marlowe"
+    ],
+    "translatorIds": [
+      "shimizu-shunji"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "hardboiled",
+      "shiritsu-tantei",
+      "noir"
+    ],
+    "seriesName": "フィリップ・マーロウシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1940,
+    "jpPublishedYear": 1976,
+    "originalTitle": "Farewell, My Lovely",
+    "status": "completed",
+    "synopsis": "刑務所を出たばかりの大男が、八年前に別れた恋人を探している。行きがかりで巻き込まれたマーロウは、宝石の受け渡しの立会いを頼まれ、殴られ、警察に疑われながら二つの事件の接点を探る。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さらば愛しき女よ"
+    },
+    "sourceNote": "原題 Farewell, My Lovely、1940年刊。マーロウ長編シリーズ第2作。邦訳は既存の『長いお別れ』と同じ清水俊二訳(早川書房、1976年)を採用し、楽天ブックスの書誌情報で確認した。村上春樹訳『さよなら、愛しい人』(2009年)もある。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "karasu-no-oyayubi",
+    "title": "カラスの親指",
+    "titleKana": "からすのおやゆび",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "詐欺師のタケとテツが、行きがかりで若い姉妹や中年男と共同生活を送ることになる。それぞれが抱えた事情が重なり、追われる立場になった彼らは、大がかりな仕掛けで反撃を試みる。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2009,
+        "result": "第62回受賞(長編及び連作短編集部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カラスの親指"
+    },
+    "sourceNote": "『メフィスト』2007年9月号ほかに掲載、2008年に講談社より単行本化。発表年は初出年の2007年を採った。第62回(2009年)日本推理作家協会賞(長編及び連作短編集部門)受賞。第140回直木賞・第30回吉川英治文学新人賞の候補(候補は登録しない方針のため未登録)。2012年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ranhansha",
+    "title": "乱反射",
+    "titleKana": "らんはんしゃ",
+    "authorIds": [
+      "nukui-tokuro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbunsha",
+    "themeIds": [
+      "shakaiha",
+      "kazoku",
+      "iyamisu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "街路樹が倒れ、幼い息子が命を落とした。新聞記者の父は、事故に至るまでに誰が何をしなかったのかを一つずつ辿っていく。法では裁けない小さな怠慢が連なって人を殺す過程を描く社会派長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2010,
+        "result": "第63回受賞(長編及び連作短編集部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乱反射_(小説)"
+    },
+    "sourceNote": "『週刊朝日』2007年8月17日号〜2008年10月3日号連載、2009年2月20日に朝日新聞出版より刊行。発表年は連載開始年の2007年を採った。第63回日本推理作家協会賞(長編及び連作短編集部門)受賞。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yujo",
+    "title": "幽女の如き怨むもの",
+    "titleKana": "ゆうじょのごときうらむもの",
+    "authorIds": [
+      "mitsuda-shinzo"
+    ],
+    "detectiveIds": [
+      "tojo-genya"
+    ],
+    "translatorIds": [],
+    "publisherId": "harashobo",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "youkai",
+      "meitantei",
+      "sengo-nihon"
+    ],
+    "seriesName": "刀城言耶シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "遊廓で三代にわたり、同じ日に同じ形で遊女が身を投げる。呪いと噂される連続死の記録を読んだ刀城言耶が、廓という閉じた世界の内側に立ち入っていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幽女の如き怨むもの"
+    },
+    "sourceNote": "2012年4月23日、原書房〈ミステリー・リーグ〉より書き下ろしで刊行(2015年6月講談社文庫)。刀城言耶シリーズ第6長編。第66回日本推理作家協会賞の候補となったが、候補は登録しない方針のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

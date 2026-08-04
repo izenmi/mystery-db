@@ -967,5 +967,17 @@
     },
     "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gillian-flynn",
+    "name": "ギリアン・フリン",
+    "nameKana": "ぎりあんふりん",
+    "description": "アメリカの作家。雑誌記者を経て小説を書き始め、身近な人間関係の悪意を冷徹に描く犯罪小説で知られる。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ギリアン・フリン"
+    },
+    "sourceNote": "経歴・代表作はWikipedia日本語版および英語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
