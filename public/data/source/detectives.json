@@ -221,8 +221,9 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/王とサーカス"
     },
-    "sourceNote": "人物像はWikipedia日本語版で確認した。初登場は『さよなら妖精』だが本DBに未登録のため初登場作は設定していない。真相に関わる記述は含めていない。",
-    "updatedAt": "2026-08-04"
+    "sourceNote": "人物像はWikipedia日本語版で確認した。初登場作『さよなら妖精』(2004年)を2026-08-04の追加で登録したため初登場作を設定した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04",
+    "firstAppearanceWorkId": "sayonara-yosei"
   },
   {
     "id": "miss-marple",
@@ -765,6 +766,20 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
     },
     "sourceNote": "人物像・初登場作品はWikipedia日本語版のシリーズ記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hamura-akira",
+    "name": "葉村晶",
+    "nameKana": "はむらあきら",
+    "creatorAuthorId": "wakatake-nanami",
+    "occupation": "私立探偵(書店員兼業)",
+    "description": "怪我と不運が絶えない女性私立探偵。割に合わない調査を淡々と引き受け、身も蓋もない事実を掘り当てていく。",
+    "firstAppearanceWorkId": "shizukana-enten",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/若竹七海"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事で確認した。初登場作は本DBに未登録のため、登録済みの『静かな炎天』を初登場作としている。",
     "updatedAt": "2026-08-04"
   }
 ]

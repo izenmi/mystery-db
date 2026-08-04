@@ -129,6 +129,14 @@
     "resolvedAt": "2026-08-04T03:51:32.115Z",
     "note": "登録した新潮文庫・延原謙訳の改版に手動で合わせた(自動取得では光文社文庫版が当たっていた)"
   },
+  "berlin-wa-hareteiruka": {
+    "title": "ベルリンは晴れているか",
+    "isbn": "9784480804822",
+    "matchedTitle": "ベルリンは晴れているか",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4822/9784480804822_1_10.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:27:27.853Z"
+  },
   "bikkurikan": {
     "title": "びっくり館の殺人",
     "isbn": "9784062767170",
@@ -211,6 +219,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9035/9784167659035_1_7.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:03.963Z"
+  },
+  "crossfire": {
+    "title": "クロスファイア",
+    "isbn": "9784334749736",
+    "matchedTitle": "クロスファイア（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9736/9784334749736.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:27:26.681Z",
+    "note": "書影は光文社文庫版の上巻。"
   },
   "d-no-fukugo": {
     "title": "Dの複合",
@@ -556,6 +573,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:02.771Z"
   },
+  "hatsuru-sokonaki": {
+    "title": "果つる底なき",
+    "isbn": "9784065411254",
+    "matchedTitle": "果つる底なき　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1254/9784065411254_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:27:33.613Z"
+  },
   "hazakura": {
     "title": "葉桜の季節に君を想うということ",
     "isbn": "9784167733018",
@@ -603,6 +628,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0062/9784167110062_1_12.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:41.179Z"
+  },
+  "hinoko": {
+    "title": "火の粉",
+    "isbn": "9784344405516",
+    "matchedTitle": "火の粉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3444/34440551.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:27:34.761Z"
   },
   "hitsuji-no-chinmoku": {
     "title": "羊たちの沈黙",
@@ -907,6 +940,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:39.082Z"
   },
+  "kao-ni-furikakaru-ame": {
+    "title": "顔に降りかかる雨",
+    "isbn": "9784062936804",
+    "matchedTitle": "新装版　顔に降りかかる雨",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6804/9784062936804.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:27:35.910Z"
+  },
   "karasu-no-oyayubi": {
     "title": "カラスの親指",
     "isbn": "9784062769778",
@@ -947,6 +988,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0547/9784151300547.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:01:40.324Z"
+  },
+  "kazokugari": {
+    "title": "家族狩り",
+    "isbn": null,
+    "matchedTitle": "家族狩り（第一部〜第五部）合本版（新潮文庫）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4191/2000009334191.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T05:27:32.457Z",
+    "note": "書影は新潮文庫の合本版(第一部〜第五部)。文庫版は大幅に改稿されている。"
   },
   "kenji-no-honkai": {
     "title": "検事の本懐",
@@ -1207,6 +1257,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:41.547Z",
     "note": "書影は文春文庫版の上巻。"
+  },
+  "lady-joker": {
+    "title": "レディ・ジョーカー",
+    "isbn": "9784101347165",
+    "matchedTitle": "レディ・ジョーカー 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7165/9784101347165_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:27:29.022Z",
+    "note": "書影は新潮文庫版の上巻。登録した刊行元(毎日新聞社の単行本)とは別の版。"
   },
   "lane-last-case": {
     "title": "レーン最後の事件",
@@ -1829,6 +1888,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:51.404Z"
   },
+  "sayonara-yosei": {
+    "title": "さよなら妖精",
+    "isbn": "9784488451035",
+    "matchedTitle": "さよなら妖精",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4884/48845103.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:27:25.501Z"
+  },
   "seijo-no-kyusai": {
     "title": "聖女の救済",
     "isbn": "9784167110147",
@@ -1942,6 +2009,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7069/9784062647069_1_15.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:54.988Z"
+  },
+  "shizukana-enten": {
+    "title": "静かな炎天",
+    "isbn": "9784167906740",
+    "matchedTitle": "静かな炎天",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6740/9784167906740.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:27:37.053Z"
   },
   "shokuzai": {
     "title": "贖罪",

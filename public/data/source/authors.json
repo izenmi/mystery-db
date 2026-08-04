@@ -1116,5 +1116,41 @@
     },
     "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fukamidori-nowaki",
+    "name": "深緑野分",
+    "nameKana": "ふかみどりのわき",
+    "description": "戦時下の欧州など、綿密な調査に基づく歴史的背景のなかでミステリを組み立てる作家。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/深緑野分"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shizukui-shusuke",
+    "name": "雫井脩介",
+    "nameKana": "しずくいしゅうすけ",
+    "description": "サスペンスと家庭劇を組み合わせた作品を得意とする作家。映像化された作品が多い。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/雫井脩介"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "wakatake-nanami",
+    "name": "若竹七海",
+    "nameKana": "わかたけななみ",
+    "description": "女性私立探偵・葉村晶を主人公とするシリーズで知られる作家。乾いたユーモアと苦い結末が特徴。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/若竹七海"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

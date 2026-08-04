@@ -187,5 +187,16 @@
     },
     "sourceNote": "設立年・事業内容はWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chikuma-shobo",
+    "name": "筑摩書房",
+    "nameKana": "ちくましょぼう",
+    "description": "1940年創業の出版社。人文書・文学全集を中心に刊行し、ちくま文庫・ちくま学芸文庫を持つ。",
+    "externalLinks": {
+      "officialUrl": "https://www.chikumashobo.co.jp/"
+    },
+    "sourceNote": "創業年・事業内容はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -11029,5 +11029,322 @@
     },
     "sourceNote": "1978年発表の三毛猫ホームズシリーズ第1作。猫を主人公に据えた設定で人気を集めた。刊行元は現在流通する角川文庫版(1984年)に合わせた。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sayonara-yosei",
+    "title": "さよなら妖精",
+    "titleKana": "さよならようせい",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "tachiarai-machi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "seishun",
+      "shakaiha",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "1991年の春、雨宿りをしていた高校生たちが、ユーゴスラビアから来た少女マーヤと出会う。二か月の滞在のあいだに交わされた小さな謎解きの日々が、彼女の帰国後にまったく別の意味を持ち始める。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さよなら妖精"
+    },
+    "sourceNote": "2004年、東京創元社より刊行。のちの『王とサーカス』に登場する太刀洗万智の初登場作。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "crossfire",
+    "title": "クロスファイア",
+    "titleKana": "くろすふぁいあ",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense",
+      "shakaiha",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "念じるだけで物を発火させる能力を持つ青木淳子は、法が裁けない犯罪者を自らの手で焼き殺していく。彼女を追う女性刑事と、能力者を求める組織。私刑と正義の境界を問う長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クロスファイア_(小説)"
+    },
+    "sourceNote": "1998年10月、光文社より単行本刊行。中編「燔祭」(『鳩笛草』所収)が前日譚にあたる。2000年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "berlin-wa-hareteiruka",
+    "title": "ベルリンは晴れているか",
+    "titleKana": "べるりんははれているか",
+    "authorIds": [
+      "fukamidori-nowaki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chikuma-shobo",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "1945年、敗戦直後のベルリン。米軍に雇われて働く少女アウグステは、恩人が毒殺されたことを知り、甥に訃報を伝える旅に出る。瓦礫の街を進みながら、戦時下の記憶が少しずつ明かされる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベルリンは晴れているか"
+    },
+    "sourceNote": "2018年9月、筑摩書房より刊行。本屋大賞・直木賞の候補に選ばれ、NHKでオーディオドラマ化されている(いずれも候補または本DB未登録の賞のため受賞歴には登録していない)。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "lady-joker",
+    "title": "レディ・ジョーカー",
+    "titleKana": "れでぃじょーかー",
+    "authorIds": [
+      "takamura-kaoru"
+    ],
+    "detectiveIds": [
+      "goda-yuichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "noir",
+      "suspense"
+    ],
+    "seriesName": "合田雄一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "競馬場で知り合った男たちが、大手ビール会社の社長を誘拐し、株と製品を人質に企業を脅す。差別と格差に沈められてきた者たちの犯行を、警察・企業・マスコミの三方向から描く長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レディ・ジョーカー"
+    },
+    "sourceNote": "『サンデー毎日』1995年〜1997年連載、1997年12月に毎日新聞社より上下2巻で刊行。発表年は連載開始年の1995年を採り、刊行元は現在流通する新潮文庫版(2010年、上中下3巻)に合わせた。合田雄一郎シリーズ第3作。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kazokugari",
+    "title": "家族狩り",
+    "titleKana": "かぞくがり",
+    "authorIds": [
+      "tendo-arata"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shakaiha",
+      "kazoku",
+      "suspense",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "一家全員が死亡する事件が連続して起きる。心中として処理されようとするなか、児童心理の専門家や高校教師、刑事がそれぞれの立場から家族という単位の歪みに向き合っていく。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 1996,
+        "result": "第9回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/家族狩り"
+    },
+    "sourceNote": "1995年発表。単行本版で第9回山本周五郎賞を受賞。文庫化にあたり大幅に改稿されている。刊行元は現在流通する新潮文庫版に合わせた。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hatsuru-sokonaki",
+    "title": "果つる底なき",
+    "titleKana": "はつるそこなき",
+    "authorIds": [
+      "ikeido-jun"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "銀行員の同僚が蜂に刺されて急死し、「貸しがある」という言葉だけを残していた。融資の裏に隠された不正を追ううち、主人公は組織の暗部と対峙することになる。著者のデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1998,
+        "result": "第44回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/果つる底なき"
+    },
+    "sourceNote": "1998年9月10日、講談社より刊行(2001年講談社文庫)。第44回江戸川乱歩賞受賞のデビュー作。2000年テレビドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hinoko",
+    "title": "火の粉",
+    "titleKana": "ひのこ",
+    "authorIds": [
+      "shizukui-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "iyamisu",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "一家惨殺事件で被告に無罪を言い渡した元裁判官の隣に、その被告が引っ越してくる。親切で人当たりのよい隣人。だが家族の日常は、彼が現れた日から少しずつ壊れていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火の粉"
+    },
+    "sourceNote": "2003年、幻冬舎より書き下ろしで刊行。2005年・2016年にドラマ化され、2026年に英語版ドラマのリメイクが報じられている。累計55万部(2016年2月時点)。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kao-ni-furikakaru-ame",
+    "title": "顔に降りかかる雨",
+    "titleKana": "かおにふりかかるあめ",
+    "authorIds": [
+      "kirino-natsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "suspense",
+      "noir"
+    ],
+    "seriesName": "村野ミロシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "友人が一億円とともに姿を消した。女性探偵・村野ミロは行方を追ううち、彼女が抱えていた過去と、金の出どころに行き当たる。日本の女性ハードボイルドの先駆けとされる一作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1993,
+        "result": "第39回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/顔に降りかかる雨"
+    },
+    "sourceNote": "1993年、講談社より刊行(2017年講談社文庫新装版)。第39回江戸川乱歩賞受賞作で、女性ハードボイルドの先駆けとされる村野ミロシリーズ第1作。以上をWikipedia日本語版(著者記事の受賞歴)と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shizukana-enten",
+    "title": "静かな炎天",
+    "titleKana": "しずかなえんてん",
+    "authorIds": [
+      "wakatake-nanami"
+    ],
+    "detectiveIds": [
+      "hamura-akira"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shiritsu-tantei",
+      "rensaku-tanpen",
+      "hardboiled",
+      "nichijo-no-nazo"
+    ],
+    "seriesName": "葉村晶シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "怪我をして探偵業を半ば休み、書店で働く葉村晶。それでも持ち込まれる調査依頼は、行方不明の猫から家族の秘密まで幅がある。乾いた語り口で日常の裏側を掘り起こす連作短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/若竹七海"
+    },
+    "sourceNote": "2016年8月、文藝春秋より刊行。葉村晶シリーズの連作短編集。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
