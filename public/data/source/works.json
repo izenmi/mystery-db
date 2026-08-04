@@ -13146,5 +13146,563 @@
     },
     "sourceNote": "2002年9月講談社ノベルス刊、2005年11月講談社文庫。Vシリーズ全10作の完結編。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "russia-kocha-no-nazo",
+    "title": "ロシア紅茶の謎",
+    "titleKana": "ろしあこうちゃのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "臨床犯罪学者の火村英生とミステリ作家の有栖川有栖が挑む短編集。大勢の目の前で供された紅茶に毒が入っていた表題作をはじめ、動物園に残された奇怪な暗号、姿を消した殺人犯を追う一編などを収める。国名を冠したシリーズの第1作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロシア紅茶の謎"
+    },
+    "sourceNote": "1994年7月講談社ノベルス刊、1997年7月講談社文庫。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。国名シリーズ第1作。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "umi-no-aru-nara-ni-shisu",
+    "title": "海のある奈良に死す",
+    "titleKana": "うみのあるならにしす",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "出版社で同業の作家と顔を合わせた有栖川有栖は、「海のある奈良へ行く」という言葉を最後に彼と別れる。ほどなくその作家は福井県の小浜で遺体となって見つかった。故人が遺した言葉の意味をたどりながら、火村と有栖が旅先の事件に踏み込んでいく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1995年3月双葉社刊、1998年5月角川文庫、2000年5月双葉文庫。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。作品単独のWikipedia記事はない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sweden-kan-no-nazo",
+    "title": "スウェーデン館の謎",
+    "titleKana": "すうぇーでんかんのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "yakata-mono",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "有栖川有栖が招かれたのは、雪深い高原に建つスウェーデン館と呼ばれるログハウスだった。滞在中に殺人が起こり、現場へ続く雪の上には不可解な足跡が残されていた。呼ばれた火村とともに、有栖は雪が記録した痕跡を読み解いていく。国名シリーズ唯一の長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1995年5月講談社ノベルス刊、1998年5月講談社文庫。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。国名シリーズ第2作。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "brazil-cho-no-nazo",
+    "title": "ブラジル蝶の謎",
+    "titleKana": "ぶらじるちょうのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "無数の蝶の標本に囲まれた部屋で発見された死体という表題作をはじめ、火村と有栖が挑む事件を集めた短編集。現場に残された不自然な状況の意味を、ひとつずつ論理で詰めていく。国名シリーズ第3作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1996年5月講談社ノベルス刊、1999年5月講談社文庫。著者記事の著作一覧と楽天ブックスの書誌で確認した。収録作は「ブラジル蝶の謎」「妄想日記」「彼女か彼か」ほか。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "eikoku-teien-no-nazo",
+    "title": "英国庭園の謎",
+    "titleKana": "えいこくていえんのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "英国式庭園を持つ屋敷で起きた事件を描く表題作ほか、火村と有栖が関わる事件を収めた短編集。犯人当ての体裁を守りながら、手がかりの提示と推理の筋道を丁寧に見せる。国名シリーズ第4作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1997年6月講談社ノベルス刊、2000年6月講談社文庫。著者記事の著作一覧と楽天ブックスの書誌で確認した。収録作は「英国庭園の謎」「雨天決行」「竜胆紅一の疑惑」「三つの日付」。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shuiro-no-kenkyu",
+    "title": "朱色の研究",
+    "titleKana": "しゅいろのけんきゅう",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "火村英生はゼミの教え子から、二年前に起きた未解決事件を調べてほしいと頼まれる。過去をたどり始めた矢先、新たな殺人が発生した。夕陽に染まる朱色の風景を軸に、二つの事件のつながりを火村と有栖が探っていく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1997年11月角川書店刊、2000年8月角川文庫。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "persia-neko-no-nazo",
+    "title": "ペルシャ猫の謎",
+    "titleKana": "ぺるしゃねこのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "大学のミステリ研究会が絡む表題作ほか、暗号や見立てを扱った作品を収める短編集。火村と有栖のやりとりを軸に、短い枚数のなかで手がかりと解決を組み立てる。国名シリーズ第5作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1999年5月講談社ノベルス刊、2002年6月講談社文庫。著者記事の著作一覧と楽天ブックスの書誌で確認した。収録作は「ペルシャ猫の謎」「切り裂きジャックを待ちながら」「わらう月」「暗号を撒く男」ほか。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "malay-tetsudo-no-nazo",
+    "title": "マレー鉄道の謎",
+    "titleKana": "まれーてつどうのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "misshitsu",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "マレーシアの高原の保養地を訪れた火村と有栖は、日本人が営むコテージで起きた殺人に立ち会う。被害者の部屋は施錠され、外からは入れない状況だった。異国の風土と気候を織り込みながら、密室の成り立ちを解きほぐしていく長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2003,
+        "result": "第56回受賞(長編及び連作短編集部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2002年5月講談社ノベルス刊、2005年5月講談社文庫。第56回日本推理作家協会賞(長編及び連作短編集部門、2003年)受賞。著者記事の著作一覧・受賞歴と楽天ブックスの書誌で確認した。国名シリーズ第6作。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "swiss-tokei-no-nazo",
+    "title": "スイス時計の謎",
+    "titleKana": "すいすとけいのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "被害者が身につけていたスイス製の腕時計から、容疑者を絞り込んでいく表題作を中心とした短編集。手がかりの数が限られた状況で、消去法をどこまで押し進められるかを見せる一編として知られる。国名シリーズ第7作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スイス時計の謎"
+    },
+    "sourceNote": "2003年5月講談社ノベルス刊、2006年5月講談社文庫。2010年に高野宮子の作画で漫画化。2026年4月にHuluで実写化されているが、著者記事の記載は1話完結ドラマ企画のためmediaMixのdramaはfalseのままとした。著者記事と楽天ブックスの書誌で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "morocco-suisho-no-nazo",
+    "title": "モロッコ水晶の謎",
+    "titleKana": "もろっこすいしょうのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "モロッコ産の水晶が事件の鍵を握る表題作ほか、大学助教授の身代金要求事件や、アルファベット順の連続殺人に見立てられた事件などを収める短編集。国名シリーズ第8作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2005年3月講談社ノベルス刊、2008年3月講談社文庫。収録作が連続ドラマ『臨床犯罪学者 火村英生の推理』の原作として使われていることを楽天ブックスの内容紹介で確認した。収録作は「モロッコ水晶の謎」「助教授の身代金」「ABCキラー」ほか。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ranha-no-shima",
+    "title": "乱鴉の島",
+    "titleKana": "らんあのしま",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kotou",
+      "closed-circle"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "旅に出た火村と有栖は、手違いから目的地とは違う島に降ろされてしまう。人影のない島には無数の鴉が舞い、高名な老詩人が隠棲していた。集まってきた客たちのあいだで事件が起こり、島は外と切り離される。孤島を舞台にした長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乱鴉の島"
+    },
+    "sourceNote": "2006年6月新潮社刊、2008年10月講談社ノベルス、2010年1月新潮文庫。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nagai-roka-ga-aru-ie",
+    "title": "長い廊下がある家",
+    "titleKana": "ながいろうかがあるいえ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "kaiki-gensou"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "山中で道に迷った男がたどり着いたのは、心霊現象の取材に来た三人が滞在する「幽霊屋敷」だった。長い廊下でつながれた二つの建物という奇妙な構造が、事件の様相を左右する。表題作ほか火村と有栖が挑む事件を収めた短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "2010年11月光文社刊、2012年8月光文社カッパ・ノベルス、2013年7月光文社文庫。2012年に柳ゆき助の作画で漫画化。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kagi-no-kakatta-otoko",
+    "title": "鍵の掛かった男",
+    "titleKana": "かぎのかかったおとこ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense",
+      "misshitsu"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "大阪・中之島のホテルに長く住み着いていた男が、施錠された部屋で死んでいた。警察は自殺として処理したが、納得できない人物から依頼を受けた有栖川有栖が、故人の来歴を一から洗い直す。過去をたどるほど男の輪郭がぼやけていく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2015年10月幻冬舎刊、2017年10月幻冬舎文庫。著者記事の著作一覧と楽天ブックスの書誌で確認した。楽天ブックスに内容紹介がなかったため、あらすじは作品の基本設定にとどめている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "karyudo-no-akumu",
+    "title": "狩人の悪夢",
+    "titleKana": "かりゅうどのあくむ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "人気ホラー作家の仕事場に招かれた有栖川有栖は、「眠ると必ず悪夢を見る」といわれる部屋の話を聞かされる。まもなく近隣で凄惨な事件が起こり、火村が呼ばれる。悪夢の言い伝えと現実の犯罪が重なる長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/狩人の悪夢"
+    },
+    "sourceNote": "2017年1月KADOKAWA刊、2019年6月角川文庫。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "india-club-no-nazo",
+    "title": "インド倶楽部の謎",
+    "titleKana": "いんどくらぶのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kaiki-gensou",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "神戸で開かれた集まりでは、参加者が自分の死ぬ日を告げられるという。その席にいた人物が相次いで死に、火村と有栖が呼ばれる。予言めいた設定に足をすくわれないよう、二人は事実だけを積み上げていく。国名シリーズの長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インド倶楽部の謎"
+    },
+    "sourceNote": "2018年9月講談社ノベルス刊、2020年9月講談社文庫。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。楽天ブックスの紹介文に2018年のミステリーランキング入りの記載があるが、賞・順位が特定できないため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nihon-ogi-no-nazo",
+    "title": "日本扇の謎",
+    "titleKana": "にほんおうぎのなぞ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "舞鶴の海辺の町で、記憶を失った青年が保護される。名前も出身地も思い出せない彼が持っていたのは一本の扇だけだった。手がかりをたどって舞台は京都へ移り、火村と有栖は青年の来歴と事件のつながりを追う。国名シリーズの長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2024年8月講談社ノベルス刊。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

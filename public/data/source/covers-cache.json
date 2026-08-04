@@ -188,6 +188,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:39.096Z"
   },
+  "brazil-cho-no-nazo": {
+    "title": "ブラジル蝶の謎",
+    "isbn": "9784062645713",
+    "matchedTitle": "ブラジル蝶の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0626/06264571.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:00.176Z"
+  },
   "brutus-no-shinzo": {
     "title": "ブルータスの心臓",
     "isbn": "9784334790851",
@@ -401,6 +409,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:49.089Z",
     "note": "書影は幻冬舎文庫版(全5巻)の第1巻『再会』。"
+  },
+  "eikoku-teien-no-nazo": {
+    "title": "英国庭園の謎",
+    "isbn": "9784062648912",
+    "matchedTitle": "英国庭園の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0626/06264891.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:01.358Z"
   },
   "eugenia": {
     "title": "ユージニア",
@@ -869,6 +885,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:13.945Z"
   },
+  "india-club-no-nazo": {
+    "title": "インド倶楽部の謎",
+    "isbn": "9784065131381",
+    "matchedTitle": "インド倶楽部の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1381/9784065131381.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:13.038Z"
+  },
   "injuu": {
     "title": "陰獣",
     "isbn": "9784394301462",
@@ -1031,6 +1055,14 @@
     "resolvedAt": "2026-08-04T04:09:05.240Z",
     "note": "書影は文春文庫版。"
   },
+  "kagi-no-kakatta-otoko": {
+    "title": "鍵の掛かった男",
+    "isbn": "9784344426511",
+    "matchedTitle": "鍵の掛かった男",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6511/9784344426511.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:10.714Z"
+  },
   "kaijin-nijumenso": {
     "title": "怪人二十面相",
     "isbn": "9784591084120",
@@ -1086,6 +1118,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9778/9784062769778_1_23.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:51.798Z"
+  },
+  "karyudo-no-akumu": {
+    "title": "狩人の悪夢",
+    "isbn": "9784041078556",
+    "matchedTitle": "狩人の悪夢",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8556/9784041078556_1_20.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:11.870Z"
   },
   "kasasagi": {
     "title": "カササギ殺人事件",
@@ -1514,6 +1554,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:37:56.496Z"
   },
+  "malay-tetsudo-no-nazo": {
+    "title": "マレー鉄道の謎",
+    "isbn": "9784062750776",
+    "matchedTitle": "マレー鉄道の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0776/9784062750776.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:04.858Z"
+  },
   "maltese-falcon": {
     "title": "マルタの鷹",
     "isbn": "9784150773076",
@@ -1692,6 +1740,14 @@
     "resolvedAt": "2026-08-04T03:51:38.389Z",
     "note": "登録した新潮文庫『モルグ街の殺人・黄金虫』(巽孝之訳)に手動で合わせた(自動取得では別出版社版が当たっていた)"
   },
+  "morocco-suisho-no-nazo": {
+    "title": "モロッコ水晶の謎",
+    "isbn": "9784062759885",
+    "matchedTitle": "モロッコ水晶の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9885/9784062759885_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:07.206Z"
+  },
   "moryo-no-hako": {
     "title": "魍魎の匣",
     "isbn": "9784062646673",
@@ -1740,6 +1796,14 @@
     "coverUrl": "https://c.bookwalker.jp/399614/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:44.861Z"
+  },
+  "nagai-roka-ga-aru-ie": {
+    "title": "長い廊下がある家",
+    "isbn": "9784334100025",
+    "matchedTitle": "長い廊下がある家　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0025/9784334100025_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:09.531Z"
   },
   "namakubi": {
     "title": "生首に聞いてみろ",
@@ -1837,6 +1901,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-04T04:35:05.971Z"
+  },
+  "nihon-ogi-no-nazo": {
+    "title": "日本扇の謎",
+    "isbn": "9784065364222",
+    "matchedTitle": "日本扇の謎　愛蔵版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4222/9784065364222_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:14.201Z"
   },
   "nile-ni-shisu": {
     "title": "ナイルに死す",
@@ -1971,6 +2043,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:37:41.349Z"
   },
+  "persia-neko-no-nazo": {
+    "title": "ペルシャ猫の謎",
+    "isbn": "9784062734509",
+    "matchedTitle": "ペルシャ猫の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4509/9784062734509.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:03.681Z"
+  },
   "petero-no-soretsu": {
     "title": "ペテロの葬列",
     "isbn": "9784167905842",
@@ -2004,6 +2084,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9617/9784152099617.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:29.668Z"
+  },
+  "ranha-no-shima": {
+    "title": "乱鴉の島",
+    "isbn": "9784101204369",
+    "matchedTitle": "乱鴉の島",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4369/9784101204369.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:08.373Z"
   },
   "ranhansha": {
     "title": "乱反射",
@@ -2090,6 +2178,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8723/9784062938723_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:59.191Z"
+  },
+  "russia-kocha-no-nazo": {
+    "title": "ロシア紅茶の謎",
+    "isbn": "9784062635486",
+    "matchedTitle": "ロシア紅茶の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5486/9784062635486.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:41:56.695Z"
   },
   "ryu-wa-nemuru": {
     "title": "龍は眠る",
@@ -2327,6 +2423,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:53.326Z"
   },
+  "shuiro-no-kenkyu": {
+    "title": "朱色の研究",
+    "isbn": "9784041913048",
+    "matchedTitle": "朱色の研究",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3048/9784041913048_1_18.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:02.514Z"
+  },
   "shuki-gentei": {
     "title": "秋期限定栗きんとん事件",
     "isbn": "9784488451059",
@@ -2522,6 +2626,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:13.281Z"
   },
+  "sweden-kan-no-nazo": {
+    "title": "スウェーデン館の謎",
+    "isbn": "9784062637930",
+    "matchedTitle": "スウェーデン館の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7930/9784062637930.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:41:59.013Z"
+  },
+  "swiss-tokei-no-nazo": {
+    "title": "スイス時計の謎",
+    "isbn": "9784062753876",
+    "matchedTitle": "スイス時計の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3876/9784062753876.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:42:06.030Z"
+  },
   "taiikukan": {
     "title": "体育館の殺人",
     "isbn": "9784488443115",
@@ -2689,6 +2809,14 @@
     "coverUrl": "https://c.bookwalker.jp/4060243/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:07.940Z"
+  },
+  "umi-no-aru-nara-ni-shisu": {
+    "title": "海のある奈良に死す",
+    "isbn": "9784041913024",
+    "matchedTitle": "海のある奈良に死す",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3024/9784041913024.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:41:57.838Z"
   },
   "uso-wo-mou-hitotsu": {
     "title": "嘘をもうひとつだけ",
