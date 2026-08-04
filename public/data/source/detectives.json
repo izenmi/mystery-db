@@ -710,5 +710,61 @@
     },
     "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "totsugawa-shozo",
+    "name": "十津川省三",
+    "nameKana": "とつがわしょうぞう",
+    "creatorAuthorId": "nishimura-kyotaro",
+    "occupation": "警視庁捜査一課の警部",
+    "description": "部下の亀井刑事とともに全国を移動しながら捜査にあたる警部。時刻表と現地の聞き込みを積み重ね、鉄道を使ったアリバイを崩していく。",
+    "firstAppearanceWorkId": "shindai-tokkyu",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西村京太郎"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事で確認した。初登場作は本DBに未登録のため、登録済み作品のうち最も早い『寝台特急殺人事件』を初登場作としている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "asami-mitsuhiko",
+    "name": "浅見光彦",
+    "nameKana": "あさみみつひこ",
+    "occupation": "フリーのルポライター",
+    "creatorAuthorId": "uchida-yasuo",
+    "description": "旅と紀行の記事を書きながら、取材先で事件に出くわすルポライター。兄が警察庁の要職にあることは伏せたまま、土地の人々の話を丁寧に聞いて回る。",
+    "firstAppearanceWorkId": "gotoba-densetsu",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/浅見光彦"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "katayama-yoshitaro",
+    "name": "片山義太郎",
+    "nameKana": "かたやまよしたろう",
+    "creatorAuthorId": "akagawa-jiro",
+    "occupation": "警視庁の刑事",
+    "description": "血が苦手で高所も女性も苦手という刑事。妹の晴美と、三毛猫のホームズに助けられながら事件を解決していく。",
+    "firstAppearanceWorkId": "mikeneko-holmes",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三毛猫ホームズの推理"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sezaimaru-beniko",
+    "name": "瀬在丸紅子",
+    "nameKana": "せざいまるべにこ",
+    "creatorAuthorId": "mori-hiroshi",
+    "occupation": "旧家の令嬢",
+    "description": "森博嗣のVシリーズに登場する探偵役。奔放に見えて観察は鋭く、周囲の人物を巻き込みながら事件の構図を組み立てていく。",
+    "firstAppearanceWorkId": "kuroneko-no-sankaku",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版のシリーズ記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]

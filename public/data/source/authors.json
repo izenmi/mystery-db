@@ -1080,5 +1080,41 @@
     },
     "sourceNote": "経歴・受賞歴はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nishimura-kyotaro",
+    "name": "西村京太郎",
+    "nameKana": "にしむらきょうたろう",
+    "description": "鉄道を舞台にしたトラベルミステリの第一人者。十津川警部を主人公とする作品を中心に、生涯で六百冊を超える著書を残した。",
+    "birthYear": 1930,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西村京太郎"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "uchida-yasuo",
+    "name": "内田康夫",
+    "nameKana": "うちだやすお",
+    "description": "ルポライター・浅見光彦を探偵役とするシリーズで知られる作家。日本各地の風土と伝説を題材にした旅情ミステリを多く書いた。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/内田康夫"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akagawa-jiro",
+    "name": "赤川次郎",
+    "nameKana": "あかがわじろう",
+    "description": "軽妙な語り口とユーモアで幅広い読者を得た作家。三毛猫ホームズシリーズをはじめ、数多くのシリーズを手がけている。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤川次郎"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

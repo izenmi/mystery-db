@@ -154,6 +154,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:39.096Z"
   },
+  "bunshin": {
+    "title": "分身",
+    "isbn": "9784087485196",
+    "matchedTitle": "分身",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5196/9784087485196_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:24:13.429Z"
+  },
   "byakuyako": {
     "title": "白夜行",
     "isbn": null,
@@ -452,6 +460,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-04T04:02:49.105Z"
   },
+  "gotoba-densetsu": {
+    "title": "後鳥羽伝説殺人事件",
+    "isbn": "9784041607015",
+    "matchedTitle": "後鳥羽伝説殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7015/9784041607015.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:24:20.431Z"
+  },
   "greek-coffin": {
     "title": "ギリシャ棺の謎",
     "isbn": "9784488104399",
@@ -524,6 +540,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:33.195Z"
   },
+  "hakuba-sanso": {
+    "title": "白馬山荘殺人事件",
+    "isbn": "9784334790424",
+    "matchedTitle": "白馬山荘殺人事件　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0424/9784334790424_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:23:50.032Z"
+  },
   "hanochi": {
     "title": "半落ち",
     "isbn": "9784062751940",
@@ -539,6 +563,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3018/9784167733018.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:15.895Z"
+  },
+  "henshin": {
+    "title": "変身",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T05:24:10.954Z"
   },
   "hi-to-tawamureru": {
     "title": "ミレニアム2 火と戯れる女",
@@ -845,6 +875,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:36.398Z"
   },
+  "kairotei": {
+    "title": "回廊亭殺人事件",
+    "isbn": "9784334791018",
+    "matchedTitle": "回廊亭殺人事件　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1018/9784334791018_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:24:15.770Z"
+  },
   "kakei-hotei": {
     "title": "火刑法廷",
     "isbn": null,
@@ -1067,6 +1105,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:38.054Z",
     "note": "書影は新潮文庫版の下巻(上巻は楽天ブックスに書誌がない)。作品は同一。"
+  },
+  "kuroneko-no-sankaku": {
+    "title": "黒猫の三角",
+    "isbn": "9784062734806",
+    "matchedTitle": "黒猫の三角",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4806/9784062734806.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:24:18.098Z"
   },
   "kuronekokan": {
     "title": "黒猫館の殺人",
@@ -1333,6 +1379,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:43.883Z"
   },
+  "mikeneko-holmes": {
+    "title": "三毛猫ホームズの推理",
+    "isbn": "9784041497814",
+    "matchedTitle": "三毛猫ホームズの推理",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0414/04149781.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:24:21.594Z"
+  },
   "mippei-kyoshitsu": {
     "title": "密閉教室",
     "isbn": "9784062760270",
@@ -1415,6 +1469,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6673/9784062646673.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:29.879Z"
+  },
+  "mukashi-boku-ga": {
+    "title": "むかし僕が死んだ家",
+    "isbn": "9784065410141",
+    "matchedTitle": "むかし僕が死んだ家　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0141/9784065410141_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:24:14.587Z"
   },
   "mystery-opera": {
     "title": "ミステリ・オペラ",
@@ -1807,6 +1869,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:49:11.197Z"
   },
+  "shindai-tokkyu": {
+    "title": "寝台特急殺人事件",
+    "isbn": "9784334746568",
+    "matchedTitle": "寝台特急殺人事件　ミリオンセラー・シリーズ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6568/9784334746568.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:24:19.264Z"
+  },
   "shinigami-no-seido": {
     "title": "死神の精度",
     "isbn": "9784167923372",
@@ -2173,6 +2243,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2973/9784062632973.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:38.940Z"
+  },
+  "tsuiso-godansho": {
+    "title": "追想五断章",
+    "isbn": "9784087468182",
+    "matchedTitle": "追想五断章",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8182/9784087468182_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:24:16.940Z"
   },
   "tsumetai-misshitsu": {
     "title": "冷たい密室と博士たち",

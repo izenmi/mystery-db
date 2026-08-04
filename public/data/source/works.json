@@ -10700,5 +10700,334 @@
     },
     "sourceNote": "『小説新潮』2002年11月号〜2004年5月号連載、2004年7月30日に新潮社より刊行。『六番目の小夜子』『球形の季節』と合わせて高校三部作とされる。発表年は連載開始年の2002年を採った。第2回本屋大賞・第26回吉川英治文学新人賞受賞はいずれも本DB未登録の賞のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hakuba-sanso",
+    "title": "白馬山荘殺人事件",
+    "titleKana": "はくばさんそうさつじんじけん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "seishun",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "兄が謎の死を遂げたペンションを、妹の公子が友人と訪れる。部屋に残されていたマザー・グースの詩と数字の走り書き。暗号を解くことが、兄の死の意味を知る道になる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1986年、光文社〈カッパ・ノベルス〉より刊行(1990年光文社文庫、2020年新装版)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "henshin",
+    "title": "変身",
+    "titleKana": "へんしん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "強盗事件に巻き込まれて頭を撃たれた青年が、世界初の脳移植手術で命を取り留める。だが回復するにつれ、好みも感情も別人のように変わっていく。自分が誰なのかを問い続ける長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1991年、講談社より刊行(1993年講談社ノベルス、1994年講談社文庫)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bunshin",
+    "title": "分身",
+    "titleKana": "ぶんしん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "北海道の氏家鞠子と東京の小林双葉。互いに面識のない二人の女性が、瓜二つの容貌を持っていた。それぞれが自分の出生を辿るうちに、二つの人生が同じ一点へ向かっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1993年、集英社より刊行(1996年集英社文庫)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mukashi-boku-ga",
+    "title": "むかし僕が死んだ家",
+    "titleKana": "むかしぼくがしんだいえ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "honkaku",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "幼い頃の記憶がないという元恋人に頼まれ、「私」は山中の無人の家を訪れる。時計はすべて止まり、日記だけが残されていた。二人はその家で一晩かけて、彼女の記憶をたどっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1994年、双葉社より刊行(1997年講談社文庫、2025年新装版)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kairotei",
+    "title": "回廊亭殺人事件",
+    "titleKana": "かいろうていさつじんじけん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "遺産の配分が告げられる夜、老舗旅館「回廊亭」に一族が集まる。恋人を失った女性が老女に変装して紛れ込み、一年前の火事の真相を探る。閉じた旅館で新たな死が起きる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1991年に光文社〈カッパ・ノベルス〉より『回廊亭の殺人』として刊行され、1994年の光文社文庫版で『回廊亭殺人事件』に改題(2020年新装版)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tsuiso-godansho",
+    "title": "追想五断章",
+    "titleKana": "ついそうごだんしょう",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "honkaku",
+      "kazoku",
+      "suspense",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "大学を休学中の菅生芳光は、亡き父が書いた五つの「結末のない小説」を探してほしいと依頼される。断片を集めるうち、二十二年前に起きた事件の輪郭が浮かび上がっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/追想五断章"
+    },
+    "sourceNote": "『小説すばる』2008年6月号〜12月号掲載、2009年8月30日に集英社より刊行(2012年集英社文庫)。発表年は掲載開始年の2008年を採った。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kuroneko-no-sankaku",
+    "title": "黒猫の三角",
+    "titleKana": "くろねこのさんかく",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "毎年六月、同じ日に、年齢が一つずつ上の女性が殺される。現場はいずれも密室で、部屋には小さな人形が残されていた。次の被害者になる年齢の女性が住むマンションを、瀬在丸紅子らが見張る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "1999年5月、講談社ノベルスより刊行。Vシリーズ第1作。2015年にフジテレビ系で『瀬在丸紅子の事件簿〜黒猫の三角〜』としてドラマ化。作品単独のWikipedia記事はないためシリーズ記事の書誌一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shindai-tokkyu",
+    "title": "寝台特急殺人事件",
+    "titleKana": "ぶるーとれいんさつじんじけん",
+    "authorIds": [
+      "nishimura-kyotaro"
+    ],
+    "detectiveIds": [
+      "totsugawa-shozo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku",
+      "suspense"
+    ],
+    "seriesName": "十津川警部シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "東京発の寝台特急「はやぶさ」で、女性の遺体が発見される。走行中の列車という限られた空間と、九州までの長い時間。十津川警部と亀井刑事が、時刻表を手に容疑者のアリバイを崩していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/寝台特急殺人事件"
+    },
+    "sourceNote": "1978年、光文社より刊行。著者の鉄道ミステリ第1作。作者自身が自選ベスト5の3番目に挙げていることをWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gotoba-densetsu",
+    "title": "後鳥羽伝説殺人事件",
+    "titleKana": "ごとばでんせつさつじんじけん",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "suspense",
+      "meitantei"
+    ],
+    "seriesName": "浅見光彦シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "後鳥羽上皇ゆかりの地をめぐる旅の途上で、関係者が相次いで不審死する。伝説の背後にある郷土史の争いに、ルポライターの浅見光彦が分け入っていく。浅見光彦シリーズ第1作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/後鳥羽伝説殺人事件"
+    },
+    "sourceNote": "1982年2月に単行本が刊行された浅見光彦シリーズ第1作。刊行元は現在流通する角川文庫版(1985年)に合わせた。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mikeneko-holmes",
+    "title": "三毛猫ホームズの推理",
+    "titleKana": "みけねこほーむずのすいり",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [
+      "katayama-yoshitaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "gakuen",
+      "nichijo-no-nazo"
+    ],
+    "seriesName": "三毛猫ホームズシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "女子大で起きた殺人事件を担当することになった刑事・片山義太郎。血が苦手な彼のそばには、事件のたびに手がかりを示す三毛猫のホームズがいた。妹の晴美を交えた三人組が謎に挑む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三毛猫ホームズの推理"
+    },
+    "sourceNote": "1978年発表の三毛猫ホームズシリーズ第1作。猫を主人公に据えた設定で人気を集めた。刊行元は現在流通する角川文庫版(1984年)に合わせた。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]
