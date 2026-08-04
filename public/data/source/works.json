@@ -16938,5 +16938,531 @@
     },
     "sourceNote": "2010年5月集英社刊、2013年10月集英社文庫。2017年にテレビドラマ化。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tenshi-ni-misuterareta-yoru",
+    "title": "天使に見捨てられた夜",
+    "titleKana": "てんしにみすてられたよる",
+    "authorIds": [
+      "kirino-natsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "hardboiled",
+      "shakaiha",
+      "suspense"
+    ],
+    "seriesName": "村野ミロシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "女性私立探偵の村野ミロが、アダルトビデオに出演した女性の行方を捜してほしいという依頼を受ける。撮影の現場、業界の周縁、そこに関わった人々の事情をたどるうちに、依頼そのものの意図が見えなくなっていく。シリーズ第2作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1994年6月講談社刊、1997年6月講談社文庫、2017年7月講談社文庫【新装版】。著者記事の著作一覧で確認した。本DB登録済みの『顔に降りかかる雨』に続く村野ミロシリーズの作品。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yawarakana-hoho",
+    "title": "柔らかな頬",
+    "titleKana": "やわらかなほお",
+    "authorIds": [
+      "kirino-natsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "iyamisu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "不倫相手との旅行の最中に、幼い娘が姿を消した。自分の身勝手が招いたのではないかという思いを抱えたまま、母は何年も娘を捜し続ける。見つからないまま時間だけが過ぎていく過程を描き、第121回直木賞を受賞した長編。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1999,
+        "result": "第121回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1999年4月講談社刊、2004年12月文春文庫【上・下】。第121回直木三十五賞(1999年)受賞。2001年にBS-iで前後編のテレビドラマ化。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "grotesque-kirino",
+    "title": "グロテスク",
+    "titleKana": "ぐろてすく",
+    "authorIds": [
+      "kirino-natsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "iyamisu",
+      "shakaiha",
+      "noir",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "名門女子校で同級生だった女性たちが、その後まったく別の道をたどり、二人は娼婦として殺される。手記や供述を積み重ねる形式で、学歴と容姿と階級が人をどう選別していくかが語られる。現実の事件を下敷きにした長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グロテスク_(小説)"
+    },
+    "sourceNote": "2003年6月文藝春秋刊、2006年9月文春文庫【上・下】。1997年の東電OL殺人事件をモチーフにした作品であることをWikipedia日本語版で確認した。第31回泉鏡花文学賞受賞作だが、同賞は本DBのawards.jsonに未登録のため受賞歴には登録せずここに記す。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "zangyakuki",
+    "title": "残虐記",
+    "titleKana": "ざんぎゃくき",
+    "authorIds": [
+      "kirino-natsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "iyamisu",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "少女時代に長期間監禁された事件の被害者だった女性作家が、ある日姿を消す。残されていたのは、当時のことを書いた原稿だった。被害者として語ることを強いられてきた人間が、自分の言葉を取り戻そうとする過程が描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "『週刊アスキー』に「アガルタ」の題で連載、2004年2月新潮社刊、2007年8月新潮文庫。第17回柴田錬三郎賞受賞作だが、同賞は本DBのawards.jsonに未登録のため受賞歴には登録せずここに記す。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kami-no-hi",
+    "title": "神の火",
+    "titleKana": "かみのひ",
+    "authorIds": [
+      "takamura-kaoru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "原子力発電所の技術者として働きながら、諜報の仕事にも足を踏み入れていた男。過去の関係者たちが再び集まり、原発をめぐるある計画が動き出す。技術と国家と個人の思惑が絡み合う、初期の代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1991年8月新潮社(新潮ミステリー倶楽部)刊、のち新潮文庫。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "terigaki",
+    "title": "照柿",
+    "titleKana": "てりがき",
+    "authorIds": [
+      "takamura-kaoru"
+    ],
+    "detectiveIds": [
+      "goda-yuichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "noir",
+      "suspense",
+      "shakaiha"
+    ],
+    "seriesName": "合田雄一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "真夏の東京で起きた轢死事故を追う刑事・合田雄一郎は、事件の周辺に幼なじみの工員がいることを知る。同じ女性に向けられた思いが二人の男を引き裂いていく。金属と熱と汗の感触を執拗に描き込んだ長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1994年7月講談社刊、のち講談社文庫・新潮文庫。著者記事の著作一覧で確認した。本DB登録済みの『マークスの山』『レディ・ジョーカー』と同じ合田雄一郎シリーズ。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "doki-yokoyama",
+    "title": "動機",
+    "titleKana": "どうき",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "tanpenshu",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "警察署で一括保管されていた警察手帳三十冊が、一晩で消える。署の威信をかけた内部調査が始まるが、犯人捜しは組織の論理に絡め取られていく。表題作ほか、警察・司法・報道の内側で働く人間を描いた短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2000年10月文藝春秋刊、2002年11月文春文庫。表題作「動機」が第53回日本推理作家協会賞(短編部門、2000年)を受賞しているが、受賞したのは短編であって本作(短編集)自体ではないため、本DBの方針に従い受賞歴には登録していない。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rinjo",
+    "title": "臨場",
+    "titleKana": "りんじょう",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "県警の検視官・倉石義男は、遺体を前にすると誰よりも多くを読み取る。だがその断定は、捜査本部の見立てや組織の都合とたびたび衝突する。死体が語ることと組織が語らせたいことのずれを描く連作短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/臨場"
+    },
+    "sourceNote": "2004年4月光文社刊、2007年9月光文社文庫。2007年に上農ヒロ昭の作画で漫画化、テレビドラマ化もされている。著者記事の著作一覧で確認した。検視官・倉石義男は本DBに探偵エンティティとして未登録のためdetectiveIdsは空にしている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shindo-zero",
+    "title": "震度0",
+    "titleKana": "しんどぜろ",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "阪神・淡路大震災が起きた日の朝、県警本部の警務課長が姿を消す。大災害の報道に世間の目が向くなか、県警の幹部たちは失踪そのものより、これが自分の立場にどう跳ね返るかを計算し始める。組織の力学だけで進む警察小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/震度0"
+    },
+    "sourceNote": "2005年7月朝日新聞社刊、2008年4月朝日文庫。2007年8月にWOWOWのドラマWでテレビドラマ化されたことをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "north-light",
+    "title": "ノースライト",
+    "titleKana": "のーすらいと",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "建築家の青瀬は、施主の希望どおりに理想の家を設計した。だが引き渡した家に一家は住んでおらず、がらんとした室内に古い椅子が一脚だけ残されていた。施主はどこへ行ったのか。建物と人の来歴を丁寧にたどる長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノースライト_(小説)"
+    },
+    "sourceNote": "2019年2月新潮社刊、2021年12月新潮文庫。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "keikan-no-chi",
+    "title": "警官の血",
+    "titleKana": "けいかんのち",
+    "authorIds": [
+      "sasaki-joh"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "kazoku",
+      "sengo-nihon",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "戦後まもなく駐在所勤務となった祖父、公安に配属された父、そして現代を生きる孫。三代にわたって警察官となった一族の人生を、昭和に起きた二つの未解決事件が串刺しにする。半世紀以上を一続きに描いた大作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/警官の血"
+    },
+    "sourceNote": "『小説新潮』2006年6月号〜2007年8月号連載、2007年新潮社刊。テレビドラマ化および韓国での映画化がされていることをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "seifuku-sosa",
+    "title": "制服捜査",
+    "titleKana": "せいふくそうさ",
+    "authorIds": [
+      "sasaki-joh"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen",
+      "shakaiha",
+      "nichijo-no-nazo"
+    ],
+    "seriesName": "駐在警官・川久保篤シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "北海道警の組織的な不祥事を受けた人事改革で、刑事だった川久保篤は田舎町の駐在所へ単身赴任することになる。捜査権のない立場で町の出来事に向き合いながら、住民が黙って抱えてきたものに触れていく5編の連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/制服捜査"
+    },
+    "sourceNote": "2006年新潮社刊。駐在警官・川久保篤シリーズの第1作で、2013年に内藤剛志主演でテレビドラマ化されたことをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rinsho-shinri",
+    "title": "臨床真理",
+    "titleKana": "りんしょうしんり",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "suspense",
+      "tokushu-settei",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "新人の臨床心理士が担当することになったのは、他人の感情が色として見えるという青年だった。彼が語る親友の死をめぐる話は、施設で処理された事実と食い違っている。心理士としての立場を越えて、彼女は真相を追い始める。著者のデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-taisho",
+        "year": 2008,
+        "result": "第7回大賞受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/臨床真理"
+    },
+    "sourceNote": "第7回『このミステリーがすごい!』大賞受賞作。2009年1月宝島社刊、2010年3月宝島社文庫【上・下】、2019年9月角川文庫。受賞年は選考が行われた第7回(2008年)としている。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jiu-yuzuki",
+    "title": "慈雨",
+    "titleKana": "じう",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "定年まで勤め上げた元刑事が、妻とともに四国遍路に出る。その道中、かつて自分が関わった未解決事件とよく似た事件が起きたことを知る。歩き続けながら過去の判断を反芻していく、静かな筆致の警察小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2016年10月集英社刊、2019年4月集英社文庫。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "banjo-no-himawari",
+    "title": "盤上の向日葵",
+    "titleKana": "ばんじょうのひまわり",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoron-shinsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "kazoku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "山中で見つかった白骨死体のそばに、高価な将棋の名駒が残されていた。二人の刑事が駒の来歴をたどる現在の捜査と、奨励会を経ずに実業界からプロ棋士となった男の半生が、交互に語られていく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/盤上の向日葵"
+    },
+    "sourceNote": "読売プレミアムに2015年〜2017年連載、2017年8月中央公論新社刊。第15回本屋大賞第2位だが、同賞は本DBのawards.jsonに未登録のため受賞歴には登録せずここに記す。Wikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyoken-no-manako",
+    "title": "凶犬の眼",
+    "titleKana": "きょうけんのまなこ",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "noir",
+      "suspense",
+      "shakaiha"
+    ],
+    "seriesName": "孤狼の血シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "前作の事件の後、日岡秀一は広島の山あいにある駐在所へ飛ばされていた。静かな土地で、彼は指名手配中の組長と顔を合わせることになる。取り締まる側と取り締まられる側のあいだに生まれる奇妙な関係を描くシリーズ第2作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/孤狼の血"
+    },
+    "sourceNote": "2018年3月KADOKAWA刊、2020年3月角川文庫。本DB登録済みの『孤狼の血』に続く全3作のシリーズ第2作であることを著者記事で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -161,6 +161,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:49.349Z"
   },
+  "banjo-no-himawari": {
+    "title": "盤上の向日葵",
+    "isbn": "9784120049996",
+    "matchedTitle": "盤上の向日葵",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9996/9784120049996.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:29.087Z"
+  },
   "baskerville": {
     "title": "バスカヴィル家の犬",
     "isbn": "9784102134078",
@@ -467,6 +475,14 @@
     "resolvedAt": "2026-08-04T03:57:20.574Z",
     "note": "書影は角川文庫版(上巻)。"
   },
+  "doki-yokoyama": {
+    "title": "動機",
+    "isbn": "9784167659028",
+    "matchedTitle": "動機",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1676/16765902.gif?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:17.263Z"
+  },
   "dokoku": {
     "title": "慟哭",
     "isbn": "9784488425012",
@@ -769,6 +785,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3217/9784488103217_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:40.048Z"
+  },
+  "grotesque-kirino": {
+    "title": "グロテスク",
+    "isbn": "9784167602093",
+    "matchedTitle": "グロテスク（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2093/9784167602093_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:11.365Z"
   },
   "gukoroku": {
     "title": "愚行録",
@@ -1267,6 +1291,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:30.836Z"
   },
+  "jiu-yuzuki": {
+    "title": "慈雨",
+    "isbn": "9784087716702",
+    "matchedTitle": "慈雨",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6702/9784087716702.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:27.926Z"
+  },
   "joobachi": {
     "title": "女王蜂",
     "isbn": "9784041304112",
@@ -1413,6 +1445,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:36:09.332Z"
   },
+  "kami-no-hi": {
+    "title": "神の火",
+    "isbn": "9784101347127",
+    "matchedTitle": "神の火 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7127/9784101347127.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:54.734Z",
+    "note": "自動取得が新潮文庫版の下巻を拾ったため上巻に差し替えた。"
+  },
   "kamisama-game": {
     "title": "神様ゲーム",
     "isbn": "9784062930819",
@@ -1502,6 +1543,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-04T05:27:32.457Z",
     "note": "書影は新潮文庫の合本版(第一部〜第五部)。文庫版は大幅に改稿されている。"
+  },
+  "keikan-no-chi": {
+    "title": "警官の血",
+    "isbn": "9784101223223",
+    "matchedTitle": "警官の血 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3223/9784101223223.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:56.557Z",
+    "note": "自動取得が新潮文庫版の下巻を拾ったため上巻に差し替えた。"
   },
   "kenji-no-honkai": {
     "title": "検事の本懐",
@@ -1873,6 +1923,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2403/9784094062403.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:15.650Z"
+  },
+  "kyoken-no-manako": {
+    "title": "凶犬の眼",
+    "isbn": null,
+    "matchedTitle": "凶犬の眼",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2758/2000008302758.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:18:32.670Z"
   },
   "kyoko-suiri": {
     "title": "虚構推理",
@@ -2511,6 +2569,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-04T07:13:43.823Z"
   },
+  "north-light": {
+    "title": "ノースライト",
+    "isbn": "9784104654024",
+    "matchedTitle": "ノースライト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4024/9784104654024.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:20.861Z"
+  },
   "nue-no-ishibumi": {
     "title": "鵼の碑",
     "isbn": "9784065362433",
@@ -2714,6 +2780,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:09:10.510Z"
   },
+  "rinjo": {
+    "title": "臨場",
+    "isbn": "9784334743031",
+    "matchedTitle": "臨場",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3031/9784334743031.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:18.479Z"
+  },
+  "rinsho-shinri": {
+    "title": "臨床真理",
+    "isbn": "9784041083116",
+    "matchedTitle": "臨床真理",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3116/9784041083116_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:25.584Z"
+  },
   "rirasou": {
     "title": "りら荘事件",
     "isbn": "9784488403140",
@@ -2908,6 +2990,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:27:25.501Z"
   },
+  "seifuku-sosa": {
+    "title": "制服捜査",
+    "isbn": "9784101223216",
+    "matchedTitle": "制服捜査",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3216/9784101223216.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:23.218Z"
+  },
   "seijo-no-kyusai": {
     "title": "聖女の救済",
     "isbn": "9784167110147",
@@ -2963,6 +3053,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6568/9784334746568.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:24:19.264Z"
+  },
+  "shindo-zero": {
+    "title": "震度0",
+    "isbn": "9784022644350",
+    "matchedTitle": "震度0",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4350/9784022644350.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:19.651Z"
   },
   "shinigami-no-seido": {
     "title": "死神の精度",
@@ -3389,6 +3487,14 @@
     "resolvedAt": "2026-08-04T07:04:13.439Z",
     "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。"
   },
+  "tenshi-ni-misuterareta-yoru": {
+    "title": "天使に見捨てられた夜",
+    "isbn": "9784062937009",
+    "matchedTitle": "新装版　天使に見捨てられた夜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7009/9784062937009_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:09.022Z"
+  },
   "tenshi-no-knife": {
     "title": "天使のナイフ",
     "isbn": "9784065237663",
@@ -3402,6 +3508,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-04T06:29:06.899Z"
+  },
+  "terigaki": {
+    "title": "照柿",
+    "isbn": "9784101347219",
+    "matchedTitle": "照柿（上巻）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7219/9784101347219.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:14.870Z"
   },
   "terrorist-no-parasol": {
     "title": "テロリストのパラソル",
@@ -3647,6 +3761,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:30.088Z"
   },
+  "yawarakana-hoho": {
+    "title": "柔らかな頬",
+    "isbn": "9784167602062",
+    "matchedTitle": "柔らかな頬 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2062/9784167602062_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:10.186Z"
+  },
   "yoake-no-machi-de": {
     "title": "夜明けの街で",
     "isbn": "9784043718085",
@@ -3778,6 +3900,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:03:09.775Z",
     "note": "登録どおり東京創元社の中村有希訳【新訳版】。自動取得では角川文庫(越前敏弥訳)が当たっていたため差し替えた。"
+  },
+  "zangyakuki": {
+    "title": "残虐記",
+    "isbn": "9784101306353",
+    "matchedTitle": "残虐記",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1013/10130635.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:18:12.524Z"
   },
   "zero-jikan-e": {
     "title": "ゼロ時間へ",
