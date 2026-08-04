@@ -10212,5 +10212,493 @@
     },
     "sourceNote": "2011年、講談社より刊行。第12回本格ミステリ大賞(小説部門)受賞、『本格ミステリ・ベスト10』2012年版4位。2015年以降コミカライズ、のちアニメ化。累計500万部。以上をWikipedia日本語版で確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gurenkan",
+    "title": "紅蓮館の殺人",
+    "titleKana": "ぐれんかんのさつじん",
+    "authorIds": [
+      "atsukawa-tatsumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "closed-circle",
+      "seishun"
+    ],
+    "seriesName": "館四重奏シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "山中で山火事に巻き込まれた高校生たちが、隠者めいた作家の住む洋館に逃げ込む。火の手が迫るなか館で殺人が起き、脱出と謎解きのどちらを取るかを迫られる。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2020,
+        "result": "国内ランキング第3位"
+      },
+      {
+        "awardId": "mystery-ga-yomitai",
+        "year": 2020,
+        "result": "国内編第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紅蓮館の殺人"
+    },
+    "sourceNote": "2019年、講談社タイガより〈館四重奏〉シリーズ第1作として刊行。第20回本格ミステリ大賞(小説部門)候補(候補は登録しない方針のため未登録)。『2020本格ミステリ・ベスト10』国内3位、『ミステリが読みたい!2020年度版』国内編5位。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hoshiyomishi",
+    "title": "星詠師の記憶",
+    "titleKana": "ほしよみしのきおく",
+    "authorIds": [
+      "atsukawa-tatsumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "closed-circle",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "未来の光景が映る紫水晶を保管する教団施設。映像に残されていたのは、教主が殺される場面だった。予知された殺人を防ぐため、限られた人間しか立ち入れない施設で調査が始まる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/阿津川辰海"
+    },
+    "sourceNote": "2018年10月、光文社より刊行(2021年10月光文社文庫)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。ランキングに入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sono-kanousei",
+    "title": "その可能性はすでに考えた",
+    "titleKana": "そのかのうせいはすでにかんがえた",
+    "authorIds": [
+      "inoue-magi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "taju-kaiketsu",
+      "meitantei",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "カルト教団の集団自殺の現場で、少女の首が切り落とされた。奇蹟の存在を証明しようとする探偵・上苙丞は、持ち込まれるあらゆる合理的解決を一つずつ潰していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/その可能性はすでに考えた"
+    },
+    "sourceNote": "2015年9月10日、講談社ノベルスより書き下ろしで刊行。2016年度第16回本格ミステリ大賞候補(候補は登録しない方針のため未登録)。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koi-to-kinki",
+    "title": "恋と禁忌の述語論理",
+    "titleKana": "こいときんきのぷれでぃけっと",
+    "authorIds": [
+      "inoue-magi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "taju-kaiketsu",
+      "gakuen",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "数理論理学を専攻する女性研究者が、すでに解決したはずの事件の推理を数学的に検証していく。証明の穴を突かれるたび、事件は別の形を見せる。数学と推理を重ねた連作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2015,
+        "result": "第51回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/恋と禁忌の述語論理"
+    },
+    "sourceNote": "2015年1月7日、講談社ノベルスより刊行。第51回メフィスト賞を受賞した著者のデビュー作。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rakuen-tantei",
+    "title": "楽園とは探偵の不在なり",
+    "titleKana": "らくえんとはたんていのふざいなり",
+    "authorIds": [
+      "shasendo-yuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "closed-circle",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "二人以上殺した者は天使に地獄へ引きずり込まれる世界。二重殺人が成立しないはずのその世界で、孤島の館に集められた人々が次々に死んでいく。探偵は成立しない状況で推理を試みる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/斜線堂有紀"
+    },
+    "sourceNote": "2020年、早川書房より刊行(2022年11月ハヤカワ文庫JA)。第21回本格ミステリ大賞(小説部門)候補(候補は登録しない方針のため未登録)。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jiku-ryokosha",
+    "title": "時空旅行者の砂時計",
+    "titleKana": "じくうりょこうしゃのすなどけい",
+    "authorIds": [
+      "hojo-kie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "yakata-mono",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "余命わずかな妻を救うため、主人公は「一九六〇年の竜泉家」へ送り込まれる。土砂崩れで孤立した屋敷で連続殺人が起こり、彼は歴史を変えないという制約のもとで真相を追う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/方丈貴恵"
+    },
+    "sourceNote": "2019年、東京創元社より刊行(2023年9月創元推理文庫)。第29回鮎川哲也賞受賞作だが、受賞回次を一次情報で確認できなかったため受賞歴には登録していない。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hakobune",
+    "title": "方舟",
+    "titleKana": "はこぶね",
+    "authorIds": [
+      "yuki-haruo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "山中の地下建築に閉じ込められた十人。浸水が始まり、脱出には一人が犠牲になる必要があると判明する。その状況で殺人が起き、誰を残すかという選択が推理と直結していく。",
+    "awardResults": [
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2022,
+        "result": "国内部門第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夕木春央"
+    },
+    "sourceNote": "2022年、講談社より刊行(2024年8月講談社文庫)。『週刊文春ミステリーベスト10』2022年国内部門1位。第44回吉川英治文学新人賞・第20回本屋大賞・第23回本格ミステリ大賞の候補(いずれも候補または本DB未登録の賞のため未登録)。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "konoyo-no-hate",
+    "title": "此の世の果ての殺人",
+    "titleKana": "このよのはてのさつじん",
+    "authorIds": [
+      "araki-akane"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "suspense",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "小惑星の衝突まで残り三か月、人々が街を捨てていく福岡。自動車教習所で車のトランクから死体が見つかり、教習生と教官の二人が、滅びを目前にした世界で犯人を追い始める。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2022,
+        "result": "第68回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒木あかね"
+    },
+    "sourceNote": "2022年、講談社より刊行。第68回江戸川乱歩賞を史上最年少で受賞したデビュー作。作品単独のWikipedia記事はないため著者記事の受賞歴で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "meitantei-no-harawata",
+    "title": "名探偵のはらわた",
+    "titleKana": "めいたんていのはらわた",
+    "authorIds": [
+      "shirai-tomoyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "meitantei",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "昭和の凶悪犯たちの魂が現代に蘇り、同じ手口で殺人を繰り返す。探偵の原田亘は、蘇った犯人たちが起こす事件を、当時の記録と突き合わせながら解いていく連作長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白井智之"
+    },
+    "sourceNote": "2020年、新潮社より刊行(2023年2月新潮文庫)。各種ランキング上位に入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinso-wo-ohanashi",
+    "title": "#真相をお話しします",
+    "titleKana": "しんそうをおはなしします",
+    "authorIds": [
+      "yuki-shinichiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "tanpenshu",
+      "suspense",
+      "shakaiha",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "マッチングアプリ、オンライン家庭教師、動画配信、リモート飲み会。現代の通信手段を題材にした五編を収める短編集。日常の便利さの隙間から、悪意が滑り込んでくる。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2021,
+        "result": "第74回受賞(短編部門、収録作「#拡散希望」)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/結城真一郎"
+    },
+    "sourceNote": "収録作「#拡散希望」が2021年に第74回日本推理作家協会賞(短編部門)を受賞し、2022年に新潮社より短編集として単行本化された。平成生まれの作家としては同賞初受賞。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "masquerade-hotel",
+    "title": "マスカレード・ホテル",
+    "titleKana": "ますかれーどほてる",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku",
+      "suspense"
+    ],
+    "seriesName": "マスカレードシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "連続殺人の次の現場が高級ホテルだと予告され、刑事の新田浩介がフロントクラークとして潜入する。教育係のホテルウーマンと衝突しながら、彼は仮面をかぶった客たちを観察し続ける。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マスカレード・ホテル"
+    },
+    "sourceNote": "2011年、集英社より刊行(2014年集英社文庫)。マスカレードシリーズ第1作。2019年映画化。各種ランキングに入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bottleneck",
+    "title": "ボトルネック",
+    "titleKana": "ぼとるねっく",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "tokushu-settei",
+      "seishun",
+      "kazoku",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "恋人の死んだ場所を訪れた高校生のリョウは、崖から落ちた直後、自分が存在しない世界に立っていた。そこでは姉が生まれ、家族の形も違っていた。二つの世界を比べながら、彼は自分の価値を測ってしまう。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ボトルネック_(小説)"
+    },
+    "sourceNote": "2006年、新潮社より刊行。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rokubanme-no-sayoko",
+    "title": "六番目の小夜子",
+    "titleKana": "ろくばんめのさよこ",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "gakuen",
+      "seishun",
+      "kaiki-gensou",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "ある高校に、三年ごとに「サヨコ」を引き継ぐ奇妙な決まりごとが伝わっていた。六人目のサヨコが選ばれた年、転校生の津村沙世子が現れ、学校は静かにざわめき始める。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/六番目の小夜子"
+    },
+    "sourceNote": "1992年、新潮文庫より書き下ろしで刊行された著者のデビュー作。第3回日本ファンタジーノベル大賞の最終候補作(候補は登録しない方針のため未登録)。2000年NHKでドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yoru-no-picnic",
+    "title": "夜のピクニック",
+    "titleKana": "よるのぴくにっく",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "seishun",
+      "gakuen",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "高校生活最後の行事「歩行祭」。八十キロを夜通し歩く道のりのなかで、貴子は誰にも言えなかった賭けを胸に抱えている。歩きながら少しずつ明かされる、同級生たちの事情。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夜のピクニック"
+    },
+    "sourceNote": "『小説新潮』2002年11月号〜2004年5月号連載、2004年7月30日に新潮社より刊行。『六番目の小夜子』『球形の季節』と合わせて高校三部作とされる。発表年は連載開始年の2002年を採った。第2回本屋大賞・第26回吉川英治文学新人賞受賞はいずれも本DB未登録の賞のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

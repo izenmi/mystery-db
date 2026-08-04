@@ -146,6 +146,14 @@
     "resolvedAt": "2026-08-04T04:16:33.436Z",
     "note": "書影は文春文庫版の上巻。"
   },
+  "bottleneck": {
+    "title": "ボトルネック",
+    "isbn": "9784101287812",
+    "matchedTitle": "ボトルネック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7812/9784101287812.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:39.096Z"
+  },
   "byakuyako": {
     "title": "白夜行",
     "isbn": null,
@@ -468,6 +476,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:16:00.338Z"
   },
+  "gurenkan": {
+    "title": "紅蓮館の殺人",
+    "isbn": "9784065168196",
+    "matchedTitle": "紅蓮館の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8196/9784065168196_1_23.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:24.976Z"
+  },
   "gusha-no-endroll": {
     "title": "愚者のエンドロール",
     "isbn": "9784044271022",
@@ -499,6 +515,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2790/9784062932790.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:18.220Z"
+  },
+  "hakobune": {
+    "title": "方舟",
+    "isbn": "9784065292686",
+    "matchedTitle": "方舟",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2686/9784065292686_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:33.195Z"
   },
   "hanochi": {
     "title": "半落ち",
@@ -600,6 +624,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4082/9784041304082.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:32.813Z"
+  },
+  "hoshiyomishi": {
+    "title": "星詠師の記憶",
+    "isbn": "9784334912499",
+    "matchedTitle": "星詠師の記憶",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2499/9784334912499.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:26.145Z"
   },
   "hyoka": {
     "title": "氷菓",
@@ -715,6 +747,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3714/9784062763714.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:11:32.067Z"
+  },
+  "jiku-ryokosha": {
+    "title": "時空旅行者の砂時計",
+    "isbn": "9784488499211",
+    "matchedTitle": "時空旅行者の砂時計",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9211/9784488499211_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:30.836Z"
   },
   "joobachi": {
     "title": "女王蜂",
@@ -921,6 +961,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:29.677Z"
   },
+  "koi-to-kinki": {
+    "title": "恋と禁忌の述語論理",
+    "isbn": "9784065139950",
+    "matchedTitle": "恋と禁忌の述語論理",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9950/9784065139950_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:28.495Z"
+  },
   "kokuhaku": {
     "title": "告白",
     "isbn": "9784575513448",
@@ -945,6 +993,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:21.745Z",
     "note": "登録は角川文庫だが書影は河出書房新社版。作品は同一。"
+  },
+  "konoyo-no-hate": {
+    "title": "此の世の果ての殺人",
+    "isbn": "9784065289204",
+    "matchedTitle": "此の世の果ての殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9204/9784065289204_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:34.378Z"
   },
   "koro-no-chi": {
     "title": "孤狼の血",
@@ -1223,6 +1279,14 @@
     "resolvedAt": "2026-08-04T04:09:50.564Z",
     "note": "登録は早川書房の単行本だが書影は新潮文庫版(上巻)。自動取得では下巻が当たっていたため上巻に手動で差し替えた。"
   },
+  "masquerade-hotel": {
+    "title": "マスカレード・ホテル",
+    "isbn": "9784087714142",
+    "matchedTitle": "マスカレード・ホテル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4142/9784087714142_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:37.916Z"
+  },
   "me-no-kabe": {
     "title": "眼の壁",
     "isbn": "9784101109176",
@@ -1246,6 +1310,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3974/9784062763974_1_13.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:42.367Z"
+  },
+  "meitantei-no-harawata": {
+    "title": "名探偵のはらわた",
+    "isbn": "9784103535218",
+    "matchedTitle": "名探偵のはらわた",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5218/9784103535218.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:35.549Z"
   },
   "meitantei-no-okite": {
     "title": "名探偵の掟",
@@ -1568,6 +1640,14 @@
     "resolvedAt": "2026-08-04T04:41:17.426Z",
     "note": "書影は文春文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
+  "rakuen-tantei": {
+    "title": "楽園とは探偵の不在なり",
+    "isbn": "9784152099617",
+    "matchedTitle": "楽園とは探偵の不在なり",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9617/9784152099617.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:29.668Z"
+  },
   "ranhansha": {
     "title": "乱反射",
     "isbn": "9784022646385",
@@ -1605,6 +1685,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0226/02264295.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:34.966Z"
+  },
+  "rokubanme-no-sayoko": {
+    "title": "六番目の小夜子",
+    "isbn": "9784101234137",
+    "matchedTitle": "六番目の小夜子",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4137/9784101234137.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:40.265Z"
   },
   "rokuyon": {
     "title": "64",
@@ -1745,6 +1833,14 @@
     "resolvedAt": "2026-08-04T05:11:24.640Z",
     "note": "登録は光文社(江戸川乱歩全集)だが書影は春陽文庫版。作品は同一。"
   },
+  "shinso-wo-ohanashi": {
+    "title": "#真相をお話しします",
+    "isbn": "9784103522348",
+    "matchedTitle": "＃真相をお話しします",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2348/9784103522348_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:36.745Z"
+  },
   "shinzanmono": {
     "title": "新参者",
     "isbn": "9784062776288",
@@ -1827,6 +1923,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:41:18.692Z",
     "note": "書影は新潮文庫版の第1部(1)。自動取得では単行本の第II部が当たっていたため差し替えた。"
+  },
+  "sono-kanousei": {
+    "title": "その可能性はすでに考えた",
+    "isbn": "9784062938532",
+    "matchedTitle": "その可能性はすでに考えた",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8532/9784062938532_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:27.318Z"
   },
   "sono-onna-alex": {
     "title": "その女アレックス",
@@ -2202,6 +2306,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8112/9784062938112_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:43.532Z"
+  },
+  "yoru-no-picnic": {
+    "title": "夜のピクニック",
+    "isbn": "9784103971054",
+    "matchedTitle": "夜のピクニック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1039/10397105.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:20:41.474Z"
   },
   "yoru-no-semi": {
     "title": "夜の蝉",

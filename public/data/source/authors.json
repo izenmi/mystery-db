@@ -990,5 +990,95 @@
     },
     "sourceNote": "経歴・代表作はWikipedia日本語版で確認した。生年は公表されていないため記載していない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "atsukawa-tatsumi",
+    "name": "阿津川辰海",
+    "nameKana": "あつかわたつみ",
+    "description": "特殊な状況設定と密度の高いロジックを組み合わせる新世代の本格ミステリ作家。",
+    "birthYear": 1994,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/阿津川辰海"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inoue-magi",
+    "name": "井上真偽",
+    "nameKana": "いのうえまぎ",
+    "description": "メフィスト賞出身の作家。数理論理や確率といった枠組みを推理の道具に用いる作風で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/井上真偽"
+    },
+    "sourceNote": "経歴・代表作はWikipedia日本語版で確認した。生年は公表されていないため記載していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shasendo-yuki",
+    "name": "斜線堂有紀",
+    "nameKana": "しゃせんどうゆうき",
+    "description": "恋愛小説からミステリまで幅広く手がける作家。極端な設定のもとで人間関係を突き詰める作風で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/斜線堂有紀"
+    },
+    "sourceNote": "経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hojo-kie",
+    "name": "方丈貴恵",
+    "nameKana": "ほうじょうきえ",
+    "description": "京都大学推理小説研究会出身の作家。特殊設定を厳密なルールとして提示し、その中で論理を組み立てる作品を書く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/方丈貴恵"
+    },
+    "sourceNote": "経歴・デビュー作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yuki-haruo",
+    "name": "夕木春央",
+    "nameKana": "ゆうきはるお",
+    "description": "メフィスト賞出身の作家。端正な語り口と、終盤の一撃で読者の前提を覆す構成で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夕木春央"
+    },
+    "sourceNote": "経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "araki-akane",
+    "name": "荒木あかね",
+    "nameKana": "あらきあかね",
+    "description": "『此の世の果ての殺人』で江戸川乱歩賞を史上最年少で受賞してデビューした作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒木あかね"
+    },
+    "sourceNote": "経歴・デビュー作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shirai-tomoyuki",
+    "name": "白井智之",
+    "nameKana": "しらいともゆき",
+    "description": "歪んだ世界設定と厳密な推理を組み合わせる作家。過激な題材を本格ミステリの型に収める作風で知られる。",
+    "birthYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白井智之"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yuki-shinichiro",
+    "name": "結城真一郎",
+    "nameKana": "ゆうきしんいちろう",
+    "description": "新潮ミステリー大賞出身の作家。SNSや配信といった現代的な題材を短編ミステリに取り込む作風で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/結城真一郎"
+    },
+    "sourceNote": "経歴・受賞歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
