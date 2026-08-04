@@ -103,6 +103,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:52.163Z"
   },
+  "america-ju-no-nazo": {
+    "title": "アメリカ銃の謎",
+    "isbn": "9784488104412",
+    "matchedTitle": "アメリカ銃の謎【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4412/9784488104412.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:01:32.382Z"
+  },
   "ankokukan": {
     "title": "暗黒館の殺人",
     "isbn": "9784062758550",
@@ -154,6 +162,14 @@
     "resolvedAt": "2026-08-04T03:51:32.115Z",
     "note": "登録した新潮文庫・延原謙訳の改版に手動で合わせた(自動取得では光文社文庫版が当たっていた)"
   },
+  "benson-satsujin-jiken": {
+    "title": "ベンスン殺人事件",
+    "isbn": "9784488103194",
+    "matchedTitle": "ベンスン殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3194/9784488103194.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:03:49.867Z"
+  },
   "berlin-wa-hareteiruka": {
     "title": "ベルリンは晴れているか",
     "isbn": "9784480804822",
@@ -204,6 +220,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:38:29.525Z",
     "note": "自動取得が講談社文庫新装版の下巻(9784065400975)を拾ったため上巻に差し替えた。"
+  },
+  "boshi-shushukyo-jiken": {
+    "title": "帽子収集狂事件",
+    "isbn": "9784488118303",
+    "matchedTitle": "帽子収集狂事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8303/9784488118303.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:04:09.402Z",
+    "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。"
   },
   "bottleneck": {
     "title": "ボトルネック",
@@ -271,6 +296,14 @@
     "resolvedAt": "2026-08-04T04:56:50.236Z",
     "note": "書影は講談社文庫の新装版(上巻)。"
   },
+  "canary-satsujin-jiken": {
+    "title": "カナリア殺人事件",
+    "isbn": "9784488103200",
+    "matchedTitle": "カナリア殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3200/9784488103200.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:03:51.024Z"
+  },
   "caribbean-no-himitsu": {
     "title": "カリブ海の秘密",
     "isbn": "9784151300431",
@@ -319,6 +352,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8016/9784043718016_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:28:39.111Z"
+  },
+  "chuto-no-ie": {
+    "title": "中途の家",
+    "isbn": "9784041014585",
+    "matchedTitle": "中途の家",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4585/9784041014585.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:01:31.226Z"
   },
   "climbers-high": {
     "title": "クライマーズ・ハイ",
@@ -892,6 +933,15 @@
     "resolvedAt": "2026-08-04T03:51:33.375Z",
     "note": "登録した新潮文庫・延原謙訳に手動で合わせた(自動取得では英語対訳版が当たっていた)"
   },
+  "holmes-jikenbo": {
+    "title": "シャーロック・ホームズの事件簿",
+    "isbn": "9784102134047",
+    "matchedTitle": "シャーロック・ホームズの事件簿",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1021/10213404.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:04:13.635Z",
+    "note": "自動取得がIBCパブリッシングの英語学習用版を拾ったため、登録した延原謙訳の新潮文庫版に差し替えた。"
+  },
   "holmes-kaiso": {
     "title": "シャーロック・ホームズの回想",
     "isbn": null,
@@ -908,6 +958,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:03:12.287Z",
     "note": "登録どおり新潮文庫の延原謙訳。自動取得では河出書房新社版が当たっていたため差し替えた。"
+  },
+  "holmes-saigo-no-aisatsu": {
+    "title": "シャーロック・ホームズ最後の挨拶",
+    "isbn": "9784102134092",
+    "matchedTitle": "シャーロック・ホームズ最後の挨拶改版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4092/9784102134092.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:04:15.366Z",
+    "note": "自動取得が光文社文庫(日暮雅通訳)を拾ったため、登録した延原謙訳の新潮文庫版に差し替えた。"
   },
   "honjin-satsujin": {
     "title": "本陣殺人事件",
@@ -1332,6 +1391,15 @@
     "resolvedAt": "2026-08-04T05:15:45.871Z",
     "note": "登録は宝島社(単行本)だが書影は角川文庫版。作品は同一。"
   },
+  "kifujin-toshite-shisu": {
+    "title": "貴婦人として死す",
+    "isbn": "9784488118402",
+    "matchedTitle": "貴婦人として死す",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8402/9784488118402.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:04:11.502Z",
+    "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。"
+  },
   "kiganjo": {
     "title": "奇岩城",
     "isbn": "9784151757532",
@@ -1447,6 +1515,15 @@
     "resolvedAt": "2026-08-04T03:57:21.745Z",
     "note": "登録は角川文庫だが書影は河出書房新社版。作品は同一。"
   },
+  "kokushiso-no-satsujin": {
+    "title": "黒死荘の殺人",
+    "isbn": "9784488118334",
+    "matchedTitle": "黒死荘の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8334/9784488118334.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:04:11.322Z",
+    "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。"
+  },
   "konjaku-hyakki-shui-kappa": {
     "title": "今昔百鬼拾遺 河童",
     "isbn": "9784041080450",
@@ -1544,6 +1621,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:56:59.370Z"
   },
+  "kunin-to-shi-de-junin-da": {
+    "title": "九人と死で十人だ",
+    "isbn": "9784488118457",
+    "matchedTitle": "九人と死で十人だ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8457/9784488118457.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:04:13.261Z",
+    "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。"
+  },
   "kurayami-no-sasayaki": {
     "title": "暗闇の囁き",
     "isbn": "9784065225141",
@@ -1601,6 +1687,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:11:29.718Z",
     "note": "登録は光文社だが書影は創元推理文庫版。作品は同一。"
+  },
+  "kutsu-ni-sumu-rouba": {
+    "title": "靴に棲む老婆",
+    "isbn": null,
+    "matchedTitle": "靴に棲む老婆",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6271/2000002146271.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:01:35.813Z"
   },
   "kyofu-no-tani": {
     "title": "恐怖の谷",
@@ -1890,6 +1984,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0126/9784151310126_1_7.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:57:00.533Z"
+  },
+  "midori-no-capsule": {
+    "title": "緑のカプセルの謎",
+    "isbn": "9784488118419",
+    "matchedTitle": "緑のカプセルの謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8419/9784488118419.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:02:21.413Z"
   },
   "mikeneko-holmes": {
     "title": "三毛猫ホームズの推理",
@@ -2721,6 +2823,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:11:35.519Z"
   },
+  "shiroi-soin-no-satsujin": {
+    "title": "白い僧院の殺人",
+    "isbn": "9784488118464",
+    "matchedTitle": "白い僧院の殺人【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8464/9784488118464.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:04:11.138Z",
+    "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。"
+  },
   "shisei-satsujin": {
     "title": "刺青殺人事件",
     "isbn": "9784334766443",
@@ -3053,6 +3164,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9149/9784062639149.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:28:37.956Z"
+  },
+  "tennis-court-no-satsujin": {
+    "title": "テニスコートの殺人",
+    "isbn": "9784488118372",
+    "matchedTitle": "テニスコートの殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8372/9784488118372.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:04:13.439Z",
+    "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。"
   },
   "tenshi-no-knife": {
     "title": "天使のナイフ",

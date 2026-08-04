@@ -15355,5 +15355,551 @@
     },
     "sourceNote": "原著は1942年刊、マープルもの長編第3作。著者自身がお気に入りに挙げた10作の一つであることをWikipedia日本語版で確認した。邦訳は高橋豊訳のハヤカワ文庫版(2004年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chuto-no-ie",
+    "title": "中途の家",
+    "titleKana": "ちゅうとのいえ",
+    "originalTitle": "Halfway House",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "echizen-toshiya",
+      "sato-kei"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "houtei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1936,
+    "jpPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "ニューヨークとフィラデルフィアの中ほどに建つ小屋で、行商人の男が刺殺される。調べを進めると、被害者は二つの土地でまったく別の名前と家庭を持っていたことが分かる。法廷の場面を大きく取り込んだ、国名シリーズ以後の第一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中途の家"
+    },
+    "sourceNote": "原著は1936年刊。国名シリーズから脱却した最初の作品であることをWikipedia日本語版で確認した。邦訳は越前敏弥・佐藤桂訳の角川文庫版(2015年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "america-ju-no-nazo",
+    "title": "アメリカ銃の謎",
+    "titleKana": "あめりかじゅうのなぞ",
+    "originalTitle": "The American Gun Mystery",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "nakamura-yuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1933,
+    "jpPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "二万人の観客が見つめる競技場で、ロデオ・ショーの花形が馬上から射殺される。ところが会場を封鎖して全員を調べても、凶器の拳銃だけがどこにも見つからない。消えた銃の行方を軸に据えた国名シリーズ第6作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アメリカ銃の謎"
+    },
+    "sourceNote": "原著は1933年刊、国名シリーズ第6作。邦訳は中村有希訳の創元推理文庫【新訳版】(2017年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kutsu-ni-sumu-rouba",
+    "title": "靴に棲む老婆",
+    "titleKana": "くつにすむろうば",
+    "originalTitle": "There Was an Old Woman",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "echizen-toshiya"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "mitate-satsujin",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1943,
+    "jpPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "靴の製造で財を成した一族の屋敷で、マザー・グースの歌になぞらえたとしか思えない出来事が続けて起こる。奇矯な老婦人を中心に集まった家族のなかで、誰が歌をなぞっているのか。童謡と本格推理を組み合わせた中期の一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/靴に棲む老婆"
+    },
+    "sourceNote": "原著は1943年刊。創元推理文庫(1959年)では『生者と死者と』の題で刊行されていたことをWikipedia日本語版で確認した。邦訳は越前敏弥訳のハヤカワ・ミステリ文庫〔新訳版〕(2022年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "boshi-shushukyo-jiken",
+    "title": "帽子収集狂事件",
+    "titleKana": "ぼうししゅうしゅうきょうじけん",
+    "originalTitle": "The Mad Hatter Mystery",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "misumi-kazuyo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1933,
+    "jpPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "ロンドンで、人の帽子を盗んでは奇妙な場所に置いていく悪戯が続いていた。やがてロンドン塔の堀で、盗まれた帽子をかぶせられた死体が見つかる。ふざけた悪戯と殺人がなぜ結びつくのかを、フェル博士が解きほぐしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/帽子収集狂事件"
+    },
+    "sourceNote": "原著は1933年刊、ギデオン・フェル博士ものの長編第2作。邦訳は三角和代訳の創元推理文庫版(2011年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shiroi-soin-no-satsujin",
+    "title": "白い僧院の殺人",
+    "titleKana": "しろいそういんのさつじん",
+    "originalTitle": "The White Priory Murders",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "takazawa-osamu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "jpPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "屋敷の敷地に建つ離れで、滞在していた女優が撲殺される。前夜から雪が降り積もっていたにもかかわらず、離れに向かう足跡はどこにも残っていなかった。足跡のない殺人にヘンリ・メリヴェール卿が挑む長編第2作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白い僧院の殺人"
+    },
+    "sourceNote": "カーター・ディクスン名義。原著は1934年刊、ヘンリ・メリヴェール卿ものの長編第2作。邦訳は高沢治訳の創元推理文庫【新訳版】(2019年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kokushiso-no-satsujin",
+    "title": "黒死荘の殺人",
+    "titleKana": "こくしそうのさつじん",
+    "originalTitle": "The Plague Court Murders",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "nanjo-takenori"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "misshitsu",
+      "kaiki-gensou"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "jpPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "疫病で死んだ者たちの怨念が残るという曰くつきの屋敷。その敷地に建つ石造りの小屋で、降霊会を執り行っていた霊媒師が刺殺される。小屋は施錠され、周囲のぬかるみには足跡ひとつなかった。ヘンリ・メリヴェール卿の初登場作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/プレーグ・コートの殺人"
+    },
+    "sourceNote": "カーター・ディクスン名義。原著は1934年刊、ヘンリ・メリヴェール卿ものの長編第1作。旧訳では『プレーグ・コートの殺人』の題で知られるが、本DBは現在流通している創元推理文庫版の邦題『黒死荘の殺人』(南条竹則訳、2012年)を採用した。楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "midori-no-capsule",
+    "title": "緑のカプセルの謎",
+    "titleKana": "みどりのかぷせるのなぞ",
+    "originalTitle": "The Problem of the Green Capsule",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "misumi-kazuyo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1939,
+    "jpPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "町で起きた毒入り菓子事件をきっかけに、目撃証言がいかに当てにならないかを証明しようとした男が、身内を集めて心理実験を行う。その最中、実験の演者だった男自身が毒殺される。副題に「心理学的殺人事件」を掲げた一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/緑のカプセルの謎"
+    },
+    "sourceNote": "原著は1939年刊、副題は Being the psychologist's murder case。ギデオン・フェル博士ものの長編第10作であることをWikipedia日本語版で確認した。邦訳は三角和代訳の創元推理文庫版(2016年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kifujin-toshite-shisu",
+    "title": "貴婦人として死す",
+    "titleKana": "きふじんとしてしす",
+    "originalTitle": "She Died a Lady",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "takazawa-osamu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1943,
+    "jpPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "断崖の上に残された二人分の足跡は、崖っぷちでぷつりと途切れていた。心中したと見えた男女の遺体が海から上がるが、状況はそれを裏切っていく。足跡のない不可能状況を扱った、ヘンリ・メリヴェール卿ものの長編第14作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/貴婦人として死す"
+    },
+    "sourceNote": "カーター・ディクスン名義。原著は1943年刊。断崖での足跡のない殺人という不可能興味を扱った作品であることをWikipedia日本語版で確認した。邦訳は高沢治訳の創元推理文庫版(2016年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kunin-to-shi-de-junin-da",
+    "title": "九人と死で十人だ",
+    "titleKana": "くにんとしでじゅうにんだ",
+    "originalTitle": "Nine—and Death Makes Ten",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "komatsuki-masako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "closed-circle"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1940,
+    "jpPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "第二次大戦下、潜水艦の警戒水域を進む軍需輸送船。乗り合わせた乗客は九人しかいないはずなのに、殺人現場には誰のものとも一致しない血痕の指紋が残されていた。海上という逃げ場のない舞台で、ヘンリ・メリヴェール卿が動く。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/九人と死で十人だ"
+    },
+    "sourceNote": "カーター・ディクスン名義。原著は1940年刊、ヘンリ・メリヴェール卿ものの長編第11作。邦訳は駒月雅子訳の創元推理文庫版(2018年)を採用した(初訳は1999年国書刊行会、同じく駒月訳)。楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tennis-court-no-satsujin",
+    "title": "テニスコートの殺人",
+    "titleKana": "てにすこーとのさつじん",
+    "originalTitle": "The Problem of the Wire Cage",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "misumi-kazuyo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1939,
+    "jpPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "雨上がりのテニスコートの中央で、男が絞殺されているのが見つかる。柔らかい地面に残っていたのは被害者自身の足跡だけで、犯人が近づいて戻った痕跡がどこにもない。金網に囲まれた密室のような状況にフェル博士が挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テニスコートの殺人"
+    },
+    "sourceNote": "原著は1939年刊、ギデオン・フェル博士ものの長編第11作。創元推理文庫の旧題は『テニスコートの謎』であることをWikipedia日本語版で確認した。邦訳は三角和代訳の創元推理文庫版(2014年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "benson-satsujin-jiken",
+    "title": "ベンスン殺人事件",
+    "titleKana": "べんすんさつじんじけん",
+    "originalTitle": "The Benson Murder Case",
+    "authorIds": [
+      "van-dine"
+    ],
+    "detectiveIds": [
+      "philo-vance"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1926,
+    "jpPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "ニューヨークの株式仲買人が、自宅の居間で頭を撃ち抜かれて死んでいた。物証は容疑者を次々と指し示すが、ファイロ・ヴァンスは物証よりも人間の性質から犯人を決められると主張する。名探偵ヴァンスの初登場作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベンスン殺人事件"
+    },
+    "sourceNote": "原著は1926年刊、ファイロ・ヴァンスものの第1作。邦訳は日暮雅通訳の創元推理文庫版(2013年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。本DBに登録済みの『僧正殺人事件』『グリーン家殺人事件』と同じ訳者・版元でそろえている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "canary-satsujin-jiken",
+    "title": "カナリア殺人事件",
+    "titleKana": "かなりあさつじんじけん",
+    "originalTitle": "The Canary Murder Case",
+    "authorIds": [
+      "van-dine"
+    ],
+    "detectiveIds": [
+      "philo-vance"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1927,
+    "jpPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "「カナリア」と呼ばれた美貌の歌手が、自室で絞殺されているのが見つかる。部屋は内側から施錠され、出入りできた者はいないように見えた。複数の男たちを手玉に取っていた被害者の交友関係を、ファイロ・ヴァンスが検分していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カナリア殺人事件"
+    },
+    "sourceNote": "原著は1927年刊、ファイロ・ヴァンスものの第2作。邦訳は日暮雅通訳の創元推理文庫版(2018年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "holmes-jikenbo",
+    "title": "シャーロック・ホームズの事件簿",
+    "titleKana": "しゃーろっくほーむずのじけんぼ",
+    "originalTitle": "The Case-Book of Sherlock Holmes",
+    "authorIds": [
+      "conan-doyle"
+    ],
+    "detectiveIds": [
+      "sherlock-holmes"
+    ],
+    "translatorIds": [
+      "nobuhara-ken"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "tanpenshu",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1927,
+    "jpPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "ホームズものの最後の短編集。引退した後の依頼、ワトスンではなくホームズ自身が語る事件、実験的な語り口を試した作品などが並ぶ。長い連載の締めくくりとして、探偵と記録者の関係そのものを振り返るような一冊になっている。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シャーロック・ホームズの事件簿"
+    },
+    "sourceNote": "原著は1927年刊、ホームズ短編集としては最後の一冊。邦訳は本DB登録済みの『シャーロック・ホームズの冒険』『帰還』と同じ延原謙訳・新潮文庫版(2010年)を採用した。楽天ブックスの書誌で版元を確認した。英語学習用の対訳版・ラダー版が多数流通しているため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "holmes-saigo-no-aisatsu",
+    "title": "シャーロック・ホームズ最後の挨拶",
+    "titleKana": "しゃーろっくほーむずさいごのあいさつ",
+    "originalTitle": "His Last Bow",
+    "authorIds": [
+      "conan-doyle"
+    ],
+    "detectiveIds": [
+      "sherlock-holmes"
+    ],
+    "translatorIds": [
+      "nobuhara-ken"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "tanpenshu",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1917,
+    "jpPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "第一次世界大戦前夜を背景にした表題作を含む短編集。ボール箱に届いた不気味な贈り物、失踪した技師、赤い輪をめぐる下宿の怪など、初期とは少し肌合いの違う事件が並ぶ。年を重ねたホームズの姿が印象に残る一冊。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シャーロック・ホームズ最後の挨拶"
+    },
+    "sourceNote": "原著は1917年刊。邦訳は本DB登録済みの他のホームズ短編集と同じ延原謙訳・新潮文庫版(2010年、改版)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
