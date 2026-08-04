@@ -1,0 +1,186 @@
+[
+  {
+    "id": "kindaichi-kosuke",
+    "name": "金田一耕助",
+    "nameKana": "きんだいちこうすけ",
+    "creatorAuthorId": "yokomizo-seishi",
+    "occupation": "私立探偵",
+    "description": "よれたお召しと帽子、もじゃもじゃ頭という風采の上がらない私立探偵。興奮すると頭を掻きむしり、吃るのが癖。旧家や因習の残る土地に持ち込まれる事件を数多く手がけた。",
+    "firstAppearanceWorkId": "honjin-satsujin",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/金田一耕助"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akechi-kogoro",
+    "name": "明智小五郎",
+    "nameKana": "あけちこごろう",
+    "creatorAuthorId": "edogawa-rampo",
+    "occupation": "私立探偵",
+    "description": "江戸川乱歩が生んだ日本を代表する名探偵。初登場時は書生風の青年だが、シリーズを重ねるにつれ洗練された職業探偵として描かれるようになる。",
+    "firstAppearanceWorkId": "d-zaka",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/明智小五郎"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mitarai-kiyoshi",
+    "name": "御手洗潔",
+    "nameKana": "みたらいきよし",
+    "creatorAuthorId": "shimada-soji",
+    "occupation": "占星術師",
+    "description": "横浜・馬車道に事務所を構える占星術師にして探偵。躁鬱の激しい奇矯な人物だが、常識に縛られない発想で難事件を解く。友人の石岡和己が記録者を務める。",
+    "firstAppearanceWorkId": "senseijutsu",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/御手洗潔"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shimada-kiyoshi",
+    "name": "島田潔",
+    "nameKana": "しまだきよし",
+    "creatorAuthorId": "ayatsuji-yukito",
+    "occupation": "推理作家",
+    "description": "館シリーズの探偵役。飄々とした人物で、後の作品では推理作家「鹿谷門実」の筆名で登場する。編集者の江南孝明とともに事件に関わることが多い。",
+    "firstAppearanceWorkId": "jukkakukan",
+    "externalLinks": {},
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。 『時計館の殺人』では鹿谷門実名義で登場する点も確認済み。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chuzenji-akihiko",
+    "name": "中禅寺秋彦",
+    "nameKana": "ちゅうぜんじあきひこ",
+    "creatorAuthorId": "kyogoku-natsuhiko",
+    "occupation": "古書肆・陰陽師",
+    "description": "古書肆「京極堂」の主人にして神主。通称・京極堂。膨大な知識をもとに「憑き物落とし」という形で事件の構造を解き明かす。",
+    "firstAppearanceWorkId": "ubume-no-natsu",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/百鬼夜行シリーズ"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "saikawa-sohei",
+    "name": "犀川創平",
+    "nameKana": "さいかわそうへい",
+    "creatorAuthorId": "mori-hiroshi",
+    "occupation": "大学助教授",
+    "description": "N大学工学部建築学科の助教授。理詰めで淡々とした物言いをする愛煙家で、教え子の西之園萌絵とともに事件に向き合う。",
+    "firstAppearanceWorkId": "subete-ga-f",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/S&Mシリーズ"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yukawa-manabu",
+    "name": "湯川学",
+    "nameKana": "ゆかわまなぶ",
+    "creatorAuthorId": "higashino-keigo",
+    "occupation": "大学准教授(物理学)",
+    "description": "帝都大学理工学部物理学科の准教授。「ガリレオ」と呼ばれ、物理学の知見で不可解な現象の仕組みを解き明かす。警察の草薙とは大学時代からの友人。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガリレオシリーズ"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。 初登場作は『探偵ガリレオ』(1998年)だが本サイト未収録のため初登場欄は空にしている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "oreki-hotaro",
+    "name": "折木奉太郎",
+    "nameKana": "おれきほうたろう",
+    "creatorAuthorId": "yonezawa-honobu",
+    "occupation": "高校生",
+    "description": "「やらなくてもいいことなら、やらない」を信条とする省エネ主義の高校生。古典部の同級生・千反田えるに引っ張り出される形で日常の謎を解く。",
+    "firstAppearanceWorkId": "hyoka",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古典部シリーズ"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kenzaki-hiruko",
+    "name": "剣崎比留子",
+    "nameKana": "けんざきひるこ",
+    "creatorAuthorId": "imamura-masahiro",
+    "occupation": "大学生",
+    "description": "神紅大学ミステリ愛好会に現れた「探偵少女」。警察も手を焼く難事件を解決してきた実績を持ち、事件に遭遇しやすい体質を自認している。",
+    "firstAppearanceWorkId": "shijinso",
+    "externalLinks": {},
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shizukawa-hisui",
+    "name": "城塚翡翠",
+    "nameKana": "じょうづかひすい",
+    "creatorAuthorId": "aizawa-sako",
+    "occupation": "霊媒",
+    "description": "死者の言葉を視るという霊媒の少女。その能力は法廷では証拠にならないため、推理作家の香月史郎が論理の形に翻訳する役を担う。",
+    "firstAppearanceWorkId": "medium",
+    "externalLinks": {},
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sherlock-holmes",
+    "name": "シャーロック・ホームズ",
+    "nameKana": "しゃーろっくほーむず",
+    "creatorAuthorId": "conan-doyle",
+    "occupation": "諮問探偵",
+    "description": "ベイカー街221Bに住む世界初の「諮問探偵」。観察と演繹によって依頼人の来歴を言い当てる。記録者は同居人のジョン・H・ワトスン。",
+    "firstAppearanceWorkId": "hiiro-no-kenkyu",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シャーロック・ホームズ"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hercule-poirot",
+    "name": "エルキュール・ポアロ",
+    "nameKana": "えるきゅーるぽあろ",
+    "creatorAuthorId": "agatha-christie",
+    "occupation": "私立探偵",
+    "description": "ベルギー出身の元警察官で、卵形の頭と自慢の口髭を持つ小柄な私立探偵。「灰色の脳細胞」を働かせ、現場を這い回るより人の話に耳を傾けることを好む。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エルキュール・ポアロ"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。 初登場作は『スタイルズ荘の怪事件』(1920年)だが本サイト未収録のため初登場欄は空にしている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "drury-lane",
+    "name": "ドルリー・レーン",
+    "nameKana": "どるりーれーん",
+    "creatorAuthorId": "ellery-queen",
+    "occupation": "元シェイクスピア俳優",
+    "description": "聴力を失い舞台を退いた老シェイクスピア俳優。ハムレット荘に隠棲しながら、読唇術と洞察力で事件に関わる。",
+    "externalLinks": {},
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。 初登場作は『Xの悲劇』(1932年)だが本サイト未収録のため初登場欄は空にしている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "philip-marlowe",
+    "name": "フィリップ・マーロウ",
+    "nameKana": "ふぃりっぷまーろう",
+    "creatorAuthorId": "raymond-chandler",
+    "occupation": "私立探偵",
+    "description": "ロサンゼルスで働く一匹狼の私立探偵。皮肉な口調と、割に合わなくても筋を通す職業倫理で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フィリップ・マーロウ"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。 初登場作は『大いなる眠り』(1939年)だが本サイト未収録のため初登場欄は空にしている。",
+    "updatedAt": "2026-08-04"
+  }
+]

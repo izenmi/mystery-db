@@ -1,0 +1,181 @@
+{
+  "ackroyd": {
+    "title": "アクロイド殺し",
+    "isbn": null,
+    "matchedTitle": "アクロイド殺し",
+    "coverUrl": "https://c.bookwalker.jp/053614/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:52:53.601Z"
+  },
+  "byakuyako": {
+    "title": "白夜行",
+    "isbn": null,
+    "matchedTitle": "白夜行",
+    "coverUrl": "https://c.bookwalker.jp/9147673/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:51:32.328Z"
+  },
+  "d-zaka": {
+    "title": "D坂の殺人事件",
+    "isbn": null,
+    "matchedTitle": "Ｄ坂の殺人事件",
+    "coverUrl": "https://c.bookwalker.jp/5307281/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:50:10.529Z"
+  },
+  "gokumonto": {
+    "title": "獄門島",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T02:50:01.863Z"
+  },
+  "hiiro-no-kenkyu": {
+    "title": "緋色の研究",
+    "isbn": null,
+    "matchedTitle": null,
+    "coverUrl": null,
+    "source": null,
+    "resolvedAt": "2026-08-04T02:55:00.000Z",
+    "note": "BOOK☆WALKERの自動マッチは『【大活字シリーズ】英語原文で味わうSherlock Holmes1』(英語原文版)を拾ってしまうため手動で除去した。新潮文庫(延原謙訳)の電子版はBOOK☆WALKERの検索では確認できず(『シャーロック・ホームズの冒険』『同 叡智』はヒットする)。楽天の認証情報を渡して--retry-missesで再挑戦する余地あり。"
+  },
+  "honjin-satsujin": {
+    "title": "本陣殺人事件",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T02:49:45.327Z"
+  },
+  "hyoka": {
+    "title": "氷菓",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T02:52:29.045Z"
+  },
+  "jukkakukan": {
+    "title": "十角館の殺人",
+    "isbn": null,
+    "matchedTitle": "十角館の殺人〈新装改訂版〉",
+    "coverUrl": "https://c.bookwalker.jp/662671/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:50:43.412Z"
+  },
+  "kasha": {
+    "title": "火車",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T02:51:24.287Z"
+  },
+  "mangan": {
+    "title": "満願",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T02:52:12.745Z"
+  },
+  "medium": {
+    "title": "medium 霊媒探偵城塚翡翠",
+    "isbn": null,
+    "matchedTitle": "ｍｅｄｉｕｍ　霊媒探偵城塚翡翠",
+    "coverUrl": "https://c.bookwalker.jp/9668554/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:49:19.162Z"
+  },
+  "nagai-owakare": {
+    "title": "長いお別れ",
+    "isbn": null,
+    "matchedTitle": "長いお別れ",
+    "coverUrl": "https://c.bookwalker.jp/399614/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:53:44.861Z"
+  },
+  "orient-express": {
+    "title": "オリエント急行の殺人",
+    "isbn": null,
+    "matchedTitle": "オリエント急行の殺人",
+    "coverUrl": "https://c.bookwalker.jp/9793961/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:53:01.730Z"
+  },
+  "rokuyon": {
+    "title": "64",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T02:51:56.743Z"
+  },
+  "senseijutsu": {
+    "title": "占星術殺人事件",
+    "isbn": null,
+    "matchedTitle": "占星術殺人事件　改訂完全版",
+    "coverUrl": "https://c.bookwalker.jp/2260243/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:50:35.451Z"
+  },
+  "shijinso": {
+    "title": "屍人荘の殺人",
+    "isbn": null,
+    "matchedTitle": "屍人荘の殺人",
+    "coverUrl": "https://c.bookwalker.jp/0689053/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:49:11.197Z"
+  },
+  "soshite-daremo": {
+    "title": "そして誰もいなくなった",
+    "isbn": null,
+    "matchedTitle": "そして誰もいなくなった〔改訳新版〕",
+    "coverUrl": "https://c.bookwalker.jp/840e5c381c59ff94ec419465ecc5333/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:53:19.717Z"
+  },
+  "subete-ga-f": {
+    "title": "すべてがFになる",
+    "isbn": null,
+    "matchedTitle": "すべてがＦになる　THE PERFECT INSIDER",
+    "coverUrl": "https://c.bookwalker.jp/7357161/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:50:59.680Z"
+  },
+  "suna-no-utsuwa": {
+    "title": "砂の器",
+    "isbn": null,
+    "matchedTitle": "砂の器（上）",
+    "coverUrl": "https://c.bookwalker.jp/8323842/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:50:27.177Z"
+  },
+  "ten-to-sen": {
+    "title": "点と線",
+    "isbn": null,
+    "matchedTitle": "点と線",
+    "coverUrl": "https://c.bookwalker.jp/6921602/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:50:19.093Z"
+  },
+  "tokeikan": {
+    "title": "時計館の殺人",
+    "isbn": null,
+    "matchedTitle": "時計館の殺人＜新装改訂版＞　上下合本版",
+    "coverUrl": "https://c.bookwalker.jp/9954363/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:50:51.509Z"
+  },
+  "ubume-no-natsu": {
+    "title": "姑獲鳥の夏",
+    "isbn": null,
+    "matchedTitle": "姑獲鳥の夏(1)【電子百鬼夜行】",
+    "coverUrl": "https://c.bookwalker.jp/4060243/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:51:07.940Z"
+  },
+  "y-no-higeki": {
+    "title": "Yの悲劇",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T02:53:36.196Z"
+  },
+  "yogisha-x": {
+    "title": "容疑者Xの献身",
+    "isbn": null,
+    "matchedTitle": "容疑者Xの献身",
+    "coverUrl": "https://c.bookwalker.jp/6856673/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-04T02:51:40.256Z"
+  }
+}

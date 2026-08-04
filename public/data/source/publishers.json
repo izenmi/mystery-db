@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kadokawa",
+    "name": "KADOKAWA(角川書店)",
+    "nameKana": "かどかわ",
+    "description": "横溝正史作品の文庫や角川文庫・角川スニーカー文庫を擁する大手出版社。",
+    "foundedYear": 1945,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kobunsha",
+    "name": "光文社",
+    "nameKana": "こうぶんしゃ",
+    "description": "カッパ・ノベルスで松本清張の社会派推理を世に送り出した出版社。光文社文庫では江戸川乱歩全集も刊行。",
+    "foundedYear": 1945,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kodansha",
+    "name": "講談社",
+    "nameKana": "こうだんしゃ",
+    "description": "講談社ノベルスを通じて新本格ミステリの震源となった総合出版社。メフィスト賞の主催元でもある。",
+    "foundedYear": 1909,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "futabasha",
+    "name": "双葉社",
+    "nameKana": "ふたばしゃ",
+    "description": "小説誌『小説推理』を擁し、宮部みゆきらのミステリを刊行してきた出版社。",
+    "foundedYear": 1948,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shueisha",
+    "name": "集英社",
+    "nameKana": "しゅうえいしゃ",
+    "description": "『小説すばる』を擁する総合出版社。小説すばる新人賞の主催元。",
+    "foundedYear": 1926,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bungeishunju",
+    "name": "文藝春秋",
+    "nameKana": "ぶんげいしゅんじゅう",
+    "description": "直木賞・松本清張賞の主催元であり、『週刊文春ミステリーベスト10』を発表する出版社。",
+    "foundedYear": 1923,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinchosha",
+    "name": "新潮社",
+    "nameKana": "しんちょうしゃ",
+    "description": "新潮文庫を擁する老舗出版社。山本周五郎賞の主催元で、延原謙訳のホームズ譚でも知られる。",
+    "foundedYear": 1896,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tokyo-sogensha",
+    "name": "東京創元社",
+    "nameKana": "とうきょうそうげんしゃ",
+    "description": "創元推理文庫を擁するミステリ専門色の強い出版社。鮎川哲也賞の主催元。",
+    "foundedYear": 1954,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hayakawa",
+    "name": "早川書房",
+    "nameKana": "はやかわしょぼう",
+    "description": "ハヤカワ・ミステリ(ポケミス)とクリスティー文庫を擁する海外ミステリ翻訳の中心的な出版社。",
+    "foundedYear": 1945,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-04"
+  }
+]

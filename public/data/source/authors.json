@@ -1,0 +1,205 @@
+[
+  {
+    "id": "yokomizo-seishi",
+    "name": "横溝正史",
+    "nameKana": "よこみぞせいし",
+    "description": "金田一耕助シリーズで知られる作家。戦後の日本に本格探偵小説を根づかせた立役者。",
+    "birthYear": 1902,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/横溝正史"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "edogawa-rampo",
+    "name": "江戸川乱歩",
+    "nameKana": "えどがわらんぽ",
+    "description": "日本の探偵小説の草分け。明智小五郎を生み、後進の育成と評論でもジャンルを牽引した。",
+    "birthYear": 1894,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/江戸川乱歩"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "matsumoto-seicho",
+    "name": "松本清張",
+    "nameKana": "まつもとせいちょう",
+    "description": "動機と社会背景を重視する「社会派推理小説」を確立した作家。膨大な長短編を残した。",
+    "birthYear": 1909,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松本清張"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shimada-soji",
+    "name": "島田荘司",
+    "nameKana": "しまだそうじ",
+    "description": "御手洗潔シリーズの作者。大胆なトリックと本格志向で、新本格ムーブメントの旗振り役となった。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/島田荘司"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ayatsuji-yukito",
+    "name": "綾辻行人",
+    "nameKana": "あやつじゆきと",
+    "description": "『十角館の殺人』で新本格ミステリの口火を切った作家。館シリーズとホラー作品で知られる。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/綾辻行人"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mori-hiroshi",
+    "name": "森博嗣",
+    "nameKana": "もりひろし",
+    "description": "元大学助教授。理系の論理を前面に出したS&Mシリーズでミステリの語り口を更新した。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森博嗣"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyogoku-natsuhiko",
+    "name": "京極夏彦",
+    "nameKana": "きょうごくなつひこ",
+    "description": "妖怪と憑き物落としを本格ミステリの構造に組み込んだ百鬼夜行シリーズの作者。装丁家でもある。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/京極夏彦"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "miyabe-miyuki",
+    "name": "宮部みゆき",
+    "nameKana": "みやべみゆき",
+    "description": "現代社会の歪みを人間ドラマとして描くミステリで知られる作家。時代小説やファンタジーも手がける。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宮部みゆき"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "higashino-keigo",
+    "name": "東野圭吾",
+    "nameKana": "ひがしのけいご",
+    "description": "加賀恭一郎・ガリレオの両シリーズを擁する人気作家。江戸川乱歩賞でデビューした。",
+    "birthYear": 1958,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yokoyama-hideo",
+    "name": "横山秀夫",
+    "nameKana": "よこやまひでお",
+    "description": "元新聞記者。警察組織の内側を描く警察小説で高い評価を得ている作家。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/横山秀夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yonezawa-honobu",
+    "name": "米澤穂信",
+    "nameKana": "よねざわほのぶ",
+    "description": "日常の謎から重い犯罪小説まで幅を持つ作家。古典部シリーズと『満願』などで知られる。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/米澤穂信"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "imamura-masahiro",
+    "name": "今村昌弘",
+    "nameKana": "いまむらまさひろ",
+    "description": "特殊設定と本格ミステリの論理を融合させた『屍人荘の殺人』でデビューした作家。",
+    "birthYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今村昌弘"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "aizawa-sako",
+    "name": "相沢沙呼",
+    "nameKana": "あいざわさこ",
+    "description": "青春ミステリから出発し、霊媒探偵城塚翡翠シリーズで本格ミステリ大賞を受賞した作家。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/相沢沙呼"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "conan-doyle",
+    "name": "アーサー・コナン・ドイル",
+    "nameKana": "こなんどいる",
+    "description": "シャーロック・ホームズの生みの親。医師として開業する傍ら執筆を始めたイギリスの作家。",
+    "birthYear": 1859,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アーサー・コナン・ドイル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "agatha-christie",
+    "name": "アガサ・クリスティー",
+    "nameKana": "あがさくりすてぃー",
+    "description": "ポアロとミス・マープルを生んだイギリスの作家。「ミステリの女王」と呼ばれる。",
+    "birthYear": 1890,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アガサ・クリスティ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ellery-queen",
+    "name": "エラリー・クイーン",
+    "nameKana": "えらりーくいーん",
+    "description": "従兄弟同士の合作ペンネーム。国名シリーズと悲劇四部作で本格ミステリの型を洗練させた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エラリー・クイーン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "raymond-chandler",
+    "name": "レイモンド・チャンドラー",
+    "nameKana": "れいもんどちゃんどらー",
+    "description": "私立探偵フィリップ・マーロウを生んだアメリカの作家。ハードボイルドに文体の美学を持ち込んだ。",
+    "birthYear": 1888,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レイモンド・チャンドラー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
+  }
+]

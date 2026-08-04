@@ -1,0 +1,176 @@
+[
+  {
+    "id": "honkaku",
+    "name": "本格ミステリ",
+    "description": "手がかりを読者に開示し、論理的な推理で真相に至ることを主眼に置いた作品。"
+  },
+  {
+    "id": "shin-honkaku",
+    "name": "新本格",
+    "description": "1987年の『十角館の殺人』以降、本格の形式を意識的に再構築した作品群。"
+  },
+  {
+    "id": "shakaiha",
+    "name": "社会派",
+    "description": "犯罪の背景にある社会構造や動機を掘り下げる作品。"
+  },
+  {
+    "id": "keisatsu-shosetsu",
+    "name": "警察小説",
+    "description": "警察組織の内側と捜査の実務を描く作品。"
+  },
+  {
+    "id": "hardboiled",
+    "name": "ハードボイルド",
+    "description": "感傷を排した文体で、私立探偵の行動と倫理を描く作品。"
+  },
+  {
+    "id": "shiritsu-tantei",
+    "name": "私立探偵",
+    "description": "職業探偵が主役を務める作品。"
+  },
+  {
+    "id": "nichijo-no-nazo",
+    "name": "日常の謎",
+    "description": "殺人が起きない、生活のなかのささやかな謎を扱う作品。"
+  },
+  {
+    "id": "meitantei",
+    "name": "名探偵",
+    "description": "際立った個性と推理力を持つシリーズ探偵が活躍する作品。"
+  },
+  {
+    "id": "misshitsu",
+    "name": "密室",
+    "description": "閉ざされた空間からの人間消失や殺人を扱う作品。"
+  },
+  {
+    "id": "yakata-mono",
+    "name": "館もの",
+    "description": "特異な構造を持つ建物を舞台にした作品。"
+  },
+  {
+    "id": "closed-circle",
+    "name": "クローズドサークル",
+    "description": "外部との連絡が断たれた状況で事件が起きる作品。"
+  },
+  {
+    "id": "dokusha-e-no-chosen",
+    "name": "読者への挑戦状",
+    "description": "解決編の前に、読者へ推理を促す挑戦状が挿入される作品。"
+  },
+  {
+    "id": "tojo",
+    "name": "倒叙",
+    "description": "犯人側の視点から犯行を描き、追い詰められる過程を読ませる作品。"
+  },
+  {
+    "id": "mitate-satsujin",
+    "name": "見立て殺人",
+    "description": "童謡や伝承などになぞらえて事件が起こる作品。"
+  },
+  {
+    "id": "kotou",
+    "name": "孤島",
+    "description": "島という閉じた舞台で事件が展開する作品。"
+  },
+  {
+    "id": "tokushu-settei",
+    "name": "特殊設定ミステリ",
+    "description": "現実にはない設定を導入し、その規則の上で論理を組み立てる作品。"
+  },
+  {
+    "id": "houtei",
+    "name": "法廷ミステリ",
+    "description": "裁判や司法手続きを軸に据えた作品。"
+  },
+  {
+    "id": "iyamisu",
+    "name": "イヤミス",
+    "description": "読後に重い後味を残す、人間の悪意を描いた作品。"
+  },
+  {
+    "id": "suspense",
+    "name": "サスペンス",
+    "description": "推理よりも緊迫した状況と展開で読ませる作品。"
+  },
+  {
+    "id": "seishun",
+    "name": "青春ミステリ",
+    "description": "学生や若者の関係性を軸にした作品。"
+  },
+  {
+    "id": "gakuen",
+    "name": "学園ミステリ",
+    "description": "学校を主な舞台とする作品。"
+  },
+  {
+    "id": "jidai-mystery",
+    "name": "時代ミステリ",
+    "description": "近代以前の日本を舞台にした作品。"
+  },
+  {
+    "id": "noir",
+    "name": "ノワール",
+    "description": "犯罪者側の視点から、暗い情念と破滅を描く作品。"
+  },
+  {
+    "id": "rensaku-tanpen",
+    "name": "連作短編",
+    "description": "同じ登場人物・舞台の短編が連なり、全体で一つの像を結ぶ作品。"
+  },
+  {
+    "id": "tanpenshu",
+    "name": "短編集",
+    "description": "独立した短編を収めた作品集。"
+  },
+  {
+    "id": "kaiki-gensou",
+    "name": "怪奇・幻想",
+    "description": "怪奇趣味や幻想的な意匠をまとった作品。"
+  },
+  {
+    "id": "youkai",
+    "name": "妖怪・伝奇",
+    "description": "妖怪伝承や民俗的な題材を扱う作品。"
+  },
+  {
+    "id": "sengo-nihon",
+    "name": "戦後日本",
+    "description": "終戦直後の日本社会を舞台・背景とする作品。"
+  },
+  {
+    "id": "kaigai-koten",
+    "name": "海外古典",
+    "description": "20世紀前半までに発表された海外ミステリの古典。"
+  },
+  {
+    "id": "kazoku",
+    "name": "家族",
+    "description": "家族関係の歪みが事件の核となる作品。"
+  },
+  {
+    "id": "jojutsu-trick",
+    "name": "叙述トリック",
+    "description": "語りの仕掛けそのものが真相に関わる作品。",
+    "spoiler": true
+  },
+  {
+    "id": "shinrai-dekinai-katarite",
+    "name": "信頼できない語り手",
+    "description": "語り手の記述を額面通りに受け取れない作品。",
+    "spoiler": true
+  },
+  {
+    "id": "taju-kaiketsu",
+    "name": "多重解決",
+    "description": "複数の解決が提示され、推理そのものが主題となる作品。",
+    "spoiler": true
+  },
+  {
+    "id": "igai-na-hannin",
+    "name": "意外な犯人",
+    "description": "犯人の意外性そのものが作品の眼目となっている作品。",
+    "spoiler": true
+  }
+]

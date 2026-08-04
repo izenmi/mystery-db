@@ -1,0 +1,125 @@
+[
+  {
+    "id": "mystery-writers-japan",
+    "name": "日本推理作家協会賞",
+    "organizer": "日本推理作家協会",
+    "description": "日本推理作家協会が主催する、その年の優れたミステリ作品に贈られる賞。長編部門・短編部門などがある。",
+    "firstYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本推理作家協会賞"
+    },
+    "sourceNote": "第1回(1948年)は「探偵作家クラブ賞」の名称で実施されており、本サイトでは同一の賞として扱い、当時の名称は各作品のsourceNoteに記載する。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "honkaku-mystery-taisho",
+    "name": "本格ミステリ大賞",
+    "organizer": "本格ミステリ作家クラブ",
+    "description": "本格ミステリ作家クラブの会員投票により、その年の最も優れた本格ミステリに贈られる賞。",
+    "firstYear": 2001,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本格ミステリ大賞"
+    },
+    "sourceNote": "受賞年・受賞作は各作品のWikipedia記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "naoki-sho",
+    "name": "直木三十五賞",
+    "organizer": "日本文学振興会",
+    "description": "大衆文学に贈られる文学賞。ミステリ作品の受賞も多い。",
+    "firstYear": 1935,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/直木三十五賞"
+    },
+    "sourceNote": "本サイトではミステリ作品としての受賞のみを登録する。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamamoto-shugoro-sho",
+    "name": "山本周五郎賞",
+    "organizer": "新潮文芸振興会",
+    "description": "優れた物語性を持つ文芸作品に贈られる賞。ミステリ作品の受賞例が多い。",
+    "firstYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山本周五郎賞"
+    },
+    "sourceNote": "受賞年・回数は各作品のWikipedia記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mephisto-sho",
+    "name": "メフィスト賞",
+    "organizer": "講談社",
+    "description": "講談社の編集部が選考する新人賞。応募規定がなく、選考期間も定まっていないのが特徴。",
+    "firstYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メフィスト賞"
+    },
+    "sourceNote": "第1回受賞作は『すべてがFになる』であることをWikipedia記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ayukawa-tetsuya-sho",
+    "name": "鮎川哲也賞",
+    "organizer": "東京創元社",
+    "description": "東京創元社が主催する本格ミステリの公募新人賞。",
+    "firstYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鮎川哲也賞"
+    },
+    "sourceNote": "受賞年・回数は各作品のWikipedia記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kadokawa-gakuen-shosetsu-taisho",
+    "name": "角川学園小説大賞",
+    "organizer": "角川書店",
+    "description": "角川書店が主催していた公募新人賞。ヤングミステリー&ホラー部門などが設けられていた。",
+    "externalLinks": {},
+    "sourceNote": "『氷菓』の奨励賞受賞をWikipedia記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kono-mystery-ga-sugoi",
+    "name": "『このミステリーがすごい!』年間ランキング",
+    "organizer": "宝島社",
+    "description": "宝島社が刊行するミステリ・ガイドの年間ランキング。国内編・海外編がある。",
+    "firstYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/このミステリーがすごい!"
+    },
+    "sourceNote": "順位が明記されている作品のみを登録する。ランキングは「◯年版」の表記に合わせた年を用いる。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shukan-bunshun-best10",
+    "name": "週刊文春ミステリーベスト10",
+    "organizer": "文藝春秋",
+    "description": "『週刊文春』が毎年末に発表するミステリの年間ランキング。",
+    "firstYear": 1977,
+    "externalLinks": {},
+    "sourceNote": "順位が明記されている作品のみを登録する。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "honkaku-mystery-best10",
+    "name": "本格ミステリ・ベスト10",
+    "organizer": "原書房",
+    "description": "原書房が刊行するガイドの年間ランキング。本格色の強い作品を対象とする。",
+    "firstYear": 1997,
+    "externalLinks": {},
+    "sourceNote": "順位が明記されている作品のみを登録する。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mystery-ga-yomitai",
+    "name": "ミステリが読みたい!",
+    "organizer": "早川書房",
+    "description": "『ハヤカワミステリマガジン』誌が発表するミステリの年間ランキング。",
+    "firstYear": 2008,
+    "externalLinks": {},
+    "sourceNote": "順位が明記されている作品のみを登録する。",
+    "updatedAt": "2026-08-04"
+  }
+]

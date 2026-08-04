@@ -1,0 +1,56 @@
+[
+  {
+    "id": "aoki-hisae",
+    "name": "青木久惠",
+    "nameKana": "あおきひさえ",
+    "description": "早川書房クリスティー文庫で『そして誰もいなくなった』の新訳を手がけた翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "訳者名は各作品のWikipedia記事の邦訳一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "haneda-shizuko",
+    "name": "羽田詩津子",
+    "nameKana": "はねだしづこ",
+    "description": "早川書房クリスティー文庫で『アクロイド殺し』の新訳を手がけた翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "訳者名は各作品のWikipedia記事の邦訳一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nakamura-yoshimi",
+    "name": "中村能三",
+    "nameKana": "なかむらよしみ",
+    "description": "ハヤカワ文庫でクリスティー作品を多数訳した翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "訳者名は各作品のWikipedia記事の邦訳一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nobuhara-ken",
+    "name": "延原謙",
+    "nameKana": "のぶはらけん",
+    "description": "新潮文庫版シャーロック・ホームズ譚の訳者。日本におけるホームズ受容を決定づけた翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "訳者名は各作品のWikipedia記事の邦訳一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "uno-toshiyasu",
+    "name": "宇野利泰",
+    "nameKana": "うのとしやす",
+    "description": "ハヤカワ・ミステリ文庫で『Yの悲劇』などを訳した翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "訳者名は各作品のWikipedia記事の邦訳一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shimizu-shunji",
+    "name": "清水俊二",
+    "nameKana": "しみずしゅんじ",
+    "description": "『長いお別れ』の訳者。映画字幕の仕事でも知られる翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "訳者名は各作品のWikipedia記事の邦訳一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  }
+]

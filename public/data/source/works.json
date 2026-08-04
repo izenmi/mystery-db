@@ -1,0 +1,987 @@
+[
+  {
+    "id": "honjin-satsujin",
+    "title": "本陣殺人事件",
+    "titleKana": "ほんじんさつじんじけん",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei",
+      "sengo-nihon",
+      "kazoku"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1946,
+    "status": "completed",
+    "synopsis": "岡山の旧家・一柳家で、婚礼の夜に当主夫妻が惨殺される。離れは雪に囲まれ、出入りの痕跡はどこにもない。現場に残された三本指の男の噂と、庭に突き立った日本刀。事件の報せを受けた金田一耕助が、旧家の因習と楽器の音が絡む謎に挑む、シリーズ第一作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1948,
+        "result": "第1回受賞(当時の名称は探偵作家クラブ賞)"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本陣殺人事件"
+    },
+    "sourceNote": "初出は1946年『宝石』連載、単行本は1947年11月(青珠社)。第1回探偵作家クラブ賞(現在の日本推理作家協会賞、1948年)受賞。刊行元は現在広く流通している角川書店(角川文庫)版を採用した。映画2作・テレビドラマ3作・漫画化があることをWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gokumonto",
+    "title": "獄門島",
+    "titleKana": "ごくもんとう",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "kotou",
+      "mitate-satsujin",
+      "meitantei",
+      "sengo-nihon",
+      "kazoku"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1947,
+    "status": "completed",
+    "synopsis": "復員した金田一耕助は、戦友の遺言を伝えるため瀬戸内海の獄門島へ渡る。網元の家に残された三人の娘たちをめぐり、俳句になぞらえたとしか思えない形で惨劇が続く。閉ざされた島の因習と血族の重みのなかで、耕助は見立ての意味を問う。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/獄門島"
+    },
+    "sourceNote": "初出は1947〜1948年『宝石』連載、単行本は1949年5月(岩谷書店)。第2回探偵作家クラブ賞の候補になったが受賞は坂口安吾『不連続殺人事件』であり、本サイトは候補を受賞歴として登録しない方針のため未登録。刊行元は現在流通している角川書店版を採用。映画2作・テレビドラマ5作・漫画4作の存在をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "d-zaka",
+    "title": "D坂の殺人事件",
+    "titleKana": "でぃーざかのさつじんじけん",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [
+      "akechi-kogoro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei",
+      "kaiki-gensou",
+      "tanpenshu"
+    ],
+    "seriesName": "明智小五郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1925,
+    "status": "completed",
+    "synopsis": "D坂の古本屋で、店番の妻が絞殺される。表通りにも裏通りにも人目があり、犯人が出入りできたはずのない状況だった。現場に居合わせた「私」の前に、書生風の風変わりな青年・明智小五郎が現れ、目撃証言の食い違いから事件の像を組み立てていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/D坂の殺人事件"
+    },
+    "sourceNote": "初出は『新青年』1925年1月増刊号。明智小五郎の初登場作であることをWikipedia日本語版で確認した。短編のため刊行元は現在流通している光文社文庫版(江戸川乱歩全集)を採用。映画・テレビドラマ・漫画化の存在も同記事で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ten-to-sen",
+    "title": "点と線",
+    "titleKana": "てんとせん",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "博多の海岸で、汚職事件のさなかにあった官庁の課長補佐と女中が心中体の姿で発見される。誰もが情死と片づけるなか、老練な刑事・鳥飼重太郎と警視庁の三原紀一は、東京駅のわずか四分間の情景と、あまりに完璧なアリバイに引っかかりを覚える。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/点と線"
+    },
+    "sourceNote": "単行本は1958年2月、光文社(カッパ・ブックス)刊。初出は『旅』1957年2月〜1958年3月連載。捜査役が鳥飼重太郎・三原紀一であること、映画・テレビドラマ化があることをWikipedia日本語版で確認。シリーズ探偵ではないため探偵欄は空にしている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "suna-no-utsuwa",
+    "title": "砂の器",
+    "titleKana": "すなのうつわ",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "国電蒲田操車場で、顔を潰された身元不明の他殺体が見つかる。手がかりは、被害者が酒場で口にしたという東北訛りの一語だけ。今西刑事は方言の分布を頼りに全国を歩き、やがて戦後日本の地形そのものが事件の背景として立ち上がってくる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/砂の器"
+    },
+    "sourceNote": "単行本は1961年7月、光文社(カッパ・ノベルス)刊。1974年の松竹映画版が毎日映画コンクール大賞・キネマ旬報脚本賞を受けているが、これは映画版に対する賞であり小説自体の受賞ではないため未登録(本サイトの方針)。テレビドラマ化が複数あることをWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "senseijutsu",
+    "title": "占星術殺人事件",
+    "titleKana": "せんせいじゅつさつじんじけん",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei",
+      "kaiki-gensou"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "1936年、画家・梅沢平吉は星座と錬金術に取り憑かれた手記を残して密室で死んだ。その後、六人の娘たちが姿を消し、遺体はばらばらの部位となって各地で見つかる。四十年以上も解かれなかったこの事件に、占星術師の御手洗潔と友人の石岡和己が挑む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/占星術殺人事件"
+    },
+    "sourceNote": "1981年12月、講談社刊。第26回江戸川乱歩賞の最終候補作(落選)であり、候補は受賞歴として登録しない方針のため未登録。著者自身が本作の映像化を望んでおらず、御手洗潔シリーズの映像化からも除外されていることをWikipedia日本語版で確認したため、メディアミックスはすべてfalseとした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jukkakukan",
+    "title": "十角館の殺人",
+    "titleKana": "じっかくかんのさつじんじけん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [
+      "shimada-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "closed-circle",
+      "kotou",
+      "yakata-mono",
+      "gakuen"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "大学ミステリ研究会の七人が、半年前に凄惨な事件のあった孤島・角島を訪れる。十角形の奇妙な館で過ごすはずの一週間は、「第一の被害者」と記されたプレートが並べられたところから狂い始める。同じころ本土では、一通の告発状が関係者に届いていた。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十角館の殺人"
+    },
+    "sourceNote": "1987年9月、講談社(講談社ノベルス)刊。新本格ミステリの出発点とされる作品。探偵役が島田潔と江南孝明であること、清原紘によるコミカライズ(2019〜2022年)とHulu・日本テレビでの実写ドラマ化(2024年)があることをWikipedia日本語版で確認。受賞歴は確認できなかったため未登録。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tokeikan",
+    "title": "時計館の殺人",
+    "titleKana": "とけいかんのさつじんじけん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [
+      "shimada-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "closed-circle",
+      "yakata-mono",
+      "kaiki-gensou"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "無数の時計が据えられた洋館「時計館」で、少女の霊を呼び出すための降霊会が開かれる。オカルト雑誌の取材班が館に閉じこもった三日間、一人また一人と犠牲者が出ていく。館の外では、推理作家・鹿谷門実が事件の輪郭をたどり始めていた。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1992,
+        "result": "第45回 長編部門 受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時計館の殺人"
+    },
+    "sourceNote": "1991年9月、講談社(講談社ノベルス)刊。第45回日本推理作家協会賞長編部門(1992年)受賞をWikipedia日本語版で確認。探偵役は館シリーズの島田潔が筆名「鹿谷門実」で登場する。2026年2月よりHuluで実写ドラマ版が配信中。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "subete-ga-f",
+    "title": "すべてがFになる",
+    "titleKana": "すべてがえふになる",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "saikawa-sohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "misshitsu",
+      "gakuen"
+    ],
+    "seriesName": "S&Mシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "孤島の研究所で十五年間、部屋にこもり続けていた天才工学博士・真賀田四季。厳重に施錠された部屋から現れたのは、ウェディングドレス姿で手足を失った彼女の遺体だった。居合わせた犀川創平助教授と西之園萌絵が、監視システムに囲まれた密室の意味を問う。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1996,
+        "result": "第1回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/すべてがFになる"
+    },
+    "sourceNote": "1996年4月、講談社(講談社ノベルス)刊。第1回メフィスト賞受賞をWikipedia日本語版で確認。ドラマ化(2014年)・アニメ化(2015年)・複数のコミカライズがあることも同記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ubume-no-natsu",
+    "title": "姑獲鳥の夏",
+    "titleKana": "うぶめのなつ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "youkai",
+      "kaiki-gensou",
+      "misshitsu",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "二十箇月ものあいだ子を身籠ったままの女がいる、そして密室から夫が消えた——そんな噂話を、文士の関口巽が古書肆「京極堂」に持ち込む。この世に不思議なことなど何もない、と言い切る主人・中禅寺秋彦は、噂と記憶の構造をほどきながら憑き物落としに向かう。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/姑獲鳥の夏"
+    },
+    "sourceNote": "1994年、講談社刊。本作の持ち込みがメフィスト賞創設のきっかけになったとされることをWikipedia日本語版で確認したが、本作自体の受賞ではないため受賞歴には登録していない。実写映画化(2005年)・清水アキによるコミカライズ(2013〜2014年)を確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kasha",
+    "title": "火車",
+    "titleKana": "かしゃ",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "suspense",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "休職中の刑事・本間俊介は、遠縁の男から失踪した婚約者を捜してほしいと頼まれる。ところが調べ始めると、その女性が名乗っていた経歴も戸籍も、本人のものではないことが分かってくる。カード社会に呑み込まれた一人の人生を、本間は書類の束から掘り起こしていく。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 1993,
+        "result": "第6回受賞"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 1992,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火車_(小説)"
+    },
+    "sourceNote": "単行本は1992年7月、双葉社刊(文庫は1998年新潮文庫)。第6回山本周五郎賞受賞、『週刊文春ミステリーベスト10』第1位、第108回直木賞候補(落選)であることをWikipedia日本語版で確認。候補は本サイトの方針により未登録。テレビドラマ化2作と韓国映画化を確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "byakuyako",
+    "title": "白夜行",
+    "titleKana": "びゃくやこう",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "shakaiha",
+      "noir",
+      "iyamisu",
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "大阪の廃ビルで質屋の主人が殺され、事件は未解決のまま時効を迎える。被害者の息子・桐原亮司と、容疑者と目された女性の娘・唐沢雪穂。二人の十九年を、周囲の人間の視点から途切れ途切れに描くことで、決して交わらないはずの軌跡が浮かび上がってくる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白夜行"
+    },
+    "sourceNote": "『小説すばる』1997年1月〜1999年1月連載、単行本は1999年8月、集英社刊。Wikipedia日本語版で確認できた受賞はテレビドラマ版に対するものだけで、小説自体の受賞は確認できなかったため未登録。日本・韓国での映画化とTBSドラマ化(2006年)、舞台化を確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yogisha-x",
+    "title": "容疑者Xの献身",
+    "titleKana": "ようぎしゃえっくすのけんしん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "yukawa-manabu"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "keisatsu-shosetsu",
+      "shakaiha",
+      "meitantei"
+    ],
+    "seriesName": "ガリレオシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "弁当屋で働く靖子は、押しかけてきた元夫を娘とともに手にかけてしまう。窮地を救うと申し出たのは、隣人の高校教師で数学の天才・石神だった。捜査線上に浮かんだ不可解な状況を前に、石神の大学時代の友人である物理学者・湯川学が動き出す。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2006,
+        "result": "第6回受賞"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2006,
+        "result": "第134回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/容疑者Xの献身"
+    },
+    "sourceNote": "2005年8月30日、文藝春秋刊。第6回本格ミステリ大賞(2006年)・第134回直木三十五賞(2006年)受賞、エドガー賞長編賞候補(2012年)であることをWikipedia日本語版で確認。候補は本サイトの方針により未登録。日本・韓国・中国・インドで映画化されている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rokuyon",
+    "title": "64",
+    "titleKana": "ろくよん",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "昭和64年に起きたD県警史上最悪の誘拐殺人事件、通称「ロクヨン」。刑事部から広報官に転出した三上義信は、記者クラブとの対立と娘の失踪を抱えたまま、時効を目前にした事件の再検証に巻き込まれていく。組織の内側で何が守られてきたのかが問われる。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2013,
+        "result": "2013年版 国内編 第1位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2012,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/64（ロクヨン）"
+    },
+    "sourceNote": "2012年10月26日、文藝春秋刊。『このミステリーがすごい!2013年版』第1位、『2012「週刊文春」ミステリーベスト10』第1位であることを文藝春秋のプレスリリース・特設サイトおよび検索結果で確認。映画版(2016年、前後編)とNHKドラマ版がある。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mangan",
+    "title": "満願",
+    "titleKana": "まんがん",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "tanpenshu",
+      "iyamisu",
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "貸した金の取り立て、山中の駐在所、戦地からの手紙——舞台も語り手も異なる六つの短編を収めた作品集。いずれも人が何かを願い、その願いのために踏み越えてしまう瞬間を描く。表題作をはじめ、最後の数行で像が反転する構成が共通している。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2014,
+        "result": "第27回受賞"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2015,
+        "result": "2015年版 国内編 第1位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2014,
+        "result": "第1位"
+      },
+      {
+        "awardId": "mystery-ga-yomitai",
+        "year": 2015,
+        "result": "2015年版 国内編 第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/満願_(米澤穂信)"
+    },
+    "sourceNote": "2014年、新潮社刊の短編集(6編収録)。第27回山本周五郎賞(2014年)、『このミステリーがすごい!2015年版』国内編第1位、『週刊文春ミステリーベスト10』2014国内部門第1位、『ミステリが読みたい!2015年版』国内編第1位をWikipedia日本語版で確認。NHKで2018年に3夜連続ドラマ化。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hyoka",
+    "title": "氷菓",
+    "titleKana": "ひょうか",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "oreki-hotaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun",
+      "rensaku-tanpen"
+    ],
+    "seriesName": "古典部シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "省エネ主義を貫く高校生・折木奉太郎は、姉の勧めで廃部寸前の古典部に入る。そこで出会った千反田えるの「わたし、気になります」の一言から、三十三年前に部の文集をめぐって起きた出来事を調べることになる。殺人のない、記録と記憶の謎。",
+    "awardResults": [
+      {
+        "awardId": "kadokawa-gakuen-shosetsu-taisho",
+        "year": 2001,
+        "result": "ヤングミステリー&ホラー部門 奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古典部シリーズ"
+    },
+    "sourceNote": "2001年10月31日、角川スニーカー文庫(角川書店)刊。角川学園小説大賞ヤングミステリー&ホラー部門・奨励賞受賞をWikipedia日本語版で確認。アニメ化(2012年)・コミカライズ(2012年〜)・実写映画化(2017年)も同記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shijinso",
+    "title": "屍人荘の殺人",
+    "titleKana": "しじんそうのさつじんじけん",
+    "authorIds": [
+      "imamura-masahiro"
+    ],
+    "detectiveIds": [
+      "kenzaki-hiruko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "closed-circle",
+      "gakuen",
+      "meitantei"
+    ],
+    "seriesName": "剣崎比留子シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "神紅大学ミステリ愛好会の葉村譲と明智恭介は、映画研究部の合宿に潜り込む。ところがペンション「紫湛荘」に着いた一行を、想定外の事態が襲い、建物は完全に外界から切り離される。極限状況のなか、なぜか通常の殺人事件が起こり始める。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2017,
+        "result": "第27回受賞"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2018,
+        "result": "第18回受賞"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2018,
+        "result": "2018年版 国内編 第1位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2017,
+        "result": "第1位"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2018,
+        "result": "2018年版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/屍人荘の殺人"
+    },
+    "sourceNote": "2017年10月13日、東京創元社刊。第27回鮎川哲也賞受賞、『このミステリーがすごい!2018年版』第1位、『週刊文春ミステリーベスト10』第1位、『2018本格ミステリ・ベスト10』第1位、第18回本格ミステリ大賞受賞をWikipedia日本語版で確認。少年ジャンプ+でのコミカライズと2019年の実写映画化を確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "medium",
+    "title": "medium 霊媒探偵城塚翡翠",
+    "titleKana": "みでぃあむれいばいたんていじょうづかひすい",
+    "authorIds": [
+      "aizawa-sako"
+    ],
+    "detectiveIds": [
+      "shizukawa-hisui"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tokushu-settei",
+      "rensaku-tanpen",
+      "jojutsu-trick"
+    ],
+    "seriesName": "城塚翡翠シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "死者の言葉が視えるという霊媒の少女・城塚翡翠。だがその能力は証拠にならない。推理作家の香月史郎は、彼女が視たものを論理と物証の形に翻訳しながら、連続殺人犯を追い詰めていく。「すべてが、伏線。」を掲げた連作。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2020,
+        "result": "第20回受賞"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 国内編 第1位"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2020,
+        "result": "2020年版 第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/medium_霊媒探偵城塚翡翠"
+    },
+    "sourceNote": "2019年9月10日、講談社刊(文庫は2021年9月、講談社文庫)。第20回本格ミステリ大賞受賞、『このミステリーがすごい!2020年版』国内編1位、『2020本格ミステリ・ベスト10』国内1位をWikipedia日本語版で確認。本屋大賞候補・吉川英治文学新人賞候補は本サイトの方針により未登録。日本テレビでドラマ化(2022年)、『月刊アフタヌーン』でコミカライズ。あらすじ・テーマタグとも真相に触れない範囲にとどめ、作品の仕掛けに関わるタグにはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hiiro-no-kenkyu",
+    "title": "緋色の研究",
+    "titleKana": "ひいろのけんきゅう",
+    "authorIds": [
+      "conan-doyle"
+    ],
+    "detectiveIds": [
+      "sherlock-holmes"
+    ],
+    "translatorIds": [
+      "nobuhara-ken"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "shiritsu-tantei",
+      "kaigai-koten"
+    ],
+    "seriesName": "シャーロック・ホームズシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1887,
+    "jpPublishedYear": 1953,
+    "originalTitle": "A Study in Scarlet",
+    "status": "completed",
+    "synopsis": "アフガニスタン帰りの軍医ジョン・H・ワトスンは、ベイカー街221Bの部屋を風変わりな青年と共同で借りることになる。同居人シャーロック・ホームズは、初対面のワトスンの経歴を一目で言い当ててみせた。やがて空き家で発見された死体と、壁に血で書かれた一語が二人を結びつける。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/緋色の研究"
+    },
+    "sourceNote": "原題 A Study in Scarlet、1887年発表。ホームズとワトスンの出会いを描く第一作。邦訳は新潮文庫の延原謙訳(1953年初版、1996年改版)を採用した。訳者・出版社はWikipedia日本語版の邦訳一覧で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ackroyd",
+    "title": "アクロイド殺し",
+    "titleKana": "あくろいどごろし",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "haneda-shizuko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kaigai-koten",
+      "jojutsu-trick",
+      "shinrai-dekinai-katarite"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1926,
+    "jpPublishedYear": 2003,
+    "originalTitle": "The Murder of Roger Ackroyd",
+    "status": "completed",
+    "synopsis": "静かな村キングズ・アボットで、資産家ロジャー・アクロイドが書斎で刺殺される。事件を語るのは、村の医師である「私」。折しも隠棲していたエルキュール・ポアロが、頼まれて捜査に乗り出す。関係者それぞれが何かを隠しているなかで、ポアロは矛盾を一つずつ潰していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アクロイド殺し"
+    },
+    "sourceNote": "原題 The Murder of Roger Ackroyd、1926年発表。邦訳は多数あるが、現在流通している早川書房クリスティー文庫の羽田詩津子訳(2003年)を採用した。訳者・出版社・刊行年はWikipedia日本語版の邦訳一覧で確認。あらすじ・通常タグは真相に触れない範囲にとどめ、作品の仕掛けに関わるものはspoiler扱いのタグを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "orient-express",
+    "title": "オリエント急行の殺人",
+    "titleKana": "おりえんときゅうこうのさつじん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "nakamura-yoshimi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "closed-circle",
+      "kaigai-koten"
+    ],
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "originalTitle": "Murder on the Orient Express",
+    "status": "completed",
+    "synopsis": "厳冬のヨーロッパを走るオリエント急行が、雪崩で立ち往生する。その夜、一等寝台の客が十二箇所を刺されて死んでいるのが見つかった。列車は雪に囲まれ、外部の人間が乗り込んだ形跡はない。乗り合わせたポアロが、国籍もばらばらな乗客たちの証言を突き合わせる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オリエント急行の殺人"
+    },
+    "sourceNote": "原題 Murder on the Orient Express、1934年発表。邦訳は複数あるが、ハヤカワ文庫の中村能三訳を採用した。訳者・出版社はWikipedia日本語版の邦訳一覧で確認。邦訳初刊年は版によって異なり特定できなかったため未登録。1974年・2017年の映画版ほか多数の映像化がある。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "soshite-daremo",
+    "title": "そして誰もいなくなった",
+    "titleKana": "そしてだれもいなくなった",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "aoki-hisae"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "kotou",
+      "mitate-satsujin",
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1939,
+    "jpPublishedYear": 1955,
+    "originalTitle": "And Then There Were None",
+    "status": "completed",
+    "synopsis": "見知らぬ人物からの招待で、八人の男女が絶海の孤島に集まる。屋敷にはマザーグースの童謡を記した額と、十体の人形が置かれていた。到着した夜、蓄音機から流れた声が全員の過去の罪を告発する。翌朝から、童謡の歌詞をなぞるように一人ずつ命を落としていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/そして誰もいなくなった"
+    },
+    "sourceNote": "原題 And Then There Were None、1939年11月イギリスで刊行。邦訳は清水俊二訳(1955年、ハヤカワ・ポケット・ミステリ)と青木久惠訳(2010年、クリスティー文庫)があり、現在流通している後者を採用した。訳者・出版社・刊行年はWikipedia日本語版の邦訳一覧で確認。シリーズ探偵は登場しないため探偵欄は空。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "y-no-higeki",
+    "title": "Yの悲劇",
+    "titleKana": "わいのひげき",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "drury-lane"
+    ],
+    "translatorIds": [
+      "uno-toshiyasu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kaigai-koten",
+      "kazoku",
+      "igai-na-hannin"
+    ],
+    "seriesName": "ドルリー・レーン四部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1932,
+    "jpPublishedYear": 1988,
+    "originalTitle": "The Tragedy of Y",
+    "status": "completed",
+    "synopsis": "ニューヨークの富豪ハッター家は、当主の自殺以来、奇矯な人々が集まる「狂人の館」と噂されていた。盲聾唖の少女ルイザを狙った毒殺未遂に続き、老母が撲殺される。凶器はマンドリン。引退した老シェイクスピア俳優ドルリー・レーンが、一家の異常な日常に分け入る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Yの悲劇"
+    },
+    "sourceNote": "原題 The Tragedy of Y、1932年発表。発表時の著者名義はバーナビー・ロスで、これがエラリー・クイーンの別名義であることをWikipedia日本語版で確認したため、著者はエラリー・クイーンとして登録した。邦訳は複数あるが、ハヤカワ・ミステリ文庫の宇野利泰訳(1988年)を採用。真相に関わるタグにはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nagai-owakare",
+    "title": "長いお別れ",
+    "titleKana": "ながいおわかれ",
+    "authorIds": [
+      "raymond-chandler"
+    ],
+    "detectiveIds": [
+      "philip-marlowe"
+    ],
+    "translatorIds": [
+      "shimizu-shunji"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "noir",
+      "kaigai-koten"
+    ],
+    "seriesName": "フィリップ・マーロウシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1958,
+    "originalTitle": "The Long Goodbye",
+    "status": "completed",
+    "synopsis": "私立探偵フィリップ・マーロウは、酔いつぶれた紳士テリー・レノックスと知り合い、奇妙な友情を結ぶ。ある夜、テリーは助けを求めて現れ、マーロウは何も聞かずに彼を国境まで送る。やがて届いた訃報と告白書。割に合わないと知りながら、マーロウは筋を通そうとする。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/長いお別れ"
+    },
+    "sourceNote": "原題 The Long Goodbye、1953年発表。邦訳は清水俊二訳(1958年、早川書房)・村上春樹訳(2007年、早川書房)などがあり、初訳である清水俊二訳を採用した。訳者・出版社・刊行年はWikipedia日本語版の邦訳一覧で確認。1995年のアメリカ探偵作家クラブ「ベスト100」で13位という記述はあるが、作品自体の受賞ではないため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  }
+]
