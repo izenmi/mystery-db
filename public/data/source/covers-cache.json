@@ -106,6 +106,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:32.328Z"
   },
+  "bye-bye-angel": {
+    "title": "バイバイ、エンジェル",
+    "isbn": "9784488415013",
+    "matchedTitle": "バイバイ、エンジェル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5013/9784488415013_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:53.870Z"
+  },
   "climbers-high": {
     "title": "クライマーズ・ハイ",
     "isbn": "9784167659035",
@@ -762,6 +770,15 @@
     "resolvedAt": "2026-08-04T03:57:19.393Z",
     "note": "書影は講談社の新装版(上巻)。"
   },
+  "kyujukyu-percent": {
+    "title": "99%の誘拐",
+    "isbn": "9784062747875",
+    "matchedTitle": "99％の誘拐",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0627/06274787.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:57.319Z",
+    "note": "登録は徳間書店(初刊)だが書影は講談社文庫版。作品は同一。"
+  },
   "kyukei-no-koya": {
     "title": "球形の荒野",
     "isbn": "9784167697280",
@@ -908,6 +925,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:43.883Z"
   },
+  "mippei-kyoshitsu": {
+    "title": "密閉教室",
+    "isbn": "9784062760270",
+    "matchedTitle": "新装版　密閉教室",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0270/9784062760270.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:42.391Z"
+  },
   "misshitsu-shushuka-work": {
     "title": "密室蒐集家",
     "isbn": "9784562048687",
@@ -959,6 +984,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:29.879Z"
   },
+  "mystery-opera": {
+    "title": "ミステリ・オペラ",
+    "isbn": null,
+    "matchedTitle": "ミステリ・オペラ　宿命城殺人事件〔上〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4066/2000005614066.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T04:51:52.720Z",
+    "note": "書影はハヤカワ文庫JA版の上巻(Kobo)。"
+  },
   "n-no-tame-ni": {
     "title": "Nのために",
     "isbn": "9784575517040",
@@ -974,6 +1008,14 @@
     "coverUrl": "https://c.bookwalker.jp/399614/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:44.861Z"
+  },
+  "namakubi": {
+    "title": "生首に聞いてみろ",
+    "isbn": "9784043803026",
+    "matchedTitle": "生首に聞いてみろ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3026/9784043803026_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:44.671Z"
   },
   "nami-no-to": {
     "title": "波の塔",
@@ -1010,6 +1052,14 @@
     "resolvedAt": "2026-08-04T03:34:38.857Z",
     "note": "登録は光文社(カッパ・ノベルス)だが書影は南雲堂の改訂完全版。作品は同一。"
   },
+  "nanatsu-no-ko": {
+    "title": "ななつのこ",
+    "isbn": "9784488426019",
+    "matchedTitle": "ななつのこ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6019/9784488426019.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:49.268Z"
+  },
   "natsu-no-replica": {
     "title": "夏のレプリカ",
     "isbn": "9784062730129",
@@ -1017,6 +1067,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0129/9784062730129.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:58.487Z"
+  },
+  "natsu-to-fuyu": {
+    "title": "夏と冬の奏鳴曲",
+    "isbn": "9784065249666",
+    "matchedTitle": "夏と冬の奏鳴曲　新装改訂版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9666/9784065249666_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:40.105Z"
   },
   "nemuri-no-mori": {
     "title": "眠りの森",
@@ -1141,6 +1199,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:29.897Z"
   },
+  "sagi-to-yuki": {
+    "title": "鷺と雪",
+    "isbn": "9784167586072",
+    "matchedTitle": "鷺と雪",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6072/9784167586072.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:48.104Z"
+  },
   "saiyaku-no-machi": {
     "title": "災厄の町",
     "isbn": null,
@@ -1164,6 +1230,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0147/9784167110147_1_13.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:34.363Z"
+  },
+  "sekigan-no-shojo": {
+    "title": "隻眼の少女",
+    "isbn": "9784167838461",
+    "matchedTitle": "隻眼の少女",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8461/9784167838461_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:41.250Z"
   },
   "senseijutsu": {
     "title": "占星術殺人事件",
@@ -1255,6 +1329,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:19:38.953Z"
   },
+  "soratobu-uma": {
+    "title": "空飛ぶ馬",
+    "isbn": "9784488413019",
+    "matchedTitle": "空飛ぶ馬",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3019/9784488413019_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:45.817Z"
+  },
   "soshite-daremo": {
     "title": "そして誰もいなくなった",
     "isbn": null,
@@ -1262,6 +1344,14 @@
     "coverUrl": "https://c.bookwalker.jp/840e5c381c59ff94ec419465ecc5333/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:19.717Z"
+  },
+  "soshite-tobira": {
+    "title": "そして扉が閉ざされた",
+    "isbn": "9784065224465",
+    "matchedTitle": "そして扉が閉ざされた　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4465/9784065224465.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:58.459Z"
   },
   "soto-no-akuma": {
     "title": "双頭の悪魔",
@@ -1383,6 +1473,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:32.221Z"
   },
+  "tetsugakusha-no-misshitsu": {
+    "title": "哲学者の密室",
+    "isbn": "9784488415044",
+    "matchedTitle": "哲学者の密室",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5044/9784488415044.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:55.025Z",
+    "note": "登録は光文社(単行本)だが書影は創元推理文庫版。作品は同一。"
+  },
   "tokeikan": {
     "title": "時計館の殺人",
     "isbn": null,
@@ -1407,6 +1506,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:09.940Z"
   },
+  "tosaku-no-rondo": {
+    "title": "倒錯のロンド",
+    "isbn": "9784065219652",
+    "matchedTitle": "倒錯のロンド　完成版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9652/9784065219652.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:56.176Z"
+  },
   "toshokan-satsujin": {
     "title": "図書館の殺人",
     "isbn": "9784488443146",
@@ -1414,6 +1521,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3146/9784488443146.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:24.493Z"
+  },
+  "tsubasa-aru-yami": {
+    "title": "翼ある闇 メルカトル鮎最後の事件",
+    "isbn": "9784062632973",
+    "matchedTitle": "翼ある闇　メルカトル鮎最後の事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2973/9784062632973.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:38.940Z"
   },
   "tsumetai-misshitsu": {
     "title": "冷たい密室と博士たち",
@@ -1513,6 +1628,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0386/9784151310386.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:37.769Z"
+  },
+  "yoriko-no-tame-ni": {
+    "title": "頼子のために",
+    "isbn": "9784062938112",
+    "matchedTitle": "新装版　頼子のために",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8112/9784062938112_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:43.532Z"
+  },
+  "yoru-no-semi": {
+    "title": "夜の蝉",
+    "isbn": "9784488413026",
+    "matchedTitle": "夜の蝉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4884/48841302.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:51:46.966Z"
   },
   "yottsu-no-shomei": {
     "title": "四つの署名",

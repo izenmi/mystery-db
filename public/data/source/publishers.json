@@ -154,5 +154,16 @@
     },
     "sourceNote": "創業年・事業内容はWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tokuma-shoten",
+    "name": "徳間書店",
+    "nameKana": "とくましょてん",
+    "description": "1954年創業の出版社。文芸書のほか漫画・実用書を幅広く刊行し、ミステリのノベルス・文庫レーベルも持つ。",
+    "externalLinks": {
+      "officialUrl": "https://www.tokuma.jp/"
+    },
+    "sourceNote": "創業年・事業内容はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

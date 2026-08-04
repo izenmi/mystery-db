@@ -7001,5 +7001,605 @@
     },
     "sourceNote": "2016年1月29日、東京創元社より刊行(2018年9月創元推理文庫)。裏染天馬シリーズ第4作。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tsubasa-aru-yami",
+    "title": "翼ある闇 メルカトル鮎最後の事件",
+    "titleKana": "つばさあるやみめるかとるあゆさいごのじけん",
+    "authorIds": [
+      "maya-yutaka"
+    ],
+    "detectiveIds": [
+      "mercator-ayu"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono",
+      "meitantei",
+      "taju-kaiketsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "旧家で起きた首なし殺人と、館に伝わる伝説。複数の探偵役が入れ替わり立ち替わり推理を披露し、そのたびに解決が塗り替えられていく。名探偵という存在そのものへの問いを含んだデビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻耶雄嵩"
+    },
+    "sourceNote": "1991年、綾辻行人・法月綸太郎・島田荘司の推薦を受けて刊行された著者のデビュー作。小栗虫太郎『黒死館殺人事件』へのオマージュを含む。『このミステリーがすごい!』系のランキングに入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "natsu-to-fuyu",
+    "title": "夏と冬の奏鳴曲",
+    "titleKana": "なつとふゆのそなた",
+    "authorIds": [
+      "maya-yutaka"
+    ],
+    "detectiveIds": [
+      "mercator-ayu"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "kotou",
+      "closed-circle",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "かつて芸術家たちが共同生活を送った孤島に、取材で訪れた女性記者。島に残る「和音」という少女の記憶をめぐって、閉ざされた空間で異様な事件が起きる。探偵役が解決を明示しない構成をとった長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻耶雄嵩"
+    },
+    "sourceNote": "1993年刊行。探偵役が解決を明示しないという手法で本格ミステリの枠組みそのものを問うた作品とされる。作品単独のWikipedia記事はないため著者記事で確認した。ランキングの対応は確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sekigan-no-shojo",
+    "title": "隻眼の少女",
+    "titleKana": "せきがんのしょうじょ",
+    "authorIds": [
+      "maya-yutaka"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "mitate-satsujin",
+      "kazoku",
+      "youkai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "山深い村で起きた連続首斬り殺人。自殺しようとしていた青年の前に、隻眼の少女探偵・御陵みかげが現れる。代々続く女探偵の家系と、村に伝わる伝承が絡み合う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻耶雄嵩"
+    },
+    "sourceNote": "2010年、文藝春秋より刊行。著者記事には2011年に受賞があったとの記述があるが、賞名を確定できなかったため受賞歴には登録していない。各種ランキング上位に入っている点も同様の理由で未登録。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mippei-kyoshitsu",
+    "title": "密閉教室",
+    "titleKana": "みっぺいきょうしつ",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "misshitsu",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "朝の教室から机と椅子がすべて消え、そこに同級生の死体だけが残されていた。自殺として片付けられそうになるなか、高校生たちが自分たちで事件を調べ始める。著者のデビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/法月綸太郎"
+    },
+    "sourceNote": "1988年に江戸川乱歩賞の第二次選考を通過し、島田荘司の推薦で刊行された著者のデビュー作。作品単独のWikipedia記事はないため著者記事で確認した。ランキングの対応は確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yoriko-no-tame-ni",
+    "title": "頼子のために",
+    "titleKana": "よりこのために",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "detectiveIds": [
+      "norizuki-detective"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kazoku",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "法月綸太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "娘を殺された父親が、犯人を突き止めて復讐したうえで自殺した。手記だけが残されたその事件を、法月綸太郎が読み返す。整合しているはずの記録に、小さなほころびが見つかる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/法月綸太郎"
+    },
+    "sourceNote": "1990年6月、講談社ノベルスより刊行(1993年講談社文庫、2017年新装版)。法月綸太郎シリーズ。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "namakubi",
+    "title": "生首に聞いてみろ",
+    "titleKana": "なまくびにきいてみろ",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "detectiveIds": [
+      "norizuki-detective"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku",
+      "suspense"
+    ],
+    "seriesName": "法月綸太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "彫刻家が死の直前に遺した、娘の石膏像。その首だけが何者かに切り取られて持ち去られる。やがて本物の首なし死体が見つかり、法月綸太郎は像と死体を結ぶ線を探す。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2005,
+        "result": "第5回受賞(小説部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/法月綸太郎"
+    },
+    "sourceNote": "2004年、角川書店より刊行。第5回本格ミステリ大賞(小説部門)受賞。作品単独のWikipedia記事はないため著者記事の受賞歴で確認した。ランキング上位にも入っているがランキング名の対応を確定できなかったため未登録。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "soratobu-uma",
+    "title": "空飛ぶ馬",
+    "titleKana": "そらとぶうま",
+    "authorIds": [
+      "kitamura-kaoru"
+    ],
+    "detectiveIds": [
+      "enshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "seishun",
+      "meitantei"
+    ],
+    "seriesName": "円紫さんと私シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "文学部の女子大生「私」が出会う、身のまわりのささやかな謎。なぜ大量の茶碗蒸しが注文されたのか、なぜ幼稚園の木馬が夜のあいだに移動したのか。落語家の春桜亭円紫が、答えを静かに示す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北村薫"
+    },
+    "sourceNote": "1989年3月、東京創元社〈鮎川哲也と十三の謎〉の1冊として刊行された、覆面作家時代のデビュー作(1994年創元推理文庫)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yoru-no-semi",
+    "title": "夜の蝉",
+    "titleKana": "よるのせみ",
+    "authorIds": [
+      "kitamura-kaoru"
+    ],
+    "detectiveIds": [
+      "enshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "kazoku",
+      "meitantei"
+    ],
+    "seriesName": "円紫さんと私シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "姉との関係、友人の心の揺れ、日常のなかで起きる小さな出来事。三編を収めた連作短編集で、「私」は身近な人の言動の裏にある事情に、円紫さんの助けを借りて気づいていく。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1991,
+        "result": "第44回受賞(連作短編集部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北村薫"
+    },
+    "sourceNote": "1990年1月、東京創元社〈創元ミステリ'90〉より刊行(1996年創元推理文庫)。第44回日本推理作家協会賞(連作短篇集賞)受賞。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sagi-to-yuki",
+    "title": "鷺と雪",
+    "titleKana": "さぎとゆき",
+    "authorIds": [
+      "kitamura-kaoru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "jidai-mystery",
+      "rensaku-tanpen",
+      "kazoku"
+    ],
+    "seriesName": "ベッキーさんシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "昭和初期の東京。上流階級の令嬢・花村英子と、女性運転手のベッキーさんが出会う出来事を描く連作の最終作。二・二六事件へ向かう時代の空気のなかで、身近な謎が静かに解かれていく。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 2009,
+        "result": "第141回受賞"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2010,
+        "result": "第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鷺と雪"
+    },
+    "sourceNote": "2009年、文藝春秋より刊行。ベッキーさんシリーズ最終作。第141回直木三十五賞受賞(通算6度目の候補での受賞)、『本格ミステリ・ベスト10 2010』第6位。『週刊文春ミステリーベスト10』第3位という記述もあるが年次が明記されていないため未登録。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nanatsu-no-ko",
+    "title": "ななつのこ",
+    "titleKana": "ななつのこ",
+    "authorIds": [
+      "kano-tomoko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "短編集『ななつのこ』を読んだ女子短大生の駒子が、作者に宛てて手紙を書く。返事には、彼女が日々出会う小さな謎への答えが添えられていた。往復書簡の形で進む連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 1992,
+        "result": "第3回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/加納朋子"
+    },
+    "sourceNote": "1992年9月、東京創元社より刊行(1999年8月創元推理文庫)。第3回鮎川哲也賞受賞のデビュー作。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mystery-opera",
+    "title": "ミステリ・オペラ",
+    "titleKana": "みすてりおぺら",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "misshitsu",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "満州の宿命城で起きた密室殺人と、戦後の日本で進む映画製作。時代も場所も異なる出来事が、失われた台本と一つの謎を介して重なり合う。副題は「宿命城殺人事件」。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2002,
+        "result": "第2回受賞"
+      },
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2002,
+        "result": "第55回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田正紀"
+    },
+    "sourceNote": "2001年、早川書房〈ハヤカワ・ミステリワールド〉より刊行(2005年ハヤカワ文庫JA上下巻)。第2回本格ミステリ大賞と第55回日本推理作家協会賞を受賞。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bye-bye-angel",
+    "title": "バイバイ、エンジェル",
+    "titleKana": "ばいばいえんじぇる",
+    "authorIds": [
+      "kasai-kiyoshi"
+    ],
+    "detectiveIds": [
+      "yabuki-kakeru"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "shin-honkaku",
+      "noir"
+    ],
+    "seriesName": "矢吹駆シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "1970年代のパリ。首を切断された死体が見つかり、警視の娘である大学生ナディア・モガールが事件に関わる。彼女が知り合った日本人青年・矢吹駆は、手がかりではなく事件の本質から犯人を導こうとする。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バイバイ、エンジェル"
+    },
+    "sourceNote": "『野性時代』1979年5月号に一挙掲載、同年7月に角川書店より書籍化。副題は「ラルース家殺人事件」。第6回角川小説賞受賞だが本DB未登録の賞のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tetsugakusha-no-misshitsu",
+    "title": "哲学者の密室",
+    "titleKana": "てつがくしゃのみっしつ",
+    "authorIds": [
+      "kasai-kiyoshi"
+    ],
+    "detectiveIds": [
+      "yabuki-kakeru"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei",
+      "sengo-nihon"
+    ],
+    "seriesName": "矢吹駆シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "現代のパリ郊外で起きた密室殺人と、第二次大戦下の強制収容所で起きた同じ形の密室。二つの時代の事件を重ね、死とは何かという問いを正面から扱う矢吹駆シリーズの長編。",
+    "awardResults": [
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 1992,
+        "result": "国内部門第2位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1993,
+        "result": "国内編第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/哲学者の密室"
+    },
+    "sourceNote": "『EQ』1991年3月号〜9月号連載、加筆改稿のうえ1992年8月に光文社より刊行。発表年は連載開始年の1991年を採った。1992年『週刊文春ミステリーベスト10』国内部門2位、『このミステリーがすごい!』'93年版国内編3位。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tosaku-no-rondo",
+    "title": "倒錯のロンド",
+    "titleKana": "とうさくのろんど",
+    "authorIds": [
+      "orihara-ichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "新人賞に応募した原稿が盗まれ、別の人物の名で受賞してしまう。盗まれた側と盗んだ側、それぞれの言い分が交互に語られ、どちらが本当なのかが揺れ続ける。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1990,
+        "result": "第10位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/折原一"
+    },
+    "sourceNote": "1989年7月、講談社より刊行(1992年講談社文庫、2021年完成版)。第34回江戸川乱歩賞候補・第43回日本推理作家協会賞(長編部門)候補(候補は登録しない方針のため未登録)。『このミステリーがすごい!』1990年版10位。作品単独のWikipedia記事はないため著者記事で確認した。作品の仕掛けに関わるタグはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyujukyu-percent",
+    "title": "99%の誘拐",
+    "titleKana": "きゅうじゅうきゅうぱーせんとのゆうかい",
+    "authorIds": [
+      "okajima-futari"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "suspense",
+      "tokushu-settei",
+      "kazoku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "十二年前の誘拐事件で父を失った青年が、コンピュータを駆使した新たな誘拐を実行する。犯人と警察が電子的な手段で追いつ追われつを繰り返す、技術を前面に出した誘拐小説。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岡嶋二人"
+    },
+    "sourceNote": "1988年10月、徳間書店より刊行(1990年徳間文庫、2004年講談社文庫)。翌1989年に第10回吉川英治文学新人賞を受賞したが本DB未登録の賞のため受賞歴には登録していない。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "soshite-tobira",
+    "title": "そして扉が閉ざされた",
+    "titleKana": "そしてとびらがとざされた",
+    "authorIds": [
+      "okajima-futari"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "misshitsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "核シェルターに閉じ込められた四人の男女。彼らは半年前に事故死した娘の死をめぐって集められていた。脱出の見込みが薄れるなか、閉ざされた部屋の中だけで事故の真相が議論されていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岡嶋二人"
+    },
+    "sourceNote": "1987年12月、講談社より刊行(1990年12月講談社文庫)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
   }
 ]

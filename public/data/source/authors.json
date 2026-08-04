@@ -740,5 +740,100 @@
     },
     "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "maya-yutaka",
+    "name": "麻耶雄嵩",
+    "nameKana": "まやゆたか",
+    "description": "京都大学推理小説研究会出身の作家。名探偵という存在そのものを問い直す仕掛けを好み、寡作ながらカルト的な支持を集める。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻耶雄嵩"
+    },
+    "sourceNote": "生年・経歴・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "norizuki-rintaro",
+    "name": "法月綸太郎",
+    "nameKana": "のりづきりんたろう",
+    "description": "京都大学推理小説研究会出身の作家・評論家。自身と同名の探偵を主人公に据え、探偵の責任という主題を繰り返し扱う。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/法月綸太郎"
+    },
+    "sourceNote": "生年・経歴・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kitamura-kaoru",
+    "name": "北村薫",
+    "nameKana": "きたむらかおる",
+    "description": "高校教師をしながら覆面作家としてデビューした作家。人が死なない「日常の謎」の書き手として知られ、のちに直木賞も受賞した。",
+    "birthYear": 1949,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北村薫"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kano-tomoko",
+    "name": "加納朋子",
+    "nameKana": "かのうともこ",
+    "description": "『ななつのこ』で鮎川哲也賞を受賞してデビュー。やさしい語り口の日常の謎を得意とする作家。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/加納朋子"
+    },
+    "sourceNote": "生年・経歴・受賞歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamada-masaki",
+    "name": "山田正紀",
+    "nameKana": "やまだまさき",
+    "description": "SF作家として出発し、のちに本格ミステリでも高い評価を得た作家。歴史や神話を大がかりな構想に取り込む作風で知られる。",
+    "birthYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田正紀"
+    },
+    "sourceNote": "生年・経歴・受賞歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kasai-kiyoshi",
+    "name": "笠井潔",
+    "nameKana": "かさいきよし",
+    "description": "小説家・評論家。現象学を用いて推理する探偵・矢吹駆を主人公とするシリーズと、探偵小説論の著作で知られる。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/笠井潔"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "orihara-ichi",
+    "name": "折原一",
+    "nameKana": "おりはらいち",
+    "description": "叙述の技巧を前面に出した作品を書き続ける作家。「叙述トリックの名手」と称されることが多い。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/折原一"
+    },
+    "sourceNote": "生年・経歴・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "okajima-futari",
+    "name": "岡嶋二人",
+    "nameKana": "おかじまふたり",
+    "description": "井上泉と徳山諄一の二人による合作ペンネーム。誘拐ものをはじめ、周到な構成の犯罪小説を発表した。1989年に解散している。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岡嶋二人"
+    },
+    "sourceNote": "コンビの構成・経歴はWikipedia日本語版で確認した。合作名義のため生年は記載していない。",
+    "updatedAt": "2026-08-04"
   }
 ]

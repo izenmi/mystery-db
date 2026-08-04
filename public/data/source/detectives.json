@@ -570,5 +570,61 @@
     },
     "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mercator-ayu",
+    "name": "メルカトル鮎",
+    "nameKana": "めるかとるあゆ",
+    "creatorAuthorId": "maya-yutaka",
+    "occupation": "自称「銘探偵」",
+    "description": "奇妙な衣装と奇矯な言動で知られる探偵。推理力が高すぎるがゆえに自らを「銘探偵」「長編には向かない探偵」と評する。",
+    "firstAppearanceWorkId": "tsubasa-aru-yami",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麻耶雄嵩"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "norizuki-detective",
+    "name": "法月綸太郎(探偵)",
+    "nameKana": "のりづきりんたろう",
+    "creatorAuthorId": "norizuki-rintaro",
+    "occupation": "推理作家",
+    "description": "作者と同名の推理作家。警視である父・法月貞雄の捜査に加わるが、推理して名指しすることの重さに苦しむ姿が繰り返し描かれる。",
+    "firstAppearanceWorkId": "yoriko-no-tame-ni",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/法月綸太郎"
+    },
+    "sourceNote": "人物像はWikipedia日本語版で確認した。初登場は『雪密室』だが本DBに未登録のため、登録済み作品のうち最も早い『頼子のために』を初登場作としている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "enshi",
+    "name": "春桜亭円紫",
+    "nameKana": "しゅんおうていえんし",
+    "creatorAuthorId": "kitamura-kaoru",
+    "occupation": "落語家",
+    "description": "高座を務める落語家。人の話に耳を傾け、日常のなかの小さな引っかかりを、誰も傷つけない形で解きほぐしてみせる。",
+    "firstAppearanceWorkId": "soratobu-uma",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北村薫"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事および作品紹介で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yabuki-kakeru",
+    "name": "矢吹駆",
+    "nameKana": "やぶきかける",
+    "creatorAuthorId": "kasai-kiyoshi",
+    "occupation": "パリに住む日本人青年",
+    "description": "1970年代のパリで暮らす謎めいた日本人。手がかりの積み上げではなく、事件の「本質直観」から犯人像を導くという独自の方法をとる。",
+    "firstAppearanceWorkId": "bye-bye-angel",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バイバイ、エンジェル"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]
