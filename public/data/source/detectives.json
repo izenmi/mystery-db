@@ -542,5 +542,33 @@
     },
     "sourceNote": "人物像はWikipedia日本語版の作者記事および作品紹介で確認した。シリーズ第1作は『悲しみのイレーヌ』だが本DBに未登録のため、登録済みの『その女アレックス』を初登場作としている。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "himura-hideo",
+    "name": "火村英生",
+    "nameKana": "ひむらひでお",
+    "creatorAuthorId": "arisugawa-alice",
+    "occupation": "英都大学社会学部の准教授(犯罪学者)",
+    "description": "フィールドワークと称して警察の捜査に協力する犯罪学者。推理作家の有栖川有栖を相棒に、現場に立って事件を解く。自身が犯罪学を志した理由は多くを語らない。",
+    "firstAppearanceWorkId": "46banme",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/46番目の密室"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kobato-jogoro",
+    "name": "小鳩常悟朗",
+    "nameKana": "こばとじょうごろう",
+    "creatorAuthorId": "yonezawa-honobu",
+    "occupation": "高校生",
+    "description": "「小市民」であることを目指す高校生。人の言動から筋道を組み立てる癖が抜けず、目立たず生きようとするたびに事件に首を突っ込むことになる。",
+    "firstAppearanceWorkId": "shunki-gentei",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/春期限定いちごタルト事件"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]

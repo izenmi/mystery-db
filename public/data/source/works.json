@@ -6403,5 +6403,603 @@
     },
     "sourceNote": "1993年10月、講談社より刊行。御手洗潔シリーズ。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。各種ランキングに入っているが対応を確定できなかったため受賞歴には登録していない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "46banme",
+    "title": "46番目の密室",
+    "titleKana": "よんじゅうろくばんめのみっしつ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei",
+      "yakata-mono"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "「密室の巨匠」と呼ばれる推理作家が、クリスマスの別荘で密室状態のまま死体となって発見される。招かれていた推理作家の有栖川有栖は、犯罪学者の火村英生を呼び寄せ、四十六番目の密室に挑む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/46番目の密室"
+    },
+    "sourceNote": "1992年3月、講談社ノベルスより刊行(1995年講談社文庫、2009年新装版)。作家アリス(火村英生)シリーズ第1作。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dali-no-mayu",
+    "title": "ダリの繭",
+    "titleKana": "だりのまゆ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "作家アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "宝石会社の社長が、自邸のサウナ・カプセルの中で射殺される。被害者はダリに心酔し、自らも髭を蓄えていた。ダリの絵をめぐる因縁を背景に、火村英生と有栖川有栖が関係者の証言を突き合わせる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/有栖川有栖"
+    },
+    "sourceNote": "1993年12月、角川書店より刊行。作家アリスシリーズの長編第2作。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "joukoku-no-shiro",
+    "title": "女王国の城",
+    "titleKana": "じょおうこくのしろ",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "egami-jiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "dokusha-e-no-chosen",
+      "seishun"
+    ],
+    "seriesName": "学生アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "姿を消した江神二郎を追って、英都大学推理小説研究会の面々は新興宗教団体の本部がある町へ向かう。閉ざされた宗教都市の中で殺人が起こり、外部との連絡も断たれる。学生アリスシリーズ第4長編。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2008,
+        "result": "第8回受賞(小説部門)"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2008,
+        "result": "第1位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2007,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/女王国の城"
+    },
+    "sourceNote": "2007年9月、東京創元社(創元クライム・クラブ)より刊行(2011年創元推理文庫上下巻)。第8回本格ミステリ大賞(小説部門)受賞、『本格ミステリ・ベスト10』1位、『週刊文春ミステリーベスト10』1位。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "toomawari-suru-hina",
+    "title": "遠まわりする雛",
+    "titleKana": "とおまわりするひな",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "oreki-hotaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun",
+      "tanpenshu"
+    ],
+    "seriesName": "古典部シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "入学から一年、古典部の四人が過ごす日常のなかの小さな謎を集めた短編集。新入生歓迎の一幕、湯浅の夏合宿、そして雛人形の行列。折木奉太郎と千反田えるの距離が少しずつ変わっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/遠まわりする雛"
+    },
+    "sourceNote": "2007年10月3日、角川書店より刊行(2010年7月文庫版)。〈古典部〉シリーズ第4弾でシリーズ初の短編集。『本格ミステリ・ベスト10』2008年版14位という記述があるが、当該ランキングの部門表記が明確でないため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "futari-no-kyori",
+    "title": "ふたりの距離の概算",
+    "titleKana": "ふたりのきょりのがいさん",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "oreki-hotaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun"
+    ],
+    "seriesName": "古典部シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "仮入部していた新入生が、古典部への入部を取りやめた。理由がわからないまま迎えたマラソン大会の当日、折木奉太郎は二十キロを走りながら、この一か月の出来事を順に思い返していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ふたりの距離の概算"
+    },
+    "sourceNote": "2010年、角川書店より刊行。〈古典部〉シリーズ第5弾。『本格ミステリ・ベスト10』2011年版で第11位。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "imasara-tsubasa",
+    "title": "いまさら翼といわれても",
+    "titleKana": "いまさらつばさといわれても",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "oreki-hotaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun",
+      "tanpenshu"
+    ],
+    "seriesName": "古典部シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "合唱祭の当日、独唱を任された千反田えるが姿を消す。表題作を含む六編で、古典部の四人それぞれの家庭や進路が顔を出し、これまで語られなかった事情が明かされていく短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いまさら翼といわれても"
+    },
+    "sourceNote": "2016年11月30日刊行(KADOKAWA)。〈古典部〉シリーズ第6弾の短編集。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shunki-gentei",
+    "title": "春期限定いちごタルト事件",
+    "titleKana": "しゅんきげんていいちごたるとじけん",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "kobato-jogoro"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun",
+      "rensaku-tanpen"
+    ],
+    "seriesName": "小市民シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "「小市民を目指す」という約束を交わした高校一年生の小鳩常悟朗と小佐内ゆき。ポシェットの紛失、ココアの謎、消えた自転車。目立たず暮らそうとするほど、二人は身近な謎に引き寄せられていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/春期限定いちごタルト事件"
+    },
+    "sourceNote": "2004年、創元推理文庫より刊行。〈小市民〉シリーズ第1弾の連作短編集。最終話はハリイ・ケメルマン『九マイルは遠すぎる』へのオマージュ。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shuki-gentei",
+    "title": "秋期限定栗きんとん事件",
+    "titleKana": "しゅうきげんていくりきんとんじけん",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "kobato-jogoro"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun",
+      "suspense"
+    ],
+    "seriesName": "小市民シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "互恵関係を解消した小鳩と小佐内は、それぞれ別の相手と付き合い始める。同じころ、市内では連続放火が続いていた。新聞部の取材に加わった小鳩が、火の付けられ方の規則性に気づく上下巻の一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/秋期限定栗きんとん事件"
+    },
+    "sourceNote": "2009年、創元推理文庫より上下巻で刊行。〈小市民〉シリーズ第3弾。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "oreta-ryukotsu",
+    "title": "折れた竜骨",
+    "titleKana": "おれたりゅうこつ",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "kotou",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "十二世紀末、イングランド沖の島。魔術が実在する世界を舞台に、島の領主が暗殺される。呪いによって操られた者による犯行なのか。騎士とその従者、領主の娘が、限られた条件のなかで犯人を絞り込む。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2011,
+        "result": "第64回受賞(長編及び連作短編集部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/米澤穂信"
+    },
+    "sourceNote": "2010年11月、東京創元社〈ミステリ・フロンティア〉より刊行(2013年創元推理文庫上下巻)。第64回日本推理作家協会賞受賞、第11回本格ミステリ大賞・第24回山本周五郎賞の候補(候補は登録しない方針のため未登録)。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inu-wa-dokoda",
+    "title": "犬はどこだ",
+    "titleKana": "いぬはどこだ",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "honkaku",
+      "seishun",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "犬捜し専門の調査事務所を開いた紺屋長一郎のもとに、舞い込んだのは人捜しと古文書の解読という二つの依頼だった。まったく無関係に見える二件の調査が、思わぬところで交わっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬はどこだ"
+    },
+    "sourceNote": "2005年7月21日、東京創元社より刊行。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "i-no-higeki",
+    "title": "Iの悲劇",
+    "titleKana": "あいのひげき",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "rensaku-tanpen",
+      "shakaiha",
+      "honkaku",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "無人となった集落に移住者を呼び戻す「Iターン支援プロジェクト」。市役所の担当職員たちが世話を焼くが、移り住んだ家族は一組ずつ集落を去っていく。過疎地の再生を巡る連作短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Iの悲劇"
+    },
+    "sourceNote": "『オールスイリ』『オール讀物』掲載の4編に書き下ろし2編を加え、2019年9月に文藝春秋より刊行(2022年9月文春文庫)。2019年『週刊文春ミステリーベスト10』4位、『このミステリーがすごい!』2020年版11位、『本格ミステリ・ベスト10』2020年版12位。以上をWikipedia日本語版で確認。",
+    "awardResults": [
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2019,
+        "result": "第4位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2020,
+        "result": "第11位"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2020,
+        "result": "第12位"
+      }
+    ],
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "magatori",
+    "title": "凶鳥の如き忌むもの",
+    "titleKana": "まがとりのごときいむもの",
+    "authorIds": [
+      "mitsuda-shinzo"
+    ],
+    "detectiveIds": [
+      "tojo-genya"
+    ],
+    "translatorIds": [],
+    "publisherId": "harashobo",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "youkai",
+      "kotou",
+      "meitantei"
+    ],
+    "seriesName": "刀城言耶シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "瀬戸内の孤島に伝わる、二十一年ごとの秘祭。宮司の巫女が鳥の姿になって飛び去るとされる儀式の最中、多くの目撃者の前で人が消える。刀城言耶が島の信仰と消失の謎に向き合う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/凶鳥の如き忌むもの"
+    },
+    "sourceNote": "ノベルス版は2006年9月6日に講談社ノベルスより、単行本は2009年4月28日に原書房〈ミステリー・リーグ〉より刊行(2012年講談社文庫)。刀城言耶シリーズ第2長編。刊行元はシリーズの他作と揃えて原書房とした。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamanma",
+    "title": "山魔の如き嗤うもの",
+    "titleKana": "やまんまのごときわらうもの",
+    "authorIds": [
+      "mitsuda-shinzo"
+    ],
+    "detectiveIds": [
+      "tojo-genya"
+    ],
+    "translatorIds": [],
+    "publisherId": "harashobo",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "youkai",
+      "meitantei"
+    ],
+    "seriesName": "刀城言耶シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "成人の儀礼として山に籠もった若者が、下山の途中で消息を絶つ。山には人を嗤う魔物が棲むという言い伝えがあった。取材に訪れた刀城言耶が、山中で起きた出来事の筋道を立て直していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山魔の如き嗤うもの"
+    },
+    "sourceNote": "2008年4月28日、原書房〈ミステリー・リーグ〉より書き下ろしで刊行(2011年5月講談社文庫)。刀城言耶シリーズ第4長編。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mizuchi",
+    "title": "水魑の如き沈むもの",
+    "titleKana": "みづちのごときしずむもの",
+    "authorIds": [
+      "mitsuda-shinzo"
+    ],
+    "detectiveIds": [
+      "tojo-genya"
+    ],
+    "translatorIds": [],
+    "publisherId": "harashobo",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "youkai",
+      "meitantei"
+    ],
+    "seriesName": "刀城言耶シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "水神を祀る四つの村が、雨乞いの儀式をめぐって長く対立してきた。儀式の日、湖で神事に臨んだ者が水中から現れない。水魑の祟りと囁かれるなか、刀城言耶が村々の因習に踏み込む。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2010,
+        "result": "第10回受賞(小説部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/水魑の如き沈むもの"
+    },
+    "sourceNote": "2009年12月10日、原書房〈ミステリー・リーグ〉より書き下ろしで刊行(2013年5月講談社文庫)。刀城言耶シリーズ第5長編。2010年度第10回本格ミステリ大賞(小説部門)受賞。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "suizokukan",
+    "title": "水族館の殺人",
+    "titleKana": "すいぞくかんのさつじん",
+    "authorIds": [
+      "aosaki-yugo"
+    ],
+    "detectiveIds": [
+      "urazome-tenma"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "meitantei",
+      "seishun"
+    ],
+    "seriesName": "裏染天馬シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "夏休みの水族館で、飼育員がサメの水槽に落とされて死亡する。館内にいた客と職員のうち、犯行が可能だった者は限られる。取材に来ていた新聞部員に頼まれ、裏染天馬が現場に足を運ぶ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青崎有吾"
+    },
+    "sourceNote": "2013年8月、東京創元社より刊行(2016年7月創元推理文庫)。裏染天馬シリーズ第2作。第14回本格ミステリ大賞(小説部門)候補(候補は登録しない方針のため未登録)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "toshokan-satsujin",
+    "title": "図書館の殺人",
+    "titleKana": "としょかんのさつじん",
+    "authorIds": [
+      "aosaki-yugo"
+    ],
+    "detectiveIds": [
+      "urazome-tenma"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "meitantei",
+      "seishun"
+    ],
+    "seriesName": "裏染天馬シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "試験期間中の市立図書館で、大学生が撲殺された。凶器は書架の本らしい。現場に残された一冊のミステリと、閉館前後の人の動き。裏染天馬が図書館という場所の性質から犯人を絞り込む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青崎有吾"
+    },
+    "sourceNote": "2016年1月29日、東京創元社より刊行(2018年9月創元推理文庫)。裏染天馬シリーズ第4作。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

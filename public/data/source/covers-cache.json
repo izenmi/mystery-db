@@ -1,4 +1,12 @@
 {
+  "46banme": {
+    "title": "46番目の密室",
+    "isbn": "9784062764278",
+    "matchedTitle": "新装版　46番目の密室",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4278/9784062764278_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:06.508Z"
+  },
   "abc-satsujin": {
     "title": "ABC殺人事件",
     "isbn": "9784151300110",
@@ -131,6 +139,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:06.394Z"
   },
+  "dali-no-mayu": {
+    "title": "ダリの繭",
+    "isbn": "9784041913017",
+    "matchedTitle": "ダリの繭",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3017/9784041913017.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:07.650Z"
+  },
   "dareka-somebody": {
     "title": "誰か Somebody",
     "isbn": "9784167549060",
@@ -212,6 +228,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:22.923Z",
     "note": "登録は新潮文庫だが書影は角川文庫版。作品は同一。"
+  },
+  "futari-no-kyori": {
+    "title": "ふたりの距離の概算",
+    "isbn": "9784041003251",
+    "matchedTitle": "ふたりの距離の概算",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3251/9784041003251_1_20.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:11.079Z"
   },
   "galileo-no-kuno": {
     "title": "ガリレオの苦悩",
@@ -384,6 +408,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:42.230Z"
   },
+  "i-no-higeki": {
+    "title": "Iの悲劇",
+    "isbn": "9784167919313",
+    "matchedTitle": "Iの悲劇",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9313/9784167919313_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:17.974Z"
+  },
   "ihou-no-kishi": {
     "title": "異邦の騎士",
     "isbn": "9784062637701",
@@ -410,6 +442,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:59.695Z"
   },
+  "imasara-tsubasa": {
+    "title": "いまさら翼といわれても",
+    "isbn": "9784041047613",
+    "matchedTitle": "いまさら翼といわれても",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7613/9784041047613.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:12.221Z"
+  },
   "incite-mill": {
     "title": "インシテミル",
     "isbn": "9784167773700",
@@ -435,6 +475,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:07.502Z"
   },
+  "inu-wa-dokoda": {
+    "title": "犬はどこだ",
+    "isbn": "9784488451042",
+    "matchedTitle": "犬はどこだ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1042/9784488451042.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:16.816Z"
+  },
   "inugamike": {
     "title": "犬神家の一族",
     "isbn": "9784041304051",
@@ -458,6 +506,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9192/9784065319192_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:10.303Z"
+  },
+  "joukoku-no-shiro": {
+    "title": "女王国の城",
+    "isbn": "9784488414054",
+    "matchedTitle": "女王国の城（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4054/9784488414054.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:08.799Z",
+    "note": "書影は創元推理文庫版の上巻。"
   },
   "jujiyashiki": {
     "title": "十字屋敷のピエロ",
@@ -747,6 +804,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:18.702Z"
   },
+  "magatori": {
+    "title": "凶鳥の如き忌むもの",
+    "isbn": "9784062771542",
+    "matchedTitle": "凶鳥の如き忌むもの",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1542/9784062771542.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:19.116Z",
+    "note": "登録は原書房(単行本)だが書影は講談社文庫版。作品は同一。"
+  },
   "main-theme": {
     "title": "メインテーマは殺人",
     "isbn": "9784488265090",
@@ -857,6 +923,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2216/2000002962216.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-04T03:50:43.580Z"
+  },
+  "mizuchi": {
+    "title": "水魑の如き沈むもの",
+    "isbn": "9784062775250",
+    "matchedTitle": "水魑の如き沈むもの",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5250/9784062775250_1_33.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:22.208Z",
+    "note": "書影は講談社文庫版。登録した刊行元は原書房(単行本)。"
   },
   "mohohan": {
     "title": "模倣犯",
@@ -989,6 +1064,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1103/9784488451103.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:16.290Z"
+  },
+  "oreta-ryukotsu": {
+    "title": "折れた竜骨",
+    "isbn": "9784488451073",
+    "matchedTitle": "折れた竜骨＜上＞",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1073/9784488451073.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:15.647Z",
+    "note": "書影は創元推理文庫版の上巻。"
   },
   "orient-express": {
     "title": "オリエント急行の殺人",
@@ -1129,6 +1213,23 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:54.988Z"
   },
+  "shuki-gentei": {
+    "title": "秋期限定栗きんとん事件",
+    "isbn": "9784488451059",
+    "matchedTitle": "秋期限定栗きんとん事件 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1059/9784488451059_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:14.508Z",
+    "note": "書影は創元推理文庫版の上巻。"
+  },
+  "shunki-gentei": {
+    "title": "春期限定いちごタルト事件",
+    "isbn": "9784488451011",
+    "matchedTitle": "春期限定いちごタルト事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/9784488451011.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:13.364Z"
+  },
   "sojo-satsujin": {
     "title": "僧正殺人事件",
     "isbn": "9784488103149",
@@ -1201,6 +1302,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0324/9784062760324_1_21.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:41.207Z"
+  },
+  "suizokukan": {
+    "title": "水族館の殺人",
+    "isbn": "9784488443122",
+    "matchedTitle": "水族館の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3122/9784488443122.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:23.349Z"
   },
   "suki-ni-shite-mokei": {
     "title": "数奇にして模型",
@@ -1290,6 +1399,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:17:02.247Z"
   },
+  "toomawari-suru-hina": {
+    "title": "遠まわりする雛",
+    "isbn": "9784044271046",
+    "matchedTitle": "遠まわりする雛",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1046/9784044271046_1_15.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:09.940Z"
+  },
+  "toshokan-satsujin": {
+    "title": "図書館の殺人",
+    "isbn": "9784488443146",
+    "matchedTitle": "図書館の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3146/9784488443146.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:24.493Z"
+  },
   "tsumetai-misshitsu": {
     "title": "冷たい密室と博士たち",
     "isbn": "9784062645607",
@@ -1347,6 +1472,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:44.558Z",
     "note": "楽天ブックスが解決したのは角川文庫版(ISBN 9784042507161)で、works.jsonに登録しているハヤカワ・ミステリ文庫の宇野利泰訳とは版が異なる。作品としては同一なので書影として採用した。"
+  },
+  "yamanma": {
+    "title": "山魔の如き嗤うもの",
+    "isbn": "9784062769181",
+    "matchedTitle": "山魔の如き嗤うもの",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9181/9784062769181_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:46:21.056Z",
+    "note": "書影は講談社文庫版。登録した刊行元は原書房(単行本)。"
   },
   "yatsuhakamura": {
     "title": "八つ墓村",
