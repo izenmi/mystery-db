@@ -409,6 +409,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:03.963Z"
   },
+  "coffin-dancer": {
+    "title": "コフィン・ダンサー",
+    "isbn": null,
+    "matchedTitle": "コフィン・ダンサー　上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7610/2000000177610.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:23:16.485Z"
+  },
   "crossfire": {
     "title": "クロスファイア",
     "isbn": "9784334749736",
@@ -434,6 +442,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:10.529Z",
     "note": "BOOK☆WALKERが解決したのは創元推理文庫『江戸川乱歩全集2 D坂の殺人事件』の書影で、works.jsonに登録している光文社(光文社文庫の江戸川乱歩全集)とは版が異なる。画像を目視し、漫画版(『漫画 D坂の殺人事件』泉こうてん)ではなく小説版であることを確認済み。"
+  },
+  "dain-ke-no-noroi": {
+    "title": "デイン家の呪い",
+    "isbn": null,
+    "matchedTitle": "デイン家の呪い",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3194/2000003003194.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:24:01.655Z"
   },
   "daisan-no-jiko": {
     "title": "第三の時効",
@@ -564,6 +580,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0626/06264891.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:42:01.358Z"
+  },
+  "empty-chair": {
+    "title": "エンプティー・チェア",
+    "isbn": null,
+    "matchedTitle": "エンプティー・チェア　下",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4263/2000000134263.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:23:19.992Z",
+    "note": "楽天ブックスに書誌がなくKobo電子書籍から解決したが、拾われたのは下巻。上巻の書誌が3ストアのいずれにも見当たらないためそのままにしている。"
   },
   "eugenia": {
     "title": "ユージニア",
@@ -914,6 +939,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6130/9784041096130_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:52:30.382Z"
+  },
+  "hannibal": {
+    "title": "ハンニバル",
+    "isbn": "9784102167038",
+    "matchedTitle": "ハンニバル（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7038/9784102167038.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:23:47.853Z"
   },
   "hanochi": {
     "title": "半落ち",
@@ -1388,6 +1421,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:57:07.567Z"
   },
+  "kage-naki-otoko": {
+    "title": "影なき男",
+    "isbn": null,
+    "matchedTitle": "影なき男",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7241/2000000117241.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:23:58.230Z"
+  },
   "kage-no-kisetsu": {
     "title": "陰の季節",
     "isbn": "9784167659011",
@@ -1669,6 +1710,30 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:14:02.057Z"
   },
+  "kizudarake-no-camille": {
+    "title": "傷だらけのカミーユ",
+    "isbn": "9784167907075",
+    "matchedTitle": "傷だらけのカミーユ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7075/9784167907075.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:24:05.719Z"
+  },
+  "knife-o-hinereba": {
+    "title": "ナイフをひねれば",
+    "isbn": "9784488265144",
+    "matchedTitle": "ナイフをひねれば",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5144/9784488265144_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:24:03.940Z"
+  },
+  "kochu-no-onna": {
+    "title": "湖中の女",
+    "isbn": null,
+    "matchedTitle": "湖中の女",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9947/2000000199947.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:23:52.461Z"
+  },
   "koi-to-kinki": {
     "title": "恋と禁忌の述語論理",
     "isbn": "9784065139950",
@@ -1758,6 +1823,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9549/9784041049549_1_8.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:10.971Z"
+  },
+  "koroshi-e-no-line": {
+    "title": "殺しへのライン",
+    "isbn": "9784488265137",
+    "matchedTitle": "殺しへのライン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5137/9784488265137_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:24:02.795Z"
   },
   "kotei-no-kagi": {
     "title": "皇帝のかぎ煙草入れ",
@@ -2236,6 +2309,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:24:21.594Z"
   },
+  "millennium-3": {
+    "title": "ミレニアム3 眠れる女と狂卓の騎士",
+    "isbn": "9784151792557",
+    "matchedTitle": "ミレニアム　3　眠れる女と狂卓の騎士 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2557/9784151792557.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:24:46.047Z",
+    "note": "自動取得がハヤカワ・ミステリ文庫版の下巻(9784151792564)を拾ったため上巻に差し替えた。"
+  },
   "mippei-kyoshitsu": {
     "title": "密閉教室",
     "isbn": "9784062760270",
@@ -2701,6 +2783,15 @@
     "resolvedAt": "2026-08-04T06:38:27.758Z",
     "note": "自動取得が文春文庫版の下巻を拾ったため上巻に差し替えた。"
   },
+  "playback-chandler": {
+    "title": "プレイバック",
+    "isbn": "9784152096562",
+    "matchedTitle": "プレイバック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6562/9784152096562.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:23:54.793Z",
+    "note": "works.jsonには清水俊二訳のハヤカワ・ミステリ文庫版を登録しているが、書影は早川書房の村上春樹訳版のもの。作品としては同一。"
+  },
   "pocket-full-of-rye": {
     "title": "ポケットにライ麦を",
     "isbn": "9784151310409",
@@ -2749,6 +2840,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6385/9784022646385.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:52.958Z"
+  },
+  "red-dragon": {
+    "title": "レッド・ドラゴン",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T07:23:46.617Z"
   },
   "red-redmaynes": {
     "title": "赤毛のレドメイン家",
@@ -3333,6 +3430,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:43.581Z"
   },
+  "stone-monkey": {
+    "title": "石の猿",
+    "isbn": null,
+    "matchedTitle": "石の猿　下",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9194/2000000109194.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:23:23.491Z",
+    "note": "楽天ブックスに書誌がなくKobo電子書籍から解決したが、拾われたのは下巻。上巻の書誌が3ストアのいずれにも見当たらないためそのままにしている。"
+  },
   "strawberry-night": {
     "title": "ストロベリーナイト",
     "isbn": "9784334744717",
@@ -3420,6 +3526,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3115/9784488443115_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:26.134Z"
+  },
+  "takai-mado": {
+    "title": "高い窓",
+    "isbn": "9784152095060",
+    "matchedTitle": "高い窓",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5060/9784152095060.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:23:48.999Z"
   },
   "tantei-galileo": {
     "title": "探偵ガリレオ",
@@ -3700,6 +3814,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5841/9784065325841_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:26.109Z"
+  },
+  "watchmaker": {
+    "title": "ウォッチメイカー",
+    "isbn": "9784167705886",
+    "matchedTitle": "ウォッチメイカー（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5886/9784167705886_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:23:24.656Z"
   },
   "white-rabbit": {
     "title": "ホワイトラビット",

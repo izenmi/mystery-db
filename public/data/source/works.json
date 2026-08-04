@@ -17464,5 +17464,561 @@
     },
     "sourceNote": "2018年3月KADOKAWA刊、2020年3月角川文庫。本DB登録済みの『孤狼の血』に続く全3作のシリーズ第2作であることを著者記事で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "coffin-dancer",
+    "title": "コフィン・ダンサー",
+    "titleKana": "こふぃんだんさー",
+    "originalTitle": "The Coffin Dancer",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "meitantei"
+    ],
+    "seriesName": "リンカーン・ライムシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "jpPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "棺を担いで踊る死神の刺青から「コフィン・ダンサー」と呼ばれる殺し屋が、裁判の証人となる三人の命を狙う。証人を守り切れるのは四十五時間。ベッドから動けない科学捜査の専門家リンカーン・ライムが、微細な物証だけを頼りに相手の次の一手を読む。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は1998年刊、邦訳は2000年。刊行年は著者記事のリンカーン・ライムシリーズ一覧で確認した。訳者・版元は本DB登録済みの『ボーン・コレクター』と同じ池田真紀子訳・文藝春秋。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "empty-chair",
+    "title": "エンプティー・チェア",
+    "titleKana": "えんぷてぃーちぇあ",
+    "originalTitle": "The Empty Chair",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "meitantei"
+    ],
+    "seriesName": "リンカーン・ライムシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "jpPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "手術のためノースカロライナを訪れたライムは、地元で起きた誘拐事件の捜査に引き込まれる。容疑者は「昆虫少年」と呼ばれる少年。都会の物証分析がそのままでは通用しない湿地帯を舞台に、状況は二転三転していく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は2000年刊、邦訳は2001年。刊行年は著者記事のリンカーン・ライムシリーズ一覧で確認した。訳者・版元は同シリーズの他作と同じ池田真紀子訳・文藝春秋。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "stone-monkey",
+    "title": "石の猿",
+    "titleKana": "いしのさる",
+    "originalTitle": "The Stone Monkey",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "meitantei"
+    ],
+    "seriesName": "リンカーン・ライムシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "密航者を運ぶ船が沈み、生き延びた一家を「ゴースト」と呼ばれる蛇頭の男が追う。ニューヨークの中国人社会に身を隠した人々を守るため、ライムたちは土地勘のない世界へ踏み込んでいく。シリーズ第4作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は2002年刊、邦訳は2003年。刊行年は著者記事のリンカーン・ライムシリーズ一覧で確認した。訳者・版元は同シリーズの他作と同じ池田真紀子訳・文藝春秋。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "watchmaker",
+    "title": "ウォッチメイカー",
+    "titleKana": "うぉっちめいかー",
+    "originalTitle": "The Cold Moon",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "meitantei"
+    ],
+    "seriesName": "リンカーン・ライムシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "現場に古い時計を残していく犯人が、時を刻むように殺人を重ねていく。「ウォッチメイカー」と名乗るその相手は、ライムがこれまで対峙したなかで最も準備が周到だった。並行して進む別の捜査と合わせ、仕掛けが幾重にも折り重なる一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は2006年刊、邦訳は2007年。刊行年およびキャサリン・ダンスの初登場作である点を著者記事のシリーズ一覧で確認した。訳者・版元は楽天ブックスの書誌(文春文庫版)で池田真紀子訳・文藝春秋であることを確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "red-dragon",
+    "title": "レッド・ドラゴン",
+    "titleKana": "れっどどらごん",
+    "originalTitle": "Red Dragon",
+    "authorIds": [
+      "thomas-harris"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ogura-takashi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "noir"
+    ],
+    "seriesName": "ハンニバル・レクターシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "一家を皆殺しにする連続殺人犯を追うため、FBIを離れていた捜査官が現場に呼び戻される。手がかりを得るために彼が会いに行くのは、かつて自ら逮捕した収監中の精神科医だった。レクターが初めて登場するシリーズ第1作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レッド・ドラゴン"
+    },
+    "sourceNote": "原著は1981年刊、ハンニバル・レクターシリーズ第1作であることを著者記事で確認した。邦訳は小倉多加志訳のハヤカワ文庫NV版を採用している。楽天ブックスには本作の邦訳書誌が見つからなかったため、jpPublishedYearはハヤカワ文庫版の刊行年として広く記録されている1989年を採用した。表紙は未解決となる可能性がある。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hannibal",
+    "title": "ハンニバル",
+    "titleKana": "はんにばる",
+    "originalTitle": "Hannibal",
+    "authorIds": [
+      "thomas-harris"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "takami-hiroshi"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "ハンニバル・レクターシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "逃亡したレクターの行方を追うFBI捜査官と、彼に復讐を果たそうとする富豪。追う者と追われる者の関係が、次第に本来の輪郭を失っていく。『羊たちの沈黙』の続編にしてシリーズ完結編にあたるサイコ・スリラー。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハンニバル_(小説)"
+    },
+    "sourceNote": "原著は1999年刊、『羊たちの沈黙』の続編かつ完結編であることをWikipedia日本語版で確認した。邦訳は本DB登録済みの『羊たちの沈黙』と同じ高見浩訳・新潮社で登録している。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takai-mado",
+    "title": "高い窓",
+    "titleKana": "たかいまど",
+    "originalTitle": "The High Window",
+    "authorIds": [
+      "raymond-chandler"
+    ],
+    "detectiveIds": [
+      "philip-marlowe"
+    ],
+    "translatorIds": [
+      "murakami-haruki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "kaigai-koten",
+      "kazoku"
+    ],
+    "seriesName": "フィリップ・マーロウシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1942,
+    "jpPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "資産家の未亡人から、盗まれた稀少な金貨を取り戻してほしいと依頼されたマーロウ。屋敷に漂う支配的な空気と、そこに縛りつけられた人々の姿を見ながら調査を進めるうち、金貨よりも厄介なものに行き当たる。長編シリーズ第3作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高い窓"
+    },
+    "sourceNote": "原著は1942年刊、マーロウもの長編第3作であることをWikipedia日本語版で確認した。邦訳は村上春樹訳の早川書房版(2014年)を採用した(清水俊二訳のハヤカワ・ミステリ文庫版もある)。楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kochu-no-onna",
+    "title": "湖中の女",
+    "titleKana": "こちゅうのおんな",
+    "originalTitle": "The Lady in the Lake",
+    "authorIds": [
+      "raymond-chandler"
+    ],
+    "detectiveIds": [
+      "philip-marlowe"
+    ],
+    "translatorIds": [
+      "shimizu-shunji"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "kaigai-koten"
+    ],
+    "seriesName": "フィリップ・マーロウシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1943,
+    "jpPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "失踪した妻を捜してほしいという依頼で、マーロウは山中の湖畔へ向かう。そこで見つかったのは、水に沈んでいた別の女性の遺体だった。都会と山、二つの場所で起きた出来事が絡み合っていく長編シリーズ第4作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/湖中の女"
+    },
+    "sourceNote": "原著は1943年刊、マーロウもの長編第4作であることをWikipedia日本語版で確認した。邦訳は清水俊二訳のハヤカワ・ミステリ文庫版(1986年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "playback-chandler",
+    "title": "プレイバック",
+    "titleKana": "ぷれいばっく",
+    "originalTitle": "Playback",
+    "authorIds": [
+      "raymond-chandler"
+    ],
+    "detectiveIds": [
+      "philip-marlowe"
+    ],
+    "translatorIds": [
+      "shimizu-shunji"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "kaigai-koten"
+    ],
+    "seriesName": "フィリップ・マーロウシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1958,
+    "jpPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "弁護士から、列車で到着する女を尾行しろとだけ言われて仕事を受けたマーロウ。理由も依頼人の素性も知らされないまま、彼は海辺の町で女の周囲に集まる男たちと向き合うことになる。著者の遺作となった長編第7作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/プレイバック_(小説)"
+    },
+    "sourceNote": "原著は1958年刊、マーロウもの長編第7作で著者の遺作であることをWikipedia日本語版で確認した。邦訳は清水俊二訳のハヤカワ・ミステリ文庫版を採用した(村上春樹訳もある)。楽天ブックスに書誌が見つからなかったため、jpPublishedYearはハヤカワ・ミステリ文庫版の刊行年として記録されている1977年を採用し、表紙は未解決となる可能性がある。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kage-naki-otoko",
+    "title": "影なき男",
+    "titleKana": "かげなきおとこ",
+    "originalTitle": "The Thin Man",
+    "authorIds": [
+      "dashiell-hammett"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kodaka-nobumitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "kaigai-koten"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "jpPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "探偵稼業から足を洗った男が、資産家の妻とともに過ごすニューヨークで、昔の依頼人が絡む事件に引き戻される。軽妙な夫婦の会話を軸に進む、著者の長編としては最後の一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は1934年刊。著者記事で刊行年と、夫婦探偵を描いた作品である点を確認した。邦訳は小鷹信光訳のハヤカワ・ミステリ文庫版を採用している。楽天ブックスに書誌が見つからなかったため、jpPublishedYearはハヤカワ・ミステリ文庫版の刊行年として記録されている1990年を採用し、表紙は未解決となる可能性がある。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dain-ke-no-noroi",
+    "title": "デイン家の呪い",
+    "titleKana": "でいんけののろい",
+    "originalTitle": "The Dain Curse",
+    "authorIds": [
+      "dashiell-hammett"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kodaka-nobumitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "kaigai-koten",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "jpPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "ダイヤモンドの盗難調査で一族に関わったコンチネンタル・オプは、その家系に代々つきまとうという「呪い」の話を聞かされる。以後、関係者が次々に死んでいく。名前のない探偵が、超自然めいた説明を一つずつ潰していく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は1929年刊、コンチネンタル・オプものの長編。邦訳は小鷹信光訳、ハヤカワ・ミステリ文庫、2009年であることを著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koroshi-e-no-line",
+    "title": "殺しへのライン",
+    "titleKana": "ころしへのらいん",
+    "originalTitle": "A Line to Kill",
+    "authorIds": [
+      "anthony-horowitz"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-ran"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kotou",
+      "closed-circle"
+    ],
+    "seriesName": "ホーソーン&ホロヴィッツシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2021,
+    "jpPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "元刑事の探偵ホーソーンと、その相棒役を務める作家ホロヴィッツが、離島で開かれる文芸フェスティバルに招かれる。船の便が限られた島で参加者の一人が殺され、外部から犯人が来た可能性はほぼ消える。シリーズ第3作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は2021年刊。邦訳は山田蘭訳、2022年9月創元推理文庫であることを著者記事の著作一覧で確認した。本DB登録済みの『メインテーマは殺人』『その裁きは死』に続くシリーズ第3作。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "knife-o-hinereba",
+    "title": "ナイフをひねれば",
+    "titleKana": "ないふをひねれば",
+    "originalTitle": "The Twist of a Knife",
+    "authorIds": [
+      "anthony-horowitz"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-ran"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "houtei",
+      "suspense"
+    ],
+    "seriesName": "ホーソーン&ホロヴィッツシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2022,
+    "jpPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "自作の戯曲が酷評された翌日、その劇評を書いた批評家が殺される。凶器には作家ホロヴィッツ自身の指紋が残っていた。容疑者にされた語り手が、これまで組んできた探偵ホーソーンに助けを求める立場に回るシリーズ第4作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は2022年刊。邦訳は山田蘭訳、2023年9月東京創元社であることを著者記事の著作一覧と楽天ブックスの書誌で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kizudarake-no-camille",
+    "title": "傷だらけのカミーユ",
+    "titleKana": "きずだらけのかみーゆ",
+    "originalTitle": "Sacrifices",
+    "authorIds": [
+      "pierre-lemaitre"
+    ],
+    "detectiveIds": [
+      "camille-verhoeven"
+    ],
+    "translatorIds": [
+      "tachibana-akemi"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "noir"
+    ],
+    "seriesName": "カミーユ・ヴェルーヴェン三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "宝飾店での強盗事件に巻き込まれ、カミーユの恋人が重傷を負う。捜査を担当する立場にありながら、彼は自分と事件の関わりを上司に告げない。過去の傷が判断を狂わせていく、三部作の完結編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は2012年刊、邦訳は橘明美訳、2016年10月文藝春秋〈文春文庫〉であることを著者記事の著作一覧で確認した。本DB登録済みの『悲しみのイレーヌ』『その女アレックス』に続く三部作第三作。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "millennium-3",
+    "title": "ミレニアム3 眠れる女と狂卓の騎士",
+    "titleKana": "みれにあむすりーねむれるおんなときょうたくのきし",
+    "originalTitle": "Luftslottet som sprängdes",
+    "authorIds": [
+      "stieg-larsson"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "helenhalme-miho"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "houtei"
+    ],
+    "seriesName": "ミレニアム",
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "jpPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "重傷を負って病院に運ばれたリスベットは、外に出られないまま複数の罪に問われようとしていた。雑誌ミレニアムの記者たちは、彼女を追い詰めてきた組織の存在を暴くべく動き出す。報道と司法をめぐる攻防を描く三部作の完結編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミレニアム_(小説)"
+    },
+    "sourceNote": "原著は2007年刊。邦訳は2009年7月早川書房、訳者はヘレンハルメ美穂ほか。著者記事の作品一覧と楽天ブックスの書誌で確認した。本DB登録済みの『ミレニアム1』『ミレニアム2』に続く三部作の完結編。",
+    "updatedAt": "2026-08-04"
   }
 ]
