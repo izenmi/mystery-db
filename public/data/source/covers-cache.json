@@ -145,6 +145,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:24.490Z"
   },
+  "ax-isaka": {
+    "title": "AX アックス",
+    "isbn": "9784041084427",
+    "matchedTitle": "AX アックス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4427/9784041084427_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:52.774Z"
+  },
   "bakudan": {
     "title": "爆弾",
     "isbn": "9784065273470",
@@ -203,6 +211,14 @@
     "resolvedAt": "2026-08-04T05:32:48.189Z",
     "note": "登録どおりクリスティー文庫の羽田詩津子訳。自動取得では偕成社の児童向け版が当たっていたため差し替えた。"
   },
+  "bokyo-minato": {
+    "title": "望郷",
+    "isbn": "9784167905231",
+    "matchedTitle": "望郷",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5231/9784167905231.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:09:02.234Z"
+  },
   "bone-collector": {
     "title": "ボーン・コレクター",
     "isbn": "9784167661342",
@@ -220,6 +236,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:38:29.525Z",
     "note": "自動取得が講談社文庫新装版の下巻(9784065400975)を拾ったため上巻に差し替えた。"
+  },
+  "bosei-minato": {
+    "title": "母性",
+    "isbn": "9784101267715",
+    "matchedTitle": "母性",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7715/9784101267715.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:59.862Z"
   },
   "boshi-shushukyo-jiken": {
     "title": "帽子収集狂事件",
@@ -327,6 +351,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8647/9784087488647_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:37:45.992Z"
+  },
+  "children-isaka": {
+    "title": "チルドレン",
+    "isbn": "9784062757249",
+    "matchedTitle": "チルドレン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7249/9784062757249.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:45.523Z"
   },
   "chinmoku-no-parade": {
     "title": "沈黙のパレード",
@@ -698,6 +730,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:24:20.431Z"
   },
+  "grasshopper-isaka": {
+    "title": "グラスホッパー",
+    "isbn": "9784043849017",
+    "matchedTitle": "グラスホッパー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9017/9784043849017_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:49.123Z"
+  },
   "greek-coffin": {
     "title": "ギリシャ棺の謎",
     "isbn": "9784488104399",
@@ -802,6 +842,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1471/9784152101471_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:57:06.400Z"
+  },
+  "hana-no-kusari": {
+    "title": "花の鎖",
+    "isbn": "9784167860011",
+    "matchedTitle": "花の鎖",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0011/9784167860011_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:57.519Z"
   },
   "hanadokuro": {
     "title": "花髑髏",
@@ -1490,6 +1538,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:28.495Z"
   },
+  "koko-nyushi": {
+    "title": "高校入試",
+    "isbn": "9784041038093",
+    "matchedTitle": "高校入試",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8093/9784041038093.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:09:04.621Z"
+  },
   "kokuhaku": {
     "title": "告白",
     "isbn": "9784575513448",
@@ -1890,6 +1946,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:16:57.628Z"
   },
+  "mame-no-ue-de-nemuru": {
+    "title": "豆の上で眠る",
+    "isbn": "9784101267722",
+    "matchedTitle": "豆の上で眠る",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7722/9784101267722_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:09:05.788Z"
+  },
   "manatsu-no-hoteishiki": {
     "title": "真夏の方程式",
     "isbn": "9784167110154",
@@ -1905,6 +1969,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7843/9784101287843.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:39.916Z"
+  },
+  "mao-isaka": {
+    "title": "魔王",
+    "isbn": "9784065269466",
+    "matchedTitle": "魔王　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9466/9784065269466_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:47.913Z"
+  },
+  "maria-beetle": {
+    "title": "マリアビートル",
+    "isbn": "9784041009772",
+    "matchedTitle": "マリアビートル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9772/9784041009772.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:50.309Z"
   },
   "marks-no-yama": {
     "title": "マークスの山",
@@ -2523,6 +2603,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-04T04:56:42.693Z"
   },
+  "reverse-minato": {
+    "title": "リバース",
+    "isbn": "9784062935869",
+    "matchedTitle": "リバース",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5869/9784062935869_1_27.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:09:10.510Z"
+  },
   "rirasou": {
     "title": "りら荘事件",
     "isbn": "9784488403140",
@@ -2578,6 +2666,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8723/9784062938723_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:59.191Z"
+  },
+  "rush-life": {
+    "title": "ラッシュライフ",
+    "isbn": "9784101250229",
+    "matchedTitle": "ラッシュライフ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1012/10125022.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:43.127Z"
   },
   "russia-kocha-no-nazo": {
     "title": "ロシア紅茶の謎",
@@ -2855,6 +2951,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6740/9784167906740.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:27:37.053Z"
+  },
+  "shojo-minato": {
+    "title": "少女",
+    "isbn": "9784575514834",
+    "matchedTitle": "少女",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4834/9784575514834.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:56.338Z"
   },
   "shokuzai": {
     "title": "贖罪",
@@ -3317,6 +3421,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:27.274Z"
   },
+  "utopia-minato": {
+    "title": "ユートピア",
+    "isbn": "9784087716375",
+    "matchedTitle": "ユートピア",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6375/9784087716375.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:09:08.142Z"
+  },
   "utsukushiki-kyoki": {
     "title": "美しき凶器",
     "isbn": "9784334791124",
@@ -3363,6 +3475,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5841/9784065325841_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:26.109Z"
+  },
+  "white-rabbit": {
+    "title": "ホワイトラビット",
+    "isbn": "9784101250328",
+    "matchedTitle": "ホワイトラビット",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0328/9784101250328.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:53.948Z"
   },
   "whiteout": {
     "title": "ホワイトアウト",
@@ -3439,6 +3559,14 @@
     "coverUrl": "https://c.bookwalker.jp/6856673/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:40.256Z"
+  },
+  "yokina-gang": {
+    "title": "陽気なギャングが地球を回す",
+    "isbn": "9784396332686",
+    "matchedTitle": "陽気なギャングが地球を回す",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3963/39633268.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:08:41.936Z"
   },
   "yokoku-satsujin": {
     "title": "予告殺人",

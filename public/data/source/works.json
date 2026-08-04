@@ -15901,5 +15901,525 @@
     },
     "sourceNote": "原著は1917年刊。邦訳は本DB登録済みの他のホームズ短編集と同じ延原謙訳・新潮文庫版(2010年、改版)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yokina-gang",
+    "title": "陽気なギャングが地球を回す",
+    "titleKana": "ようきなぎゃんぐがちきゅうをまわす",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "honkaku"
+    ],
+    "seriesName": "陽気なギャングシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "嘘を見抜く名人、天才スリ、演説の達人、体内時計が狂わない女。それぞれの特技を持ち寄って百発百中の銀行強盗を働く四人組が、奪ったばかりの現金を横から奪われる。取り返すために動き出した彼らの前で、複数の事件が思わぬ形でつながっていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2004,
+        "result": "第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陽気なギャングが地球を回す"
+    },
+    "sourceNote": "2003年1月祥伝社ノン・ノベル刊、2006年2月祥伝社文庫。1996年の第13回サントリーミステリー大賞佳作『悪党たちが目にしみる』を大幅改訂したもの。『このミステリーがすごい!2004年版』6位を著者記事のランキング一覧で確認した。2006年に耕野裕子の作画で漫画化、2006年に映画化。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rush-life",
+    "title": "ラッシュライフ",
+    "titleKana": "らっしゅらいふ",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "泥棒を生業とする男、父に自殺された青年、不倫相手との再婚を企むカウンセラー、職と家族を失った男。仙台を舞台に、まったく関係のなさそうな四つの物語が並行して進み、時間の順序をずらしながら少しずつ噛み合っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラッシュライフ"
+    },
+    "sourceNote": "2002年7月新潮ミステリー倶楽部刊、2005年5月新潮文庫。2009年6月に映画化。Wikipedia日本語版と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "children-isaka",
+    "title": "チルドレン",
+    "titleKana": "ちるどれん",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "rensaku-tanpen",
+      "nichijo-no-nazo",
+      "seishun",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "身勝手で強引、それでいて妙に筋の通った男・陣内を狂言回しに据えた連作短編集。銀行強盗に居合わせた日、家庭裁判所調査官になってからの日々。語り手を変えながら、彼の言動が周囲の誰かの人生を少し動かしていく様子が描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チルドレン"
+    },
+    "sourceNote": "2004年5月講談社刊、2007年5月講談社文庫。2006年にWOWOWでドラマ化され、のちに劇場公開された。著者記事の著作一覧で確認した。同題の別書籍が多数あるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mao-isaka",
+    "title": "魔王",
+    "titleKana": "まおう",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "ある日、自分が念じた言葉を目の前の相手に喋らせられることに気づいた会社員。時代は、強い言葉を操る政治家に人々が熱狂していく方向へ傾いていた。「魔王」と「呼吸」の二編からなり、考えることをやめない個人と大きな流れの対決を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔王_(伊坂幸太郎)"
+    },
+    "sourceNote": "2005年10月講談社刊、2008年9月講談社文庫、2023年1月講談社文庫【新装版】。著者記事の著作一覧で確認した。同題の別作品が多数あるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "grasshopper-isaka",
+    "title": "グラスホッパー",
+    "titleKana": "ぐらすほっぱー",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "rensaku-tanpen"
+    ],
+    "seriesName": "殺し屋シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "妻を殺された元教師の鈴木は、復讐のため犯罪組織に潜り込む。だが標的の男は目の前で車に轢かれて死んでしまう。人を自殺に追い込む「鯨」、ナイフ使いの「蝉」、押し屋と呼ばれる男。それぞれの視点が交錯していく殺し屋シリーズの原点。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グラスホッパー_(小説)"
+    },
+    "sourceNote": "2004年角川書店刊。著者が「今まで書いた小説のなかで一番達成感があった」と語った作品であることをWikipedia日本語版で確認した。2015年に映画化。楽天ブックスの内容紹介で殺し屋シリーズの第1作である点を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "maria-beetle",
+    "title": "マリアビートル",
+    "titleKana": "まりあびーとる",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "closed-circle"
+    ],
+    "seriesName": "殺し屋シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "東京発の東北新幹線に、それぞれ別の目的を抱えた殺し屋たちが乗り合わせる。運の悪い男、二人組のコンビ、そして得体の知れない少年。走行中の車内という降りられない空間で、思惑が次々にぶつかっていく。『グラスホッパー』の続編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マリアビートル"
+    },
+    "sourceNote": "2010年9月角川書店刊。第7回大学読書人大賞受賞作だが、同賞は本DBのawards.jsonに未登録のため受賞歴には登録せずここに記す。2022年にブラッド・ピット主演『ブレット・トレイン』としてハリウッドで映画化。Wikipedia日本語版と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ax-isaka",
+    "title": "AX アックス",
+    "titleKana": "あっくす",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "kazoku",
+      "rensaku-tanpen"
+    ],
+    "seriesName": "殺し屋シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "業界屈指の腕を持つ殺し屋「兜」の最大の悩みは、家庭で妻の機嫌を損ねないことだった。文房具店の店員として暮らしながら仕事を続ける彼が、足を洗おうとしたことで事態が動き出す。家族の物語として書かれた殺し屋シリーズの一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2017年7月KADOKAWA刊、2020年2月角川文庫。著者記事の著作一覧で確認した。同題の別書籍(三才ブックス『AX』)があるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "white-rabbit",
+    "title": "ホワイトラビット",
+    "titleKana": "ほわいとらびっと",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "honkaku",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "新妻を誘拐された兎田は、追い詰められて銃を手にし、ある家に押し入る。人質を取った籠城事件として警察が包囲するが、この家のなかで起きていることは外から見える構図とはまるで違っていた。視点と時間を操って読者を翻弄する長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2017年9月新潮社刊、2020年6月新潮文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shojo-minato",
+    "title": "少女",
+    "titleKana": "しょうじょ",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "iyamisu",
+      "gakuen",
+      "seishun",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "人が死ぬ瞬間を見てみたい。そう思い立った高校生の由紀と敦子は、それぞれ別の場所でその機会を探し始める。二人の一人称が交互に置かれ、同じ夏の出来事が別の角度から語られる。友情と嫉妬が入り混じった距離感を描く長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/少女_(湊かなえ)"
+    },
+    "sourceNote": "2009年1月早川書房刊、2012年2月双葉文庫。著者記事の著作一覧で確認した。2016年に映画化。同題の別書籍が多数あるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hana-no-kusari",
+    "title": "花の鎖",
+    "titleKana": "はなのくさり",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "名前に「雪」「月」「花」の字を持つ三人の女性の物語が、章ごとに交代しながら語られる。両親を亡くし生活に行き詰まった女性のもとに届く匿名の援助、それぞれが抱える花の記憶。別々に見えた三つの人生の関係が最後に立ち上がる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/花の鎖"
+    },
+    "sourceNote": "『別册文藝春秋』2010年1月号〜11月号連載、2011年3月文藝春秋刊。Wikipedia日本語版と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bosei-minato",
+    "title": "母性",
+    "titleKana": "ぼせい",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "iyamisu",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "女子高生が自宅の中庭で倒れているのが見つかった。事故なのか自死なのか。母の手記と娘の回想が交互に置かれ、同じ日々がまるで違う出来事として語られていく。母であることと娘であることのすれ違いを突き詰めた長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/母性_(湊かなえの小説)"
+    },
+    "sourceNote": "2012年10月新潮社刊、2015年6月新潮文庫。第26回山本周五郎賞候補作(候補は本DBの方針により受賞歴に登録しない)であることを著者記事で確認した。2022年に映画化。同題の別書籍があるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bokyo-minato",
+    "title": "望郷",
+    "titleKana": "ぼうきょう",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tanpenshu",
+      "iyamisu",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "瀬戸内の島を舞台にした短編集。島を出ていきたい者、出ていったまま戻れない者、戻ってきてしまった者。閉じた土地で長く共有されてきた記憶が、それぞれの人生の分かれ道に重くのしかかる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2013年1月文藝春秋刊、2016年1月文春文庫。収録作の「望郷、海の星」が第65回日本推理作家協会賞(短編部門、2012年)を受賞しているが、受賞したのは短編であって本作(短編集)自体ではないため、本DBの方針に従い受賞歴には登録していない。著者記事の著作一覧・受賞歴で確認した。同題の別書籍が多数あるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koko-nyushi",
+    "title": "高校入試",
+    "titleKana": "こうこうにゅうし",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "gakuen",
+      "suspense",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "県内有数の進学校で入試が始まった当日、ネット掲示板に試験の進行を実況する書き込みが現れる。学校側は内部に協力者がいると疑い、教員も受験生もそれぞれの思惑で動き出す。テレビドラマ用に書かれた脚本を著者自身が小説化した長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2013年6月角川書店刊、2016年3月角川文庫。著者がテレビドラマの脚本を担当し、それをもとに小説化した作品。著者記事の著作一覧で確認した。同題の参考書が多数あるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mame-no-ue-de-nemuru",
+    "title": "豆の上で眠る",
+    "titleKana": "まめのうえでねむる",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "小学一年生のとき、二歳上の姉が姿を消した。残されていた帽子、不審な白い車の目撃証言、変質者の噂。二年後に姉は帰ってきたが、妹の結衣子は姉に対する小さな違和感を消せないまま大人になっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2014年3月新潮社刊、2017年6月新潮文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "utopia-minato",
+    "title": "ユートピア",
+    "titleKana": "ゆーとぴあ",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "iyamisu",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "海辺の町に暮らす三人の女性が、車椅子の少女を支援するチャリティ活動を立ち上げる。善意から始まったはずの試みは、町の事情や個々の見栄と絡み合い、当初とは違う形へ膨らんでいく。第29回山本周五郎賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2016,
+        "result": "第29回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2015年11月集英社刊、2018年6月集英社文庫。第29回山本周五郎賞(2016年)受賞を著者記事の受賞歴で確認した。同題の別書籍(トマス・モア『ユートピア』ほか)が多数あるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "reverse-minato",
+    "title": "リバース",
+    "titleKana": "りばーす",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "iyamisu",
+      "suspense",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "平凡に暮らしていた会社員の恋人のもとに「深瀬和久は人殺しだ」という告発が届く。心当たりは、学生時代の旅行で起きた出来事しかない。当時その場にいた仲間たちを訪ね歩くうちに、記憶していた光景が少しずつずれていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リバース_(湊かなえの小説)"
+    },
+    "sourceNote": "『小説現代』2013年11月号〜2014年12月号連載、2015年5月講談社刊、2017年3月講談社文庫。第37回吉川英治文学新人賞候補作(候補は本DBの方針により受賞歴に登録しない)。2017年にテレビドラマ化。Wikipedia日本語版で確認した。同題の別書籍があるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
   }
 ]
