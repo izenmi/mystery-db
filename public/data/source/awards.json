@@ -133,5 +133,17 @@
     },
     "sourceNote": "主催団体・創設経緯はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "matsumoto-seicho-sho",
+    "name": "松本清張賞",
+    "nameKana": "まつもとせいちょうしょう",
+    "organizer": "日本文学振興会",
+    "description": "松本清張の業績を記念して1994年に創設された、長編エンターテインメント小説の公募新人賞。文藝春秋が刊行を担う。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松本清張賞"
+    },
+    "sourceNote": "創設年・主催・対象はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

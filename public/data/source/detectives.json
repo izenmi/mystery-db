@@ -387,5 +387,61 @@
     },
     "sourceNote": "人物像はWikipedia日本語版の作者記事および作品紹介で確認した。真相に関わる記述は含めていない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "goda-yuichiro",
+    "name": "合田雄一郎",
+    "nameKana": "ごうだゆういちろう",
+    "creatorAuthorId": "takamura-kaoru",
+    "occupation": "警視庁の刑事",
+    "description": "東京大学出身の刑事。事件の背後にある人間の来歴を執拗に追い、自身の内面とも折り合いをつけられないまま捜査を続ける。",
+    "firstAppearanceWorkId": "marks-no-yama",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マークスの山"
+    },
+    "sourceNote": "人物像・シリーズ上の位置はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "himekawa-reiko",
+    "name": "姫川玲子",
+    "nameKana": "ひめかわれいこ",
+    "creatorAuthorId": "honda-tetsuya",
+    "occupation": "警視庁捜査一課の主任",
+    "description": "若くして殺人犯捜査係の主任を務める女性刑事。直感を頼りにした強引な捜査で成果を上げる一方、組織の中で軋轢も抱える。",
+    "firstAppearanceWorkId": "strawberry-night",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/誉田哲也"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事および作品紹介で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ryuzaki-shinya",
+    "name": "竜崎伸也",
+    "nameKana": "りゅうざきしんや",
+    "creatorAuthorId": "konno-bin",
+    "occupation": "警察庁のキャリア官僚",
+    "description": "原理原則を曲げないことで知られる警察官僚。組織の建前と現場の事情の板挟みになりながら、自分の理屈だけを頼りに判断を下していく。",
+    "firstAppearanceWorkId": "inpei-sosa",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/隠蔽捜査"
+    },
+    "sourceNote": "人物像・シリーズの特徴はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kazama-chikachika",
+    "name": "風間公親",
+    "nameKana": "かざまちかちか",
+    "creatorAuthorId": "nagaoka-hiroki",
+    "occupation": "警察学校の教官",
+    "description": "隻眼の教官。生徒の一挙一動を見抜き、適性のない者には容赦なく退校を勧める。のちに刑事指導官として現場でも描かれる。",
+    "firstAppearanceWorkId": "kyojo",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/教場"
+    },
+    "sourceNote": "人物像はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]

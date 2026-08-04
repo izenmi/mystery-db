@@ -3718,5 +3718,452 @@
     },
     "sourceNote": "『KADOKAWAミステリ』2002年8月号〜2003年5月号および『本の旅人』2003年7月号〜2004年9月号に掲載、2005年2月に単行本化(2008年8月文庫化)。第59回(2006年)日本推理作家協会賞・長編および連作短編集部門受賞。第133回直木賞候補(候補は登録しない方針のため未登録)。発表年は掲載開始年の2002年を採った。以上をWikipedia日本語版で確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "marks-no-yama",
+    "title": "マークスの山",
+    "titleKana": "まーくすのやま",
+    "authorIds": [
+      "takamura-kaoru"
+    ],
+    "detectiveIds": [
+      "goda-yuichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha",
+      "suspense",
+      "kazoku"
+    ],
+    "seriesName": "合田雄一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "南アルプスの山中で起きた一家心中と、東京で相次ぐ刺殺事件。ばらばらに見える出来事の底に、十六年前の山の記憶が沈んでいた。捜査一課の合田雄一郎は、地道な聞き込みを重ねながら、加害者と被害者の双方の来歴に分け入っていく。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1993,
+        "result": "第109回受賞"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1994,
+        "result": "国内編第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マークスの山"
+    },
+    "sourceNote": "1993年3月、早川書房より単行本刊行(2003年講談社文庫版は全面改稿、2011年新潮文庫)。合田雄一郎シリーズ第1作。第109回直木賞受賞、『このミステリーがすごい!』1994年版国内編1位。1995年映画化、2010年WOWOWでドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "out",
+    "title": "OUT",
+    "titleKana": "あうと",
+    "authorIds": [
+      "kirino-natsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "noir",
+      "suspense",
+      "shakaiha",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "弁当工場の深夜勤務で働く四人の主婦。そのうちの一人が夫を殺してしまい、仲間に助けを求める。日常の延長で始まった後始末は、やがて彼女たちを引き返せない場所へ運んでいく。郊外の生活とその裏側を描いた長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1998,
+        "result": "第51回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桐野夏生"
+    },
+    "sourceNote": "1997年7月、講談社より刊行(2002年講談社文庫上下巻)。第51回日本推理作家協会賞受賞。2004年に英訳版がエドガー賞最優秀作品賞の最終候補となったが、候補は登録しない方針のため未登録。2002年映画化。作品単独のWikipedia記事はないため著者記事の著作一覧・受賞歴で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kage-no-kisetsu",
+    "title": "陰の季節",
+    "titleKana": "かげのきせつ",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "捜査でも取り調べでもなく、警務課や監察といった県警の内側を描いた連作短編集。人事、記者クラブ、退職後の処遇。組織のなかで動く人間の思惑が、事件そのものよりも切実な緊張を生む。表題作を含む四編を収める。",
+    "awardResults": [
+      {
+        "awardId": "matsumoto-seicho-sho",
+        "year": 1998,
+        "result": "第5回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰の季節"
+    },
+    "sourceNote": "第5回松本清張賞受賞作。文藝春秋より刊行。第120回直木賞の候補にもなったが、候補は登録しない方針のため未登録。2000年以降たびたびテレビドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "daisan-no-jiko",
+    "title": "第三の時効",
+    "titleKana": "だいさんのじこう",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen",
+      "honkaku"
+    ],
+    "seriesName": "F県警強行犯シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "F県警捜査一課の三つの班が、それぞれの流儀で事件を追う連作短編集。班長たちは互いを出し抜こうとし、手柄と信念がぶつかる。時効の壁、供述の裏、組織内の駆け引き。全六篇を通じて捜査という仕事の姿が立ち上がる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/第三の時効"
+    },
+    "sourceNote": "『小説すばる』掲載の全6篇を集英社より単行本化(2003年、文庫版2006年3月)。作者が初めて捜査する刑事を主人公にした「F県警強行犯シリーズ」第1作。第16回山本周五郎賞の候補作(候補は登録しない方針のため未登録)。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inpei-sosa",
+    "title": "隠蔽捜査",
+    "titleKana": "いんぺいそうさ",
+    "authorIds": [
+      "konno-bin"
+    ],
+    "detectiveIds": [
+      "ryuzaki-shinya"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha",
+      "kazoku"
+    ],
+    "seriesName": "隠蔽捜査シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "警察庁のキャリア官僚・竜崎伸也は、原理原則を守ることだけを信条に生きてきた。連続殺人事件の捜査が続くなか、彼自身の家族の問題が明るみに出る。組織を守るための隠蔽と、自分の筋を通すことのあいだで、竜崎は判断を迫られる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/隠蔽捜査"
+    },
+    "sourceNote": "2005年、新潮社より刊行。警察庁のキャリア官僚を主人公に据えた点がシリーズの特徴。2006年に第27回吉川英治文学新人賞を受賞しているが本DB未登録の賞のため登録しておらず、同年の第59回日本推理作家協会賞は候補どまりのため未登録。2007年・2014年にドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "strawberry-night",
+    "title": "ストロベリーナイト",
+    "titleKana": "すとろべりーないと",
+    "authorIds": [
+      "honda-tetsuya"
+    ],
+    "detectiveIds": [
+      "himekawa-reiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "noir"
+    ],
+    "seriesName": "姫川玲子シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "溜め池で見つかったブルーシート包みの遺体。捜査一課の主任・姫川玲子が率いる班は、被害者たちに共通する接点を探るうち、ある集まりの噂に行き当たる。上司や同僚との軋轢を抱えながら、玲子は自らの勘を頼りに前へ出る。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ストロベリーナイト"
+    },
+    "sourceNote": "2006年2月、光文社より刊行(2008年9月光文社文庫)。姫川玲子シリーズ第1作。第9回大藪春彦賞の候補作(候補は登録しない方針のため未登録)。2010年以降たびたび映像化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tenshi-no-knife",
+    "title": "天使のナイフ",
+    "titleKana": "てんしのないふ",
+    "authorIds": [
+      "yakumaru-gaku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "houtei",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "妻を殺した犯人は三人の少年だった。少年法に守られた彼らは名前も明かされないまま社会に戻る。四年後、そのうちの一人が殺され、遺された夫に疑いがかかる。被害者遺族という立場から、彼は自ら事件を追い始める。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2005,
+        "result": "第51回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天使のナイフ"
+    },
+    "sourceNote": "第51回江戸川乱歩賞を選考委員の満場一致で受賞した著者のデビュー作。2005年8月10日単行本、2008年8月12日講談社文庫、2021年8月新装版。少年犯罪を扱うにあたり法律面の確認を経て執筆されたことをWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koro-no-chi",
+    "title": "孤狼の血",
+    "titleKana": "ころうのち",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "noir",
+      "shakaiha",
+      "suspense"
+    ],
+    "seriesName": "孤狼の血シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "暴力団対策法の成立前、広島。県北の所轄に配属された新人刑事・日岡秀一は、暴力団と癒着しているとの噂がある先輩刑事・大上章吾と組まされる。金融会社社員の失踪を追ううち、日岡は組織同士の抗争と、警察という組織の内側を同時に見ることになる。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2016,
+        "result": "第69回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/孤狼の血"
+    },
+    "sourceNote": "『小説 野性時代』2014年〜2015年連載、KADOKAWAより単行本2015年8月29日(文庫2017年8月)。第69回日本推理作家協会賞受賞。発表年は連載開始年の2014年を採った。2018年に東映で映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "swan",
+    "title": "スワン",
+    "titleKana": "すわん",
+    "authorIds": [
+      "go-katsuhiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "houtei",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "ショッピングモールで起きた銃撃事件から生き延びた女子高生のいずみは、なぜ助かったのかを問われ続ける。事件の関係者が集められ、あの日何が起きたのかを語り直す会が開かれる。生存者に向けられる視線そのものを主題に据えた長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2020,
+        "result": "第73回受賞(長編および連作短編集部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/呉勝浩"
+    },
+    "sourceNote": "2019年10月、KADOKAWAより刊行(2022年7月角川文庫)。第73回日本推理作家協会賞・第41回吉川英治文学新人賞(本DB未登録の賞のため未登録)を受賞、第162回直木賞候補。各種ミステリランキングにも入っているが著者記事の記載ではランキング名と年次の対応を確定できなかったため受賞歴には登録していない。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyojo",
+    "title": "教場",
+    "titleKana": "きょうじょう",
+    "authorIds": [
+      "nagaoka-hiroki"
+    ],
+    "detectiveIds": [
+      "kazama-chikachika"
+    ],
+    "translatorIds": [],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen",
+      "gakuen",
+      "suspense"
+    ],
+    "seriesName": "教場シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "警察学校の初任科生たちが、半年間の教育期間を過ごす。仲間であり競争相手でもある同期のなかで、盗難や事故が続き、生徒たちは互いを疑い始める。隻眼の教官・風間公親が、適性のない者を静かに見極めていく連作短編集。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/教場"
+    },
+    "sourceNote": "2013年6月、小学館より刊行(2015年12月小学館文庫)。第14回本格ミステリ大賞(小説部門)の候補作(候補は登録しない方針のため未登録)。2020年よりテレビドラマ化、2026年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "juusan-kaidan",
+    "title": "13階段",
+    "titleKana": "じゅうさんかいだん",
+    "authorIds": [
+      "takano-kazuaki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "仮釈放中の青年・三上純一と、ベテラン刑務官の南郷正二。二人は、事件当時の記憶を失った死刑囚の冤罪を晴らすため、十年前の殺人を調べ直す依頼を受ける。執行までの限られた時間のなかで、死刑という制度の重さが二人にのしかかる。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2001,
+        "result": "第47回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/13階段"
+    },
+    "sourceNote": "2001年、講談社より刊行された著者のデビュー作。第47回江戸川乱歩賞を選考委員の満場一致で受賞し、乱歩賞受賞作として最も速い売り上げ記録を達成したことをWikipedia日本語版で確認。2003年映画化。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "lautrec-so",
+    "title": "ロートレック荘事件",
+    "titleKana": "ろーとれっくそうじけん",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "closed-circle",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "画家ロートレックの絵を飾った別荘に、若い男女が集まる。避暑地の華やかな数日のなかで銃殺事件が起き、招かれた者たちは互いを疑い始める。読み終えたあとにもう一度最初から読み返したくなる構成を持つ中編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロートレック荘事件"
+    },
+    "sourceNote": "1990年9月、新潮社より刊行された中編推理小説。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。作品の仕掛けに関わるタグはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
   }
 ]

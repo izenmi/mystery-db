@@ -64,6 +64,14 @@
     "resolvedAt": "2026-08-04T02:50:10.529Z",
     "note": "BOOK☆WALKERが解決したのは創元推理文庫『江戸川乱歩全集2 D坂の殺人事件』の書影で、works.jsonに登録している光文社(光文社文庫の江戸川乱歩全集)とは版が異なる。画像を目視し、漫画版(『漫画 D坂の殺人事件』泉こうてん)ではなく小説版であることを確認済み。"
   },
+  "daisan-no-jiko": {
+    "title": "第三の時効",
+    "isbn": "9784087460193",
+    "matchedTitle": "第三の時効",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0193/9784087460193_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:06.394Z"
+  },
   "dogura-magura": {
     "title": "ドグラ・マグラ",
     "isbn": "9784041366035",
@@ -262,6 +270,14 @@
     "resolvedAt": "2026-08-04T03:34:33.836Z",
     "note": "登録は光文社(光文社文庫・江戸川乱歩全集)だが書影は春陽文庫版。作品は同一。"
   },
+  "inpei-sosa": {
+    "title": "隠蔽捜査",
+    "isbn": "9784101321530",
+    "matchedTitle": "隠蔽捜査",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1530/9784101321530.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:07.502Z"
+  },
   "inugamike": {
     "title": "犬神家の一族",
     "isbn": "9784041304051",
@@ -285,6 +301,23 @@
     "coverUrl": "https://c.bookwalker.jp/662671/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:43.412Z"
+  },
+  "juusan-kaidan": {
+    "title": "13階段",
+    "isbn": "9784062748384",
+    "matchedTitle": "13階段",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8384/9784062748384_1_16.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:16.807Z"
+  },
+  "kage-no-kisetsu": {
+    "title": "陰の季節",
+    "isbn": "9784167659011",
+    "matchedTitle": "陰の季節",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9011/9784167659011.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:05.240Z",
+    "note": "書影は文春文庫版。"
   },
   "kaijin-nijumenso": {
     "title": "怪人二十面相",
@@ -343,6 +376,14 @@
     "resolvedAt": "2026-08-04T03:57:21.745Z",
     "note": "登録は角川文庫だが書影は河出書房新社版。作品は同一。"
   },
+  "koro-no-chi": {
+    "title": "孤狼の血",
+    "isbn": "9784041049549",
+    "matchedTitle": "孤狼の血",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9549/9784041049549_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:10.971Z"
+  },
   "kotou-no-oni": {
     "title": "孤島の鬼",
     "isbn": "9784488401016",
@@ -392,6 +433,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:19.870Z"
   },
+  "kyojo": {
+    "title": "教場",
+    "isbn": "9784094062403",
+    "matchedTitle": "教場",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2403/9784094062403.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:15.650Z"
+  },
   "kyokotsu-no-yume": {
     "title": "狂骨の夢",
     "isbn": "9784062649612",
@@ -408,6 +457,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:19.393Z",
     "note": "書影は講談社の新装版(上巻)。"
+  },
+  "lautrec-so": {
+    "title": "ロートレック荘事件",
+    "isbn": "9784101171333",
+    "matchedTitle": "ロートレック荘事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1333/9784101171333.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:17.949Z"
   },
   "magan-no-hako": {
     "title": "魔眼の匣の殺人",
@@ -432,6 +489,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7843/9784101287843.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:39.916Z"
+  },
+  "marks-no-yama": {
+    "title": "マークスの山",
+    "isbn": "9784101347196",
+    "matchedTitle": "マークスの山（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7196/9784101347196.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:50.564Z",
+    "note": "登録は早川書房の単行本だが書影は新潮文庫版(上巻)。自動取得では下巻が当たっていたため上巻に手動で差し替えた。"
   },
   "medium": {
     "title": "medium 霊媒探偵城塚翡翠",
@@ -565,6 +631,15 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:01.730Z"
   },
+  "out": {
+    "title": "OUT",
+    "isbn": "9784062734479",
+    "matchedTitle": "OUT　上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4479/9784062734479.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:04.096Z",
+    "note": "登録は講談社の単行本だが書影は講談社文庫版(上巻)。作品は同一。"
+  },
   "rirasou": {
     "title": "りら荘事件",
     "isbn": "9784488403140",
@@ -670,6 +745,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:33.259Z"
   },
+  "strawberry-night": {
+    "title": "ストロベリーナイト",
+    "isbn": "9784334744717",
+    "matchedTitle": "ストロベリーナイト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4717/9784334744717_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:08.658Z"
+  },
   "subete-ga-f": {
     "title": "すべてがFになる",
     "isbn": null,
@@ -694,6 +777,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:27.177Z"
   },
+  "swan": {
+    "title": "スワン",
+    "isbn": "9784041127575",
+    "matchedTitle": "スワン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7575/9784041127575_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:13.281Z"
+  },
   "taiikukan": {
     "title": "体育館の殺人",
     "isbn": "9784488443115",
@@ -709,6 +800,14 @@
     "coverUrl": "https://c.bookwalker.jp/6921602/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:19.093Z"
+  },
+  "tenshi-no-knife": {
+    "title": "天使のナイフ",
+    "isbn": "9784065237663",
+    "matchedTitle": "天使のナイフ　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7663/9784065237663_1_58.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:09:09.807Z"
   },
   "tesso-no-ori": {
     "title": "鉄鼠の檻",

@@ -488,5 +488,125 @@
     },
     "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takamura-kaoru",
+    "name": "高村薫",
+    "nameKana": "たかむらかおる",
+    "description": "重厚な文体と綿密な取材で知られる作家。刑事・合田雄一郎を軸にした一連の作品や、社会の構造を描く長編で高い評価を得ている。",
+    "birthYear": 1953,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高村薫"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kirino-natsuo",
+    "name": "桐野夏生",
+    "nameKana": "きりのなつお",
+    "description": "『顔に降りかかる雨』で江戸川乱歩賞を受賞してデビュー。女性ハードボイルドの先駆けとされ、社会の周縁に置かれた人々を描く作品で知られる。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桐野夏生"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "konno-bin",
+    "name": "今野敏",
+    "nameKana": "こんのびん",
+    "description": "警察小説を数多く手がける作家。現場の刑事だけでなく、キャリア官僚や組織の論理を正面から描く作品で知られる。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今野敏"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "honda-tetsuya",
+    "name": "誉田哲也",
+    "nameKana": "ほんだてつや",
+    "description": "警視庁の女性刑事・姫川玲子を主人公とする警察小説シリーズや、青春小説『武士道』シリーズで知られる作家。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/誉田哲也"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yuzuki-yuko",
+    "name": "柚月裕子",
+    "nameKana": "ゆづきゆうこ",
+    "description": "検事や刑事を主人公にした硬質な作品を得意とする作家。暴力団と警察の関係を描いた『孤狼の血』で広く知られる。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柚月裕子"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yakumaru-gaku",
+    "name": "薬丸岳",
+    "nameKana": "やくまるがく",
+    "description": "少年犯罪や被害者遺族といった題材に正面から取り組む作家。『天使のナイフ』で江戸川乱歩賞を受賞しデビューした。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/薬丸岳"
+    },
+    "sourceNote": "生年・経歴・デビュー作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "go-katsuhiro",
+    "name": "呉勝浩",
+    "nameKana": "ごかつひろ",
+    "description": "『道徳の時間』で江戸川乱歩賞を受賞してデビューした作家。事件そのものより、事件に向き合う人々の倫理を描く作風で知られる。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/呉勝浩"
+    },
+    "sourceNote": "生年・経歴・デビュー作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nagaoka-hiroki",
+    "name": "長岡弘樹",
+    "nameKana": "ながおかひろき",
+    "description": "短編の名手として知られる作家。警察学校を舞台にした『教場』シリーズで広く読まれるようになった。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/長岡弘樹"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takano-kazuaki",
+    "name": "高野和明",
+    "nameKana": "たかのかずあき",
+    "description": "映画の脚本・助監督を経て小説家となった作家。社会的な主題を娯楽性の高い構成に落とし込む作風で知られる。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高野和明"
+    },
+    "sourceNote": "生年・経歴・デビュー作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tsutsui-yasutaka",
+    "name": "筒井康隆",
+    "nameKana": "つついやすたか",
+    "description": "日本SF第一世代を代表する作家。実験的な手法と諷刺で知られ、推理小説の形式を用いた作品も残している。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/筒井康隆"
+    },
+    "sourceNote": "生年・経歴・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
