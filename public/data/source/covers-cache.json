@@ -16,6 +16,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:52:53.601Z"
   },
+  "akai-yubi": {
+    "title": "赤い指",
+    "isbn": "9784062764445",
+    "matchedTitle": "赤い指",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4445/9784062764445_1_25.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:28.481Z"
+  },
   "akui": {
     "title": "悪意",
     "isbn": null,
@@ -107,6 +115,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:06.394Z"
   },
+  "dochiraka-ga": {
+    "title": "どちらかが彼女を殺した",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T04:35:24.878Z"
+  },
   "dogura-magura": {
     "title": "ドグラ・マグラ",
     "isbn": "9784041366035",
@@ -173,6 +187,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:22.923Z",
     "note": "登録は新潮文庫だが書影は角川文庫版。作品は同一。"
+  },
+  "galileo-no-kuno": {
+    "title": "ガリレオの苦悩",
+    "isbn": "9784167110130",
+    "matchedTitle": "ガリレオの苦悩",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0130/9784167110130_1_15.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:33.199Z"
   },
   "gekko-game": {
     "title": "月光ゲーム Yの悲劇'88",
@@ -403,6 +425,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:10.303Z"
   },
+  "jujiyashiki": {
+    "title": "十字屋敷のピエロ",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T04:36:08.125Z"
+  },
   "jukkakukan": {
     "title": "十角館の殺人",
     "isbn": null,
@@ -443,6 +471,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2160/2000002962160.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-04T03:50:47.061Z"
+  },
+  "kamen-sanso": {
+    "title": "仮面山荘殺人事件",
+    "isbn": "9784065357286",
+    "matchedTitle": "仮面山荘殺人事件　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7286/9784065357286_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:36:09.332Z"
   },
   "kasasagi": {
     "title": "カササギ殺人事件",
@@ -486,6 +522,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:33.858Z",
     "note": "書影は講談社文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
+  "kirin-no-tsubasa": {
+    "title": "麒麟の翼",
+    "isbn": "9784062777667",
+    "matchedTitle": "麒麟の翼",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7667/9784062777667_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:29.677Z"
   },
   "kokuhaku": {
     "title": "告白",
@@ -659,6 +703,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:16:57.628Z"
   },
+  "manatsu-no-hoteishiki": {
+    "title": "真夏の方程式",
+    "isbn": "9784167110154",
+    "matchedTitle": "真夏の方程式",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0154/9784167110154_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:35.498Z"
+  },
   "mangan": {
     "title": "満願",
     "isbn": "9784101287843",
@@ -691,6 +743,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3974/9784062763974_1_13.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:42.367Z"
+  },
+  "meitantei-no-okite": {
+    "title": "名探偵の掟",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T04:35:56.356Z"
   },
   "misshitsu-shushuka-work": {
     "title": "密室蒐集家",
@@ -774,6 +832,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0129/9784062730129.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:58.487Z"
+  },
+  "nemuri-no-mori": {
+    "title": "眠りの森",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T04:35:05.971Z"
   },
   "nile-ni-shisu": {
     "title": "ナイルに死す",
@@ -882,6 +946,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:14.721Z"
   },
+  "seijo-no-kyusai": {
+    "title": "聖女の救済",
+    "isbn": "9784167110147",
+    "matchedTitle": "聖女の救済",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0147/9784167110147_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:34.363Z"
+  },
   "senseijutsu": {
     "title": "占星術殺人事件",
     "isbn": null,
@@ -962,6 +1034,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:33.259Z"
   },
+  "sotsugyo": {
+    "title": "卒業",
+    "isbn": "9784061844407",
+    "matchedTitle": "卒業",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4407/9784061844407_1_55.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:34:47.975Z"
+  },
   "strawberry-night": {
     "title": "ストロベリーナイト",
     "isbn": "9784334744717",
@@ -1017,6 +1097,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3115/9784488443115_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:26.134Z"
+  },
+  "tantei-galileo": {
+    "title": "探偵ガリレオ",
+    "isbn": "9784167110079",
+    "matchedTitle": "探偵ガリレオ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0079/9784167110079_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:30.841Z"
+  },
+  "tegami": {
+    "title": "手紙",
+    "isbn": "9784167110116",
+    "matchedTitle": "手紙",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0116/9784167110116_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:36:11.698Z"
   },
   "ten-to-sen": {
     "title": "点と線",
@@ -1074,6 +1170,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:07.940Z"
   },
+  "uso-wo-mou-hitotsu": {
+    "title": "嘘をもうひとつだけ",
+    "isbn": "9784062736695",
+    "matchedTitle": "嘘をもうひとつだけ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6695/9784062736695.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:27.274Z"
+  },
   "warawanai-sugakusha": {
     "title": "笑わない数学者",
     "isbn": "9784062646147",
@@ -1081,6 +1185,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6147/9784062646147_1_15.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:53.818Z"
+  },
+  "watashi-ga-kare-wo": {
+    "title": "私が彼を殺した",
+    "isbn": "9784065325841",
+    "matchedTitle": "私が彼を殺した　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5841/9784065325841_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:26.109Z"
   },
   "x-no-higeki": {
     "title": "Xの悲劇",
@@ -1107,6 +1219,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4013/9784041304013_1_22.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:30.088Z"
+  },
+  "yochimu": {
+    "title": "予知夢",
+    "isbn": "9784167110086",
+    "matchedTitle": "予知夢",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0086/9784167110086_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:35:32.035Z"
   },
   "yogisha-x": {
     "title": "容疑者Xの献身",

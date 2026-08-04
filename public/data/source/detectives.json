@@ -193,8 +193,9 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/加賀恭一郎"
     },
-    "sourceNote": "経歴・シリーズ構成はWikipedia日本語版で確認した。初登場は1986年の『卒業』だが本DBに未登録のため初登場作は設定していない。真相に関わる記述は含めていない。",
-    "updatedAt": "2026-08-04"
+    "sourceNote": "経歴・シリーズ構成はWikipedia日本語版で確認した。初登場作『卒業』(1986年)を2026-08-04の追加で登録したため初登場作を設定した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04",
+    "firstAppearanceWorkId": "sotsugyo"
   },
   {
     "id": "egami-jiro",

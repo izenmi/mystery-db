@@ -5346,5 +5346,549 @@
     },
     "sourceNote": "1998年3月30日、講談社ノベルスより刊行。『塗仏の宴 宴の始末』(1998年9月)と対をなす二部構成の前半。百鬼夜行シリーズ。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sotsugyo",
+    "title": "卒業",
+    "titleKana": "そつぎょう",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "seishun",
+      "misshitsu"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "卒業を控えた大学四年生の仲間うちで、一人が自室で死んでいるのが見つかる。自殺として処理されかけた矢先、茶道の席を舞台にした不可解な出来事が起きる。教員志望の加賀恭一郎が友人たちの間に立つ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1986年、講談社より『卒業―雪月花殺人ゲーム』として刊行(2009年の文庫新装版で『卒業』に改題)。加賀恭一郎の初登場作。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nemuri-no-mori",
+    "title": "眠りの森",
+    "titleKana": "ねむりのもり",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "バレエ団の稽古場に侵入した男が、団員によって死亡する。正当防衛として処理された事件の裏に、加賀恭一郎は不自然さを感じ取る。舞台と練習に人生を捧げる者たちの世界に、刑事が分け入っていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1989年、講談社より刊行(1992年講談社文庫)。加賀恭一郎シリーズ第2作。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dochiraka-ga",
+    "title": "どちらかが彼女を殺した",
+    "titleKana": "どちらかがかのじょをころした",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "dokusha-e-no-chosen",
+      "kazoku",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "妹の死を自殺と処理されそうになった兄が、独自に調べ始める。容疑者は二人にまで絞られるが、決め手がない。作中で犯人の名を明示せず、手がかりだけを残して読者に委ねる構成をとる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1996年、講談社ノベルスより刊行(1999年講談社文庫、2023年新装版)。加賀恭一郎シリーズ。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。各種ランキングに入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "watashi-ga-kare-wo",
+    "title": "私が彼を殺した",
+    "titleKana": "わたしがかれをころした",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "dokusha-e-no-chosen",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "結婚式の当日、新郎が式場で毒により死亡する。犯行が可能だった三人が、それぞれの視点で当日までの経緯を語る。前作と同じく、結末で犯人を名指ししない形式をとった長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1999年、講談社ノベルスより刊行(2002年講談社文庫、2023年新装版)。加賀恭一郎シリーズ。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "uso-wo-mou-hitotsu",
+    "title": "嘘をもうひとつだけ",
+    "titleKana": "うそをもうひとつだけ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tojo",
+      "rensaku-tanpen",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "犯人の側から犯行と隠蔽が語られ、そこへ加賀恭一郎が現れる倒叙形式の短編集。バレリーナ、介護者、翻訳家。それぞれの嘘に、加賀は静かに一つずつ穴を開けていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "2000年、講談社より刊行(2003年講談社文庫)。加賀恭一郎シリーズの倒叙短編集。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akai-yubi",
+    "title": "赤い指",
+    "titleKana": "あかいゆび",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "kazoku",
+      "suspense",
+      "tojo"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "帰宅した会社員は、自宅の庭に少女の死体があるのを見せられる。妻は隠蔽を主張し、認知症の母を抱えた一家は嘘を重ねていく。捜査に加わった加賀は、家族が守ろうとしているものを見つめる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "2006年、講談社より刊行(2009年講談社文庫)。加賀恭一郎シリーズ。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。各種ランキングに入っているが対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kirin-no-tsubasa",
+    "title": "麒麟の翼",
+    "titleKana": "きりんのつばさ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "kazoku",
+      "suspense"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "日本橋の翼の像の下で、刺された男が息絶えているのが見つかる。なぜ男は傷を負ったまま歩き続けたのか。逃走中に事故に遭った容疑者と、被害者の家族。加賀は父と子の関係を丁寧に辿っていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "2011年、講談社より刊行(2014年講談社文庫)。加賀恭一郎シリーズ。2012年映画化。著者は東日本大震災に際し本作の増刷分10万部の印税を寄付した。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tantei-galileo",
+    "title": "探偵ガリレオ",
+    "titleKana": "たんていがりれお",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "yukawa-manabu"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "meitantei",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "ガリレオシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "頭部だけが燃えた死体、海面に浮かぶデスマスク。科学では説明がつかないように見える事件を、刑事の草薙が旧友の物理学者・湯川学に持ち込む。湯川が実験で現象を再現してみせる連作短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1998年、文藝春秋より刊行(2002年文春文庫)。ガリレオシリーズ第1作。2007年にドラマ化。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yochimu",
+    "title": "予知夢",
+    "titleKana": "よちむ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "yukawa-manabu"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "meitantei",
+      "kaiki-gensou"
+    ],
+    "seriesName": "ガリレオシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "十六年前の夢で結婚相手を予知したと語る男、幽霊が見えるという証言、瞬間移動したとしか思えない人物。超常現象めいた事件のたびに、湯川学が現実の側から説明を組み立てる連作短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "2000年、文藝春秋より刊行(2003年文春文庫)。ガリレオシリーズ第2作。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "galileo-no-kuno",
+    "title": "ガリレオの苦悩",
+    "titleKana": "がりれおのくのう",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "yukawa-manabu"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "meitantei",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "ガリレオシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "「悪魔の手」を名乗る人物から、湯川を名指しした挑戦状が届く。連続する不可解な死をめぐり、新人刑事の内海薫が湯川のもとに通うようになる。長編『聖女の救済』と同時期を描く短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "2008年、文藝春秋より刊行(2011年文春文庫)。ガリレオシリーズ。2013年のドラマ第2シーズンの原作の一つ。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "seijo-no-kyusai",
+    "title": "聖女の救済",
+    "titleKana": "せいじょのきゅうさい",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "yukawa-manabu"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "ガリレオシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "離婚を切り出された直後に、夫が自宅で毒殺される。最も動機のある妻には、遠方にいたという完璧なアリバイがあった。湯川は「虚数解」と呼ぶ、成立しないはずの筋道を検討し始める。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "2008年、文藝春秋より刊行(2012年文春文庫)。ガリレオシリーズの長編。各種ランキング上位に入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。作品単独のWikipedia記事はないため著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "manatsu-no-hoteishiki",
+    "title": "真夏の方程式",
+    "titleKana": "まなつのほうていしき",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "yukawa-manabu"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku",
+      "seishun"
+    ],
+    "seriesName": "ガリレオシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "海底資源の開発をめぐって揺れる海辺の町。説明会に招かれた湯川は、旅館に泊まり合わせた少年と親しくなる。その旅館の宿泊客が翌朝、堤防の下で死体となって見つかる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "2011年、文藝春秋より刊行(2013年文春文庫)。ガリレオシリーズの長編。2013年映画化。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "meitantei-no-okite",
+    "title": "名探偵の掟",
+    "titleKana": "めいたんていのおきて",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "meitantei",
+      "misshitsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "密室、時刻表トリック、童謡殺人。本格ミステリのお約束を一つずつ取り上げ、名探偵と刑事が作中で「これは何度目のパターンか」と語り合いながら事件を解決していく、諷刺的な連作短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1996年、講談社より刊行(1998年講談社ノベルス、1999年講談社文庫)。第18回吉川英治文学新人賞候補(候補は登録しない方針のため未登録)。各種ランキングに入っているが対応を確定できなかったため受賞歴には登録していない。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jujiyashiki",
+    "title": "十字屋敷のピエロ",
+    "titleKana": "じゅうじやしきのぴえろ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "十字の形をした屋敷で、当主とその関係者が相次いで死ぬ。屋敷に置かれたピエロの人形の視点が挟まれ、家族それぞれの思惑が読者にだけ示されていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1989年、講談社ノベルスより刊行(1992年講談社文庫、2024年新装版)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kamen-sanso",
+    "title": "仮面山荘殺人事件",
+    "titleKana": "かめんさんそうさつじんじけん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "yakata-mono",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "事故で婚約者を失った男が、彼女の父の別荘に招かれる。集まった八人のもとに、逃走中の強盗二人が押し入り、山荘は籠城状態になる。閉じ込められた者たちの関係が少しずつ崩れていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "1990年、徳間書店(トクマ・ノベルズ)より刊行。刊行元は現在流通する講談社文庫版(1995年、2024年新装版)に合わせた。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tegami",
+    "title": "手紙",
+    "titleKana": "てがみ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shakaiha",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "強盗殺人を犯した兄が服役し、弟の直貴は「殺人犯の弟」として生きることになる。進学、就職、恋愛。そのたびに前歴が知られ、居場所を失っていく。獄中から届き続ける手紙が重くのしかかる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "2003年、毎日新聞社より刊行。刊行元は現在流通する文春文庫版(2006年)に合わせた。第129回直木賞候補(候補は登録しない方針のため未登録)。2006年映画化。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
