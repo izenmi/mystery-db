@@ -18318,5 +18318,615 @@
     },
     "sourceNote": "1921年発表、翌1922年に単行本化されたことをWikipedia日本語版で確認し、firstPublishedYearは単行本化の1922年を採用した。邦訳は山田順子訳の創元推理文庫【新訳版】(2019年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nagai-ie-no-satsujin",
+    "title": "長い家の殺人",
+    "titleKana": "ながいいえのさつじん",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "yakata-mono",
+      "misshitsu",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "アマチュアバンドが合宿に使っていた細長い造りの家で、メンバーの一人が殺される。建物の妙な間取りそのものが状況を成立させていた。著者のデビュー作にあたる、新本格初期の館ものの一つ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1988年9月講談社ノベルス刊、1992年3月講談社文庫、2008年4月講談社文庫【新装版】。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "misshitsu-satsujin-game",
+    "title": "密室殺人ゲーム王手飛車取り",
+    "titleKana": "みっしつさつじんげーむおうてびしゃとり",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "misshitsu",
+      "honkaku",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "ネット上に集まった五人が、互いに出題しあう推理ゲームに興じている。ただし出題される事件はすべて、出題者が実際に起こしたものだった。犯人当てという遊びの体裁のまま、事態が進んでいく連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2007年1月講談社ノベルス刊、2010年1月講談社文庫。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kogechairo-no-pastel",
+    "title": "焦茶色のパステル",
+    "titleKana": "こげちゃいろのぱすてる",
+    "authorIds": [
+      "okajima-futari"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "北海道の牧場で、夫が種馬とともに射殺されているのが見つかる。夫の仕事も交友関係もろくに知らなかった妻が、彼の足跡をたどるうちに競馬をめぐる思惑に行き当たる。第28回江戸川乱歩賞を受けたデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1982,
+        "result": "第28回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/焦茶色のパステル"
+    },
+    "sourceNote": "岡嶋二人のデビュー作で、第28回江戸川乱歩賞受賞作。1982年初刊行、1984年文庫化であることをWikipedia日本語版で確認した。テレビドラマ化もされている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chocolate-game",
+    "title": "チョコレートゲーム",
+    "titleKana": "ちょこれーとげーむ",
+    "authorIds": [
+      "okajima-futari"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "中学生の息子が同級生殺しの容疑者として浮かび、父親は自分が息子の何も知らなかったことに気づく。学校のなかで生徒たちの間に成立していた仕組みへ、父が一人で分け入っていく。第39回日本推理作家協会賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1986,
+        "result": "第39回受賞(長編賞)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チョコレートゲーム"
+    },
+    "sourceNote": "1985年3月講談社刊、1988年7月講談社文庫。第39回日本推理作家協会賞長編賞受賞。著者記事の著作一覧および受賞歴で確認した。受賞年は第39回の実施年である1986年としている(著者記事では1985年の項に記載されているが、第39回の贈賞は1986年)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "klein-no-tsubo",
+    "title": "クラインの壺",
+    "titleKana": "くらいんのつぼ",
+    "authorIds": [
+      "okajima-futari"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "自作のゲームシナリオが採用され、青年は最新の仮想現実システムのテストに参加することになる。現実と見分けがつかない体験を繰り返すうち、どちらが本物なのか分からなくなっていく。コンビ解散前の最後の長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クラインの壺_(小説)"
+    },
+    "sourceNote": "1989年10月新潮社刊、1993年1月新潮文庫、2005年3月講談社文庫。著者記事の著作一覧で確認した。同名の数学用語(クラインの壺)の記事が上位に来るため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sangatsu-wa-fukaki",
+    "title": "三月は深き紅の淵を",
+    "titleKana": "さんがつはふかきくれないのふちを",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "rensaku-tanpen",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "一夜だけ貸し出され、たった一人にしか読ませてはいけないという幻の本『三月は深き紅の淵を』。その本をめぐる四つの物語が、章ごとにまったく違う形式で語られる。読むという行為そのものを主題に据えた連作長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三月は深き紅の淵を"
+    },
+    "sourceNote": "1997年7月講談社刊、2001年7月講談社文庫。Wikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mugi-no-umi",
+    "title": "麦の海に沈む果実",
+    "titleKana": "むぎのうみにしずむかじつ",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "gakuen",
+      "kaiki-gensou",
+      "honkaku",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "湿地に囲まれた全寮制の学園には、三月以外の月に転入した者は災いを呼ぶという言い伝えがあった。二月に現れた少女を迎えた学園で、生徒が次々と姿を消していく。閉ざされた学校を舞台にした長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/麦の海に沈む果実"
+    },
+    "sourceNote": "『メフィスト』1998年10月増刊号から連載、2000年講談社刊、2004年講談社文庫。『三月は深き紅の淵を』の関連作であることをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "se-no-me",
+    "title": "背の眼",
+    "titleKana": "せのめ",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "kaiki-gensou",
+      "honkaku",
+      "suspense",
+      "youkai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "写真に写り込んだ、背中にある人の眼のような影。取材で東北の集落を訪れた作家は、そこで続く子どもの失踪と、心霊写真をめぐる噂に行き当たる。怪異として語られる出来事に理屈をつけていくデビュー作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/背の眼"
+    },
+    "sourceNote": "2005年1月幻冬舎より書き下ろしで刊行、2006年1月幻冬舎ノベルス、2007年10月幻冬舎文庫【上・下】。2012年にBS日テレでテレビドラマ化。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "katame-no-saru",
+    "title": "片眼の猿",
+    "titleKana": "かためのさる",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "並外れた聴力を持つ探偵が、産業スパイの調査を請け負う。相棒に迎えたのは、やはり人には言えない事情を抱えた女性だった。軽妙な会話を交わしながら進む調査の裏で、語られていないことが積み上がっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "『新潮ケータイ文庫』2006年3月20日〜9月13日配信、2007年2月新潮社刊、2009年7月新潮文庫。正式タイトルは『片眼の猿－One-eyed Monkeys－』。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ratman",
+    "title": "ラットマン",
+    "titleKana": "らっとまん",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "kazoku",
+      "suspense",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "中年になっても続けているアマチュアバンドの練習スタジオで、メンバーの一人が死ぬ。事故なのか、誰かの手によるものなのか。かつて姉を失った過去を抱える主人公の目を通して、同じ光景が何度も違う意味に見えてくる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "『ジャーロ』2007年夏号・秋号掲載、2008年1月光文社刊、2010年7月光文社文庫。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "renzoku-satsujinki-kaeru-otoko",
+    "title": "連続殺人鬼カエル男",
+    "titleKana": "れんぞくさつじんきかえるおとこ",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "iyamisu",
+      "suspense",
+      "shakaiha"
+    ],
+    "seriesName": "カエル男シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "現場に幼い字で書かれた犯行声明を残す連続殺人犯が現れる。手口は残虐で、動機は読み取れない。責任能力をどう扱うかという問題を正面から抱え込んだまま、捜査は進んでいく。続編が二作書かれているシリーズの第1作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/連続殺人鬼カエル男"
+    },
+    "sourceNote": "2011年2月宝島社刊。2018年5月に『連続殺人鬼カエル男ふたたび』、2024年11月に『連続殺人鬼カエル男 完結編』が刊行されていることをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "meitantei-ni-bara-o",
+    "title": "名探偵に薔薇を",
+    "titleKana": "めいたんていにばらを",
+    "authorIds": [
+      "shirodaira-kyo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "mitate-satsujin",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "「メルヘン小人地獄」と題された怪文書が出回り、そこに書かれた内容をなぞるように人が死んでいく。二部構成をとり、前半で提示された事件を後半でまったく別の角度から捉え直す。著者の長編デビュー作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/名探偵に薔薇を"
+    },
+    "sourceNote": "1998年7月創元推理文庫より刊行、著者の長編デビュー作。第8回鮎川哲也賞最終候補作(候補は本DBの方針により受賞歴に登録しない)であることをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dispel",
+    "title": "でぃすぺる",
+    "titleKana": "でぃすぺる",
+    "authorIds": [
+      "imamura-masahiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "seishun",
+      "kaiki-gensou",
+      "honkaku",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "小学6年の卒業を控えた三人が、学校に伝わる七不思議を調べる新聞づくりに取り組む。だがその調査は、去年亡くなった同級生の姉が残した謎につながっていた。子どもの世界の狭さと切実さを描いた長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2023年9月文藝春秋刊。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akai-hakubutsukan",
+    "title": "赤い博物館",
+    "titleKana": "あかいはくぶつかん",
+    "authorIds": [
+      "oyama-seiichiro"
+    ],
+    "detectiveIds": [
+      "hiiro-saeko"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "rensaku-tanpen",
+      "keisatsu-shosetsu"
+    ],
+    "seriesName": "赤い博物館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "警視庁犯罪資料館、通称「赤い博物館」には、決着のついた事件の資料が眠っている。館長の緋色冴子は、その記録だけを頼りに、当時の結論が本当に正しかったのかを問い直していく。過去の事件を扱う連作短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤い博物館"
+    },
+    "sourceNote": "『つんどく！』『オール讀物』に2013年から2015年にかけて掲載、2015年9月文藝春秋刊、2018年9月文春文庫。Wikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tantei-ga-hayasugiru",
+    "title": "探偵が早すぎる",
+    "titleKana": "たんていがはやすぎる",
+    "authorIds": [
+      "inoue-magi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "莫大な遺産を相続することになった女子高生の命を、親族たちが次々と狙う。雇われた探偵は事件が起きてから解くのではなく、起きる前に企みを潰してしまう。倒叙とも本格ともつかない構えで書かれた長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/探偵が早すぎる"
+    },
+    "sourceNote": "講談社タイガより2017年5月19日に上巻、7月21日に下巻が書き下ろしで刊行。2018年と2022年に連続ドラマ化、2019年に単発ドラマ化されていることをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "aki-no-hana",
+    "title": "秋の花",
+    "titleKana": "あきのはな",
+    "authorIds": [
+      "kitamura-kaoru"
+    ],
+    "detectiveIds": [
+      "enshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "seishun",
+      "gakuen",
+      "meitantei"
+    ],
+    "seriesName": "円紫さんと私シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "高校の文化祭の準備中、屋上から転落して女子生徒が死ぬ。事故として処理されたその出来事の後、残された親友は言葉を失ってしまう。何があったのかを「私」が考え続け、落語家の円紫さんに問いを預ける。シリーズ初の長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1991年2月東京創元社〈黄金の13〉刊、1997年2月創元推理文庫。著者記事の著作一覧で、シリーズ初の長編作品であることも含めて確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "machi-no-hi",
+    "title": "街の灯",
+    "titleKana": "まちのひ",
+    "authorIds": [
+      "kitamura-kaoru"
+    ],
+    "detectiveIds": [
+      "betsumiya-mitsuko"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "jidai-mystery",
+      "meitantei",
+      "rensaku-tanpen"
+    ],
+    "seriesName": "ベッキーさんシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "昭和7年の東京。上流家庭の令嬢・花村英子のもとに、女性の運転手・別宮みつ子がやってくる。英子が日々の暮らしのなかで出会う小さな不可解を、ベッキーさんと呼ばれるその人が静かに解き明かしていく。シリーズ第1作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/街の灯_(小説)"
+    },
+    "sourceNote": "2003年1月文藝春秋〈本格ミステリ・マスターズ〉刊、2006年5月文春文庫。収録作は「虚栄の市」「銀座八丁」「街の灯」。Wikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jikkai-yuki",
+    "title": "十戒",
+    "titleKana": "じっかい",
+    "authorIds": [
+      "yuki-haruo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "kotou",
+      "shin-honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "相続した島を訪れた一行は、そこに残されていた爆弾と、犯人が突きつけた十か条の掟に縛られることになる。掟を破れば全員が死ぬ。捜査も告発も禁じられた状況で、それでも真相を知ろうとする者が現れる。",
+    "awardResults": [
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2023,
+        "result": "第6位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2024,
+        "result": "第13位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2023年講談社刊。『週刊文春ミステリーベスト10』2023年6位、『このミステリーがすごい!2024年版』13位を著者記事のランキング一覧で確認した。本DB登録済みの『方舟』と同じ著者の長編。",
+    "updatedAt": "2026-08-04"
   }
 ]

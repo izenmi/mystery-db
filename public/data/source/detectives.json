@@ -887,5 +887,33 @@
     },
     "sourceNote": "人物像はWikipedia日本語版の著者記事で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hiiro-saeko",
+    "name": "緋色冴子",
+    "nameKana": "ひいろさえこ",
+    "creatorAuthorId": "oyama-seiichiro",
+    "occupation": "警視庁犯罪資料館の館長",
+    "description": "通称「赤い博物館」と呼ばれる犯罪資料館を預かる管理官。過去の事件記録だけを材料に、時効や誤認で終わったはずの事件を組み直していく。感情を表に出さない物腰で知られる。",
+    "firstAppearanceWorkId": "akai-hakubutsukan",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤い博物館"
+    },
+    "sourceNote": "人物像はWikipedia日本語版および楽天ブックスの内容紹介で確認した。初登場作は本DBに登録した『赤い博物館』としている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "betsumiya-mitsuko",
+    "name": "別宮みつ子(ベッキーさん)",
+    "nameKana": "べつみやみつこ",
+    "creatorAuthorId": "kitamura-kaoru",
+    "occupation": "上流家庭のお抱え運転手",
+    "description": "昭和初期の東京で、令嬢・花村英子の専属運転手を務める女性。運転技術のほかに武術の心得も持ち、雇い主が行く先々で出会う出来事の意味を、静かに解きほぐしてみせる。",
+    "firstAppearanceWorkId": "machi-no-hi",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/街の灯_(小説)"
+    },
+    "sourceNote": "人物像・シリーズ設定はWikipedia日本語版で確認した。初登場作は本DBに登録した『街の灯』としている。",
+    "updatedAt": "2026-08-04"
   }
 ]

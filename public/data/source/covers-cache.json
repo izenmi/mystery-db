@@ -56,6 +56,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:38:02.301Z"
   },
+  "akai-hakubutsukan": {
+    "title": "赤い博物館",
+    "isbn": "9784167911379",
+    "matchedTitle": "赤い博物館",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1379/9784167911379_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:48.223Z"
+  },
   "akai-yakata-no-himitsu": {
     "title": "赤い館の秘密",
     "isbn": "9784488116026",
@@ -71,6 +79,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4445/9784062764445_1_25.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:28.481Z"
+  },
+  "aki-no-hana": {
+    "title": "秋の花",
+    "isbn": "9784488413033",
+    "matchedTitle": "秋の花",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3033/9784488413033.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:50.594Z"
   },
   "akui": {
     "title": "悪意",
@@ -393,6 +409,14 @@
     "resolvedAt": "2026-08-04T06:53:04.165Z",
     "note": "自動取得が柏書房『横溝正史ミステリ短篇コレクション』(同題の短篇集)を拾ったため、長編単体の角川文庫版に差し替えた。"
   },
+  "chocolate-game": {
+    "title": "チョコレートゲーム",
+    "isbn": "9784062773171",
+    "matchedTitle": "チョコレートゲーム　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3171/9784062773171_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:36.433Z"
+  },
   "chojin-keikaku": {
     "title": "鳥人計画",
     "isbn": "9784043718016",
@@ -483,6 +507,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:32.231Z",
     "note": "登録は実業之日本社(単行本)だが書影は文春文庫版。作品は同一。"
+  },
+  "dispel": {
+    "title": "でぃすぺる",
+    "isbn": "9784163917498",
+    "matchedTitle": "でぃすぺる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7498/9784163917498_1_10.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:47.050Z"
   },
   "dochiraka-ga": {
     "title": "どちらかが彼女を殺した",
@@ -1333,6 +1365,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:13:22.921Z"
   },
+  "jikkai-yuki": {
+    "title": "十戒",
+    "isbn": "9784065326879",
+    "matchedTitle": "十戒",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6879/9784065326879_1_58.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:54.157Z"
+  },
   "jiku-ryokosha": {
     "title": "時空旅行者の砂時計",
     "isbn": "9784488499211",
@@ -1585,6 +1625,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:51.002Z"
   },
+  "katame-no-saru": {
+    "title": "片眼の猿",
+    "isbn": "9784101355528",
+    "matchedTitle": "片眼の猿",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5528/9784101355528_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:42.354Z"
+  },
   "kayo-club": {
     "title": "火曜クラブ",
     "isbn": "9784151300547",
@@ -1735,6 +1783,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:24:05.719Z"
   },
+  "klein-no-tsubo": {
+    "title": "クラインの壺",
+    "isbn": "9784101080123",
+    "matchedTitle": "クラインの壺",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0123/9784101080123.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:37.611Z"
+  },
   "knife-o-hinereba": {
     "title": "ナイフをひねれば",
     "isbn": "9784488265144",
@@ -1750,6 +1806,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9947/2000000199947.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-04T07:23:52.461Z"
+  },
+  "kogechairo-no-pastel": {
+    "title": "焦茶色のパステル",
+    "isbn": "9784062773164",
+    "matchedTitle": "焦茶色のパステル　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3164/9784062773164_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:35.259Z"
   },
   "koi-to-kinki": {
     "title": "恋と禁忌の述語論理",
@@ -2123,6 +2187,14 @@
     "resolvedAt": "2026-08-04T04:17:18.600Z",
     "note": "登録どおりハヤカワ・ミステリ文庫の黒原敏行訳〔新訳版〕。短いタイトルのため自動取得では解決できずISBN指定で設定した。"
   },
+  "machi-no-hi": {
+    "title": "街の灯",
+    "isbn": "9784167586041",
+    "matchedTitle": "街の灯",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1675/16758604.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:51.793Z"
+  },
   "magan-no-hako": {
     "title": "魔眼の匣の殺人",
     "isbn": "9784488027964",
@@ -2286,6 +2358,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:42.367Z"
   },
+  "meitantei-ni-bara-o": {
+    "title": "名探偵に薔薇を",
+    "isbn": "9784488423018",
+    "matchedTitle": "名探偵に薔薇を",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3018/9784488423018.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:45.878Z"
+  },
   "meitantei-no-harawata": {
     "title": "名探偵のはらわた",
     "isbn": "9784103535218",
@@ -2372,6 +2452,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0207/9784334740207_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:54.466Z"
+  },
+  "misshitsu-satsujin-game": {
+    "title": "密室殺人ゲーム王手飛車取り",
+    "isbn": "9784062765497",
+    "matchedTitle": "密室殺人ゲーム王手飛車取り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5497/9784062765497_1_15.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:34.087Z"
   },
   "misshitsu-shushuka-work": {
     "title": "密室蒐集家",
@@ -2464,6 +2552,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:29.879Z"
   },
+  "mugi-no-umi": {
+    "title": "麦の海に沈む果実",
+    "isbn": "9784062739276",
+    "matchedTitle": "麦の海に沈む果実",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0627/06273927.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:39.954Z"
+  },
   "mujitsu-wa-sainamu": {
     "title": "無実はさいなむ",
     "isbn": "9784151300929",
@@ -2496,6 +2592,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7040/9784575517040.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:18.022Z"
+  },
+  "nagai-ie-no-satsujin": {
+    "title": "長い家の殺人",
+    "isbn": "9784062760355",
+    "matchedTitle": "新装版　長い家の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0355/9784062760355_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:32.913Z"
   },
   "nagai-nagai-satsujin": {
     "title": "長い長い殺人",
@@ -2880,6 +2984,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:52.958Z"
   },
+  "ratman": {
+    "title": "ラットマン",
+    "isbn": "9784334748074",
+    "matchedTitle": "ラットマン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8074/9784334748074.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:43.526Z"
+  },
   "red-dragon": {
     "title": "レッド・ドラゴン",
     "isbn": null,
@@ -2907,6 +3019,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-04T04:56:42.693Z"
+  },
+  "renzoku-satsujinki-kaeru-otoko": {
+    "title": "連続殺人鬼カエル男",
+    "isbn": "9784796680899",
+    "matchedTitle": "連続殺人鬼カエル男",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0899/9784796680899.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:44.702Z"
   },
   "reverse-minato": {
     "title": "リバース",
@@ -3061,6 +3181,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:28:36.803Z"
   },
+  "sangatsu-wa-fukaki": {
+    "title": "三月は深き紅の淵を",
+    "isbn": "9784062648806",
+    "matchedTitle": "三月は深き紅の淵を",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0626/06264880.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:38.783Z"
+  },
   "sanmaku-no-satsujin": {
     "title": "三幕の殺人",
     "isbn": "9784151300097",
@@ -3125,6 +3253,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4884/48845103.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:27:25.501Z"
+  },
+  "se-no-me": {
+    "title": "背の眼",
+    "isbn": "9784344410367",
+    "matchedTitle": "背の眼（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0367/9784344410367.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:41.178Z"
   },
   "seifuku-sosa": {
     "title": "制服捜査",
@@ -3581,6 +3717,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5060/9784152095060.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:23:48.999Z"
+  },
+  "tantei-ga-hayasugiru": {
+    "title": "探偵が早すぎる",
+    "isbn": "9784062940719",
+    "matchedTitle": "探偵が早すぎる　（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0719/9784062940719_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:35:49.398Z"
   },
   "tantei-galileo": {
     "title": "探偵ガリレオ",
