@@ -345,5 +345,47 @@
     },
     "sourceNote": "人物像・推理の方法はWikipedia日本語版『不連続殺人事件』の記事で確認した。真相に関わる記述は含めていない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tojo-genya",
+    "name": "刀城言耶",
+    "nameKana": "とうじょうげんや",
+    "creatorAuthorId": "mitsuda-shinzo",
+    "occupation": "怪奇幻想作家",
+    "description": "各地の伝承や怪異を取材して回る作家。土地に伝わる祟りの話を集めるうちに事件に巻き込まれ、怪異としか思えない出来事に合理的な説明を与えようとする。",
+    "firstAppearanceWorkId": "majimono",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/刀城言耶シリーズ"
+    },
+    "sourceNote": "人物像・シリーズ構成はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "urazome-tenma",
+    "name": "裏染天馬",
+    "nameKana": "うらぞめてんま",
+    "creatorAuthorId": "aosaki-yugo",
+    "occupation": "高校生",
+    "description": "校舎に住み着いているアニメ好きの高校生。ふだんは怠惰だが、現場に残った些細な事実を並べて容疑者を一人ずつ消していく推理を見せる。",
+    "firstAppearanceWorkId": "taiikukan",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青崎有吾"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事および作品紹介で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "misshitsu-shushuka",
+    "name": "密室蒐集家",
+    "nameKana": "みっしつしゅうしゅうか",
+    "creatorAuthorId": "oyama-seiichiro",
+    "occupation": "正体不明の来訪者",
+    "description": "密室殺人が起きた場所にだけ現れ、解決だけを残して去っていく謎の人物。時代が変わっても姿は年をとらない。名も素性も明かされない。",
+    "firstAppearanceWorkId": "misshitsu-shushuka-work",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大山誠一郎"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の作者記事および作品紹介で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]

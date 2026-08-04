@@ -3219,5 +3219,504 @@
     },
     "sourceNote": "『探偵実話』1956年9月〜1957年12月連載、単行本は1958年8月に光風社より刊行。星影龍三ものの長編代表作。発表年は連載開始年の1956年を採った(著者記事の年譜には1959年発表との記述もある)。作品単独のWikipedia記事はないため著者記事と楽天ブックスの書誌情報で確認し、刊行元は現在流通する創元推理文庫版に合わせた。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kokuhaku",
+    "title": "告白",
+    "titleKana": "こくはく",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "iyamisu",
+      "gakuen",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "終業式のホームルームで、中学教師の森口悠子は、プールで死んだ自分の娘は事故ではなくこのクラスの生徒に殺されたのだと語り出す。以降、教師、生徒、その家族と語り手を変えながら、同じ出来事がまったく違う形で語り直されていく。",
+    "awardResults": [
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2008,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/告白_(湊かなえ)"
+    },
+    "sourceNote": "第一章「聖職者」で小説推理新人賞を受賞した著者のデビュー作。2008年に双葉社より刊行(2010年双葉文庫)。2008年度『週刊文春ミステリーベスト10』第1位。『このミステリーがすごい!』第4位という記述もあるが年次が明記されていないため登録していない。2009年本屋大賞受賞は本DB未登録の賞のため登録していない。2010年映画化。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "n-no-tame-ni",
+    "title": "Nのために",
+    "titleKana": "えぬのために",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "iyamisu",
+      "suspense",
+      "kazoku",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "高級マンションで夫婦が死亡し、現場には四人の男女が居合わせた。十年後、それぞれが当時何を見て何をしたのかを語り始める。四つの証言はどれも筋が通っているのに、重ね合わせると食い違う。イニシャルNに込められた想いが浮かび上がる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Nのために"
+    },
+    "sourceNote": "2010年1月29日、東京創元社より単行本刊行(2014年双葉文庫)。2014年10月期にTBS系でドラマ化。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dokoku",
+    "title": "慟哭",
+    "titleKana": "どうこく",
+    "authorIds": [
+      "nukui-tokuro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "幼女ばかりを狙った連続誘拐事件に、警察は手詰まりとなっていた。捜査一課長の佐伯は世論とマスコミの批判を浴びながら指揮を執る。その一方で、新興宗教にのめり込んでいく男の姿が並行して語られる。二つの線が近づくにつれ、事件の輪郭が変わる。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1994,
+        "result": "第12位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/貫井徳郎"
+    },
+    "sourceNote": "1993年10月、東京創元社〈黄金の13〉として刊行された著者のデビュー作(1999年創元推理文庫)。第4回鮎川哲也賞の最終候補作(候補は登録しない方針のため未登録)。『このミステリーがすごい!』1994年版で12位。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "himawari",
+    "title": "向日葵の咲かない夏",
+    "titleKana": "ひまわりのさかないなつ",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou",
+      "seishun",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "夏休み前の終業式の日、小学生のミチオは、学校を休んだ同級生S君の家を訪ねて首を吊った姿を見つける。だが教師と戻ると遺体は消えていた。やがてミチオの前に、別の姿になったS君が現れ、自分は殺されたのだと告げる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/向日葵の咲かない夏"
+    },
+    "sourceNote": "2005年11月、新潮社より書き下ろしで刊行(2008年7月新潮文庫)。第6回本格ミステリ大賞(小説部門)の候補作(候補は登録しない方針のため未登録)。各種ミステリランキングに入っているが著者記事の記載では年次と対応するランキング名を確定できなかったため受賞歴には登録していない。累計発行部数は約132万部。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shadow",
+    "title": "シャドウ",
+    "titleKana": "しゃどう",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "kazoku",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "母を病で亡くした小学五年の凰介に、父は「人は死んだら終わりだ」と告げる。その直後、母の親友が病院の屋上から身を投げる。残された子どもたちと大人たちのあいだで、記憶と事実が少しずつずれていき、一家の過去が形を変えていく。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2007,
+        "result": "第7回受賞(小説部門)"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2007,
+        "result": "第3位"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2007,
+        "result": "第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シャドウ_(小説)"
+    },
+    "sourceNote": "2006年9月、東京創元社より書き下ろしで刊行(2009年8月創元推理文庫)。第7回本格ミステリ大賞受賞。『週刊文春ミステリーベスト10』第10位という記述もあるが、作品記事は2007年、著者記事は2006年としており年次が確定できないため登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "majimono",
+    "title": "厭魅の如き憑くもの",
+    "titleKana": "まじもののごときつくもの",
+    "authorIds": [
+      "mitsuda-shinzo"
+    ],
+    "detectiveIds": [
+      "tojo-genya"
+    ],
+    "translatorIds": [],
+    "publisherId": "harashobo",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "youkai",
+      "sengo-nihon",
+      "meitantei"
+    ],
+    "seriesName": "刀城言耶シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "神隠しと憑き物の伝承が残る山間の村。二つの旧家が「神々櫛村」の祭祀をめぐって対立するなか、怪異としか思えない死が続く。取材に訪れた怪奇幻想作家の刀城言耶が、土地の信仰と事件のあいだに線を引こうとする。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2007,
+        "result": "国内部門第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/厭魅の如き憑くもの"
+    },
+    "sourceNote": "2006年2月28日、原書房〈ミステリー・リーグ〉より書き下ろしで刊行(2009年3月講談社文庫)。刀城言耶シリーズ第1長編。『本格ミステリ・ベスト10』2007年版(国内部門)第3位。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kubinashi",
+    "title": "首無の如き祟るもの",
+    "titleKana": "くびなしのごときたたるもの",
+    "authorIds": [
+      "mitsuda-shinzo"
+    ],
+    "detectiveIds": [
+      "tojo-genya"
+    ],
+    "translatorIds": [],
+    "publisherId": "harashobo",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "youkai",
+      "kazoku",
+      "mitate-satsujin"
+    ],
+    "seriesName": "刀城言耶シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "旧家の跡取りが十三歳で行う「婚舎の集い」の儀式の最中、首のない死体が見つかる。以後も一族に首無しの死が続き、村には淡首様の祟りだという声が広がる。刀城言耶が、儀式の手順と地形を一つずつ確かめながら怪異の背後を探る。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2008,
+        "result": "国内部門第2位"
+      },
+      {
+        "awardId": "mystery-ga-yomitai",
+        "year": 2008,
+        "result": "国内編第3位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2008,
+        "result": "国内編第5位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2007,
+        "result": "国内部門第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/首無の如き祟るもの"
+    },
+    "sourceNote": "2007年5月7日、原書房〈ミステリー・リーグ〉より書き下ろしで刊行(2010年5月講談社文庫)。刀城言耶シリーズ第3長編。第61回日本推理作家協会賞・第8回本格ミステリ大賞の候補作となったが、候補は登録しない方針のため未登録。各ランキングの順位はWikipedia日本語版の記載どおりに登録した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "taiikukan",
+    "title": "体育館の殺人",
+    "titleKana": "たいいくかんのさつじん",
+    "authorIds": [
+      "aosaki-yugo"
+    ],
+    "detectiveIds": [
+      "urazome-tenma"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "seishun",
+      "meitantei"
+    ],
+    "seriesName": "裏染天馬シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "放課後の旧体育館のステージ上で、放送部部長が刺殺された。雨で人の出入りが限られ、容疑は卓球部員に絞られる。窮地の部長に頼まれて、校内に住み着いているアニメ好きの生徒・裏染天馬が、傘や上履きといった細部から犯人を割り出していく。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2012,
+        "result": "第22回受賞"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2013,
+        "result": "第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青崎有吾"
+    },
+    "sourceNote": "2012年10月、東京創元社より刊行(2015年3月創元推理文庫)。第22回鮎川哲也賞受賞のデビュー作で、同賞初の平成生まれ受賞者。『このミステリーがすごい!』2013年版5位。作品単独のWikipedia記事はないため著者記事の著作一覧・受賞歴で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "misshitsu-shushuka-work",
+    "title": "密室蒐集家",
+    "titleKana": "みっしつしゅうしゅうか",
+    "authorIds": [
+      "oyama-seiichiro"
+    ],
+    "detectiveIds": [
+      "misshitsu-shushuka"
+    ],
+    "translatorIds": [],
+    "publisherId": "harashobo",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "rensaku-tanpen",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "昭和から平成まで、時代の異なる五つの密室事件を収めた短編集。どの事件でも、行き詰まった現場に「密室蒐集家」と名乗る男が現れ、解決だけを置いて姿を消す。年を取らない探偵という枠を持った、不可能犯罪ばかりの一冊。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2013,
+        "result": "第13回受賞(小説部門)"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2013,
+        "result": "第2位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2014,
+        "result": "第15位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大山誠一郎"
+    },
+    "sourceNote": "2012年10月、原書房〈ミステリー・リーグ〉より刊行(2015年11月文春文庫)。第13回本格ミステリ大賞(小説部門)受賞、『本格ミステリ・ベスト10』2013年版2位、『このミステリーがすごい!』2014年版15位。作品単独のWikipedia記事はないため著者記事の著作一覧・受賞歴で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nanakai-shinda-otoko",
+    "title": "七回死んだ男",
+    "titleKana": "ななかいしんだおとこ",
+    "authorIds": [
+      "nishizawa-yasuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "kazoku",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "高校生の大庭久太郎は、ときどき同じ一日を九回繰り返してしまう体質を持つ。正月に集まった一族のなか、資産家の祖父が殺された。繰り返しのなかで祖父の死を防ごうとするが、条件を変えるたびに違う形で死が訪れる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西澤保彦"
+    },
+    "sourceNote": "1995年10月、講談社ノベルスより刊行(1998年講談社文庫、2017年新装版)。SF的な特殊設定で本格推理が成立することを示した作品とされる。第49回日本推理作家協会賞(長編部門)の候補となったが、候補は登録しない方針のため未登録。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "goth",
+    "title": "GOTH リストカット事件",
+    "titleKana": "ごすりすとかっとじけん",
+    "authorIds": [
+      "otsuichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "gakuen",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "猟奇的な事件に強く惹かれる高校生の「僕」と、同級生の森野夜。二人は連続殺人犯の落とした手記を手に入れ、警察に届けることなく自分たちだけで犯人を探し始める。加害と被害の側を行き来する連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2003,
+        "result": "第3回受賞(笠井潔『オイディプス症候群』と同時受賞)"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOTH_リストカット事件"
+    },
+    "sourceNote": "2002年7月、角川書店より単行本刊行。第3回本格ミステリ大賞受賞(同時受賞は笠井潔『オイディプス症候群』)。もとはライトノベル雑誌『ザ・スニーカー』掲載作だが一般小説として刊行された。のち『GOTH 夜の章』『GOTH 僕の章』の2分冊で文庫化。2007年に映画化決定。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "eugenia",
+    "title": "ユージニア",
+    "titleKana": "ゆーじにあ",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "shinrai-dekinai-katarite",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "北陸の旧家で祝いの席に毒入りの飲み物が配られ、十七人が死亡した。生き残った盲目の少女、事件を追う人々、当時を知る町の住人。多くの証言を並べ直していくうちに、確かなはずの事実がほどけ、別の像が浮かび上がっていく。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2006,
+        "result": "第59回受賞(長編および連作短編集部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ユージニア"
+    },
+    "sourceNote": "『KADOKAWAミステリ』2002年8月号〜2003年5月号および『本の旅人』2003年7月号〜2004年9月号に掲載、2005年2月に単行本化(2008年8月文庫化)。第59回(2006年)日本推理作家協会賞・長編および連作短編集部門受賞。第133回直木賞候補(候補は登録しない方針のため未登録)。発表年は掲載開始年の2002年を採った。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

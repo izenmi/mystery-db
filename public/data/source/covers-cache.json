@@ -73,6 +73,22 @@
     "resolvedAt": "2026-08-04T03:57:20.574Z",
     "note": "書影は角川文庫版(上巻)。"
   },
+  "dokoku": {
+    "title": "慟哭",
+    "isbn": "9784488425012",
+    "matchedTitle": "慟哭",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5012/9784488425012.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:19.189Z"
+  },
+  "eugenia": {
+    "title": "ユージニア",
+    "isbn": "9784043710027",
+    "matchedTitle": "ユージニア",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0027/9784043710027_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:50.409Z"
+  },
   "furenzoku-satsujin": {
     "title": "不連続殺人事件",
     "isbn": "9784041100196",
@@ -84,9 +100,12 @@
   },
   "gekko-game": {
     "title": "月光ゲーム Yの悲劇'88",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T03:43:30.818Z"
+    "isbn": "9784488414016",
+    "matchedTitle": "月光ゲーム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4016/9784488414016_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:04:12.406Z",
+    "note": "書影は創元推理文庫版。タイトルの副題(Yの悲劇'88)が書誌側にないため自動取得では解決できなかった。"
   },
   "gokumonto": {
     "title": "獄門島",
@@ -95,6 +114,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4037/9784041304037_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:33.990Z"
+  },
+  "goth": {
+    "title": "GOTH リストカット事件",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T04:02:49.105Z"
   },
   "greene-ke": {
     "title": "グリーン家殺人事件",
@@ -152,6 +177,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:43.399Z",
     "note": "楽天ブックスが解決したのは創元推理文庫の【新訳版】(ISBN 9784488101183)で、works.jsonに登録している新潮文庫・延原謙訳とは版が異なる。作品としては同一なので書影として採用した。以前BOOK☆WALKERが拾っていた『【大活字シリーズ】英語原文で味わうSherlock Holmes1』(英語原文の学習用版)は誤マッチだったため除去済み。"
+  },
+  "himawari": {
+    "title": "向日葵の咲かない夏",
+    "isbn": "9784101355511",
+    "matchedTitle": "向日葵の咲かない夏",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5511/9784101355511.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:20.356Z"
   },
   "himitsu": {
     "title": "秘密",
@@ -285,6 +318,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:48.222Z"
   },
+  "kokuhaku": {
+    "title": "告白",
+    "isbn": "9784575513448",
+    "matchedTitle": "告白",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3448/9784575513448_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:15.685Z"
+  },
   "kokurojo": {
     "title": "黒牢城",
     "isbn": "9784041147221",
@@ -318,6 +359,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4023/9784488414023.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:32.087Z"
+  },
+  "kubinashi": {
+    "title": "首無の如き祟るもの",
+    "isbn": "9784062766456",
+    "matchedTitle": "首無の如き祟るもの",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6456/9784062766456.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:24.984Z"
   },
   "kudryavka": {
     "title": "クドリャフカの順番",
@@ -368,6 +417,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:18.702Z"
   },
+  "majimono": {
+    "title": "厭魅の如き憑くもの",
+    "isbn": "9784062763066",
+    "matchedTitle": "厭魅の如き憑くもの",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3066/9784062763066_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:23.841Z"
+  },
   "mangan": {
     "title": "満願",
     "isbn": "9784101287843",
@@ -391,6 +448,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3974/9784062763974_1_13.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:42.367Z"
+  },
+  "misshitsu-shushuka-work": {
+    "title": "密室蒐集家",
+    "isbn": "9784562048687",
+    "matchedTitle": "密室蒐集家",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8687/9784562048687.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:27.288Z"
   },
   "mittsu-no-hitsugi": {
     "title": "三つの棺",
@@ -426,6 +491,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:29.879Z"
   },
+  "n-no-tame-ni": {
+    "title": "Nのために",
+    "isbn": "9784575517040",
+    "matchedTitle": "Nのために",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7040/9784575517040.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:18.022Z"
+  },
   "nagai-owakare": {
     "title": "長いお別れ",
     "isbn": null,
@@ -433,6 +506,14 @@
     "coverUrl": "https://c.bookwalker.jp/399614/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:44.861Z"
+  },
+  "nanakai-shinda-otoko": {
+    "title": "七回死んだ男",
+    "isbn": "9784062937665",
+    "matchedTitle": "新装版　七回死んだ男",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7665/9784062937665_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:28.488Z"
   },
   "naname-yashiki": {
     "title": "斜め屋敷の犯罪",
@@ -533,6 +614,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:35.451Z"
   },
+  "shadow": {
+    "title": "シャドウ",
+    "isbn": "9784488496012",
+    "matchedTitle": "シャドウ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6012/9784488496012.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:22.699Z"
+  },
   "shijinso": {
     "title": "屍人荘の殺人",
     "isbn": null,
@@ -604,6 +693,14 @@
     "coverUrl": "https://c.bookwalker.jp/8323842/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:27.177Z"
+  },
+  "taiikukan": {
+    "title": "体育館の殺人",
+    "isbn": "9784488443115",
+    "matchedTitle": "体育館の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3115/9784488443115_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:02:26.134Z"
   },
   "ten-to-sen": {
     "title": "点と線",

@@ -121,5 +121,16 @@
     },
     "sourceNote": "沿革はWikipedia日本語版および公式サイトで確認した。2008年以前に朝日新聞社名義で刊行された作品もこのidにまとめている。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "harashobo",
+    "name": "原書房",
+    "nameKana": "はらしょぼう",
+    "description": "歴史・軍事・実用書とともに、書き下ろし本格ミステリの叢書〈ミステリー・リーグ〉を刊行している出版社。",
+    "externalLinks": {
+      "officialUrl": "https://www.harashobo.co.jp/"
+    },
+    "sourceNote": "事業内容・叢書名はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

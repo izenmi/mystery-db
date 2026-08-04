@@ -381,5 +381,112 @@
     },
     "sourceNote": "生没年・経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "minato-kanae",
+    "name": "湊かなえ",
+    "nameKana": "みなとかなえ",
+    "description": "『告白』でデビューし、後味の重い語り口で「イヤミス」の代表格とされる作家。複数の語り手が同じ出来事を語り直す構成を得意とする。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/湊かなえ"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nukui-tokuro",
+    "name": "貫井徳郎",
+    "nameKana": "ぬくいとくろう",
+    "description": "『慟哭』でデビューした作家。重い題材を扱いながら構成の妙で読ませる作風で知られる。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/貫井徳郎"
+    },
+    "sourceNote": "生年・経歴・デビュー作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "michio-shusuke",
+    "name": "道尾秀介",
+    "nameKana": "みちおしゅうすけ",
+    "description": "ホラーとミステリの境界を行き来する作風でデビューし、のちに直木賞を受賞した作家。仕掛けと人物描写の両立で評価される。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/道尾秀介"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mitsuda-shinzo",
+    "name": "三津田信三",
+    "nameKana": "みつだしんぞう",
+    "description": "ホラーと本格ミステリの融合を目指す作家。怪奇幻想作家・刀城言耶を探偵役とするシリーズで知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三津田信三"
+    },
+    "sourceNote": "経歴・作風・代表作はWikipedia日本語版で確認した。生年は公表されていないため記載していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "aosaki-yugo",
+    "name": "青崎有吾",
+    "nameKana": "あおさきゆうご",
+    "description": "『体育館の殺人』で鮎川哲也賞を受賞してデビュー。細かな手がかりの積み上げから犯人を特定するロジック重視の作風で「平成のエラリー・クイーン」と評される。",
+    "birthYear": 1991,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青崎有吾"
+    },
+    "sourceNote": "生年・経歴・デビュー作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "oyama-seiichiro",
+    "name": "大山誠一郎",
+    "nameKana": "おおやませいいちろう",
+    "description": "翻訳家としても活動する推理作家。短編での不可能犯罪の扱いに定評がある。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大山誠一郎"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nishizawa-yasuhiko",
+    "name": "西澤保彦",
+    "nameKana": "にしざわやすひこ",
+    "description": "SF的な特殊設定と本格ミステリの論理を組み合わせた作品で知られる作家。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西澤保彦"
+    },
+    "sourceNote": "生没年・経歴・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "otsuichi",
+    "name": "乙一",
+    "nameKana": "おついち",
+    "description": "十代でデビューし、残酷さと叙情を併せ持つ短編で注目された作家。ミステリ・ホラー・青春小説を横断する。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乙一"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "onda-riku",
+    "name": "恩田陸",
+    "nameKana": "おんだりく",
+    "description": "ミステリ・ホラー・青春小説を幅広く手がける作家。ノスタルジックな雰囲気と不穏さを併せ持つ作風で知られる。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/恩田陸"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
