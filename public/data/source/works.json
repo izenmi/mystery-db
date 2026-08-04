@@ -5890,5 +5890,518 @@
     },
     "sourceNote": "2003年、毎日新聞社より刊行。刊行元は現在流通する文春文庫版(2006年)に合わせた。第129回直木賞候補(候補は登録しない方針のため未登録)。2006年映画化。著者記事の著作一覧で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "majutsu-wa-sasayaku",
+    "title": "魔術はささやく",
+    "titleKana": "まじゅつはささやく",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "seishun",
+      "tokushu-settei",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "三人の若い女性が、事故とも自殺ともつかない形で相次いで死ぬ。父の失踪という影を抱えた高校生の守は、叔父の運転するタクシーが関わった事故をきっかけに、一連の死をつなぐ糸をたぐり始める。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔術はささやく"
+    },
+    "sourceNote": "1989年12月、新潮社より刊行。第2回日本推理サスペンス大賞受賞作だが本DB未登録の賞のため受賞歴には登録していない。テレビドラマ化あり。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "level7",
+    "title": "レベル7",
+    "titleKana": "れべるせぶん",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "記憶をなくした男女が、見知らぬ部屋で目を覚ます。腕には「レベル7まで行ったら戻れない」という走り書き。同じころ、家出した少女を探すカウンセラーが同じ言葉に行き当たる。二つの線が交わっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レベル7_(宮部みゆき)"
+    },
+    "sourceNote": "1990年9月、新潮社の〈新潮ミステリー倶楽部〉から書き下ろしで刊行。以上をWikipedia日本語版の書誌情報で確認。各種ランキングに入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gamotei",
+    "title": "蒲生邸事件",
+    "titleKana": "がもうていじけん",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tokushu-settei",
+      "honkaku",
+      "jidai-mystery",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "受験のため上京した浪人生の孝史は、宿泊先の火事のさなか、時間を超える力を持つ男に助けられ、二・二六事件の朝の東京に運ばれる。旧軍の大将・蒲生憲之の屋敷で、彼はその死に立ち会うことになる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蒲生邸事件"
+    },
+    "sourceNote": "『サンデー毎日』1994年5月号〜1995年6月号連載、1996年10月に毎日新聞社より刊行。第18回日本SF大賞受賞(本DB未登録の賞のため未登録)。発表年は連載開始年の1994年を採り、刊行元は現在流通する文春文庫版に合わせた。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sabishii-karyudo",
+    "title": "淋しい狩人",
+    "titleKana": "さびしいかりゅうど",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "東京の下町にある古書店「田辺書店」。店主のイワさんと孫の稔のもとには、本にまつわる小さな事件が持ち込まれる。一冊の本が人と人をつなぎ、時に思わぬ事情を明るみに出す連作短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/淋しい狩人"
+    },
+    "sourceNote": "1996年10月、新潮社より連作短編集として刊行(1997年新潮文庫、2008年新装版)。2013年ドラマ化。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "namonaki-doku",
+    "title": "名もなき毒",
+    "titleKana": "なもなきどく",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "kazoku",
+      "iyamisu"
+    ],
+    "seriesName": "杉村三郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "大企業の社内報を編集する杉村三郎は、問題を起こしたアルバイトの女性の対応に追われていた。同じころ、街では無差別の毒殺事件が起きている。悪意が形を持たないまま人を蝕んでいく様子を描く長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/名もなき毒"
+    },
+    "sourceNote": "2006年8月28日、幻冬舎より刊行。杉村三郎シリーズ第2作。第41回吉川英治文学賞受賞・第4回本屋大賞10位はいずれも本DB未登録の賞のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dareka-somebody",
+    "title": "誰か Somebody",
+    "titleKana": "だれかさむばでぃ",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "shakaiha",
+      "kazoku"
+    ],
+    "seriesName": "杉村三郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "会長の運転手が自転車に轢かれて死亡した。遺された娘たちは、父の死を本にしたいと言い出す。社内報編集者の杉村三郎は取材を手伝ううち、事故の周囲にある食い違いに気づいていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/誰か_Somebody"
+    },
+    "sourceNote": "2003年11月25日、実業之日本社より刊行。杉村三郎シリーズ第1作。以上をWikipedia日本語版の書誌情報で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "solomon-no-gisho",
+    "title": "ソロモンの偽証",
+    "titleKana": "そろもんのぎしょう",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "gakuen",
+      "houtei",
+      "seishun",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "クリスマスの朝、中学校の校庭で男子生徒の死体が見つかる。自殺として処理されようとするなか、匿名の告発状が届く。大人たちの手を離れ、生徒たちは自分たちだけで校内裁判を開くことを決める。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソロモンの偽証"
+    },
+    "sourceNote": "2012年8月〜(第I部 事件・第II部 決意・第III部 法廷)新潮社より刊行、2014年新潮文庫。第10回本屋大賞7位は本DB未登録の賞のため未登録。2015年に前後編で映画化。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rakuen-miyabe",
+    "title": "楽園",
+    "titleKana": "らくえん",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tokushu-settei",
+      "shakaiha",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "事故で亡くした息子には不思議な力があったのではないか。そう語る母親からの依頼で、ライターの前畑滋子は少年が遺した絵を調べ始める。十六年前の未解決事件と、一つの家族の姿が浮かんでくる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/楽園_(宮部みゆきの小説)"
+    },
+    "sourceNote": "『産経新聞』2005年7月〜2006年8月連載、2007年8月に文藝春秋より単行本刊行。『模倣犯』の登場人物・前畑滋子を主人公とする。発表年は連載開始年の2005年を採った。2017年WOWOWでドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "me-no-kabe",
+    "title": "眼の壁",
+    "titleKana": "めのかべ",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1957,
+    "status": "completed",
+    "synopsis": "手形詐欺の責任を負って上司が自殺する。若い会計課次長の萩崎は、新聞記者とともに詐欺の一味を追い始めるが、関係者が次々に消されていく。経済犯罪を入口に戦後社会の裏側へ踏み込む長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/眼の壁"
+    },
+    "sourceNote": "『週刊読売』1957年4月14日号〜12月29日号連載、1958年2月に光文社より単行本刊行。『点と線』に次いで連載が始まった推理長編。発表年は連載開始年の1957年を採った。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kurokawa-no-techo",
+    "title": "黒革の手帖",
+    "titleKana": "くろかわのてちょう",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shakaiha",
+      "noir",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "銀行員の原口元子は、休眠口座の金を横領して銀座のクラブのママに転身する。手にした顧客名簿と弱みを武器に、彼女はさらに上を目指していく。欲と打算がぶつかり合うピカレスク長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒革の手帖"
+    },
+    "sourceNote": "『週刊新潮』1978年11月16日号〜1980年2月14日号連載、1980年6月に新潮社より単行本刊行。発表年は連載開始年の1978年を採った。度々テレビドラマ化されている。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "d-no-fukugo",
+    "title": "Dの複合",
+    "titleKana": "でぃーのふくごう",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1965,
+    "status": "completed",
+    "synopsis": "売れない作家が雑誌の連載のため、各地に残る民俗説話を訪ね歩く。浦島伝説や羽衣伝説をたどる旅の先々で人が死に、古代の地名と現代の事件が奇妙に噛み合っていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Dの複合"
+    },
+    "sourceNote": "『宝石』1965年10月号〜1968年3月号連載、加筆訂正のうえ1968年7月に光文社(カッパ・ノベルス)より刊行。発表年は連載開始年の1965年を採った。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nami-no-to",
+    "title": "波の塔",
+    "titleKana": "なみのとう",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1959,
+    "status": "completed",
+    "synopsis": "汚職事件を追う若い検事と、人妻である女性が出会い、互いの立場を知らないまま心を寄せていく。捜査が進むほど二人の関係は危うくなる。恋愛と汚職捜査を重ねた著者の代表的長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/波の塔"
+    },
+    "sourceNote": "『女性自身』1959年5月29日号〜1960年6月15日号連載、1960年6月に光文社(カッパ・ノベルス)より刊行。発表年は連載開始年の1959年を採った。映画化1回・テレビドラマ化8回。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyukei-no-koya",
+    "title": "球形の荒野",
+    "titleKana": "きゅうけいのこうや",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "sengo-nihon",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1960,
+    "status": "completed",
+    "synopsis": "奈良の古寺の芳名帳に残された筆跡が、戦時中に死んだはずの外交官のものだった。娘とその周囲の人々が過去をたどるうち、戦争が終わっても終わらなかった一人の男の事情が見えてくる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/球形の荒野"
+    },
+    "sourceNote": "『オール讀物』1960年1月号〜1961年12月号連載、1962年1月に文藝春秋新社より刊行。発表年は連載開始年の1960年を採った。映画化1回・テレビドラマ化8回。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kiri-no-hata",
+    "title": "霧の旗",
+    "titleKana": "きりのはた",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "houtei",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1959,
+    "status": "completed",
+    "synopsis": "強盗殺人の容疑で起訴された兄を救うため、九州から上京した娘が高名な弁護士に弁護を頼む。報酬を理由に断られた彼女は、やがて別の事件を通じてその弁護士と向き合うことになる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/霧の旗"
+    },
+    "sourceNote": "『婦人公論』1959年7月号〜1960年3月号連載、1961年3月に中央公論社より刊行。発表年は連載開始年の1959年を採り、刊行元は現在流通する新潮文庫版に合わせた。2度映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "memai-shimada",
+    "title": "眩暈",
+    "titleKana": "めまい",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "御手洗潔のもとに、常識では受け止めがたい内容の手記が届く。異形の子どもたちが生まれた家の記録として書かれたその文章の真偽を確かめるべく、御手洗と石岡は調査に乗り出す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/島田荘司"
+    },
+    "sourceNote": "1992年9月、講談社より刊行。御手洗潔シリーズ。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。各種ランキングに入っているがランキング名と年次の対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "atopos",
+    "title": "アトポス",
+    "titleKana": "あとぽす",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "meitantei",
+      "kotou"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "死海のほとりの島で起きた惨劇と、ハリウッドの伝説的女優をめぐる吸血鬼伝説。時代も土地も離れた出来事が一本の線で結ばれていく、御手洗潔シリーズの長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/島田荘司"
+    },
+    "sourceNote": "1993年10月、講談社より刊行。御手洗潔シリーズ。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。各種ランキングに入っているが対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
   }
 ]

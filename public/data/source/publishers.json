@@ -132,5 +132,27 @@
     },
     "sourceNote": "事業内容・叢書名はWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gentosha",
+    "name": "幻冬舎",
+    "nameKana": "げんとうしゃ",
+    "description": "1993年設立の出版社。文芸書・新書を中心に刊行している。",
+    "externalLinks": {
+      "officialUrl": "https://www.gentosha.co.jp/"
+    },
+    "sourceNote": "設立年・事業内容はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jitsugyo-no-nihonsha",
+    "name": "実業之日本社",
+    "nameKana": "じつぎょうのにほんしゃ",
+    "description": "1897年創業の出版社。文芸書・実用書のほか、ミステリの文庫レーベルも持つ。",
+    "externalLinks": {
+      "officialUrl": "https://www.j-n.co.jp/"
+    },
+    "sourceNote": "創業年・事業内容はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

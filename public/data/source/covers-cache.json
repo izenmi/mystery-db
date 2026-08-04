@@ -56,6 +56,14 @@
     "resolvedAt": "2026-08-04T04:31:54.718Z",
     "note": "書影は角川文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
+  "atopos": {
+    "title": "アトポス",
+    "isbn": null,
+    "matchedTitle": "アトポス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9990/2000002489990.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T04:40:47.389Z"
+  },
   "baskerville": {
     "title": "バスカヴィル家の犬",
     "isbn": "9784102134078",
@@ -98,6 +106,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:03.963Z"
   },
+  "d-no-fukugo": {
+    "title": "Dの複合",
+    "isbn": "9784101109282",
+    "matchedTitle": "Dの複合改版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10110928.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:39.226Z"
+  },
   "d-zaka": {
     "title": "D坂の殺人事件",
     "isbn": null,
@@ -114,6 +130,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0193/9784087460193_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:06.394Z"
+  },
+  "dareka-somebody": {
+    "title": "誰か Somebody",
+    "isbn": "9784167549060",
+    "matchedTitle": "誰か Somebody",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9060/9784167549060_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:32.231Z",
+    "note": "登録は実業之日本社(単行本)だが書影は文春文庫版。作品は同一。"
   },
   "dochiraka-ga": {
     "title": "どちらかが彼女を殺した",
@@ -195,6 +220,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0130/9784167110130_1_15.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:33.199Z"
+  },
+  "gamotei": {
+    "title": "蒲生邸事件",
+    "isbn": "9784167909574",
+    "matchedTitle": "蒲生邸事件 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9574/9784167909574_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:41:16.161Z",
+    "note": "書影は文春文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
   "gekko-game": {
     "title": "月光ゲーム Yの悲劇'88",
@@ -523,6 +557,14 @@
     "resolvedAt": "2026-08-04T04:31:33.858Z",
     "note": "書影は講談社文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
+  "kiri-no-hata": {
+    "title": "霧の旗",
+    "isbn": "9784101109206",
+    "matchedTitle": "霧の旗",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10110920.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:42.700Z"
+  },
   "kirin-no-tsubasa": {
     "title": "麒麟の翼",
     "isbn": "9784062777667",
@@ -613,6 +655,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:29.344Z"
   },
+  "kurokawa-no-techo": {
+    "title": "黒革の手帖",
+    "isbn": "9784101109541",
+    "matchedTitle": "黒革の手帖 下",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9541/9784101109541.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:38.054Z",
+    "note": "書影は新潮文庫版の下巻(上巻は楽天ブックスに書誌がない)。作品は同一。"
+  },
   "kuronekokan": {
     "title": "黒猫館の殺人",
     "isbn": "9784062777438",
@@ -654,6 +705,15 @@
     "resolvedAt": "2026-08-04T03:57:19.393Z",
     "note": "書影は講談社の新装版(上巻)。"
   },
+  "kyukei-no-koya": {
+    "title": "球形の荒野",
+    "isbn": "9784167697280",
+    "matchedTitle": "球形の荒野 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7280/9784167697280.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:41.547Z",
+    "note": "書影は文春文庫版の上巻。"
+  },
   "lautrec-so": {
     "title": "ロートレック荘事件",
     "isbn": "9784101171333",
@@ -661,6 +721,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1333/9784101171333.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:17.949Z"
+  },
+  "level7": {
+    "title": "レベル7",
+    "isbn": "9784101369129",
+    "matchedTitle": "レベル7（セブン）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9129/9784101369129.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:27.587Z"
   },
   "maboroshi-no-onna": {
     "title": "幻の女",
@@ -695,6 +763,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:23.841Z"
   },
+  "majutsu-wa-sasayaku": {
+    "title": "魔術はささやく",
+    "isbn": "9784101369112",
+    "matchedTitle": "魔術はささやく",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9112/9784101369112.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:25.253Z"
+  },
   "maltese-falcon": {
     "title": "マルタの鷹",
     "isbn": "9784150773076",
@@ -728,6 +804,14 @@
     "resolvedAt": "2026-08-04T04:09:50.564Z",
     "note": "登録は早川書房の単行本だが書影は新潮文庫版(上巻)。自動取得では下巻が当たっていたため上巻に手動で差し替えた。"
   },
+  "me-no-kabe": {
+    "title": "眼の壁",
+    "isbn": "9784101109176",
+    "matchedTitle": "眼の壁",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10110917.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:36.899Z"
+  },
   "medium": {
     "title": "medium 霊媒探偵城塚翡翠",
     "isbn": null,
@@ -749,6 +833,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-04T04:35:56.356Z"
+  },
+  "memai-shimada": {
+    "title": "眩暈",
+    "isbn": "9784062630795",
+    "matchedTitle": "眩暈",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0795/9784062630795.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:43.883Z"
   },
   "misshitsu-shushuka-work": {
     "title": "密室蒐集家",
@@ -807,6 +899,24 @@
     "coverUrl": "https://c.bookwalker.jp/399614/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:44.861Z"
+  },
+  "nami-no-to": {
+    "title": "波の塔",
+    "isbn": "9784167697228",
+    "matchedTitle": "波の塔（上）新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7228/9784167697228.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:40.398Z",
+    "note": "書影は文春文庫の新装版(上巻)。登録した刊行元(光文社カッパ・ノベルス)とは異なる。"
+  },
+  "namonaki-doku": {
+    "title": "名もなき毒",
+    "isbn": "9784167549091",
+    "matchedTitle": "名もなき毒",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9091/9784167549091_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:31.053Z",
+    "note": "登録は幻冬舎(単行本)だが書影は文春文庫版。作品は同一。"
   },
   "nanakai-shinda-otoko": {
     "title": "七回死んだ男",
@@ -897,6 +1007,15 @@
     "resolvedAt": "2026-08-04T04:09:04.096Z",
     "note": "登録は講談社の単行本だが書影は講談社文庫版(上巻)。作品は同一。"
   },
+  "rakuen-miyabe": {
+    "title": "楽園",
+    "isbn": "9784167549077",
+    "matchedTitle": "楽園 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9077/9784167549077.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:41:17.426Z",
+    "note": "書影は文春文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
   "rirasou": {
     "title": "りら荘事件",
     "isbn": "9784488403140",
@@ -929,6 +1048,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:37.367Z",
     "note": "初刊は出版芸術社だが書影は新潮文庫版。登録した刊行元(新潮社)と一致。"
+  },
+  "sabishii-karyudo": {
+    "title": "淋しい狩人",
+    "isbn": "9784101369174",
+    "matchedTitle": "淋しい狩人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9174/9784101369174.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:40:29.897Z"
   },
   "saiyaku-no-machi": {
     "title": "災厄の町",
@@ -1009,6 +1136,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3149/9784488103149.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:38.888Z"
+  },
+  "solomon-no-gisho": {
+    "title": "ソロモンの偽証",
+    "isbn": "9784101369358",
+    "matchedTitle": "ソロモンの偽証（〔1〕（第1部））",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9358/9784101369358.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:41:18.692Z",
+    "note": "書影は新潮文庫版の第1部(1)。自動取得では単行本の第II部が当たっていたため差し替えた。"
   },
   "sono-onna-alex": {
     "title": "その女アレックス",
