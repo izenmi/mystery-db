@@ -99,5 +99,27 @@
     },
     "sourceNote": "社名・事業内容はWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shogakukan",
+    "name": "小学館",
+    "nameKana": "しょうがくかん",
+    "description": "総合出版社。文芸書のほか『週刊ポスト』などの雑誌を発行し、連載小説の単行本化も手がける。",
+    "externalLinks": {
+      "officialUrl": "https://www.shogakukan.co.jp/"
+    },
+    "sourceNote": "社名・事業内容はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "asahi-shimbunsha",
+    "name": "朝日新聞出版(朝日新聞社)",
+    "nameKana": "あさひしんぶんしゅっぱん",
+    "description": "朝日新聞社の出版部門から2008年に分社化した出版社。新聞連載小説の単行本化を多く手がけてきた。",
+    "externalLinks": {
+      "officialUrl": "https://publications.asahi.com/"
+    },
+    "sourceNote": "沿革はWikipedia日本語版および公式サイトで確認した。2008年以前に朝日新聞社名義で刊行された作品もこのidにまとめている。",
+    "updatedAt": "2026-08-04"
   }
 ]

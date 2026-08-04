@@ -121,5 +121,17 @@
     "externalLinks": {},
     "sourceNote": "順位が明記されている作品のみを登録する。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "edogawa-rampo-sho",
+    "name": "江戸川乱歩賞",
+    "nameKana": "えどがわらんぽしょう",
+    "organizer": "日本推理作家協会",
+    "description": "1955年に江戸川乱歩の寄付を基金として創設された、長編推理小説の公募新人賞。受賞作は講談社から刊行され、受賞を機にデビューした作家が数多い。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/江戸川乱歩賞"
+    },
+    "sourceNote": "主催団体・創設経緯はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

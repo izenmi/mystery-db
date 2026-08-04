@@ -7,6 +7,12 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:52:53.601Z"
   },
+  "akui": {
+    "title": "悪意",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T03:39:59.152Z"
+  },
   "akuma-no-temariuta": {
     "title": "悪魔の手毬唄",
     "isbn": "9784041304020",
@@ -22,6 +28,14 @@
     "coverUrl": "https://c.bookwalker.jp/9147673/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:32.328Z"
+  },
+  "climbers-high": {
+    "title": "クライマーズ・ハイ",
+    "isbn": "9784167659035",
+    "matchedTitle": "クライマーズ・ハイ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9035/9784167659035_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:40:03.963Z"
   },
   "d-zaka": {
     "title": "D坂の殺人事件",
@@ -40,6 +54,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:33.990Z"
   },
+  "hanochi": {
+    "title": "半落ち",
+    "isbn": "9784062751940",
+    "matchedTitle": "半落ち",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1940/9784062751940.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:40:02.771Z"
+  },
   "hiiro-no-kenkyu": {
     "title": "緋色の研究",
     "isbn": "9784488101183",
@@ -48,6 +70,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:43.399Z",
     "note": "楽天ブックスが解決したのは創元推理文庫の【新訳版】(ISBN 9784488101183)で、works.jsonに登録している新潮文庫・延原謙訳とは版が異なる。作品としては同一なので書影として採用した。以前BOOK☆WALKERが拾っていた『【大活字シリーズ】英語原文で味わうSherlock Holmes1』(英語原文の学習用版)は誤マッチだったため除去済み。"
+  },
+  "himitsu": {
+    "title": "秘密",
+    "isbn": "9784167110062",
+    "matchedTitle": "秘密",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0062/9784167110062_1_12.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:39:41.179Z"
+  },
+  "hokago": {
+    "title": "放課後",
+    "isbn": "9784061842519",
+    "matchedTitle": "放課後",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2519/9784061842519_1_10.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:39:38.575Z"
   },
   "honjin-satsujin": {
     "title": "本陣殺人事件",
@@ -124,6 +162,14 @@
     "resolvedAt": "2026-08-04T03:34:35.016Z",
     "note": "登録は光文社だが書影は創元推理文庫版。作品は同一。"
   },
+  "kyokotsu-no-yume": {
+    "title": "狂骨の夢",
+    "isbn": "9784062649612",
+    "matchedTitle": "文庫版　狂骨の夢",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9612/9784062649612.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:39:31.050Z"
+  },
   "mangan": {
     "title": "満願",
     "isbn": "9784101287843",
@@ -147,6 +193,23 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3974/9784062763974_1_13.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:42.367Z"
+  },
+  "mohohan": {
+    "title": "模倣犯",
+    "isbn": "9784101369242",
+    "matchedTitle": "模倣犯（一）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1013/10136924.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:39:36.159Z",
+    "note": "登録は小学館(単行本上下巻)だが書影は新潮文庫版(全5巻)の第1巻。作品は同一。"
+  },
+  "moryo-no-hako": {
+    "title": "魍魎の匣",
+    "isbn": "9784062646673",
+    "matchedTitle": "文庫版　魍魎の匣",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6673/9784062646673.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:39:29.879Z"
   },
   "nagai-owakare": {
     "title": "長いお別れ",
@@ -181,6 +244,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:01.730Z"
   },
+  "riyu": {
+    "title": "理由",
+    "isbn": "9784022642950",
+    "matchedTitle": "理由",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0226/02264295.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:39:34.966Z"
+  },
   "rokuyon": {
     "title": "64",
     "isbn": "9784167902926",
@@ -188,6 +259,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2926/9784167902926.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:38.750Z"
+  },
+  "ryu-wa-nemuru": {
+    "title": "龍は眠る",
+    "isbn": "9784101369143",
+    "matchedTitle": "龍は眠る",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9143/9784101369143.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:39:37.367Z",
+    "note": "初刊は出版芸術社だが書影は新潮文庫版。登録した刊行元(新潮社)と一致。"
   },
   "senseijutsu": {
     "title": "占星術殺人事件",
@@ -204,6 +284,14 @@
     "coverUrl": "https://c.bookwalker.jp/0689053/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:49:11.197Z"
+  },
+  "shinzanmono": {
+    "title": "新参者",
+    "isbn": "9784062776288",
+    "matchedTitle": "新参者",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6288/9784062776288_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:40:01.596Z"
   },
   "soshite-daremo": {
     "title": "そして誰もいなくなった",
@@ -244,6 +332,14 @@
     "coverUrl": "https://c.bookwalker.jp/6921602/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:19.093Z"
+  },
+  "tesso-no-ori": {
+    "title": "鉄鼠の檻",
+    "isbn": "9784062732475",
+    "matchedTitle": "文庫版　鉄鼠の檻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2475/9784062732475.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:39:32.221Z"
   },
   "tokeikan": {
     "title": "時計館の殺人",

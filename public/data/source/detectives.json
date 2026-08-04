@@ -182,5 +182,18 @@
     },
     "sourceNote": "人物像・初登場作品はWikipedia日本語版の記事で確認した。真相に関わる記述は含めていない。 初登場作は『大いなる眠り』(1939年)だが本サイト未収録のため初登場欄は空にしている。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kaga-kyoichiro",
+    "name": "加賀恭一郎",
+    "nameKana": "かがきょういちろう",
+    "creatorAuthorId": "higashino-keigo",
+    "occupation": "警視庁の刑事",
+    "description": "剣道に打ち込んだ学生時代を経て教職に就き、のちに警察官となった刑事。練馬署・日本橋署などに籍を置き、関係者の暮らしぶりに丁寧に分け入って事件の背景を解きほぐしていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/加賀恭一郎"
+    },
+    "sourceNote": "経歴・シリーズ構成はWikipedia日本語版で確認した。初登場は1986年の『卒業』だが本DBに未登録のため初登場作は設定していない。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -1396,5 +1396,465 @@
     },
     "sourceNote": "1989年4月5日、講談社ノベルスより刊行。館シリーズ第4作(前作『迷路館の殺人』、次作『時計館の殺人』)。以上をWikipedia日本語版の書誌情報で確認。受賞歴は確認できなかった。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "moryo-no-hako",
+    "title": "魍魎の匣",
+    "titleKana": "もうりょうのはこ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "youkai",
+      "kaiki-gensou",
+      "meitantei",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "夏の夜、線路脇で少女が電車に轢かれかける事件が起きる。同じころ、箱に詰められた少女の四肢が相次いで見つかり、街には奇怪な噂が流れていた。武蔵野の丘に建つ箱型の研究所、宗教めいた集団、失踪した娘。古書肆にして陰陽師の中禅寺秋彦が、憑き物を落としにかかる。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1996,
+        "result": "第49回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魍魎の匣"
+    },
+    "sourceNote": "1995年1月、講談社ノベルスより刊行。百鬼夜行シリーズ第2作。第49回日本推理作家協会賞受賞。2007年映画化、2008年10〜12月テレビアニメ化、志水アキによる漫画版あり。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyokotsu-no-yume",
+    "title": "狂骨の夢",
+    "titleKana": "きょうこつのゆめ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "youkai",
+      "kaiki-gensou",
+      "meitantei"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "海辺の町で、夫を何度も殺したと語る女が精神科医のもとを訪れる。時を同じくして砂浜に金色の髑髏が流れ着き、教会を追われた牧師や記憶を失った男の話が絡み合う。夢と現の境が溶けていく事件に、中禅寺秋彦が向き合う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/狂骨の夢"
+    },
+    "sourceNote": "1995年5月8日、講談社ノベルスより刊行。百鬼夜行シリーズ第3作。文庫化の際に400枚以上の加筆訂正が行われた。志水アキによる漫画版(角川書店、2010〜2012年)あり。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tesso-no-ori",
+    "title": "鉄鼠の檻",
+    "titleKana": "てっそのおり",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "youkai",
+      "closed-circle",
+      "meitantei",
+      "kaiki-gensou"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "箱根の山中、雪に閉ざされた巨大な禅寺。訪れた者たちの前で僧が次々と死に、いずれも人が通れぬ場所に置かれていた。宗派の来歴と禅問答が積み重なるなか、中禅寺秋彦は寺そのものに巣食う「憑き物」の正体を探る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鉄鼠の檻"
+    },
+    "sourceNote": "1996年1月、講談社ノベルスより刊行。百鬼夜行シリーズ第4作。第9回山本周五郎賞の候補作となったが受賞はしていないため受賞歴には登録していない。志水アキによる漫画版(講談社、2017〜2018年)あり。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "riyu",
+    "title": "理由",
+    "titleKana": "りゆう",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "荒川区の高層マンションの一室で、四人が死体で見つかる。だがその部屋の住人は、そこにいたはずの家族とは別人だった。関係者や近隣住民への聞き取りを積み重ねるルポルタージュの形式で、バブル期の不動産と家族のありようが浮かび上がる。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1999,
+        "result": "第120回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/理由_(小説)"
+    },
+    "sourceNote": "『朝日新聞』夕刊に1996年9月2日〜1997年9月20日連載、加筆のうえ1998年5月15日に朝日新聞社より単行本化。第120回直木三十五賞受賞。発表年は連載開始年の1996年を採った。刊行元は朝日新聞社(現・朝日新聞出版)。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mohohan",
+    "title": "模倣犯",
+    "titleKana": "もほうはん",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "kazoku",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "東京の公園で女性の右腕が発見され、やがてテレビ局に犯人を名乗る声が届く。被害者の遺族、事件を追う記者、豆腐屋を営む老人。三部構成で視点を移しながら、劇場型犯罪に翻弄される人々と、犯人の側の内面までを描く長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/模倣犯_(小説)"
+    },
+    "sourceNote": "『週刊ポスト』1995年11月〜1999年10月連載、加筆改稿を経て2001年3月21日に小学館より上下巻で刊行。発表年は連載開始年の1995年を採った。第55回毎日出版文化賞特別賞(2001年)・2002年芸術選奨文部科学大臣賞を受賞しているが、いずれも本DBに未登録の賞のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ryu-wa-nemuru",
+    "title": "龍は眠る",
+    "titleKana": "りゅうはねむる",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "嵐の夜、雑誌記者の高坂は、ずぶ濡れの少年を車に乗せる。少年は自分には他人の心や物の記憶が読めると言い、直後に近くのマンホールで起きた事故を言い当てる。信じがたい能力を抱えた少年たちと関わるうち、高坂は過去の事件に引き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1992,
+        "result": "第45回受賞(長編部門)"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 1991,
+        "result": "第1位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1992,
+        "result": "第8位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍は眠る"
+    },
+    "sourceNote": "初刊は1991年2月・出版芸術社。現在流通する新潮文庫版(1995年1月)に合わせて刊行元は新潮社とした。第45回日本推理作家協会賞(長編部門)受賞、1991年『週刊文春ミステリーベスト10』1位、『このミステリーがすごい!』1992年版8位。1994年テレビドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hokago",
+    "title": "放課後",
+    "titleKana": "ほうかご",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "seishun",
+      "misshitsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "私立女子高で数学を教える前島は、原因のわからない事故に何度も遭い、自分が誰かに命を狙われていると感じていた。そんな折、更衣室で同僚の教師が死体で見つかる。密室状況の謎を追う前島は、生徒たちが息をひそめて抱える感情に触れていく。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1985,
+        "result": "第31回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/放課後_(東野圭吾)"
+    },
+    "sourceNote": "第31回江戸川乱歩賞受賞の作家デビュー作。1985年9月に講談社より単行本、1988年7月に講談社文庫版が刊行。テレビドラマ化あり。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "himitsu",
+    "title": "秘密",
+    "titleKana": "ひみつ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tokushu-settei",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "バス事故で妻と娘を失いかけた杉田平介。助かった娘の体に宿っていたのは、妻の意識だった。誰にも打ち明けられないまま始まる二人だけの生活は、娘として学校に通い成長していく体と、妻としての心のあいだで少しずつ形を変えていく。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1999,
+        "result": "第52回受賞(長編部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/秘密_(東野圭吾)"
+    },
+    "sourceNote": "1998年9月、文藝春秋より刊行。第52回日本推理作家協会賞(長編部門)受賞。第120回直木賞・第20回吉川英治文学新人賞にもノミネートされたが受賞していないため登録していない。1999年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akui",
+    "title": "悪意",
+    "titleKana": "あくい",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "honkaku",
+      "keisatsu-shosetsu",
+      "shinrai-dekinai-katarite"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "人気作家・日高邦彦が、渡航前夜に仕事場で殺された。第一発見者は児童文学作家で旧友の野々口修。捜査に当たるのは、かつて野々口の同僚だった刑事・加賀恭一郎だった。手記と捜査記録が交互に並べられ、二人の作家の関係が少しずつ形を変えていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪意_(小説)"
+    },
+    "sourceNote": "1996年9月20日、双葉社より単行本刊行(2000年1月に講談社ノベルス、2001年1月に講談社文庫)。加賀恭一郎シリーズ第4作。テレビドラマ化あり。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinzanmono",
+    "title": "新参者",
+    "titleKana": "しんざんもの",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen",
+      "kazoku",
+      "meitantei"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "日本橋署に赴任した加賀恭一郎が、下町で起きた女性の絞殺事件を追う。煎餅屋、料亭、時計店と、加賀は町の店を一軒ずつ訪ね歩く。各章で一つの家族の事情が解け、その積み重ねが事件の輪郭を描き出していく連作形式の長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2010,
+        "result": "第1位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2009,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新参者_(小説)"
+    },
+    "sourceNote": "2009年9月18日、講談社より刊行。加賀恭一郎シリーズ。『このミステリーがすごい!2010年版』および『週刊文春ミステリーベスト10』で1位。週刊文春の年は刊行年の2009年発表分とした。2010年テレビドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hanochi",
+    "title": "半落ち",
+    "titleKana": "はんおち",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "houtei",
+      "shakaiha",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "現職警察官の梶聡一郎が、病に侵された妻を殺したと自首してきた。動機も経緯もすべて話す一方、事件から出頭までの二日間についてだけは口を閉ざす。取調官、検事、記者、弁護士、裁判官と、章ごとに視点を変えながら、空白の意味に迫る。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/半落ち"
+    },
+    "sourceNote": "2002年9月、講談社より刊行。第128回直木賞の最終候補に残ったが落選し、選考をめぐる議論を呼んだ(候補は登録しない方針のため未登録)。『週刊文春ミステリーベスト10』第1位という記述はあるが年次表記が資料によって食い違うため受賞歴には登録していない。映画版が第28回日本アカデミー賞最優秀作品賞を受賞しているが小説自体の受賞ではないため対象外とした。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "climbers-high",
+    "title": "クライマーズ・ハイ",
+    "titleKana": "くらいまーずはい",
+    "authorIds": [
+      "yokoyama-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "群馬の地方新聞社に勤める悠木和雅は、同僚と山に登る予定だった日、県内の山中に旅客機が墜落したことを知る。全権デスクを任され、現場の記者、整理部、広告、販売のあいだで板挟みになりながら、何をどう伝えるかを日々決めていく。",
+    "awardResults": [
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2003,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クライマーズ・ハイ"
+    },
+    "sourceNote": "『別册文藝春秋』2003年1月に掲載、同年8月25日に文藝春秋より単行本刊行。『週刊文春ミステリーベストテン』2003年第1位。2004年本屋大賞第2位は本DBに未登録の賞のため登録していない。日本航空123便墜落事故を題材とし、2005年NHKでドラマ化、2008年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]
