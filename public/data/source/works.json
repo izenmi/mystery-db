@@ -14819,5 +14819,541 @@
     },
     "sourceNote": "『野性時代』1979年1月号〜1980年5月号連載。横溝正史による最後の長編であることを著者記事で確認した。firstPublishedYearは初出年を採用した。publisherは現在流通している角川文庫版に合わせている。1981年に篠田正浩監督で映画化。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sanmaku-no-satsujin",
+    "title": "三幕の殺人",
+    "titleKana": "さんまくのさつじん",
+    "originalTitle": "Three Act Tragedy",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "nagano-kiyomi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "jpPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "元俳優が主催した晩餐会の席で、招かれていた牧師が突然倒れて死ぬ。毒物は検出されず事故として片づけられたが、しばらく後に似た状況で二人目の死者が出る。三幕の構成で語られる、ポアロもの中期の一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三幕の殺人"
+    },
+    "sourceNote": "原著は1934年刊。アメリカ版は Murder in Three Acts の題で、真相に若干の相違があることをWikipedia日本語版で確認した。邦訳は長野きよみ訳のハヤカワ文庫版(2003年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "edgware-kyo-no-shi",
+    "title": "エッジウェア卿の死",
+    "titleKana": "えっじうぇあきょうのし",
+    "originalTitle": "Lord Edgware Dies",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "fukushima-masami"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1933,
+    "jpPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "人気女優から、貴族の夫との離婚を取りもってほしいとポアロは頼まれる。ほどなくエッジウェア卿が刺殺されるが、女優には大勢の目撃者がいる完璧なアリバイがあった。証言と時間の食い違いを詰めていく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エッジウェア卿の死"
+    },
+    "sourceNote": "原著は1933年刊、米題 Thirteen at Dinner。邦訳は福島正実訳のハヤカワ文庫版(2004年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kumo-o-tsukamu-shi",
+    "title": "雲をつかむ死",
+    "titleKana": "くもをつかむし",
+    "originalTitle": "Death in the Clouds",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "tanaka-kazue"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "closed-circle"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1935,
+    "jpPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "パリからロンドンへ向かう旅客機の機内で、乗客の女性が死んでいるのが見つかる。凶器と目されたのは吹き矢だった。飛行中の機内という限られた空間にいた全員が容疑者となり、ポアロ自身もその一人に数えられる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/雲をつかむ死"
+    },
+    "sourceNote": "原著は1935年刊、米題 Death in the Air。邦訳は田中一江訳のハヤカワ文庫〔新訳版〕(2020年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mesopotamia-no-satsujin",
+    "title": "メソポタミヤの殺人",
+    "titleKana": "めそぽたみやのさつじん",
+    "originalTitle": "Murder in Mesopotamia",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "tamura-yoshinobu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "closed-circle"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1936,
+    "jpPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "イラクの発掘現場に併設された宿舎で、隊長の妻が撲殺される。彼女は以前から誰かに命を狙われていると訴えていた。付き添いの看護婦が書き残した手記という形式で、閉ざされた調査隊のなかの緊張が語られる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メソポタミヤの殺人"
+    },
+    "sourceNote": "原著は1936年刊。中近東を舞台にした長編の第1作であること、創元推理文庫では『殺人は癖になる』の題で出ていたことをWikipedia日本語版で確認した。邦訳は田村義進訳のハヤカワ文庫〔新訳版〕(2020年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "poirot-no-christmas",
+    "title": "ポアロのクリスマス",
+    "titleKana": "ぽあろのくりすます",
+    "originalTitle": "Hercule Poirot's Christmas",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "kawazoe-tomoko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "misshitsu",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1938,
+    "jpPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "気難しい老富豪がクリスマスに一族を呼び集める。だがその夜、当主は施錠された部屋のなかで惨殺された。集まった家族の誰もが、それぞれの理由で当主を憎んでいた。クリスティーの長編で唯一の密室ものとされる作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポアロのクリスマス"
+    },
+    "sourceNote": "原著は1938年刊、米題 Murder for Christmas。著者の長編で唯一の密室殺人ものであることをWikipedia日本語版で確認した。邦訳は川副智子訳のハヤカワ文庫〔新訳版〕(2023年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "aikoku-satsujin",
+    "title": "愛国殺人",
+    "titleKana": "あいこくさつじん",
+    "originalTitle": "One, Two, Buckle My Shoe",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "kajima-shozo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1940,
+    "jpPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "ポアロがかかりつけの歯科医の診療所を出た数時間後、その医師が撃たれて死んでいるのが見つかる。自殺として処理されかけるが、同じ日に診察を受けた患者たちの動向を追ううちに、国家の中枢に届く事情が見えてくる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/愛国殺人"
+    },
+    "sourceNote": "原著は1940年刊。原題はマザー・グースの数え歌の一節で、各章のタイトルに歌詞が用いられていることをWikipedia日本語版で確認した。邦訳は加島祥造訳のハヤカワ文庫版(2004年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sogi-o-oete",
+    "title": "葬儀を終えて",
+    "titleKana": "そうぎをおえて",
+    "originalTitle": "After the Funeral",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "資産家の葬儀の後、遺言が読み上げられた席で、故人の妹が「兄さんは殺されたのよね」と口にする。一同は聞き流したが、翌日その妹が斧で殺害された。何気ない一言がなぜ命取りになったのかを、ポアロが探っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/葬儀を終えて"
+    },
+    "sourceNote": "原著は1953年刊、米題 Funerals Are Fatal。ポアロもの25作目にあたることをWikipedia日本語版で確認した。邦訳は加賀山卓朗訳のハヤカワ文庫〔新訳版〕(2020年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mcginty-fujin-wa-shinda",
+    "title": "マギンティ夫人は死んだ",
+    "titleKana": "まぎんてぃふじんはしんだ",
+    "originalTitle": "Mrs. McGinty's Dead",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "tamura-ryuichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "jpPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "掃除婦として何軒かの家で働いていたマギンティ夫人が殺され、下宿人の青年が逮捕される。有罪はほぼ動かないと見られたが、担当した警視だけが釈然としない。頼まれたポアロは、事件のあった村へ長期滞在することになる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マギンティ夫人は死んだ"
+    },
+    "sourceNote": "原著は1952年刊。邦訳は田村隆一訳のハヤカワ文庫版(2003年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "halloween-party",
+    "title": "ハロウィーン・パーティ",
+    "titleKana": "はろうぃーんぱーてぃ",
+    "originalTitle": "Hallowe'en Party",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "yamamoto-yayoi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "jpPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "子どもたちのハロウィーン・パーティで、一人の少女が「私は昔、殺人を見たことがある」と言い出す。誰も本気にしなかったその夜、少女はりんご食い競争の水桶で溺死しているのが見つかる。過去の出来事へ遡っていく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハロウィーン・パーティ"
+    },
+    "sourceNote": "原著は1969年刊。邦訳は山本やよい訳のハヤカワ文庫〔新訳版〕(2023年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kagami-wa-yoko-ni",
+    "title": "鏡は横にひび割れて",
+    "titleKana": "かがみはよこにひびわれて",
+    "originalTitle": "The Mirror Crack'd from Side to Side",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "hashimoto-fukuo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "jpPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "セント・メアリ・ミードの屋敷を買い取った映画女優が、村人を招いてパーティを開く。その席で、女優に話しかけていた一人の女性が毒殺される。マープルは、女優がある瞬間に見せた表情の意味を考え続ける。マープルもの長編第8作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鏡は横にひび割れて"
+    },
+    "sourceNote": "原著は1962年刊。題名はテニスンの詩『シャロット姫』に由来することをWikipedia日本語版で確認した。邦訳は橋本福夫訳のハヤカワ文庫版(2004年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "caribbean-no-himitsu",
+    "title": "カリブ海の秘密",
+    "titleKana": "かりぶかいのひみつ",
+    "originalTitle": "A Caribbean Mystery",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "nagai-jun"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "静養のため西インド諸島のホテルに滞在していたマープルは、退役少佐から昔の殺人事件の話を聞かされる。写真を見せようとしたその男が、翌朝には死んでいた。常夏の観光地で、マープルは村での経験を頼りに人を見ていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カリブ海の秘密"
+    },
+    "sourceNote": "原著は1964年11月に英国で刊行、マープルもの長編第9作であることをWikipedia日本語版で確認した。邦訳は永井淳訳のハヤカワ文庫版(2003年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nejireta-ie",
+    "title": "ねじれた家",
+    "titleKana": "ねじれたいえ",
+    "originalTitle": "Crooked House",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tamura-ryuichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "kazoku",
+      "yakata-mono"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1949,
+    "jpPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "大邸宅で三世代が同居する一族の当主が、薬のすり替えによって毒殺される。犯行が可能だったのは家の中にいた者だけ。婚約者の娘を通してこの家に関わることになった語り手が、身内同士の疑いのなかに置かれる。著者自身が愛着を語った一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ねじれた家"
+    },
+    "sourceNote": "原著は1949年刊。原題はマザー・グースの童謡 There was a crooked man の歌詞に由来することをWikipedia日本語版で確認した。ポアロもマープルも登場しないノンシリーズ作品のためdetectiveIdsは空にしている。邦訳は田村隆一訳のハヤカワ文庫版(2004年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mujitsu-wa-sainamu",
+    "title": "無実はさいなむ",
+    "titleKana": "むじつはさいなむ",
+    "originalTitle": "Ordeal by Innocence",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ogasawara-toyoki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1957,
+    "jpPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "義母殺しの容疑で逮捕され、獄中で死んだ青年がいた。その無実を晴らそうと、アリバイを証明できるという地理学者が遺族の屋敷を訪ねる。しかし遺族が返したのは感謝ではなかった。無実の証明が誰かを追い詰めるという構図を描く長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/無実はさいなむ"
+    },
+    "sourceNote": "原著の発表年はWikipedia日本語版の記述に従い1957年とした。ポアロもマープルも登場しないノンシリーズ作品のためdetectiveIdsは空にしている。邦訳は小笠原豊樹訳のハヤカワ文庫版(2004年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ugoku-yubi",
+    "title": "動く指",
+    "titleKana": "うごくゆび",
+    "originalTitle": "The Moving Finger",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "takahashi-yutaka"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1942,
+    "jpPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "静かな田舎町に、差出人のない中傷の手紙が次々と配られる。根も葉もない内容だと誰もが分かっていたのに、受け取った女性のひとりが命を絶ってしまう。療養のため町に滞在していた兄妹の目を通して、噂の毒が広がっていく様子が描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/動く指"
+    },
+    "sourceNote": "原著は1942年刊、マープルもの長編第3作。著者自身がお気に入りに挙げた10作の一つであることをWikipedia日本語版で確認した。邦訳は高橋豊訳のハヤカワ文庫版(2004年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

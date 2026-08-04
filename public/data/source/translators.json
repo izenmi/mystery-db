@@ -348,5 +348,61 @@
     "description": "小説家・翻訳者。クリスティー作品をはじめとする英米ミステリを訳した。",
     "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nagano-kiyomi",
+    "name": "長野きよみ",
+    "nameKana": "ながのきよみ",
+    "description": "英米文学の翻訳者。クリスティー作品の邦訳を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fukushima-masami",
+    "name": "福島正実",
+    "nameKana": "ふくしままさみ",
+    "description": "SF作家・翻訳者・編集者。『SFマガジン』初代編集長を務め、英米のミステリ・SFを数多く訳した。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tanaka-kazue",
+    "name": "田中一江",
+    "nameKana": "たなかかずえ",
+    "description": "英米文学の翻訳者。クリスティー作品の新訳を担当している。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kawazoe-tomoko",
+    "name": "川副智子",
+    "nameKana": "かわぞえともこ",
+    "description": "英米文学の翻訳者。ミステリ・サスペンスを中心に訳している。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hashimoto-fukuo",
+    "name": "橋本福夫",
+    "nameKana": "はしもとふくお",
+    "description": "英米文学者・翻訳者。クリスティーをはじめとする英米小説を訳した。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nagai-jun",
+    "name": "永井淳",
+    "nameKana": "ながいじゅん",
+    "description": "英米文学の翻訳者。ミステリからエンターテインメント小説まで幅広く訳した。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ogasawara-toyoki",
+    "name": "小笠原豊樹",
+    "nameKana": "おがさわらとよき",
+    "description": "詩人・翻訳者。詩人としては岩田宏の名で知られる。英米・ロシア文学を訳した。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
