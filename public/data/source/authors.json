@@ -1152,5 +1152,89 @@
     },
     "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ross-macdonald",
+    "name": "ロス・マクドナルド",
+    "nameKana": "ろすまくどなるど",
+    "description": "アメリカの推理作家。私立探偵リュウ・アーチャーを主人公とするシリーズで知られ、事件の背後にある家族の歴史を掘り下げる作風によりハードボイルドの領域を広げた。",
+    "birthYear": 1915,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロス・マクドナルド"
+    },
+    "sourceNote": "生年・作風・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "patricia-highsmith",
+    "name": "パトリシア・ハイスミス",
+    "nameKana": "ぱとりしあはいすみす",
+    "description": "アメリカの作家。犯罪を犯す側の心理に寄り添い、罪の意識が希薄な人物を淡々と描く作風で知られる。トム・リプリーを主人公とするシリーズがある。",
+    "birthYear": 1921,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パトリシア・ハイスミス"
+    },
+    "sourceNote": "生年・作風・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dorothy-l-sayers",
+    "name": "ドロシー・L・セイヤーズ",
+    "nameKana": "どろしーえるせいやーず",
+    "description": "イギリスの推理作家・古典学者。貴族の素人探偵ピーター・ウィムジイ卿を主人公とするシリーズで知られ、黄金期を代表する作家の一人。",
+    "birthYear": 1893,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドロシー・L・セイヤーズ"
+    },
+    "sourceNote": "生年・作風・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "christianna-brand",
+    "name": "クリスチアナ・ブランド",
+    "nameKana": "くりすちあなぶらんど",
+    "description": "イギリスの推理作家。黄金時代の後に登場した本格ミステリの書き手で、限られた容疑者のあいだで解決が二転三転する構成を得意とした。コックリル警部ものが知られる。",
+    "birthYear": 1907,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クリスチアナ・ブランド"
+    },
+    "sourceNote": "生年・作風・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "helen-mccloy",
+    "name": "ヘレン・マクロイ",
+    "nameKana": "へれんまくろい",
+    "description": "アメリカの推理作家。精神科医ベイジル・ウィリングを探偵役に据え、心理学の知見と怪奇的な題材を本格ミステリの枠に落とし込んだ。",
+    "birthYear": 1904,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヘレン・マクロイ"
+    },
+    "sourceNote": "生年・作風・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "james-m-cain",
+    "name": "ジェームズ・M・ケイン",
+    "nameKana": "じぇーむずえむけいん",
+    "description": "アメリカの作家。欲望に流されて犯罪に踏み込む男女を、乾いた語り口で描いた。ハードボイルド・ノワールの源流の一人に数えられる。",
+    "birthYear": 1892,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェームズ・M・ケイン"
+    },
+    "sourceNote": "生年・作風・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "a-a-milne",
+    "name": "A・A・ミルン",
+    "nameKana": "えーえーみるん",
+    "description": "イギリスの作家。『くまのプーさん』の作者として知られるが、推理小説も残しており、そのうちの一作は黄金時代初期の代表作に数えられている。",
+    "birthYear": 1882,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/A・A・ミルン"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

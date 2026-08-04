@@ -56,6 +56,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:38:02.301Z"
   },
+  "akai-yakata-no-himitsu": {
+    "title": "赤い館の秘密",
+    "isbn": "9784488116026",
+    "matchedTitle": "赤い館の秘密【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6026/9784488116026.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:29:44.502Z"
+  },
   "akai-yubi": {
     "title": "赤い指",
     "isbn": "9784062764445",
@@ -1308,6 +1316,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:11:32.067Z"
   },
+  "jezebel-no-shi": {
+    "title": "ジェゼベルの死",
+    "isbn": "9784150730024",
+    "matchedTitle": "ジェゼベルの死",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:29:58.159Z",
+    "note": "著者名表記の揺れで自動取得が一致しなかったため、ハヤカワ・ミステリ文庫版のISBNを直接指定した。"
+  },
   "jikan-no-shuzoku": {
     "title": "時間の習俗",
     "isbn": "9784101109237",
@@ -1898,6 +1915,12 @@
     "resolvedAt": "2026-08-04T07:04:13.261Z",
     "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。"
   },
+  "kurai-kagami-no-naka-ni": {
+    "title": "暗い鏡の中に",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T07:29:42.102Z"
+  },
   "kurayami-no-sasayaki": {
     "title": "暗闇の囁き",
     "isbn": "9784065225141",
@@ -2334,6 +2357,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-04T05:15:57.914Z"
   },
+  "mishiranu-jokyaku": {
+    "title": "見知らぬ乗客",
+    "isbn": null,
+    "matchedTitle": "見知らぬ乗客",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6083/2000005636083.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:29:11.790Z"
+  },
   "misshitsu-no-kagi": {
     "title": "密室の鍵貸します",
     "isbn": "9784334740207",
@@ -2611,6 +2642,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:51:37.139Z",
     "note": "登録したクリスティー文庫・黒原敏行訳〔新訳版〕に手動で合わせた(自動取得では英語学習用版が当たっていた)"
+  },
+  "nine-tailors": {
+    "title": "ナイン・テイラーズ",
+    "isbn": "9784488183103",
+    "matchedTitle": "ナイン・テイラーズ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4881/48818310.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:29:12.946Z"
   },
   "ningen-isu": {
     "title": "人間椅子",
@@ -3527,6 +3566,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:26.134Z"
   },
+  "taiyo-ga-ippai": {
+    "title": "太陽がいっぱい",
+    "isbn": null,
+    "matchedTitle": "太陽がいっぱい",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0494/2000004340494.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:29:08.330Z"
+  },
   "takai-mado": {
     "title": "高い窓",
     "isbn": "9784152095060",
@@ -3735,6 +3782,14 @@
     "coverUrl": "https://c.bookwalker.jp/4060243/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:07.940Z"
+  },
+  "ugoku-hyoteki": {
+    "title": "動く標的",
+    "isbn": "9784488132088",
+    "matchedTitle": "動く標的",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2088/9784488132088.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:29:04.482Z"
   },
   "ugoku-yubi": {
     "title": "動く指",
@@ -3980,6 +4035,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:51:34.641Z",
     "note": "登録した新潮文庫・延原謙訳に手動で合わせた(自動取得では児童向け全集版が当たっていた)"
+  },
+  "yubinhaitatsu-wa-nido": {
+    "title": "郵便配達は二度ベルを鳴らす",
+    "isbn": "9784102142035",
+    "matchedTitle": "郵便配達は二度ベルを鳴らす",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2035/9784102142035.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:29:43.355Z"
   },
   "yugen-to-bisho": {
     "title": "有限と微小のパン",

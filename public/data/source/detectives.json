@@ -834,5 +834,58 @@
     },
     "sourceNote": "人物像は麻耶雄嵩のWikipedia日本語版記事および楽天ブックスの内容紹介で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "lew-archer",
+    "name": "リュウ・アーチャー",
+    "nameKana": "りゅうあーちゃー",
+    "creatorAuthorId": "ross-macdonald",
+    "occupation": "私立探偵",
+    "description": "カリフォルニアを拠点とする私立探偵。依頼された調査をたどるうちに、必ずといっていいほど依頼人の家族が過去に抱えた出来事に行き着く。暴力よりも聞き取りで事件を掘り進める造形が特徴。",
+    "firstAppearanceWorkId": "ugoku-hyoteki",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リュウ・アーチャー"
+    },
+    "sourceNote": "人物像および初登場作が1949年の『動く標的』であることをWikipedia日本語版の著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "peter-wimsey",
+    "name": "ピーター・ウィムジイ卿",
+    "nameKana": "ぴーたーうぃむじいきょう",
+    "creatorAuthorId": "dorothy-l-sayers",
+    "occupation": "貴族の素人探偵",
+    "description": "公爵家の次男として生まれた素人探偵。稀覯本の蒐集や音楽を好む物腰の軽い紳士に見えるが、大戦の従軍経験を引きずってもいる。イギリス黄金期を代表する探偵の一人。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ピーター・ウィムジイ"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の著者記事および楽天ブックスの内容紹介で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inspector-cockrill",
+    "name": "コックリル警部",
+    "nameKana": "こっくりるけいぶ",
+    "creatorAuthorId": "christianna-brand",
+    "occupation": "ケント州警察の警部",
+    "description": "ぼさぼさの白髪に古びた帽子といういでたちの警部。限られた容疑者のあいだで解決を何度も組み替えていく、ブランドの構成を支える探偵役。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クリスチアナ・ブランド"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の著者記事で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "basil-willing",
+    "name": "ベイジル・ウィリング",
+    "nameKana": "べいじるうぃりんぐ",
+    "creatorAuthorId": "helen-mccloy",
+    "occupation": "精神科医。地方検事局の医学顧問",
+    "description": "精神医学を専門とする医師で、捜査機関の顧問を務める。人が語ることと語らないことのずれから事実を組み立てる手つきが持ち味。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヘレン・マクロイ"
+    },
+    "sourceNote": "人物像はWikipedia日本語版の著者記事で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -220,5 +220,16 @@
     },
     "sourceNote": "沿革・刊行レーベルはWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kawade-shobo-shinsha",
+    "name": "河出書房新社",
+    "nameKana": "かわでしょぼうしんしゃ",
+    "description": "1886年創業の河出書房を前身とする出版社。文芸・人文書を中心に刊行し、河出文庫を擁する。",
+    "externalLinks": {
+      "officialUrl": "https://www.kawade.co.jp/"
+    },
+    "sourceNote": "沿革・刊行レーベルはWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

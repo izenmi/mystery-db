@@ -18020,5 +18020,303 @@
     },
     "sourceNote": "原著は2007年刊。邦訳は2009年7月早川書房、訳者はヘレンハルメ美穂ほか。著者記事の作品一覧と楽天ブックスの書誌で確認した。本DB登録済みの『ミレニアム1』『ミレニアム2』に続く三部作の完結編。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ugoku-hyoteki",
+    "title": "動く標的",
+    "titleKana": "うごくひょうてき",
+    "originalTitle": "The Moving Target",
+    "authorIds": [
+      "ross-macdonald"
+    ],
+    "detectiveIds": [
+      "lew-archer"
+    ],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "kaigai-koten",
+      "kazoku"
+    ],
+    "seriesName": "リュウ・アーチャーシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1949,
+    "jpPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "南カリフォルニアの富豪の妻から、失踪した夫を捜してほしいと依頼された私立探偵リュウ・アーチャー。石油で財を成した一族の周囲には、宗教めいた集団や芸能関係者が群がっていた。捜索を進めるほど、この家族が抱えてきたものが露わになる。シリーズ第1作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は1949年刊、リュウ・アーチャーの初登場作であることをWikipedia日本語版の著者記事で確認した。邦訳は田口俊樹訳の東京創元社版(2018年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。1966年に『動く標的』(原題 Harper)として映画化。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "taiyo-ga-ippai",
+    "title": "太陽がいっぱい",
+    "titleKana": "たいようがいっぱい",
+    "originalTitle": "The Talented Mr. Ripley",
+    "authorIds": [
+      "patricia-highsmith"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "saso-suzuo"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "noir",
+      "suspense",
+      "kaigai-koten"
+    ],
+    "seriesName": "リプリーシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1955,
+    "jpPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "遊び暮らす富豪の息子をアメリカへ連れ戻すよう頼まれ、イタリアへ渡ったトム・リプリー。だが彼はその暮らしぶりに強く惹かれ、自分がその立場だったらと考え始める。罪の意識をほとんど持たない主人公を追い続ける、犯罪小説の代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/太陽がいっぱい_(小説)"
+    },
+    "sourceNote": "原著は1955年刊で、同作によりフランス推理小説大賞を受賞している(同賞は本DBのawards.jsonに未登録のため受賞歴には登録していない)。邦訳は佐宗鈴夫訳の河出文庫版(1993年、改版2016年)を採用した(青田勝訳の角川文庫版もある)。いずれも著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mishiranu-jokyaku",
+    "title": "見知らぬ乗客",
+    "titleKana": "みしらぬじょうきゃく",
+    "originalTitle": "Strangers on a Train",
+    "authorIds": [
+      "patricia-highsmith"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "shiraishi-ro"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "noir",
+      "suspense",
+      "kaigai-koten"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1950,
+    "jpPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "列車で乗り合わせた見知らぬ男から、互いに殺したい相手を交換しようと持ちかけられる。冗談として聞き流したはずのその話が、現実になって戻ってくる。著者の長編第1作で、交換殺人という主題を広く知らしめた作品。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は1950年刊で著者の長編処女作。1951年にヒッチコックにより映画化された。邦訳は白石朗訳の河出文庫版(2017年)を採用した(青田勝訳の角川文庫版もある)。いずれも著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nine-tailors",
+    "title": "ナイン・テイラーズ",
+    "titleKana": "ないんているーず",
+    "originalTitle": "The Nine Tailors",
+    "authorIds": [
+      "dorothy-l-sayers"
+    ],
+    "detectiveIds": [
+      "peter-wimsey"
+    ],
+    "translatorIds": [
+      "asaba-sayako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "seriesName": "ピーター・ウィムジイ卿シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "jpPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "大晦日、雪で足止めされたピーター・ウィムジイ卿は、田舎の教会で鳴らされる長大な転座鳴鐘に立ち会う。数か月後、その教会の墓所から、顔をつぶされた見知らぬ男の死体が出てくる。鐘を鳴らす技法そのものが物語の骨格をなす長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は1934年刊であることを著者記事の作品一覧で確認した。邦訳は浅羽莢子訳の東京創元社版(1998年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jezebel-no-shi",
+    "title": "ジェゼベルの死",
+    "titleKana": "じぇぜべるのし",
+    "originalTitle": "Death of Jezebel",
+    "authorIds": [
+      "christianna-brand"
+    ],
+    "detectiveIds": [
+      "inspector-cockrill"
+    ],
+    "translatorIds": [
+      "onchi-mihoko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "misshitsu"
+    ],
+    "seriesName": "コックリル警部シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1948,
+    "jpPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "見本市の余興として上演された騎士劇の最中、塔の上にいた女優が大勢の目の前で絞め殺される。塔に近づけた者はおらず、甲冑姿の騎士たちには誰も顔が見えなかった。コックリル警部が、解決を次々と組み替えながら真相に迫る。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェゼベルの死"
+    },
+    "sourceNote": "原著は1948年刊。『緑は危険』『はなれわざ』と並ぶ著者の代表作で、文藝春秋『東西ミステリーベスト100』の2012年版で24位に選出されていることをWikipedia日本語版で確認した。邦訳は恩地三保子訳の早川書房版(1979年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kurai-kagami-no-naka-ni",
+    "title": "暗い鏡の中に",
+    "titleKana": "くらいかがみのなかに",
+    "originalTitle": "Through a Glass, Darkly",
+    "authorIds": [
+      "helen-mccloy"
+    ],
+    "detectiveIds": [
+      "basil-willing"
+    ],
+    "translatorIds": [
+      "takahashi-yutaka"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "kaiki-gensou"
+    ],
+    "seriesName": "ベイジル・ウィリングシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1950,
+    "jpPublishedYear": 1955,
+    "status": "completed",
+    "synopsis": "女子寄宿学校に赴任した美しい教師が、理由も告げられずに解雇される。同僚たちが口をつぐんだ理由は、彼女とそっくりの姿が同じ時刻に別の場所で目撃されていたことだった。分身の伝承を扱いながら本格ミステリとして着地させる代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は1950年刊。邦訳は高橋豊訳、1955年11月早川書房〈ハヤカワ・ミステリ〉であることを著者記事の作品一覧で確認した(好野理恵訳の『鏡もて見るごとく』もある)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yubinhaitatsu-wa-nido",
+    "title": "郵便配達は二度ベルを鳴らす",
+    "titleKana": "ゆうびんはいたつはにどべるをならす",
+    "originalTitle": "The Postman Always Rings Twice",
+    "authorIds": [
+      "james-m-cain"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "noir",
+      "kaigai-koten",
+      "suspense",
+      "houtei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "jpPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "街道沿いの食堂に流れ着いた男が、そこで働き始め、店主の若い妻と関係を持つ。二人は夫を消すことを考えるようになる。犯罪そのものより、その後に二人を待つものを乾いた文体で描いた著者の第一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/郵便配達は二度ベルを鳴らす"
+    },
+    "sourceNote": "原著は1934年刊で著者の第一作であることをWikipedia日本語版で確認した。邦訳は田口俊樹訳の新潮文庫版(2014年)を採用し、楽天ブックスの書誌で訳者・版元を確認した(池田真紀子訳の光文社古典新訳文庫版もある)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akai-yakata-no-himitsu",
+    "title": "赤い館の秘密",
+    "titleKana": "あかいやかたのひみつ",
+    "originalTitle": "The Red House Mystery",
+    "authorIds": [
+      "a-a-milne"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-junko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "yakata-mono",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1922,
+    "jpPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "カントリーハウス「赤い館」で、主人の兄が撃たれて死んでいるのが見つかり、主人は姿を消していた。たまたま居合わせた青年が友人を助手役に据え、素人探偵として調べを始める。黄金時代初期を代表する一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤い館の秘密"
+    },
+    "sourceNote": "1921年発表、翌1922年に単行本化されたことをWikipedia日本語版で確認し、firstPublishedYearは単行本化の1922年を採用した。邦訳は山田順子訳の創元推理文庫【新訳版】(2019年)を採用し、楽天ブックスの書誌で訳者・版元を確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
