@@ -821,5 +821,18 @@
     },
     "sourceNote": "人物像は横溝正史のWikipedia日本語版記事および楽天ブックス(角川文庫版)の内容紹介で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kizoku-tantei",
+    "name": "貴族探偵",
+    "nameKana": "きぞくたんてい",
+    "creatorAuthorId": "maya-yutaka",
+    "occupation": "自称「貴族」。趣味は探偵",
+    "description": "本名も素性も明かさない男。事件現場には現れるが推理は自分でせず、同行する使用人たちに調査も謎解きも任せてしまう。それでいて結論は正確に出るという、探偵役の型そのものをずらした造形になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/貴族探偵シリーズ"
+    },
+    "sourceNote": "人物像は麻耶雄嵩のWikipedia日本語版記事および楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

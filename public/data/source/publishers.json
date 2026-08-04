@@ -209,5 +209,16 @@
     },
     "sourceNote": "創業年・刊行レーベルはWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chuokoron-shinsha",
+    "name": "中央公論新社",
+    "nameKana": "ちゅうおうこうろんしんしゃ",
+    "description": "1886年創業の中央公論社を前身とする出版社。中公文庫・中公新書を擁し、文芸から人文書まで幅広く刊行している。",
+    "externalLinks": {
+      "officialUrl": "https://www.chuko.co.jp/"
+    },
+    "sourceNote": "沿革・刊行レーベルはWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

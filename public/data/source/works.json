@@ -16421,5 +16421,522 @@
     },
     "sourceNote": "『小説現代』2013年11月号〜2014年12月号連載、2015年5月講談社刊、2017年3月講談社文庫。第37回吉川英治文学新人賞候補作(候補は本DBの方針により受賞歴に登録しない)。2017年にテレビドラマ化。Wikipedia日本語版で確認した。同題の別書籍があるため、表紙取得時の誤マッチに注意が必要。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jikan-no-shuzoku",
+    "title": "時間の習俗",
+    "titleKana": "じかんのしゅうぞく",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "honkaku",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1962,
+    "status": "completed",
+    "synopsis": "相模湖畔で男の絞殺死体が見つかる。容疑者と目された人物には、九州で撮影された写真という動かしがたいアリバイがあった。『点と線』の三原警部補と鳥飼刑事が再び組み、時刻表と写真が支える証明を一枚ずつ剥がしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時間の習俗"
+    },
+    "sourceNote": "雑誌『旅』1961年5月号〜1962年11月号連載、1962年11月光文社カッパ・ノベルスより刊行。『点と線』の三原警部補・鳥飼刑事が再登場する点をWikipedia日本語版で確認した。両名は本DBに探偵エンティティとして未登録のためdetectiveIdsは空にしている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kuroi-fukuin",
+    "title": "黒い福音",
+    "titleKana": "くろいふくいん",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoron-shinsha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "sengo-nihon",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "外国航空会社のスチュワーデスが遺体で見つかる。捜査線上には来日していた外国人神父が浮かぶが、教会と国際関係の壁に阻まれて捜査は思うように進まない。実際に起きた事件を下敷きに、組織に阻まれる捜査を描いた長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒い福音"
+    },
+    "sourceNote": "『週刊コウロン』1959年11月3日号〜1960年10月25日号連載、1961年11月中央公論社刊。1959年3月のBOACスチュワーデス殺人事件をもとにした作品であることをWikipedia日本語版で確認した。publisherは現在の社名である中央公論新社で登録している。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "giwaku-seicho",
+    "title": "疑惑",
+    "titleKana": "ぎわく",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shakaiha",
+      "houtei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "車ごと海に転落した夫が死に、同乗していた妻だけが助かった。前科があり評判の悪い妻に世間の非難が集まり、保険金目当ての殺人だと決めつけられていく。引き受け手のない弁護を担うことになった女性弁護士の目から、報道と裁判が描かれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/疑惑_(松本清張)"
+    },
+    "sourceNote": "「昇る足音」の題で『オール讀物』1982年2月号に掲載され、改題のうえ1982年3月に文藝春秋から中編「不運な名前」を併録して刊行。1982年に松竹系で映画化、これまでに5回テレビドラマ化されていることをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jumanbun-no-ichi-no-guzen",
+    "title": "十万分の一の偶然",
+    "titleKana": "じゅうまんぶんのいちのぐうぜん",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "高速道路の多重衝突事故を捉えた一枚の報道写真が、大きな賞を受ける。あまりに決定的なその構図に、事故で兄を失った男が疑いを抱く。偶然の一瞬を撮ったとされる写真をめぐって、報道の在り方そのものが問われていく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十万分の一の偶然"
+    },
+    "sourceNote": "『週刊文春』1980年3月20日号〜1981年2月26日号連載、1981年7月文藝春秋刊。Wikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nomen-satsujin-jiken",
+    "title": "能面殺人事件",
+    "titleKana": "のうめんさつじんじけん",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "kazoku",
+      "kaiki-gensou",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1951,
+    "status": "completed",
+    "synopsis": "旧家に代々伝わる能面にまつわる因縁を背景に、一族が次々と毒殺されていく。事件は関係者の手記という形で読者に提示され、記述そのものが手がかりであり同時に罠にもなる。著者の長編第2作にして、ノンシリーズの代表作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1950,
+        "result": "第3回受賞(当時の名称は探偵作家クラブ賞長編賞)"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/能面殺人事件"
+    },
+    "sourceNote": "1951年岩谷書店刊。著者の長編第2作で、第3回探偵作家クラブ長編賞(現在の日本推理作家協会賞)を受賞したことを著者記事で確認した。受賞年は第3回の実施年である1950年としている。publisherは版元が現存しないため、現在流通している角川文庫版に合わせた(春陽文庫・双葉文庫版もある)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "genghis-khan-no-himitsu",
+    "title": "成吉思汗の秘密",
+    "titleKana": "じんぎすかんのひみつ",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [
+      "kamizu-kyosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "jidai-mystery"
+    ],
+    "seriesName": "神津恭介シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "病床に伏した神津恭介が、退屈しのぎに取り組んだのは源義経とジンギスカンが同一人物だったという説の検証だった。史料だけを手がかりに、動かないまま歴史上の謎を推理していく。安楽椅子探偵ものの日本における代表例。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/成吉思汗の秘密"
+    },
+    "sourceNote": "1958年光文社刊、のち角川文庫・光文社文庫・ハルキ文庫。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hakuchu-no-shikaku",
+    "title": "白昼の死角",
+    "titleKana": "はくちゅうのしかく",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "noir",
+      "shakaiha",
+      "sengo-nihon",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1960,
+    "status": "completed",
+    "synopsis": "戦後の混乱期、法の抜け穴を突く手形詐欺で荒稼ぎする学生グループが現れる。頭脳だけを武器に社会の隙間を渡り歩く主人公は、捕まらないことにこだわり続ける。犯罪の側から戦後日本を描いた長編で、著者の代表作の一つ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白昼の死角"
+    },
+    "sourceNote": "『週刊スリラー』1959年5月1日〜1960年4月22日連載(連載時の題は『黄金の死角』)、1960年光文社カッパ・ノベルス刊。1979年に映画化・テレビドラマ化(1963年版のドラマもある)されたことをWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hakai-saiban",
+    "title": "破戒裁判",
+    "titleKana": "はかいさいばん",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "houtei",
+      "honkaku",
+      "shakaiha",
+      "sengo-nihon"
+    ],
+    "seriesName": "百谷泉一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "状況証拠がそろい、有罪はほぼ動かないと見られていた被告の弁護を、百谷泉一郎弁護士が引き受ける。法廷でひとつずつ前提を崩していく過程そのものが謎解きになっている、日本の法廷ミステリの代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/破戒裁判"
+    },
+    "sourceNote": "1961年東都書房刊、のち角川文庫・光文社文庫。百谷泉一郎弁護士シリーズの代表作であることをWikipedia日本語版で確認した。publisherは版元が現存しないため、現在流通している光文社文庫版に合わせた。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yuki-misshitsu",
+    "title": "雪密室",
+    "titleKana": "ゆきみっしつ",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "detectiveIds": [
+      "norizuki-detective"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "misshitsu",
+      "meitantei",
+      "yakata-mono"
+    ],
+    "seriesName": "法月綸太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "雪の山荘に招かれた法月警視が居合わせるなか、離れで殺人が起こる。部屋は施錠され、雪の上には犯人が出入りした足跡がない。鍵と雪という二重の密室を、警視の父と作家の息子が別々の角度から崩しにかかる。シリーズ第2作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1989年4月講談社ノベルス刊、1992年3月講談社文庫、2023年2月講談社文庫【新装版】。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tasogare-norizuki",
+    "title": "誰彼",
+    "titleKana": "たそがれ",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "detectiveIds": [
+      "norizuki-detective"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "seriesName": "法月綸太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "新興宗教の教団施設で、教祖が首を切断された姿で発見される。なぜ首が奪われたのか、その一点をめぐって解釈が二転三転していく。名探偵が推理の責任にどう向き合うかという、後の作品につながる主題が現れたシリーズ第3作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1989年10月講談社ノベルス刊、1992年9月講談社文庫、2021年1月講談社文庫【新装版】。刊行情報は著者記事の著作一覧で確認した。作品単独のWikipedia記事はなく(同名のゲーム作品の記事のみ)、楽天ブックスにも内容紹介がなかったため、あらすじは作品の基本設定にとどめている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ichi-no-higeki",
+    "title": "一の悲劇",
+    "titleKana": "いちのひげき",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "detectiveIds": [
+      "norizuki-detective"
+    ],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "kazoku",
+      "suspense"
+    ],
+    "seriesName": "法月綸太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "誘拐された少年は、犯人が狙った子ではなかった。取り違えられて命を落としたのは、同級生の子どもだったのだ。「あなたが私の息子を殺したのよ」と責められた父親の視点から、誤認誘拐が残したものが語られていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1991年4月祥伝社ノン・ノベル刊、1996年7月ノン・ポシェット、2022年4月祥伝社文庫【新装版】。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "king-o-sagase",
+    "title": "キングを探せ",
+    "titleKana": "きんぐをさがせ",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "detectiveIds": [
+      "norizuki-detective"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "honkaku",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "法月綸太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "繁華街のカラオケボックスに集まった四人の男は、それぞれ別の相手に殺意を抱えていた。動機からたどられないよう標的を交換する。トランプで役割を決めた四人による交換殺人が動き出し、法月綸太郎がその構造に挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "2011年12月講談社刊、2013年12月講談社ノベルス、2015年9月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "karasu-maya",
+    "title": "鴉",
+    "titleKana": "からす",
+    "authorIds": [
+      "maya-yutaka"
+    ],
+    "detectiveIds": [
+      "mercator-ayu"
+    ],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "kaiki-gensou",
+      "youkai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "外部との行き来が乏しい山間の村。独自の信仰と掟が生きるその土地で起きた事件に、銘探偵メルカトル鮎が乗り込んでいく。土着の伝承と論理が正面からぶつかる、著者の代表作の一つ。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 1998,
+        "result": "第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鴉_(麻耶雄嵩)"
+    },
+    "sourceNote": "1997年9月幻冬舎刊、1999年4月幻冬舎ノベルス、2000年10月幻冬舎文庫。1998年度の「本格ミステリ・ベスト10」(東京創元社)第1位をWikipedia日本語版で確認した。著者記事の著作一覧でメルカトル鮎シリーズであることを確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kamisama-game",
+    "title": "神様ゲーム",
+    "titleKana": "かみさまげーむ",
+    "authorIds": [
+      "maya-yutaka"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "tokushu-settei",
+      "seishun",
+      "honkaku",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "神降市で猫が次々に殺される事件が起こる。芳雄の憧れる同級生の愛猫も犠牲になった。そこへ現れた転校生は自らを「神様」と名乗り、犯人の名を言い当ててみせる。子ども向けの叢書として書かれながら、容赦のない結末で知られる一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神様ゲーム_(麻耶雄嵩)"
+    },
+    "sourceNote": "2005年7月講談社〈ミステリーランド〉刊、2012年5月講談社ノベルス、2015年7月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kizoku-tantei-maya",
+    "title": "貴族探偵",
+    "titleKana": "きぞくたんてい",
+    "authorIds": [
+      "maya-yutaka"
+    ],
+    "detectiveIds": [
+      "kizoku-tantei"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "tanpenshu",
+      "honkaku"
+    ],
+    "seriesName": "貴族探偵シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "自称「貴族」で趣味は「探偵」という男が、事件現場に悠然と現れる。ただし調査も推理も本人はやらず、連れてきた使用人たちに任せてしまう。それでも答えは出る。探偵の役割を分解してみせる連作短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/貴族探偵シリーズ"
+    },
+    "sourceNote": "2010年5月集英社刊、2013年10月集英社文庫。2017年にテレビドラマ化。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

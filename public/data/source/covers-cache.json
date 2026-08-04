@@ -657,6 +657,14 @@
     "resolvedAt": "2026-08-04T04:04:12.406Z",
     "note": "書影は創元推理文庫版。タイトルの副題(Yの悲劇'88)が書誌側にないため自動取得では解決できなかった。"
   },
+  "genghis-khan-no-himitsu": {
+    "title": "成吉思汗の秘密",
+    "isbn": "9784334738617",
+    "matchedTitle": "成吉思汗の秘密　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3347/33473861.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:45.123Z"
+  },
   "genocide": {
     "title": "ジェノサイド",
     "isbn": "9784041172483",
@@ -673,6 +681,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0112/9784062730112.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:57.326Z"
+  },
+  "giwaku-seicho": {
+    "title": "疑惑",
+    "isbn": "9784167697341",
+    "matchedTitle": "疑惑",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7341/9784167697341.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:26.373Z"
   },
   "glass-key": {
     "title": "ガラスの鍵",
@@ -786,6 +802,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:46.201Z"
   },
+  "hakai-saiban": {
+    "title": "破戒裁判",
+    "isbn": null,
+    "matchedTitle": "破戒裁判",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8120/2000000128120.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:13:50.556Z"
+  },
   "hakanai-hitsuji": {
     "title": "儚い羊たちの祝宴",
     "isbn": "9784101287829",
@@ -834,6 +858,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0201/9784151310201_1_6.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:32:01.713Z"
+  },
+  "hakuchu-no-shikaku": {
+    "title": "白昼の死角",
+    "isbn": "9784334739263",
+    "matchedTitle": "白昼の死角",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9263/9784334739263_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:47.112Z"
   },
   "halloween-party": {
     "title": "ハロウィーン・パーティ",
@@ -1080,6 +1112,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:17.974Z"
   },
+  "ichi-no-higeki": {
+    "title": "一の悲劇",
+    "isbn": "9784396325145",
+    "matchedTitle": "一の悲劇",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5145/9784396325145.gif?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:56.291Z"
+  },
   "ihou-no-kishi": {
     "title": "異邦の騎士",
     "isbn": "9784062637701",
@@ -1211,6 +1251,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:11:32.067Z"
   },
+  "jikan-no-shuzoku": {
+    "title": "時間の習俗",
+    "isbn": "9784101109237",
+    "matchedTitle": "時間の習俗",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9237/9784101109237.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:22.921Z"
+  },
   "jiku-ryokosha": {
     "title": "時空旅行者の砂時計",
     "isbn": "9784488499211",
@@ -1266,6 +1314,15 @@
     "coverUrl": "https://c.bookwalker.jp/662671/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:43.412Z"
+  },
+  "jumanbun-no-ichi-no-guzen": {
+    "title": "十万分の一の偶然",
+    "isbn": "9784165080503",
+    "matchedTitle": "松本清張全集 第43巻 告訴せず 十万分の一の偶然",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0503/9784165080503.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:27.533Z",
+    "note": "楽天ブックスに文春文庫版の書誌がなく、『松本清張全集 第43巻』(「告訴せず」を併録)の書影を採用している。作品としては同一だが単著の表紙ではない。"
   },
   "juryoku-pierrot": {
     "title": "重力ピエロ",
@@ -1356,6 +1413,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:36:09.332Z"
   },
+  "kamisama-game": {
+    "title": "神様ゲーム",
+    "isbn": "9784062930819",
+    "matchedTitle": "神様ゲーム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0819/9784062930819_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:14:00.898Z"
+  },
   "kanashimi-no-irene": {
     "title": "悲しみのイレーヌ",
     "isbn": "9784167904807",
@@ -1371,6 +1436,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6804/9784062936804.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:27:35.910Z"
+  },
+  "karasu-maya": {
+    "title": "鴉",
+    "isbn": "9784344400368",
+    "matchedTitle": "鴉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3444/34440036.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:59.752Z"
   },
   "karasu-no-oyayubi": {
     "title": "カラスの親指",
@@ -1490,6 +1563,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:29:09.237Z"
   },
+  "king-o-sagase": {
+    "title": "キングを探せ",
+    "isbn": "9784062931823",
+    "matchedTitle": "キングを探せ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1823/9784062931823.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:57.433Z"
+  },
   "kiri-no-hata": {
     "title": "霧の旗",
     "isbn": "9784101109206",
@@ -1529,6 +1610,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0345/9784334110345_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:47:11.233Z"
+  },
+  "kizoku-tantei-maya": {
+    "title": "貴族探偵",
+    "isbn": "9784087451269",
+    "matchedTitle": "貴族探偵",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1269/9784087451269_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:14:02.057Z"
   },
   "koi-to-kinki": {
     "title": "恋と禁忌の述語論理",
@@ -1701,6 +1790,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7633/9784065227633.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:47:05.479Z"
+  },
+  "kuroi-fukuin": {
+    "title": "黒い福音",
+    "isbn": "9784101109138",
+    "matchedTitle": "黒い福音",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10110913.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:24.075Z"
   },
   "kuroi-trunk": {
     "title": "黒いトランク",
@@ -2407,6 +2504,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5858/9784062735858.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:37:52.997Z"
+  },
+  "nomen-satsujin-jiken": {
+    "title": "能面殺人事件",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T07:13:43.823Z"
   },
   "nue-no-ishibumi": {
     "title": "鵼の碑",
@@ -3236,6 +3339,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:46:41.923Z"
   },
+  "tasogare-norizuki": {
+    "title": "誰彼",
+    "isbn": null,
+    "matchedTitle": "誰彼　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8815/2000009308815.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T07:13:55.160Z"
+  },
   "tegami": {
     "title": "手紙",
     "isbn": "9784167110116",
@@ -3642,6 +3753,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:54.113Z",
     "note": "登録は原書房(単行本)だが書影は講談社文庫版。作品は同一。"
+  },
+  "yuki-misshitsu": {
+    "title": "雪密室",
+    "isbn": "9784065311301",
+    "matchedTitle": "雪密室　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1301/9784065311301_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T07:13:51.703Z"
   },
   "yume-deai-masho": {
     "title": "夢・出逢い・魔性",
