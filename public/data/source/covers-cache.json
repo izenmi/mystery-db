@@ -78,6 +78,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:32.558Z"
   },
+  "akuryoto": {
+    "title": "悪霊島",
+    "isbn": "9784041304679",
+    "matchedTitle": "悪霊島（上） 金田一耕助ファイル19",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4679/9784041304679_1_10.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:53:04.345Z",
+    "note": "自動取得が角川文庫版の下巻(9784041304686)を拾ったため上巻に差し替えた。"
+  },
   "alibi-kuzushi": {
     "title": "アリバイ崩し承ります",
     "isbn": "9784408555485",
@@ -144,6 +153,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4822/9784480804822_1_10.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:27:27.853Z"
+  },
+  "bikkuribako-satsujin": {
+    "title": "びっくり箱殺人事件",
+    "isbn": "9784041123522",
+    "matchedTitle": "びっくり箱殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3522/9784041123522_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:33.842Z"
   },
   "bikkurikan": {
     "title": "びっくり館の殺人",
@@ -269,6 +286,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8717/9784163908717.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:29:08.093Z"
+  },
+  "chocho-satsujin-jiken": {
+    "title": "蝶々殺人事件",
+    "isbn": "9784041092972",
+    "matchedTitle": "蝶々殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2972/9784041092972_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:53:04.165Z",
+    "note": "自動取得が柏書房『横溝正史ミステリ短篇コレクション』(同題の短篇集)を拾ったため、長編単体の角川文庫版に差し替えた。"
   },
   "chojin-keikaku": {
     "title": "鳥人計画",
@@ -704,6 +730,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:32:01.713Z"
   },
+  "hanadokuro": {
+    "title": "花髑髏",
+    "isbn": "9784041096130",
+    "matchedTitle": "花髑髏",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6130/9784041096130_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:30.382Z"
+  },
   "hanochi": {
     "title": "半落ち",
     "isbn": "9784062751940",
@@ -858,6 +892,38 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2499/9784334912499.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:26.145Z"
+  },
+  "hyakki-tsurezurebukuro-ame": {
+    "title": "百器徒然袋――雨",
+    "isbn": "9784062751803",
+    "matchedTitle": "文庫版　百器徒然袋　雨",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1803/9784062751803.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:22.326Z"
+  },
+  "hyakki-tsurezurebukuro-kaze": {
+    "title": "百器徒然袋――風",
+    "isbn": "9784062758628",
+    "matchedTitle": "文庫版　百器徒然袋　風",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8628/9784062758628.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:24.634Z"
+  },
+  "hyakkiyako-in": {
+    "title": "百鬼夜行――陰",
+    "isbn": "9784062748520",
+    "matchedTitle": "文庫版　百鬼夜行　陰",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0627/06274852.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:21.173Z"
+  },
+  "hyakkiyako-yo": {
+    "title": "百鬼夜行――陽",
+    "isbn": "9784167902735",
+    "matchedTitle": "定本 百鬼夜行 陽",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2735/9784167902735.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:25.788Z"
   },
   "hyoka": {
     "title": "氷菓",
@@ -1127,6 +1193,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-04T03:50:47.061Z"
   },
+  "kamen-butokai": {
+    "title": "仮面舞踏会",
+    "isbn": "9784041304389",
+    "matchedTitle": "仮面舞踏会 金田一耕助ファイル17",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4389/9784041304389_1_12.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:36.183Z"
+  },
   "kamen-sanso": {
     "title": "仮面山荘殺人事件",
     "isbn": "9784065357286",
@@ -1332,6 +1406,30 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:21.745Z",
     "note": "登録は角川文庫だが書影は河出書房新社版。作品は同一。"
+  },
+  "konjaku-hyakki-shui-kappa": {
+    "title": "今昔百鬼拾遺 河童",
+    "isbn": "9784041080450",
+    "matchedTitle": "今昔百鬼拾遺　河童",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0450/9784041080450_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:26.940Z"
+  },
+  "konjaku-hyakki-shui-tengu": {
+    "title": "今昔百鬼拾遺 天狗",
+    "isbn": "9784101353531",
+    "matchedTitle": "今昔百鬼拾遺 天狗",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3531/9784101353531.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:28.068Z"
+  },
+  "konjaku-zoku-hyakki-kumo": {
+    "title": "今昔続百鬼――雲",
+    "isbn": "9784062754200",
+    "matchedTitle": "文庫版　今昔続百鬼　雲",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4200/9784062754200.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:23.478Z"
   },
   "konoyo-no-hate": {
     "title": "此の世の果ての殺人",
@@ -2048,6 +2146,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:37:52.997Z"
   },
+  "nue-no-ishibumi": {
+    "title": "鵼の碑",
+    "isbn": "9784065362433",
+    "matchedTitle": "文庫版　鵼の碑",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2433/9784065362433_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:20.022Z"
+  },
+  "nuribotoke-no-utage-shimatsu": {
+    "title": "塗仏の宴 宴の始末",
+    "isbn": "9784062738590",
+    "matchedTitle": "文庫版　塗仏の宴　宴の始末",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8590/9784062738590.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:18.872Z"
+  },
   "nuribotoke-shitaku": {
     "title": "塗仏の宴 宴の支度",
     "isbn": "9784062738385",
@@ -2469,6 +2583,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6986/9784334766986_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:26.799Z"
+  },
+  "shinjuro": {
+    "title": "真珠郎",
+    "isbn": "9784041070178",
+    "matchedTitle": "真珠郎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0178/9784041070178_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:29.222Z"
   },
   "shinri-shiken": {
     "title": "心理試験",
@@ -3101,6 +3223,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8112/9784062938112_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:43.532Z"
+  },
+  "yoru-aruku": {
+    "title": "夜歩く",
+    "isbn": "9784041304075",
+    "matchedTitle": "夜歩く 金田一耕助ファイル　7",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4075/9784041304075_1_22.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:52:32.693Z"
   },
   "yoru-no-picnic": {
     "title": "夜のピクニック",

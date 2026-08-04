@@ -14256,5 +14256,568 @@
     "externalLinks": {},
     "sourceNote": "1985年1月光文社刊。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nuribotoke-no-utage-shimatsu",
+    "title": "塗仏の宴 宴の始末",
+    "titleKana": "ぬりぼとけのうたげうたげのしまつ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "youkai",
+      "kaiki-gensou",
+      "honkaku",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "『宴の支度』で並べられた無数の糸が、ここで一本にまとめられる。長きにわたって仕組まれてきたものの正体を前に、京極堂は覚悟を決めて憑き物落としに臨む。シリーズ最大の分量を持つ二部構成の後編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/塗仏の宴_宴の始末"
+    },
+    "sourceNote": "1998年9月講談社ノベルス刊。著者記事の百鬼夜行シリーズ一覧と楽天ブックスの内容紹介で確認した。本DB登録済みの『塗仏の宴 宴の支度』の後編にあたる。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nue-no-ishibumi",
+    "title": "鵼の碑",
+    "titleKana": "ぬえのいしぶみ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "chuzenji-akihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "youkai",
+      "kaiki-gensou",
+      "honkaku",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "殺人の記憶を持つと語る娘に惑わされる作家、消えた三つの他殺体を追う刑事、妖しい光に翻弄される学僧、失踪者を捜し続ける探偵。日光を舞台に、まったく別々に見える四つの筋がゆっくりと寄り集まっていく。十七年ぶりのシリーズ長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鵼の碑"
+    },
+    "sourceNote": "2023年9月講談社ノベルス・単行本として刊行。著者記事の百鬼夜行シリーズ一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hyakkiyako-in",
+    "title": "百鬼夜行――陰",
+    "titleKana": "ひゃっきやこういん",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "youkai",
+      "kaiki-gensou",
+      "tanpenshu",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "本編に脇役として現れた人物たちを、それぞれ一人ずつ主役に据えた短編集。揺るぎないはずの日常に裂け目が入り、そこから何かが染み出してくる瞬間を切り取る。事件の裏側にいた者たちの内側が語られるスピンオフ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/百鬼夜行――陰"
+    },
+    "sourceNote": "1999年7月講談社ノベルス刊。著者記事の百鬼夜行シリーズ一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hyakki-tsurezurebukuro-ame",
+    "title": "百器徒然袋――雨",
+    "titleKana": "ひゃっきつれづれぶくろあめ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "enokizu-reijiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "youkai",
+      "meitantei",
+      "tanpenshu",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "神保町の薔薇十字探偵社を訪ねた「僕」は、推理をしないという評判の探偵・榎木津礼二郎に振り回されるうち、依頼人であるはずの自分まで騒動の当事者にされてしまう。榎木津を主役に据えた3つの中編を収める。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/百器徒然袋――雨"
+    },
+    "sourceNote": "1999年11月講談社ノベルス刊。著者記事の百鬼夜行シリーズ一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "konjaku-zoku-hyakki-kumo",
+    "title": "今昔続百鬼――雲",
+    "titleKana": "こんじゃくぞくひゃっきくも",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "youkai",
+      "kaiki-gensou",
+      "tanpenshu",
+      "rensaku-tanpen"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "妖怪研究家の多々良勝五郎とその同行者が、各地の言い伝えを訪ね歩く連作。岸涯小僧、泥田坊、手の目、古庫裏婆。土地に残る妖怪の名を手がかりに現地へ赴くたび、その土地で起きている現実の出来事に行き当たってしまう。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今昔続百鬼――雲"
+    },
+    "sourceNote": "2001年11月講談社ノベルス刊。収録作は「岸涯小僧」「泥田坊」「手の目」「古庫裏婆」と、その間に置かれた「多々良先生行状記」。著者記事の百鬼夜行シリーズ一覧と楽天ブックスの目次で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hyakki-tsurezurebukuro-kaze",
+    "title": "百器徒然袋――風",
+    "titleKana": "ひゃっきつれづれぶくろかぜ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [
+      "enokizu-reijiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "youkai",
+      "meitantei",
+      "tanpenshu",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "調査も捜査も推理もしない天下無敵の探偵・榎木津礼二郎と、過去の事件がもとで彼の「下僕」となってしまった「僕」。厄介ごとを持ち込まれるたび、榎木津は誰も予想しない方向へ話を転がしていく。『雨』に続く中編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/百器徒然袋――風"
+    },
+    "sourceNote": "2004年7月講談社ノベルス刊。著者記事の百鬼夜行シリーズ一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hyakkiyako-yo",
+    "title": "百鬼夜行――陽",
+    "titleKana": "ひゃっきやこうよう",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "youkai",
+      "kaiki-gensou",
+      "tanpenshu",
+      "sengo-nihon"
+    ],
+    "seriesName": "百鬼夜行シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "シリーズを彩ってきた男たち女たちの過去と因縁を、一編ずつ「妖しのもの」として語り直す短編集。本編では触れられなかった来歴が明かされることで、既読の事件の見え方が少しずつ変わっていく。『陰』の続編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/百鬼夜行――陽"
+    },
+    "sourceNote": "2012年3月文藝春秋刊。著者記事の百鬼夜行シリーズ一覧で刊行年月を、楽天ブックスの書誌で版元を確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "konjaku-hyakki-shui-kappa",
+    "title": "今昔百鬼拾遺 河童",
+    "titleKana": "こんじゃくひゃっきしゅういかっぱ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "youkai",
+      "kaiki-gensou",
+      "honkaku",
+      "sengo-nihon"
+    ],
+    "seriesName": "今昔百鬼拾遺シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "昭和29年夏、複雑に蛇行する夷隅川の流域で、水にまつわる不可解な死が続く。河童の仕業だという声が上がるなか、問われるべきなのは「その河童とは誰なのか」だった。百鬼夜行シリーズの番外編にあたる長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今昔百鬼拾遺_(小説シリーズ)"
+    },
+    "sourceNote": "2019年5月角川文庫より刊行。著者記事のシリーズ一覧と楽天ブックスの書誌・内容紹介で確認した。主役は中禅寺秋彦ではないためdetectiveIdsは空にしている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "konjaku-hyakki-shui-tengu",
+    "title": "今昔百鬼拾遺 天狗",
+    "titleKana": "こんじゃくひゃっきしゅういてんぐ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "youkai",
+      "kaiki-gensou",
+      "honkaku",
+      "sengo-nihon"
+    ],
+    "seriesName": "今昔百鬼拾遺シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "昭和29年8月、高尾山中で一人の女性が消息を絶つ。二か月後、群馬県の山中で見つかった遺体は、なぜか彼女の衣服をまとっていた。天狗にさらわれたという言い伝えが囁かれるなか、事実だけを頼りに真相へ迫っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/今昔百鬼拾遺_(小説シリーズ)"
+    },
+    "sourceNote": "2019年6月新潮文庫より刊行。著者記事のシリーズ一覧と楽天ブックスの書誌・内容紹介で確認した。主役は中禅寺秋彦ではないためdetectiveIdsは空にしている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinjuro",
+    "title": "真珠郎",
+    "titleKana": "しんじゅろう",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "yuri-rintaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "由利麟太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1936,
+    "status": "completed",
+    "synopsis": "浅間山麓の別荘地で、美しい少年「真珠郎」の噂が囁かれる。刃物を手にしたその姿を見た者は、無事では済まないという。霧の立ちこめる高原を舞台に、由利麟太郎が怪奇な連続殺人に挑む戦前の代表作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真珠郎"
+    },
+    "sourceNote": "『新青年』1936年10月号〜1937年2月号連載。firstPublishedYearは初出年を採用した。publisherは現在広く流通している角川文庫版に合わせている。著者記事の作品一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hanadokuro",
+    "title": "花髑髏",
+    "titleKana": "はなどくろ",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "yuri-rintaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "由利麟太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1937,
+    "status": "completed",
+    "synopsis": "由利先生のもとに、差出人の分からない手紙が届く。それは殺人の予告だった。指定された場所へ急いだ彼が目にしたのは、裂け目から血の滴る箱。予告どおりに進む犯行を、由利麟太郎と三津木俊助が追う。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/花髑髏"
+    },
+    "sourceNote": "『富士』1937年6月号〜7月号連載。firstPublishedYearは初出年を採用した。publisherは現在流通している角川文庫版に合わせている。著者記事の作品一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chocho-satsujin-jiken",
+    "title": "蝶々殺人事件",
+    "titleKana": "ちょうちょうさつじんじけん",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "yuri-rintaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "misshitsu"
+    ],
+    "seriesName": "由利麟太郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1946,
+    "status": "completed",
+    "synopsis": "人気オペラ歌手が姿を消し、やがて大阪でコントラバスのケースに詰められた遺体として見つかる。死亡推定時刻と移動の可否をめぐって関係者の証言が食い違うなか、由利麟太郎が音楽界の人間関係を解きほぐしていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蝶々殺人事件"
+    },
+    "sourceNote": "『ロック』1946年5月号〜1947年4月号連載。firstPublishedYearは初出年を採用した。『本陣殺人事件』と並行して書かれた本格長編。publisherは現在流通している角川文庫版に合わせている。著者記事の作品一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yoru-aruku",
+    "title": "夜歩く",
+    "titleKana": "よるあるく",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kaiki-gensou",
+      "kazoku"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1948,
+    "status": "completed",
+    "synopsis": "旧家・古神家の令嬢のもとに「我、近く汝のもとに赴きて結婚せん」という奇妙な手紙と、佝僂の男を写した写真が届く。それを発端に一族を陰惨な事件が襲う。金田一耕助が挑む、大胆な仕掛けで知られる長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夜歩く"
+    },
+    "sourceNote": "『男女』(『大衆小説界』)1948年2月号〜1949年12月号連載。firstPublishedYearは初出年を採用した。publisherは現在流通している角川文庫版に合わせている。著者記事の作品一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bikkuribako-satsujin",
+    "title": "びっくり箱殺人事件",
+    "titleKana": "びっくりばこさつじんじけん",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "sengo-nihon"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1948,
+    "status": "completed",
+    "synopsis": "びっくり箱の蓋がはね上がり、バネ仕掛けの人形のように男が飛び出す。だが男は前のめりに倒れて痙攣し始めた。胸に突き立っていたのは、箱に仕込まれていた凶器だった。金田一耕助ものでは異色の、喜劇仕立ての長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/びっくり箱殺人事件"
+    },
+    "sourceNote": "『月刊読売』1948年1月号〜9月号連載。firstPublishedYearは初出年を採用した。publisherは現在流通している角川文庫版に合わせている。著者記事の作品一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kamen-butokai",
+    "title": "仮面舞踏会",
+    "titleKana": "かめんぶとうかい",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku",
+      "suspense"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1974,
+    "status": "completed",
+    "synopsis": "避暑地・軽井沢の別荘地で、三度の結婚を重ねてきた女優の周囲に不審な死が重なる。複雑に絡み合った家族関係のなかで、誰と誰がどうつながっているのかが見えにくい。金田一耕助が後期に挑んだ大作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/仮面舞踏会_(横溝正史)"
+    },
+    "sourceNote": "『宝石』1962年7月号〜1963年2月号に連載されたが中絶し、1974年に書き下ろしとして完成された。firstPublishedYearは作品として完成・刊行された1974年を採用し、中絶した初出年をこの欄に記す。publisherは現在流通している角川文庫版に合わせている。著者記事の作品一覧で確認した。同題の別作品(ヴェルディの歌劇)が多数あるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akuryoto",
+    "title": "悪霊島",
+    "titleKana": "あくりょうとう",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kotou",
+      "kaiki-gensou",
+      "kazoku"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "額から血膿の吹き出した凄まじい形相の男が「あの島には悪霊がとりついている」と言い残して息絶える。人捜しの依頼で岡山を訪れていた金田一耕助は、瀬戸内に浮かぶ島の因習と、そこで続く死に向き合うことになる。著者最後の長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪霊島"
+    },
+    "sourceNote": "『野性時代』1979年1月号〜1980年5月号連載。横溝正史による最後の長編であることを著者記事で確認した。firstPublishedYearは初出年を採用した。publisherは現在流通している角川文庫版に合わせている。1981年に篠田正浩監督で映画化。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -795,5 +795,31 @@
     },
     "sourceNote": "人物像は島田荘司のWikipedia日本語版記事および楽天ブックスの各作品の内容紹介で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "enokizu-reijiro",
+    "name": "榎木津礼二郎",
+    "nameKana": "えのきづれいじろう",
+    "creatorAuthorId": "kyogoku-natsuhiko",
+    "occupation": "薔薇十字探偵社の探偵",
+    "description": "百鬼夜行シリーズに登場する探偵。人の記憶が視えるという特異な性質を持ち、推理も捜査もしないまま結論だけを口にする。周囲を巻き込んで事態をかき回す振る舞いが、結果として事件の構図を暴いてしまう。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/百鬼夜行シリーズ"
+    },
+    "sourceNote": "人物像は京極夏彦のWikipedia日本語版記事および楽天ブックスの『百器徒然袋』各巻の内容紹介で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yuri-rintaro",
+    "name": "由利麟太郎",
+    "nameKana": "ゆりりんたろう",
+    "creatorAuthorId": "yokomizo-seishi",
+    "occupation": "元警視庁捜査課長の私立探偵",
+    "description": "金田一耕助以前に横溝正史が生み出した探偵。白髪の紳士然とした風貌で、新聞記者の三津木俊助と組んで事件に当たる。戦前の怪奇色の濃い長編で活躍した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/由利麟太郎"
+    },
+    "sourceNote": "人物像は横溝正史のWikipedia日本語版記事および楽天ブックス(角川文庫版)の内容紹介で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
+    "updatedAt": "2026-08-04"
   }
 ]
