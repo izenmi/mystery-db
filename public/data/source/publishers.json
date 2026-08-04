@@ -88,5 +88,16 @@
     "externalLinks": {},
     "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "poplar",
+    "name": "ポプラ社",
+    "nameKana": "ぽぷらしゃ",
+    "description": "児童書・学習書を中心とする出版社。江戸川乱歩の「少年探偵」シリーズを長く刊行し、子ども向けの探偵小説の入口となってきた。",
+    "externalLinks": {
+      "officialUrl": "https://www.poplar.co.jp/"
+    },
+    "sourceNote": "社名・事業内容はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

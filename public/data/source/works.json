@@ -983,5 +983,418 @@
     },
     "sourceNote": "原題 The Long Goodbye、1953年発表。邦訳は清水俊二訳(1958年、早川書房)・村上春樹訳(2007年、早川書房)などがあり、初訳である清水俊二訳を採用した。訳者・出版社・刊行年はWikipedia日本語版の邦訳一覧で確認。1995年のアメリカ探偵作家クラブ「ベスト100」で13位という記述はあるが、作品自体の受賞ではないため受賞歴には登録していない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yatsuhakamura",
+    "title": "八つ墓村",
+    "titleKana": "やつはかむら",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "sengo-nihon",
+      "kazoku",
+      "kaiki-gensou"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1949,
+    "status": "completed",
+    "synopsis": "戦国の落武者殺しと、二十数年前に起きた三十二人殺しの記憶を抱えた山あいの村。神戸で育った青年・寺田辰弥は、自分がその村の旧家の跡取りだと告げられ、迎えられる。だが帰郷を待っていたかのように連続する不審死。鍾乳洞の闇と因習の底へ、金田一耕助が分け入る。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/八つ墓村"
+    },
+    "sourceNote": "『新青年』1949年3月〜1950年3月連載、中断ののち『宝石』1950年11月〜1951年1月に続編を連載して完結。角川文庫版が1971年に刊行され広く流通しているため刊行元は角川書店とした。映画3本・テレビドラマ7作・漫画5作をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inugamike",
+    "title": "犬神家の一族",
+    "titleKana": "いぬがみけのいちぞく",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku",
+      "sengo-nihon",
+      "mitate-satsujin"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1951,
+    "status": "completed",
+    "synopsis": "信州の製薬王・犬神佐兵衛が莫大な遺産と謎めいた遺言状を残して世を去る。三人の娘とその息子たち、そして佐兵衛が恩人の孫娘に託した条件をめぐり、一族の思惑が渦を巻く。やがて犬神家に伝わる三種の家宝になぞらえたような惨劇が続き、金田一耕助が招かれる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬神家の一族"
+    },
+    "sourceNote": "単行本は1951年5月に大日本雄弁会講談社から刊行。現在広く流通する角川文庫版に合わせて刊行元は角川書店とした。映画3本・テレビドラマ8作は横溝作品中最多であることをWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "akuma-no-temariuta",
+    "title": "悪魔の手毬唄",
+    "titleKana": "あくまのてまりうた",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "mitate-satsujin",
+      "sengo-nihon"
+    ],
+    "seriesName": "金田一耕助シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1957,
+    "status": "completed",
+    "synopsis": "岡山と兵庫の県境にある鬼首村。二十年前の未解決事件を調べに訪れた金田一耕助を待っていたのは、村に古くから伝わる手毬唄の文句をなぞるように起きる娘たちの死だった。土地に染みついた二つの旧家の対立と、唄が名指す見立ての意味を追う。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪魔の手毬唄"
+    },
+    "sourceNote": "『宝石』1957年8月号〜1959年1月号連載。刊行元は広く流通している角川文庫版に合わせた。映画2本・テレビドラマ6作・ラジオドラマ1作をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "injuu",
+    "title": "陰獣",
+    "titleKana": "いんじゅう",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "suspense",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1928,
+    "status": "completed",
+    "synopsis": "探偵小説家の寒川は、博物館で実業家の妻・小山田静子と知り合う。静子は、かつて捨てた男から執拗な脅迫を受けていると打ち明ける。その男はどうやら覆面作家の探偵小説家・大江春泥らしい。静子への思いと同業者への対抗心を抱えたまま、寒川は姿を見せない春泥を追い始める。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/陰獣"
+    },
+    "sourceNote": "『新青年』1928年8月増刊号・9月号・10月号に3回分載された中編。断筆・放浪を経た乱歩の復活作であることをWikipedia日本語版で確認。刊行元は既存の『D坂の殺人事件』と同じく光文社(光文社文庫・江戸川乱歩全集)に合わせた。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kotou-no-oni",
+    "title": "孤島の鬼",
+    "titleKana": "ことうのおに",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "kotou",
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1929,
+    "status": "completed",
+    "synopsis": "青年・簑浦金之助は、恋人の初代を密室状況で惨殺される。素人探偵の友人とともに真相を追ううち、初代の出自と、遠く離れた孤島に住むという一族の存在が浮かび上がる。恐怖と異形の幻想に彩られた島へ渡り、金之助は自らの人生を賭けた探索に踏み込んでいく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/孤島の鬼"
+    },
+    "sourceNote": "『朝日』(博文館)1929年1月〜1930年2月連載、のち改造社より単行本化。明智小五郎は登場しない。乱歩自身が長編中で最も出来が良いと考えていたとの伝聞がWikipedia日本語版にある。刊行元は現在流通する光文社文庫・江戸川乱歩全集に合わせた。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kaijin-nijumenso",
+    "title": "怪人二十面相",
+    "titleKana": "かいじんにじゅうめんそう",
+    "authorIds": [
+      "edogawa-rampo"
+    ],
+    "detectiveIds": [
+      "akechi-kogoro"
+    ],
+    "translatorIds": [],
+    "publisherId": "poplar",
+    "themeIds": [
+      "meitantei",
+      "suspense",
+      "seishun"
+    ],
+    "seriesName": "少年探偵団シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1936,
+    "status": "completed",
+    "synopsis": "変装の名人で、狙った美術品は必ず盗み出すと予告する大怪盗が東京を騒がせていた。二十の顔を使い分ける怪人に狙われた資産家の家に、名探偵・明智小五郎と少年助手の小林が乗り込む。子どもたちに向けて書かれた、明智対二十面相の対決の幕開けとなる一作。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/怪人二十面相"
+    },
+    "sourceNote": "1936年『少年倶楽部』連載で怪人二十面相が初登場したことをWikipedia日本語版「怪人二十面相」の記事で確認した。以後1962年まで少年探偵シリーズに登場する。刊行元は現在も広く流通するポプラ社(少年探偵シリーズ)を採用した。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "zero-no-shoten",
+    "title": "ゼロの焦点",
+    "titleKana": "ぜろのしょうてん",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "sengo-nihon",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "結婚したばかりの禎子は、金沢へ引き継ぎに向かった夫が消息を絶ったことを知る。夫の勤務先をたどり、雪の北陸へ向かう禎子。夫が語らなかった過去に触れるうち、戦後まもない時期の傷が、いまも人々の生活の下に沈んでいることが見えてくる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゼロの焦点"
+    },
+    "sourceNote": "『太陽』1958年1〜2月号に『虚線』として連載開始、同誌休刊後『宝石』1958年3月号〜1960年1月号に『零の焦点』として連載、1959年12月に光文社(カッパ・ノベルス)より刊行。1961年・2009年の2度映画化。発表年は連載開始年の1958年を採った。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "naname-yashiki",
+    "title": "斜め屋敷の犯罪",
+    "titleKana": "ななめやしきのはんざい",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "misshitsu",
+      "dokusha-e-no-chosen",
+      "closed-circle"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "北海道の岬に建つ、わざと傾けて建てられた西洋館。当主が集めた客たちが年末に集うなか、施錠された部屋で殺人が起きる。雪に閉ざされた館で不可能状況が重なり、警察は行き詰まる。呼ばれた御手洗潔が、この建物そのものの異形と向き合う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/斜め屋敷の犯罪"
+    },
+    "sourceNote": "1982年発表、御手洗潔シリーズ第2作。光文社(カッパ・ノベルス)刊。前作同様「読者への挑戦状」を挿入。『週刊文春』の「東西ミステリーベスト100」国内編で1985年版42位・2012年版21位に入っているが、賞の受賞ではないため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ihou-no-kishi",
+    "title": "異邦の騎士",
+    "titleKana": "いほうのきし",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "記憶を失い、自分が何者かもわからないまま公園で目覚めた男。やがて彼を「夫」と呼ぶ女が現れ、穏やかな生活が始まるが、失われた過去は少しずつ不気味な形を取り戻していく。占い師を名乗る変わり者の男・御手洗潔との出会いを描く、シリーズの原点にあたる一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/異邦の騎士"
+    },
+    "sourceNote": "1988年発表(講談社ノベルス)、御手洗潔シリーズ長編第3作。執筆自体は島田荘司のデビュー前に書かれた作品を改稿したものとされる。作中の時系列上はシリーズ最初期にあたる。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "suishakan",
+    "title": "水車館の殺人",
+    "titleKana": "すいしゃかんのさつじん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [
+      "shimada-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono",
+      "closed-circle"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "岡山の山中に建つ、水車を備えた屋敷。仮面をつけた当主と、外に出ることのない若い妻が暮らすこの館では、毎年同じ日に来客を招く習わしがある。一年前の集まりで起きた事件と、同じ顔ぶれが再び揃った今年の出来事が交互に語られ、二つの惨劇が重なっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/水車館の殺人"
+    },
+    "sourceNote": "1988年2月5日、講談社ノベルスより刊行。館シリーズ第2作(前作『十角館の殺人』、次作『迷路館の殺人』)。以上をWikipedia日本語版の書誌情報で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "meirokan",
+    "title": "迷路館の殺人",
+    "titleKana": "めいろかんのさつじん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [
+      "shimada-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono",
+      "closed-circle",
+      "jojutsu-trick"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "地下に迷路を張りめぐらせた館に、高名なミステリ作家が四人の弟子を招く。老作家が示したのは、館を舞台にした作品を競作させ、勝者に全財産を譲るという遺言だった。やがて弟子たちは自らが書く小説をなぞるように命を落としていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/迷路館の殺人"
+    },
+    "sourceNote": "1988年9月5日、講談社ノベルスより刊行。館シリーズ第3作。以上をWikipedia日本語版の書誌情報で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ningyokan",
+    "title": "人形館の殺人",
+    "titleKana": "にんぎょうかんのさつじん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [
+      "shimada-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono",
+      "suspense"
+    ],
+    "seriesName": "館シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "父の死をきっかけに、京都の「緑影荘」と呼ばれる館を相続した飛龍想一。庭にも室内にも、父が遺したいびつな人形が据えられている。下宿人たちとの奇妙な同居生活が始まる一方、街では通り魔事件が続き、想一のもとには脅迫状が届きはじめる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人形館の殺人"
+    },
+    "sourceNote": "1989年4月5日、講談社ノベルスより刊行。館シリーズ第4作(前作『迷路館の殺人』、次作『時計館の殺人』)。以上をWikipedia日本語版の書誌情報で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
   }
 ]

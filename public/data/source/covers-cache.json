@@ -7,6 +7,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:52:53.601Z"
   },
+  "akuma-no-temariuta": {
+    "title": "悪魔の手毬唄",
+    "isbn": "9784041304020",
+    "matchedTitle": "悪魔の手毬唄 金田一耕助ファイル12",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4020/9784041304020_1_20.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:32.558Z"
+  },
   "byakuyako": {
     "title": "白夜行",
     "isbn": null,
@@ -57,6 +65,32 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:42.230Z"
   },
+  "ihou-no-kishi": {
+    "title": "異邦の騎士",
+    "isbn": "9784062637701",
+    "matchedTitle": "改訂完全版　異邦の騎士",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7701/9784062637701_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:40.057Z",
+    "note": "書影は講談社文庫の改訂完全版。"
+  },
+  "injuu": {
+    "title": "陰獣",
+    "isbn": "9784394301462",
+    "matchedTitle": "陰獣",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1462/9784394301462.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:33.836Z",
+    "note": "登録は光文社(光文社文庫・江戸川乱歩全集)だが書影は春陽文庫版。作品は同一。"
+  },
+  "inugamike": {
+    "title": "犬神家の一族",
+    "isbn": "9784041304051",
+    "matchedTitle": "犬神家の一族 金田一耕助ファイル　5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4051/9784041304051_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:31.248Z"
+  },
   "jukkakukan": {
     "title": "十角館の殺人",
     "isbn": null,
@@ -65,6 +99,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:43.412Z"
   },
+  "kaijin-nijumenso": {
+    "title": "怪人二十面相",
+    "isbn": "9784591084120",
+    "matchedTitle": "怪人二十面相",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5910/59108412.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:36.398Z"
+  },
   "kasha": {
     "title": "火車",
     "isbn": "9784101369181",
@@ -72,6 +114,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9181/9784101369181.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:36.348Z"
+  },
+  "kotou-no-oni": {
+    "title": "孤島の鬼",
+    "isbn": "9784488401016",
+    "matchedTitle": "孤島の鬼",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1016/9784488401016.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:35.016Z",
+    "note": "登録は光文社だが書影は創元推理文庫版。作品は同一。"
   },
   "mangan": {
     "title": "満願",
@@ -89,6 +140,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:49:19.162Z"
   },
+  "meirokan": {
+    "title": "迷路館の殺人",
+    "isbn": "9784062763974",
+    "matchedTitle": "迷路館の殺人＜新装改訂版＞",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3974/9784062763974_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:42.367Z"
+  },
   "nagai-owakare": {
     "title": "長いお別れ",
     "isbn": null,
@@ -96,6 +155,23 @@
     "coverUrl": "https://c.bookwalker.jp/399614/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:44.861Z"
+  },
+  "naname-yashiki": {
+    "title": "斜め屋敷の犯罪",
+    "isbn": "9784523264729",
+    "matchedTitle": "斜め屋敷の犯罪改訂完全版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4729/9784523264729.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:38.857Z",
+    "note": "登録は光文社(カッパ・ノベルス)だが書影は南雲堂の改訂完全版。作品は同一。"
+  },
+  "ningyokan": {
+    "title": "人形館の殺人",
+    "isbn": "9784062767163",
+    "matchedTitle": "人形館の殺人　＜新装改訂版＞",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7163/9784062767163_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:43.534Z"
   },
   "orient-express": {
     "title": "オリエント急行の殺人",
@@ -145,6 +221,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:59.680Z"
   },
+  "suishakan": {
+    "title": "水車館の殺人",
+    "isbn": "9784062760324",
+    "matchedTitle": "水車館の殺人　＜新装改訂版＞",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0324/9784062760324_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:41.207Z"
+  },
   "suna-no-utsuwa": {
     "title": "砂の器",
     "isbn": null,
@@ -186,6 +270,14 @@
     "resolvedAt": "2026-08-04T02:57:44.558Z",
     "note": "楽天ブックスが解決したのは角川文庫版(ISBN 9784042507161)で、works.jsonに登録しているハヤカワ・ミステリ文庫の宇野利泰訳とは版が異なる。作品としては同一なので書影として採用した。"
   },
+  "yatsuhakamura": {
+    "title": "八つ墓村",
+    "isbn": "9784041304013",
+    "matchedTitle": "八つ墓村 金田一耕助ファイル1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4013/9784041304013_1_22.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:30.088Z"
+  },
   "yogisha-x": {
     "title": "容疑者Xの献身",
     "isbn": null,
@@ -193,5 +285,14 @@
     "coverUrl": "https://c.bookwalker.jp/6856673/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:40.256Z"
+  },
+  "zero-no-shoten": {
+    "title": "ゼロの焦点",
+    "isbn": "9784101109169",
+    "matchedTitle": "ゼロの焦点改版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10110916.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:34:37.688Z",
+    "note": "登録は光文社(カッパ・ノベルス)だが書影は新潮文庫の改版。作品は同一。"
   }
 }
