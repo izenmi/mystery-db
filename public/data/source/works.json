@@ -4165,5 +4165,473 @@
     },
     "sourceNote": "1990年9月、新潮社より刊行された中編推理小説。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。作品の仕掛けに関わるタグはspoiler扱いのものを用いている。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hitsuji-no-chinmoku",
+    "title": "羊たちの沈黙",
+    "titleKana": "ひつじたちのちんもく",
+    "authorIds": [
+      "thomas-harris"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "takami-hiroshi"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "jpPublishedYear": 2012,
+    "originalTitle": "The Silence of the Lambs",
+    "status": "completed",
+    "synopsis": "FBIアカデミーの訓練生クラリス・スターリングは、女性ばかりを狙う連続殺人犯の捜査のため、収監中の精神科医ハンニバル・レクターに助言を求めるよう命じられる。面会のたびに彼が求めるのは、彼女自身の過去を語ることだった。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/羊たちの沈黙"
+    },
+    "sourceNote": "原題 The Silence of the Lambs、1988年8月29日刊。『レッド・ドラゴン』(1981年)の続編。邦訳は新潮文庫の高見浩訳を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報(新潮社、2012年)で確認した。jpPublishedYearはこの版の年で、初訳年は未確認。1990年の映画版はアカデミー賞主要5部門を受賞。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kasasagi",
+    "title": "カササギ殺人事件",
+    "titleKana": "かささぎさつじんじけん",
+    "authorIds": [
+      "anthony-horowitz"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-ran"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "yakata-mono"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Magpie Murders",
+    "status": "completed",
+    "synopsis": "編集者スーザン・ライランドは、人気作家の新作原稿を読み始める。1950年代の英国の村を舞台にした、名探偵アティカス・ピュントものの一編。だが原稿は結末の直前で途切れていた。作中作と現実の事件が二重に進む長編。",
+    "awardResults": [
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2018,
+        "result": "海外部門第1位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2019,
+        "result": "海外編第1位"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2019,
+        "result": "海外編第1位"
+      },
+      {
+        "awardId": "mystery-ga-yomitai",
+        "year": 2019,
+        "result": "海外編第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カササギ殺人事件"
+    },
+    "sourceNote": "原題 Magpie Murders、2016年刊。スーザン・ライランド・シリーズ第1作。邦訳は東京創元社の山田蘭訳(2018年、上下巻)。国内4大ミステリランキングの海外部門を制覇し、マカヴィティ賞長編賞(2018年)・2019年本屋大賞翻訳小説部門1位も受賞しているが、いずれも本DB未登録の賞のため受賞歴には登録していない。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "main-theme",
+    "title": "メインテーマは殺人",
+    "titleKana": "めいんてーまはさつじん",
+    "authorIds": [
+      "anthony-horowitz"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-ran"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "shiritsu-tantei"
+    ],
+    "seriesName": "ホーソーン&ホロヴィッツ・シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2017,
+    "jpPublishedYear": 2019,
+    "originalTitle": "The Word Is Murder",
+    "status": "completed",
+    "synopsis": "自らの葬儀を手配した女性が、その日の夕方に絞殺された。元刑事の探偵ホーソーンは、事件を本にしないかと作家ホロヴィッツに持ちかける。作者自身がワトスン役として登場し、扱いにくい探偵に振り回されながら取材を続ける。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンソニー・ホロヴィッツ"
+    },
+    "sourceNote": "原題 The Word Is Murder、2017年刊。ホーソーン&ホロヴィッツ・シリーズ第1作であることを英語版Wikipediaで確認。邦訳は東京創元社の山田蘭訳(2019年9月)で、訳者・出版社・刊行年は楽天ブックスの書誌情報による。2019年の各種ミステリランキングで上位に入っているが、著者記事の記載ではランキング名と順位の対応を確定できなかったため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dragon-tattoo",
+    "title": "ミレニアム1 ドラゴン・タトゥーの女",
+    "titleKana": "みれにあむわんどらごんたとぅーのおんな",
+    "authorIds": [
+      "stieg-larsson"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "helenhalme-miho",
+      "iwasawa-masatoshi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "kotou",
+      "noir"
+    ],
+    "seriesName": "ミレニアム",
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2011,
+    "originalTitle": "Män som hatar kvinnor",
+    "status": "completed",
+    "synopsis": "名誉毀損で有罪となった記者ミカエルは、大財閥の元当主から、四十年前に孤島で消えた姪の失踪を調べてほしいと依頼される。調査に加わるのは、驚異的な記憶力と調査能力を持つ女性ハッカー、リスベット・サランデル。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドラゴン・タトゥーの女"
+    },
+    "sourceNote": "原題 Män som hatar kvinnor(『女を憎む男たち』)、著者の没後2005年に刊行されたことを英語版Wikipediaで確認。邦訳は早川書房のヘレンハルメ美穂・岩澤雅利訳で、訳者・出版社・刊行年(2011年、上下巻)は楽天ブックスの書誌情報による。スウェーデンおよびハリウッドで映画化。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bone-collector",
+    "title": "ボーン・コレクター",
+    "titleKana": "ぼーんこれくたー",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "meitantei"
+    ],
+    "seriesName": "リンカーン・ライムシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 2003,
+    "originalTitle": "The Bone Collector",
+    "status": "completed",
+    "synopsis": "全身麻痺で寝たきりの元科学捜査官リンカーン・ライムのもとに、猟奇的な連続誘拐事件の捜査依頼が持ち込まれる。彼は現場に立てない代わりに、若い巡査アメリア・サックスを目と手として送り込み、微細な物証から犯人の次の一手を読む。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ボーン・コレクター"
+    },
+    "sourceNote": "原題 The Bone Collector、1997年刊(1999年の映画版の原作であることを英語版Wikipediaで確認)。リンカーン・ライム・シリーズ第1作。邦訳は文藝春秋の池田真紀子訳で、訳者・出版社・刊行年(文春文庫、2003年上下巻)は楽天ブックスの書誌情報による。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "maboroshi-no-onna",
+    "title": "幻の女",
+    "titleKana": "まぼろしのおんな",
+    "authorIds": [
+      "cornell-woolrich"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kurohara-toshiyuki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1942,
+    "jpPublishedYear": 2015,
+    "originalTitle": "Phantom Lady",
+    "status": "completed",
+    "synopsis": "妻と諍いを起こした男が、街で見知らぬ女と食事をし、劇場へ行く。帰宅すると妻は絞殺されており、男は逮捕される。無実を示せるのはあの晩の女だけ。だが、彼女を見たはずの人々は誰一人その存在を認めない。処刑までの日数が刻まれていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幻の女"
+    },
+    "sourceNote": "原題 Phantom Lady、1942年にウィリアム・アイリッシュ名義で刊行された、同名義最初の長編。邦訳は早川書房の黒原敏行訳〔新訳版〕(2015年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。1944年映画化。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "maltese-falcon",
+    "title": "マルタの鷹",
+    "titleKana": "まるたのたか",
+    "authorIds": [
+      "dashiell-hammett"
+    ],
+    "detectiveIds": [
+      "sam-spade"
+    ],
+    "translatorIds": [
+      "kodaka-nobumitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "hardboiled",
+      "shiritsu-tantei",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1930,
+    "jpPublishedYear": 2012,
+    "originalTitle": "The Maltese Falcon",
+    "status": "completed",
+    "synopsis": "サンフランシスコの私立探偵サム・スペードのもとに、妹を探してほしいという依頼が舞い込む。相棒が殺され、依頼人の話は最初から嘘だった。黄金の鷹の像をめぐって、嘘つきばかりが集まってくる。ハードボイルドの型を作った長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マルタの鷹"
+    },
+    "sourceNote": "『ブラック・マスク』誌1929年9月号〜1930年1月号連載、1930年にクノップ社より単行本刊行。1995年のアメリカ探偵作家クラブ「史上最高のミステリー小説100冊」総合2位だが、賞の受賞ではないため受賞歴には登録していない。邦訳は早川書房の小鷹信光訳〔改訳決定版〕(2012年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dokuiri-chocolate",
+    "title": "毒入りチョコレート事件",
+    "titleKana": "どくいりちょこれーとじけん",
+    "authorIds": [
+      "anthony-berkeley"
+    ],
+    "detectiveIds": [
+      "roger-sheringham"
+    ],
+    "translatorIds": [
+      "fujimura-hiromi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "taju-kaiketsu",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "jpPublishedYear": 2025,
+    "originalTitle": "The Poisoned Chocolates Case",
+    "status": "completed",
+    "synopsis": "贈られたチョコレートに毒が仕込まれ、無関係の女性が命を落とした。警察が手を引いた事件を、犯罪研究会の六人が引き受ける。会員たちは一人ずつ自説を披露し、そのたびに前の推理が覆されていく。推理そのものを主題にした一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/毒入りチョコレート事件"
+    },
+    "sourceNote": "原題 The Poisoned Chocolates Case、1929年発表。日本では『新青年』1934年8月号に「毒殺六人賦」として翻案が掲載されたのが最初。本DBでは東京創元社の藤村裕美訳【新訳版】(2025年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "father-brown-doshin",
+    "title": "ブラウン神父の童心",
+    "titleKana": "ぶらうんしんぷのどうしん",
+    "authorIds": [
+      "gk-chesterton"
+    ],
+    "detectiveIds": [
+      "father-brown"
+    ],
+    "translatorIds": [
+      "nakamura-yasuo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "tanpenshu",
+      "meitantei",
+      "honkaku"
+    ],
+    "seriesName": "ブラウン神父シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1911,
+    "jpPublishedYear": 2017,
+    "originalTitle": "The Innocence of Father Brown",
+    "status": "completed",
+    "synopsis": "小柄で目立たないカトリック司祭ブラウン神父が、怪盗フランボウとの出会いをはじめ、さまざまな謎に向き合う短編集。神父は人の心の弱さを知り抜いており、不可解に見える出来事の裏にある単純な人間の動きを言い当てる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブラウン神父の童心"
+    },
+    "sourceNote": "原題 The Innocence of Father Brown、1911年発表。『ブラウン神父の無知』の邦題もある。本DBでは東京創元社の中村保男訳(2017年新版)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kiganjo",
+    "title": "奇岩城",
+    "titleKana": "きがんじょう",
+    "authorIds": [
+      "maurice-leblanc"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "hiraoka-atsushi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense",
+      "seishun"
+    ],
+    "seriesName": "アルセーヌ・ルパンシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1909,
+    "jpPublishedYear": 2006,
+    "originalTitle": "L'Aiguille creuse",
+    "status": "completed",
+    "synopsis": "古城で起きた盗難と傷ついた侵入者の失踪。高校生のイジドール・ボートルレは、警察より先に現場の矛盾に気づき、怪盗アルセーヌ・ルパンの計画を追い始める。フランスの歴史に隠された秘密の在処をめぐって、少年と怪盗が競い合う。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/奇巌城"
+    },
+    "sourceNote": "原題 L'Aiguille creuse、1909年発表のアルセーヌ・ルパンシリーズの一篇。『奇巌城』表記もある。本DBでは早川書房の平岡敦訳(2006年)を採用し、書名もその版の『奇岩城』に合わせた。訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "toki-no-musume",
+    "title": "時の娘",
+    "titleKana": "ときのむすめ",
+    "authorIds": [
+      "josephine-tey"
+    ],
+    "detectiveIds": [
+      "inspector-grant"
+    ],
+    "translatorIds": [
+      "koizumi-kimiko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "jidai-mystery"
+    ],
+    "seriesName": "グラント警部シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1951,
+    "jpPublishedYear": 1977,
+    "originalTitle": "The Daughter of Time",
+    "status": "completed",
+    "synopsis": "怪我で入院し、退屈しきったグラント警部は、見舞いに持ち込まれた肖像画に目を留める。悪名高いリチャード三世の顔が、どうしても犯罪者のそれに見えない。警部はベッドの上から、四百年以上前の王の「犯罪」を調べ直しはじめる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時の娘"
+    },
+    "sourceNote": "原題 The Daughter of Time、1951年発表。歴史ミステリおよびベッド・ディテクティヴものの代表作とされる。邦訳権は早川書房が所有し、1954年村崎敏郎訳、1975年小泉喜美子訳、1977年に小泉訳のハヤカワ・ミステリ文庫版が刊行された。本DBでは小泉喜美子訳(1977年文庫版)を採用した。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "x-no-higeki",
+    "title": "Xの悲劇",
+    "titleKana": "えっくすのひげき",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "drury-lane"
+    ],
+    "translatorIds": [
+      "nakamura-yuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "ドルリー・レーン四部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1932,
+    "jpPublishedYear": 2019,
+    "originalTitle": "The Tragedy of X",
+    "status": "completed",
+    "synopsis": "満員の路面電車のなかで、ニコチンを塗ったコルク球で男が殺される。誰もが犯人になりうる状況に、警視とサム警視は行き詰まる。引退した名優ドルリー・レーンが招かれ、劇場の舞台に立つように事件の筋書きを読み解いていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Xの悲劇"
+    },
+    "sourceNote": "原題 The Tragedy of X、1932年発表。ドルリー・レーンを探偵役とする「悲劇」四部作の第1部で、4作はバーナビー・ロス名義で発表された。本DBでは東京創元社の中村有希訳【新訳版】(2019年)を採用し、訳者・出版社・刊行年は楽天ブックスの書誌情報で確認した。既存の『Yの悲劇』は宇野利泰訳を採用しており、訳者が異なる点に留意。",
+    "updatedAt": "2026-08-04"
   }
 ]

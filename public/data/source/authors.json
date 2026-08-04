@@ -608,5 +608,125 @@
     },
     "sourceNote": "生年・経歴・作風はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "thomas-harris",
+    "name": "トマス・ハリス",
+    "nameKana": "とますはりす",
+    "description": "アメリカの作家。犯罪報道の記者を経て小説を書き始め、精神科医にして殺人者ハンニバル・レクターを登場させる一連の作品で知られる。",
+    "birthYear": 1940,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トマス・ハリス"
+    },
+    "sourceNote": "経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "anthony-horowitz",
+    "name": "アンソニー・ホロヴィッツ",
+    "nameKana": "あんそにーほろゔぃっつ",
+    "description": "イギリスの小説家・脚本家。ヤングアダルト小説やテレビドラマの脚本で活動したのち、古典本格の枠組みを現代的に再構成したミステリで注目された。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンソニー・ホロヴィッツ"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "stieg-larsson",
+    "name": "スティーグ・ラーソン",
+    "nameKana": "すてぃーぐらーそん",
+    "description": "スウェーデンのジャーナリスト・作家。極右勢力を追う記者として活動し、没後に刊行された「ミレニアム」三部作が世界的なベストセラーとなった。",
+    "birthYear": 1954,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スティーグ・ラーソン"
+    },
+    "sourceNote": "経歴・代表作はWikipedia日本語版および英語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "jeffery-deaver",
+    "name": "ジェフリー・ディーヴァー",
+    "nameKana": "じぇふりーでぃーゔぁー",
+    "description": "アメリカの作家。弁護士・雑誌記者を経て作家となり、終盤で何度も局面が反転する構成の作品で知られる。",
+    "birthYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェフリー・ディーヴァー"
+    },
+    "sourceNote": "経歴・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "cornell-woolrich",
+    "name": "コーネル・ウールリッチ",
+    "nameKana": "こーねるうーるりっち",
+    "description": "アメリカの作家。ウィリアム・アイリッシュ名義でも作品を発表し、追いつめられた者の不安を描くサスペンスで知られる。",
+    "birthYear": 1903,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コーネル・ウールリッチ"
+    },
+    "sourceNote": "生年・別名義・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dashiell-hammett",
+    "name": "ダシール・ハメット",
+    "nameKana": "だしーるはめっと",
+    "description": "探偵社の調査員を経て作家となったアメリカの小説家。ハードボイルド探偵小説の型を作った一人とされる。",
+    "birthYear": 1894,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダシール・ハメット"
+    },
+    "sourceNote": "生没年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "anthony-berkeley",
+    "name": "アントニイ・バークリー",
+    "nameKana": "あんとにいばーくりー",
+    "description": "イギリスの作家。同一の事件に対して複数の解決を並べる構成や、犯罪心理を突き詰めた作品で知られる。フランシス・アイルズ名義の作品もある。",
+    "birthYear": 1893,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アントニイ・バークリー"
+    },
+    "sourceNote": "生年・別名義・作風はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gk-chesterton",
+    "name": "G・K・チェスタトン",
+    "nameKana": "じーけーちぇすたとん",
+    "description": "イギリスの作家・評論家。逆説を好む批評家として活動する一方、小柄なカトリック司祭を探偵役とする短編で推理小説史に名を残した。",
+    "birthYear": 1874,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/G・K・チェスタトン"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "maurice-leblanc",
+    "name": "モーリス・ルブラン",
+    "nameKana": "もーりするぶらん",
+    "description": "フランスの作家。紳士的な怪盗アルセーヌ・ルパンを生み出し、冒険小説と推理小説の要素を併せ持つ作品を書き続けた。",
+    "birthYear": 1864,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モーリス・ルブラン"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "josephine-tey",
+    "name": "ジョセフィン・テイ",
+    "nameKana": "じょせふぃんてい",
+    "description": "スコットランド出身の作家・劇作家。グラント警部を探偵役とする作品で知られ、歴史上の事件を扱ったミステリを残した。",
+    "birthYear": 1896,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョセフィン・テイ"
+    },
+    "sourceNote": "経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

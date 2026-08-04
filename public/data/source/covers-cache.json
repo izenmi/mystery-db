@@ -39,6 +39,15 @@
     "resolvedAt": "2026-08-04T03:51:32.115Z",
     "note": "登録した新潮文庫・延原謙訳の改版に手動で合わせた(自動取得では光文社文庫版が当たっていた)"
   },
+  "bone-collector": {
+    "title": "ボーン・コレクター",
+    "isbn": "9784167661342",
+    "matchedTitle": "ボーン・コレクター 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1342/9784167661342.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:16:33.436Z",
+    "note": "書影は文春文庫版の上巻。"
+  },
   "byakuyako": {
     "title": "白夜行",
     "isbn": null,
@@ -89,6 +98,23 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:19.189Z"
   },
+  "dokuiri-chocolate": {
+    "title": "毒入りチョコレート事件",
+    "isbn": "9784488123116",
+    "matchedTitle": "毒入りチョコレート事件【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3116/9784488123116_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:16:58.766Z"
+  },
+  "dragon-tattoo": {
+    "title": "ミレニアム1 ドラゴン・タトゥーの女",
+    "isbn": "9784151792519",
+    "matchedTitle": "ミレニアム　1　ドラゴン・タトゥーの女 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2519/9784151792519.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:17:19.850Z",
+    "note": "書影は早川書房版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
   "eugenia": {
     "title": "ユージニア",
     "isbn": "9784043710027",
@@ -96,6 +122,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0027/9784043710027_1_7.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:50.409Z"
+  },
+  "father-brown-doshin": {
+    "title": "ブラウン神父の童心",
+    "isbn": "9784488110130",
+    "matchedTitle": "ブラウン神父の童心",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0130/9784488110130.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:16:59.910Z"
   },
   "furenzoku-satsujin": {
     "title": "不連続殺人事件",
@@ -201,6 +235,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0062/9784167110062_1_12.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:41.179Z"
+  },
+  "hitsuji-no-chinmoku": {
+    "title": "羊たちの沈黙",
+    "isbn": "9784102167083",
+    "matchedTitle": "羊たちの沈黙（上巻）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7083/9784102167083.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:16:28.820Z",
+    "note": "書影は新潮文庫版の上巻。"
   },
   "hokago": {
     "title": "放課後",
@@ -335,6 +378,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-04T03:50:47.061Z"
   },
+  "kasasagi": {
+    "title": "カササギ殺人事件",
+    "isbn": "9784488265076",
+    "matchedTitle": "カササギ殺人事件＜上＞",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5076/9784488265076.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:16:29.978Z",
+    "note": "書影は東京創元社版の上巻。"
+  },
   "kasha": {
     "title": "火車",
     "isbn": "9784101369181",
@@ -342,6 +394,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9181/9784101369181.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:36.348Z"
+  },
+  "kiganjo": {
+    "title": "奇岩城",
+    "isbn": "9784151757532",
+    "matchedTitle": "奇岩城",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1517/15175753.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:17:21.095Z",
+    "note": "登録どおり早川書房の平岡敦訳。自動取得では新潮文庫(堀口大学訳)が当たっていたため差し替えた。"
   },
   "kiiroi-heya": {
     "title": "黄色い部屋の謎",
@@ -466,6 +527,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:17.949Z"
   },
+  "maboroshi-no-onna": {
+    "title": "幻の女",
+    "isbn": "9784150705541",
+    "matchedTitle": "幻の女〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5541/9784150705541.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:17:18.600Z",
+    "note": "登録どおりハヤカワ・ミステリ文庫の黒原敏行訳〔新訳版〕。短いタイトルのため自動取得では解決できずISBN指定で設定した。"
+  },
   "magan-no-hako": {
     "title": "魔眼の匣の殺人",
     "isbn": "9784488027964",
@@ -474,6 +544,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:18.702Z"
   },
+  "main-theme": {
+    "title": "メインテーマは殺人",
+    "isbn": "9784488265090",
+    "matchedTitle": "メインテーマは殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5090/9784488265090.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:16:31.129Z"
+  },
   "majimono": {
     "title": "厭魅の如き憑くもの",
     "isbn": "9784062763066",
@@ -481,6 +559,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3066/9784062763066_1_5.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:23.841Z"
+  },
+  "maltese-falcon": {
+    "title": "マルタの鷹",
+    "isbn": "9784150773076",
+    "matchedTitle": "マルタの鷹〔改訳決定版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3076/9784150773076_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:16:57.628Z"
   },
   "mangan": {
     "title": "満願",
@@ -825,6 +911,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:51.509Z"
   },
+  "toki-no-musume": {
+    "title": "時の娘",
+    "isbn": "9784150727017",
+    "matchedTitle": "時の娘",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7017/9784150727017.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:17:02.247Z"
+  },
   "ubume-no-natsu": {
     "title": "姑獲鳥の夏",
     "isbn": null,
@@ -832,6 +926,15 @@
     "coverUrl": "https://c.bookwalker.jp/4060243/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:07.940Z"
+  },
+  "x-no-higeki": {
+    "title": "Xの悲劇",
+    "isbn": "9784488104436",
+    "matchedTitle": "Xの悲劇【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4436/9784488104436.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:17:22.338Z",
+    "note": "登録どおり東京創元社の中村有希訳【新訳版】。自動取得では角川文庫(越前敏弥訳)が当たっていたため差し替えた。"
   },
   "y-no-higeki": {
     "title": "Yの悲劇",

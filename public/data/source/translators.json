@@ -100,5 +100,85 @@
     "description": "アメリカ文学研究者・翻訳者。ポーの新訳のほか、SF・アメリカ文学の評論でも知られる。",
     "sourceNote": "担当作は楽天ブックスの書誌情報およびWikipedia日本語版の邦訳一覧で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takami-hiroshi",
+    "name": "高見浩",
+    "nameKana": "たかみひろし",
+    "description": "英米文学の翻訳者。ヘミングウェイの新訳やトマス・ハリスの一連の作品を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamada-ran",
+    "name": "山田蘭",
+    "nameKana": "やまだらん",
+    "description": "英米ミステリの翻訳者。アンソニー・ホロヴィッツ作品の訳者として知られる。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "helenhalme-miho",
+    "name": "ヘレンハルメ美穂",
+    "nameKana": "へれんはるめみほ",
+    "description": "スウェーデン語作品の翻訳者。「ミレニアム」三部作をはじめ北欧ミステリを多く手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "iwasawa-masatoshi",
+    "name": "岩澤雅利",
+    "nameKana": "いわさわまさとし",
+    "description": "翻訳者。「ミレニアム」第1作を共訳で手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ikeda-makiko",
+    "name": "池田真紀子",
+    "nameKana": "いけだまきこ",
+    "description": "英米ミステリの翻訳者。ジェフリー・ディーヴァーのリンカーン・ライム・シリーズなどを手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kodaka-nobumitsu",
+    "name": "小鷹信光",
+    "nameKana": "こだかのぶみつ",
+    "description": "ハードボイルド研究者・翻訳者。ハメット作品の翻訳と紹介を長く手がけた。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fujimura-hiromi",
+    "name": "藤村裕美",
+    "nameKana": "ふじむらひろみ",
+    "description": "英米ミステリの翻訳者。アントニイ・バークリー作品の新訳を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nakamura-yasuo",
+    "name": "中村保男",
+    "nameKana": "なかむらやすお",
+    "description": "英米文学の翻訳者・評論家。チェスタトンのブラウン神父シリーズの訳者として知られる。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "koizumi-kimiko",
+    "name": "小泉喜美子",
+    "nameKana": "こいずみきみこ",
+    "description": "小説家・翻訳者。自身もミステリを執筆する一方、英米ミステリの翻訳を手がけた。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報およびWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nakamura-yuki",
+    "name": "中村有希",
+    "nameKana": "なかむらゆき",
+    "description": "英米ミステリの翻訳者。エラリー・クイーン作品の新訳を多く手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
