@@ -40,6 +40,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:21.033Z"
   },
+  "aka-midori-kuro-shiro": {
+    "title": "赤緑黒白",
+    "isbn": "9784062752572",
+    "matchedTitle": "赤緑黒白",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2572/9784062752572.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:38:02.301Z"
+  },
   "akai-yubi": {
     "title": "赤い指",
     "isbn": "9784062764445",
@@ -163,6 +171,15 @@
     "resolvedAt": "2026-08-04T04:16:33.436Z",
     "note": "書影は文春文庫版の上巻。"
   },
+  "bonkura": {
+    "title": "ぼんくら",
+    "isbn": "9784065400968",
+    "matchedTitle": "ぼんくら（上）新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0968/9784065400968_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:38:29.525Z",
+    "note": "自動取得が講談社文庫新装版の下巻(9784065400975)を拾ったため上巻に差し替えた。"
+  },
   "bottleneck": {
     "title": "ボトルネック",
     "isbn": "9784101287812",
@@ -228,6 +245,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0060/9784488130060.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:44.864Z"
+  },
+  "chikagai-no-ame": {
+    "title": "地下街の雨",
+    "isbn": "9784087488647",
+    "matchedTitle": "地下街の雨",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8647/9784087488647_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:45.992Z"
   },
   "chinmoku-no-parade": {
     "title": "沈黙のパレード",
@@ -646,6 +671,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1940/9784062751940.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:02.771Z"
+  },
+  "hatobuegusa": {
+    "title": "鳩笛草",
+    "isbn": "9784334749729",
+    "matchedTitle": "鳩笛草",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9729/9784334749729.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:47.151Z"
   },
   "hatsuru-sokonaki": {
     "title": "果つる底なき",
@@ -1245,6 +1278,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:24.984Z"
   },
+  "kuchiru-chiru-ochiru": {
+    "title": "朽ちる散る落ちる",
+    "isbn": "9784062751391",
+    "matchedTitle": "朽ちる散る落ちる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1391/9784062751391.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:38:01.138Z"
+  },
   "kudryavka": {
     "title": "クドリャフカの順番",
     "isbn": "9784044271039",
@@ -1465,6 +1506,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:25.253Z"
   },
+  "maken-tensho": {
+    "title": "魔剣天翔",
+    "isbn": "9784062738941",
+    "matchedTitle": "魔剣天翔　Cockpit　on　Knife　Edge",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8941/9784062738941_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:56.496Z"
+  },
   "maltese-falcon": {
     "title": "マルタの鷹",
     "isbn": "9784150773076",
@@ -1676,6 +1725,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:18.022Z"
   },
+  "nagai-nagai-satsujin": {
+    "title": "長い長い殺人",
+    "isbn": "9784334749712",
+    "matchedTitle": "長い長い殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9712/9784334749712_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:44.834Z"
+  },
   "nagai-owakare": {
     "title": "長いお別れ",
     "isbn": null,
@@ -1767,6 +1824,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:52.561Z"
   },
+  "nejire-yashiki-no-ridon": {
+    "title": "捩れ屋敷の利鈍",
+    "isbn": "9784062750332",
+    "matchedTitle": "捩れ屋敷の利鈍",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0332/9784062750332.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:59.967Z"
+  },
   "nemuri-no-mori": {
     "title": "眠りの森",
     "isbn": null,
@@ -1806,6 +1871,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7163/9784062767163_1_21.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:43.534Z"
+  },
+  "ningyoshiki-monalisa": {
+    "title": "人形式モナリザ",
+    "isbn": "9784062735858",
+    "matchedTitle": "人形式モナリザ　Shape　of　Things　Human",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5858/9784062735858.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:52.997Z"
   },
   "nuribotoke-shitaku": {
     "title": "塗仏の宴 宴の支度",
@@ -1856,6 +1929,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:01.730Z"
   },
+  "osoroshi-mishimaya": {
+    "title": "おそろし 三島屋変調百物語事始",
+    "isbn": "9784041002810",
+    "matchedTitle": "おそろし　三島屋変調百物語事始",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2810/9784041002810_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:50.647Z"
+  },
   "out": {
     "title": "OUT",
     "isbn": "9784062734479",
@@ -1881,6 +1962,23 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:11:28.535Z",
     "note": "登録は光文社だが書影は春陽文庫版。作品は同一。"
+  },
+  "perfect-blue": {
+    "title": "パーフェクト・ブルー",
+    "isbn": "9784488411039",
+    "matchedTitle": "パーフェクト・ブルー【新装版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1039/9784488411039_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:41.349Z"
+  },
+  "petero-no-soretsu": {
+    "title": "ペテロの葬列",
+    "isbn": "9784167905842",
+    "matchedTitle": "ペテロの葬列 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5842/9784167905842.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:38:27.758Z",
+    "note": "自動取得が文春文庫版の下巻を拾ったため上巻に差し替えた。"
   },
   "pocket-full-of-rye": {
     "title": "ポケットにライ麦を",
@@ -1923,6 +2021,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:02:45.674Z"
   },
+  "renren-renpo-no-enshu": {
+    "title": "恋恋蓮歩の演習",
+    "isbn": "9784062748223",
+    "matchedTitle": "恋恋蓮歩の演習",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8223/9784062748223_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:57.665Z"
+  },
   "rensa": {
     "title": "連鎖",
     "isbn": null,
@@ -1952,6 +2058,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4137/9784101234137.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:40.265Z"
+  },
+  "rokunin-no-chuompa-kagakusha": {
+    "title": "六人の超音波科学者",
+    "isbn": "9784062749237",
+    "matchedTitle": "六人の超音波科学者",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9237/9784062749237_1_12.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:58.806Z"
   },
   "rokuyon": {
     "title": "64",
@@ -2245,6 +2359,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0462/9784151300462.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:31:59.400Z"
+  },
+  "snark-gari": {
+    "title": "スナーク狩り",
+    "isbn": "9784334749705",
+    "matchedTitle": "スナーク狩り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9705/9784334749705_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:43.675Z"
   },
   "sojo-satsujin": {
     "title": "僧正殺人事件",
@@ -2544,6 +2666,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:24:16.940Z"
   },
+  "tsuki-wa-yuetsu-no-device": {
+    "title": "月は幽咽のデバイス",
+    "isbn": "9784062736985",
+    "matchedTitle": "月は幽咽のデバイス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6985/9784062736985.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:54.156Z"
+  },
   "tsumetai-misshitsu": {
     "title": "冷たい密室と博士たち",
     "isbn": "9784062645607",
@@ -2598,6 +2728,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6147/9784062646147_1_15.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:53.818Z"
+  },
+  "warera-ga-rinjin-no-hanzai": {
+    "title": "我らが隣人の犯罪",
+    "isbn": "9784167549015",
+    "matchedTitle": "我らが隣人の犯罪",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1675/16754901.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:42.509Z"
   },
   "watashi-ga-kare-wo": {
     "title": "私が彼を殺した",
@@ -2749,6 +2887,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:54.113Z",
     "note": "登録は原書房(単行本)だが書影は講談社文庫版。作品は同一。"
+  },
+  "yume-deai-masho": {
+    "title": "夢・出逢い・魔性",
+    "isbn": "9784062738064",
+    "matchedTitle": "夢・出逢い・魔性",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8064/9784062738064.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:37:55.321Z"
   },
   "z-no-higeki": {
     "title": "Zの悲劇",

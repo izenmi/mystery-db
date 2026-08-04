@@ -12531,5 +12531,620 @@
     },
     "sourceNote": "2003年角川書店刊、2006年角川文庫。『このミステリーがすごい!2004年版』18位を著者記事のランキング一覧で確認した。2027年2月に映画公開予定との記載があるが未公開のためmediaMixのmovieはfalseとした。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "perfect-blue",
+    "title": "パーフェクト・ブルー",
+    "titleKana": "ぱーふぇくとぶるー",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "kazoku",
+      "seishun",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "引退した警察犬のマサは、探偵事務所を営む蓮見家に引き取られ、調査員である長女の用心棒役を務めている。ある晩、高校野球のスターとして知られた青年が殺され、事務所は事件の周辺を調べることになる。犬の目線から語られる、著者の長編デビュー作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パーフェクト・ブルー"
+    },
+    "sourceNote": "1989年2月東京創元社刊、1992年12月創元推理文庫、2019年11月創元推理文庫新装版。著者記事の著作一覧と楽天ブックスの書誌で確認した。語り手が元警察犬である点は楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "warera-ga-rinjin-no-hanzai",
+    "title": "我らが隣人の犯罪",
+    "titleKana": "われらがりんじんのはんざい",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tanpenshu",
+      "nichijo-no-nazo",
+      "kazoku",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "隣家の犬の鳴き声に悩まされた一家が、少年の発案でひそかな作戦に打って出る表題作ほか全5編。派手な事件ではなく、家庭や近所づきあいのなかで人がふと踏み外す瞬間を、ユーモアを交えて描く。著者のデビュー作を含む初期短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1990年1月文藝春秋刊、1993年1月文春文庫。表題作は1987年に第26回オール讀物推理小説新人賞を受賞した著者のデビュー作だが、同賞は本DBのawards.jsonに未登録のため受賞歴には登録せずここに記す。収録作は「我らが隣人の犯罪」「この子誰の子」「サボテンの花」「祝・殺人」「気分は自殺志願」の5編。著者記事の著作一覧と楽天ブックスの書誌で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "snark-gari",
+    "title": "スナーク狩り",
+    "titleKana": "すなーくがり",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "一人の女が散弾銃を抱え、かつての恋人の披露宴会場へ向かう。すべてを終わらせるために。彼女に銃を渡してしまった釣具店員は事の重大さに気づき、後を追う。復讐に走る者と止めようとする者の一夜を、時間を刻むように描いたサスペンス長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スナーク狩り_(宮部みゆき)"
+    },
+    "sourceNote": "1992年6月光文社カッパ・ノベルス刊、1997年6月光文社文庫、2011年7月光文社文庫プレミアム。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nagai-nagai-satsujin",
+    "title": "長い長い殺人",
+    "titleKana": "ながいながいさつじん",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "rensaku-tanpen",
+      "tokushu-settei",
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "ひとつの事件に関わった十人の財布が、それぞれの持ち主について語る。刑事の財布、被害者の財布、容疑者の財布。持ち主が口にしないことまで見てきた語り手たちの証言が重なるにつれ、事件の輪郭が浮かび上がっていく連作長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/長い長い殺人"
+    },
+    "sourceNote": "「別冊小説宝石」1989年冬号の「刑事の財布」を皮切りに『小説宝石』へ1990年から1992年にかけて掲載され、書き下ろしのエピローグを加えて1992年に光文社より単行本化。Wikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chikagai-no-ame",
+    "title": "地下街の雨",
+    "titleKana": "ちかがいのあめ",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "tanpenshu",
+      "nichijo-no-nazo",
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "都会の片隅で働き、暮らし、少しずつすり減っていく人々を描いた短編集。恋人との別れ、職場の理不尽、他人には言えない事情。日常の延長にふと現実離れした出来事が差し込まれ、幻想と現実の境目で物語が閉じる7編を収める。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1994年4月集英社刊、1998年10月集英社文庫。作品単独のWikipedia記事はなく、著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hatobuegusa",
+    "title": "鳩笛草",
+    "titleKana": "はとぶえぐさ",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "tokushu-settei",
+      "tanpenshu",
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "人にはない力を授かってしまった女性たちを描く3編。他人の心を読み取ってしまう者、念じるだけで物を発火させる者、そして失われつつある力に気づく者。特別であることが幸福とは限らない現実を、静かな筆致で描く中編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1995年9月光文社カッパ・ノベルス刊。2000年4月の光文社文庫化にあたり『鳩笛草―燔祭/朽ちてゆくまで』に改題され、2011年7月に光文社文庫プレミアム。収録作は「鳩笛草」「燔祭」「朽ちてゆくまで」の3編で、「燔祭」は本DB登録済みの『クロスファイア』の前日譚にあたる。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "bonkura",
+    "title": "ぼんくら",
+    "titleKana": "ぼんくら",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "rensaku-tanpen",
+      "nichijo-no-nazo",
+      "kazoku"
+    ],
+    "seriesName": "ぼんくらシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "江戸・深川の長屋で、住人が次々と出ていく不可解な出来事が続く。面倒ごとを嫌う「ぼんくら」同心が、周囲に押されるままに調べを進めるうち、ばらばらに見えた出来事が一本の線でつながっていく。人情と謎解きを織り交ぜた時代ミステリの連作長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼんくら"
+    },
+    "sourceNote": "『小説現代』1996年3月号から2000年1月号まで計18回掲載、加筆訂正のうえ2000年4月講談社より刊行。2004年4月講談社文庫【上・下】。続編に『日暮らし』『おまえさん』がある。Wikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "osoroshi-mishimaya",
+    "title": "おそろし 三島屋変調百物語事始",
+    "titleKana": "おそろしみしまやへんちょうひゃくものがたりことはじめ",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "jidai-mystery",
+      "kaiki-gensou",
+      "rensaku-tanpen",
+      "youkai"
+    ],
+    "seriesName": "三島屋変調百物語シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "ある出来事で心を閉ざした娘・おちかは、江戸の袋物屋である叔父の店に預けられる。そこで始まったのは、客がひとりずつ訪れて自らの体験した怪異を語り、聞き手はそれを他言しないという「変わり百物語」。語られる話の裏には、いつも人の業がある。シリーズ第1作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三島屋変調百物語"
+    },
+    "sourceNote": "2008年7月角川書店刊、2012年4月角川文庫。著者記事の著作一覧で確認した。著者記事のランキング一覧に「2009年 - 『おそろし』5位」の記載があるが、どのランキングかが特定できないため受賞歴には登録していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "petero-no-soretsu",
+    "title": "ペテロの葬列",
+    "titleKana": "ぺてろのそうれつ",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "kazoku",
+      "shiritsu-tantei"
+    ],
+    "seriesName": "杉村三郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "社内報の編集を務める杉村三郎は、社用で乗ったバスがそのまま乗っ取られる事件に巻き込まれる。老人が拳銃を手に告げたのは、意外な要求だった。解放後も引っかかりを覚えた杉村が老人の過去を追ううちに、長い年月をかけて人を蝕んできた出来事が姿を現す。シリーズ第3作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペテロの葬列"
+    },
+    "sourceNote": "2013年12月集英社刊をWikipedia日本語版のinfoboxで確認した。杉村三郎シリーズ第3作で、本DB登録済みの『誰か Somebody』『名もなき毒』の続編にあたる。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ningyoshiki-monalisa",
+    "title": "人形式モナリザ",
+    "titleKana": "にんぎょうしきもなりざ",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "乙女文楽の上演中、大勢が見つめるなかで演者が命を落とす。その家族のひとりも二年前に殺されており、被害者は悪魔を崇めていて「神の白い手」に殺されたのだと噂されていた。瀬在丸紅子が、人形と信仰にまつわる連続した死の理屈を組み立てていくVシリーズ第2作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "1999年9月講談社ノベルス刊、2002年11月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。作品単独のWikipedia記事はなくシリーズ記事へのリダイレクトになっている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tsuki-wa-yuetsu-no-device",
+    "title": "月は幽咽のデバイス",
+    "titleKana": "つきはゆうえつのでばいす",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "misshitsu",
+      "yakata-mono",
+      "meitantei"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "薔薇屋敷とも月夜邸とも呼ばれる館には、狼男が出るという噂があった。瀬在丸紅子たちが招かれたパーティの最中、オーディオ・ルームで凄惨な死体が見つかる。現場は内側から施錠された密室で、床一面に血が飛び散っていた。噂と密室の両方に説明をつけるVシリーズ第3作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "2000年1月講談社ノベルス刊、2003年3月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yume-deai-masho",
+    "title": "夢・出逢い・魔性",
+    "titleKana": "ゆめであいましょう",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "honkaku",
+      "suspense"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "二十年前に死んだ恋人の夢に怯えていた放送局のプロデューサが殺害された。犯行時に響いた炸裂音はひとつだったのに、遺体には弾痕が二つある。番組出演のため局にいた小鳥遊練無は、事件の中心にいるアイドルの少女とともに姿を消してしまう。Vシリーズ第4作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "2000年5月講談社ノベルス刊、2003年7月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "maken-tensho",
+    "title": "魔剣天翔",
+    "titleKana": "まけんてんしょう",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "misshitsu",
+      "meitantei",
+      "honkaku"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "アクロバット飛行中の二人乗り航空機という、高空に浮かぶ完全な密室で殺人が起こる。エンジェル・マヌーヴァと呼ばれる宝剣をめぐって会場を訪れていた保呂草と阿漕荘の面々は、衆人環視の不可能犯罪に巻き込まれる。空中密室の仕掛けに瀬在丸紅子が挑むVシリーズ第5作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "2000年9月講談社ノベルス刊、2003年11月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "renren-renpo-no-enshu",
+    "title": "恋恋蓮歩の演習",
+    "titleKana": "れんれんれんぽのえんしゅう",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "misshitsu",
+      "closed-circle",
+      "meitantei"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "世界一周中の豪華客船ヒミコ号に、天才画家の自画像が持ち込まれる。仕事で乗り込んだ保呂草と紫子、無賃乗船した紅子と練無が居合わせるなか、航海中の船という閉じた空間で男性客が消失する。絵をめぐる陰謀と人間消失が絡み合うVシリーズ第6作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "2001年5月講談社ノベルス刊、2004年7月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rokunin-no-chuompa-kagakusha",
+    "title": "六人の超音波科学者",
+    "titleKana": "ろくにんのちょうおんぱかがくしゃ",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "closed-circle",
+      "meitantei",
+      "honkaku"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "山中深くにあり、橋一本でしか外界とつながらない土井超音波研究所。紅子と阿漕荘の面々が所内のパーティに出席していたところ、死体が見つかる。警察に爆破予告を送った何者かによって橋が落とされ、研究所は完全な陸の孤島と化す。Vシリーズ第7作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "2001年9月講談社ノベルス刊、2004年11月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nejire-yashiki-no-ridon",
+    "title": "捩れ屋敷の利鈍",
+    "titleKana": "ねじれやしきのりどん",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "misshitsu",
+      "yakata-mono",
+      "honkaku"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "メビウスの帯の構造を持つ巨大なオブジェのような捩れ屋敷。宝剣エンジェル・マヌーヴァが納められたその建物の内部で死体が見つかり、宝剣も消えていた。さらに第二の死体が現れる。招かれていた保呂草潤平と西之園萌絵が真相にたどり着く、二つのシリーズが交差する一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "2002年1月講談社ノベルス刊、2005年3月講談社文庫。VシリーズとS&Mシリーズがリンクする作品で、探偵役は瀬在丸紅子ではなく保呂草潤平と西之園萌絵のため、本DBのdetectiveIdsは空にしている。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kuchiru-chiru-ochiru",
+    "title": "朽ちる散る落ちる",
+    "titleKana": "くちるちるおちる",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "misshitsu",
+      "meitantei",
+      "honkaku"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "土井超音波研究所の地下に隠された施設で、出入りが不可能なはずの空間から奇妙な状態の死体が見つかる。一方、紅子は数学者の示唆で会った教授から、地球に帰還した有人衛星の乗組員が全員殺されていたと聞かされる。地下と宇宙、二つの密室が並ぶVシリーズ第9作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "2002年5月講談社ノベルス刊、2005年7月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "aka-midori-kuro-shiro",
+    "title": "赤緑黒白",
+    "titleKana": "あかみどりくろしろ",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [
+      "sezaimaru-beniko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "meitantei",
+      "honkaku",
+      "suspense"
+    ],
+    "seriesName": "Vシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "深夜のマンション駐車場で、鮮やかな赤に塗装された死体が見つかる。恋人だったという女性が保呂草のもとを訪れ、犯人は分かっているので証明してほしいと依頼する。やがて起きた第二の事件では、死者は緑に塗られていた。Vシリーズ完結編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Vシリーズ_(小説)"
+    },
+    "sourceNote": "2002年9月講談社ノベルス刊、2005年11月講談社文庫。Vシリーズ全10作の完結編。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
