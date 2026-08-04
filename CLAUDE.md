@@ -119,6 +119,8 @@ ranobe-dbの構成をそのまま移植している。
 - `public/sitemap.xml`: `scripts/generate-manifest.mjs`の末尾で生成(`.gitignore`対象)
 - `public/robots.txt`: GitHub Pagesのプロジェクトページではオリジンルートのrobots.txtが優先されうるため、確実に索引させたい場合は Google Search Console にsitemapを手動登録するのが確実(ユーザー自身のGoogleアカウント操作が必要)
 - `scripts/generate-ogp.mjs`(手動実行): Playwrightで1200×630のブランドバナーを生成し`public/og-image.png`に置く
+- `scripts/generate-icons.mjs`(手動実行): `public/favicon.svg`と同じ意匠で`public/favicon.ico`(16/32/48/64px)と`public/apple-touch-icon.png`(180px)を生成する。Playwrightのページ内でGoogle Fontsから`M PLUS Rounded 1c`を読み込んでから描画するのは、このコンテナに同フォントが入っていないため(ImageMagickで直接SVGを変換すると別のsans-serifにフォールバックする)。**四隅は不透明な黒で塗り、アルファを残さない**: 姉妹サイトのアイコンは角丸(`rx=16`)で四隅が透明になっており、タブストリップやICO consumer によっては白く合成される。そのためmystery-dbのアイコンだけは角丸をやめて全面塗りにし、`convert`にも`-alpha remove -alpha off`を渡している。意匠を変えるときは`favicon.svg`とこのスクリプトの両方を直すこと
+- Google Analytics: `index.html`にGA4のgtagスニペットを直書きしている(測定ID `G-JM8SW0R904`)。**姉妹サイトはそれぞれ固有のプロパティを持つ**(ranobe-db `G-2NR0M8VN1N` / manga-db `G-01FCSJVHQX` / game-db `G-V6407CNZ8Y`)ので、サイト間でIDを流用しないこと
 
 ## データ規模の推移
 
@@ -126,7 +128,6 @@ ranobe-dbの構成をそのまま移植している。
 
 ## 既知の未着手事項
 
-- **Google Analytics**: 姉妹サイトは各々固有のGA4プロパティを持つ(ranobe-db `G-2NR0M8VN1N` / manga-db `G-01FCSJVHQX` / game-db `G-V6407CNZ8Y`)。mystery-db用のプロパティは未作成のため、`index.html`にはgtagスニペットを入れていない(該当箇所にコメントあり)。ユーザーがGA4プロパティを作成したら測定IDを埋める
 - ~~**楽天ブックス経由の表紙取得が未実行**~~ → **2026-08-04に解消。24作品中24作品(100%)が解決済み**(内訳: BOOK☆WALKER 16 / 楽天ブックス 8)。最初にBOOK☆WALKERのみで16件を解決したあと、ユーザーから楽天の認証情報を受け取り`--retry-misses`で残り8件を解決した。紙の書籍が中心の古典・文庫作品(本陣殺人事件・獄門島・火車・64・満願・氷菓・Yの悲劇)は楽天ブックスの方が明確に強い。
   - **BOOK☆WALKERの誤マッチ実例(対処済み)**: 『緋色の研究』でBOOK☆WALKERが『【大活字シリーズ】英語原文で味わうSherlock Holmes1』(英語原文の学習用版)を拾っていた。著者名一致・ジャンル判定を通り抜けるタイプの誤マッチなので、`matchedTitle`の目視確認は省略しないこと。**`--force`で回すとこの種の誤マッチが復活するので、再挑戦には必ず`--retry-misses`を使う**
 - **新人賞 / ランキング系のフィルター**: 受賞歴を種別で区別してフィルターする機能は未実装(ranobe-dbと同じ課題)。`awards.json`に賞の種別フィールドの追加が必要
