@@ -782,5 +782,18 @@
     },
     "sourceNote": "人物像はWikipedia日本語版の作者記事で確認した。初登場作は本DBに未登録のため、登録済みの『静かな炎天』を初登場作としている。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yoshiki-takeshi",
+    "name": "吉敷竹史",
+    "nameKana": "よしきたけし",
+    "creatorAuthorId": "shimada-soji",
+    "occupation": "警視庁捜査一課の刑事",
+    "description": "島田荘司の警察小説シリーズの主人公。地道な聞き込みと長距離の移動を厭わず、鉄道や地方の風土に根ざした事件を追う。別れた妻・通子への思いを引きずり続けている点でも、御手洗潔とは対照的な造形になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉敷竹史"
+    },
+    "sourceNote": "人物像は島田荘司のWikipedia日本語版記事および楽天ブックスの各作品の内容紹介で確認した。初登場作は本DBに未登録のためfirstAppearanceWorkIdは設定していない。",
+    "updatedAt": "2026-08-04"
   }
 ]

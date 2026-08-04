@@ -368,6 +368,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:16:58.766Z"
   },
+  "dondonbashi-ochita": {
+    "title": "どんどん橋、落ちた",
+    "isbn": "9784062935517",
+    "matchedTitle": "どんどん橋、落ちた〈新装改訂版〉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5517/9784062935517_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:02.007Z"
+  },
   "dragon-tattoo": {
     "title": "ミレニアム1 ドラゴン・タトゥーの女",
     "isbn": "9784151792519",
@@ -443,6 +451,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:16:59.910Z"
   },
+  "freaks-ayatsuji": {
+    "title": "フリークス",
+    "isbn": "9784043855049",
+    "matchedTitle": "フリークス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5049/9784043855049_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:00.844Z"
+  },
   "french-powder": {
     "title": "フランス白粉の謎",
     "isbn": "9784488104375",
@@ -500,6 +516,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:41:16.161Z",
     "note": "書影は文春文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
+  "gankyu-kitan": {
+    "title": "眼球綺譚",
+    "isbn": "9784043855032",
+    "matchedTitle": "眼球綺譚",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5032/9784043855032_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:46:58.515Z"
   },
   "gekko-game": {
     "title": "月光ゲーム Yの悲劇'88",
@@ -736,6 +760,14 @@
     "resolvedAt": "2026-08-04T02:57:43.399Z",
     "note": "楽天ブックスが解決したのは創元推理文庫の【新訳版】(ISBN 9784488101183)で、works.jsonに登録している新潮文庫・延原謙訳とは版が異なる。作品としては同一なので書影として採用した。以前BOOK☆WALKERが拾っていた『【大活字シリーズ】英語原文で味わうSherlock Holmes1』(英語原文の学習用版)は誤マッチだったため除去済み。"
   },
+  "hiiro-no-sasayaki": {
+    "title": "緋色の囁き",
+    "isbn": "9784065201640",
+    "matchedTitle": "緋色の囁き　〈新装改訂版〉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1640/9784065201640.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:46:39.621Z"
+  },
   "himawari": {
     "title": "向日葵の咲かない夏",
     "isbn": "9784101355511",
@@ -949,6 +981,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4333/9784334764333_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:44.727Z"
+  },
+  "izumo-densetsu-satsujin": {
+    "title": "出雲伝説7/8の殺人",
+    "isbn": "9784334109936",
+    "matchedTitle": "改訂完全版　出雲伝説7／8の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9936/9784334109936_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:10.091Z"
   },
   "jaaku-no-ie": {
     "title": "邪悪の家",
@@ -1228,6 +1268,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:42.700Z"
   },
+  "kirikoshitei-satsujin": {
+    "title": "霧越邸殺人事件",
+    "isbn": "9784041008478",
+    "matchedTitle": "霧越邸殺人事件＜完全改訂版＞（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8478/9784041008478.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:46:57.391Z"
+  },
   "kirin-no-tsubasa": {
     "title": "麒麟の翼",
     "isbn": "9784062777667",
@@ -1235,6 +1283,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7667/9784062777667_1_21.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:29.677Z"
+  },
+  "kiso-ten-o-ugokasu": {
+    "title": "奇想、天を動かす",
+    "isbn": "9784334109387",
+    "matchedTitle": "改訂完全版　奇想、天を動かす",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9387/9784334109387_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:08.948Z"
+  },
+  "kita-no-yuzuru-satsujin": {
+    "title": "北の夕鶴2/3の殺人",
+    "isbn": "9784334110345",
+    "matchedTitle": "改訂完全版　北の夕鶴2/3の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0345/9784334110345_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:11.233Z"
   },
   "koi-to-kinki": {
     "title": "恋と禁忌の述語論理",
@@ -1333,6 +1397,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1039/9784044271039_1_17.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:12.771Z"
+  },
+  "kurayami-no-sasayaki": {
+    "title": "暗闇の囁き",
+    "isbn": "9784065225141",
+    "matchedTitle": "暗闇の囁き　〈新装改訂版〉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5141/9784065225141.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:46:40.780Z"
+  },
+  "kurayamizaka-no-hitokui-no-ki": {
+    "title": "暗闇坂の人喰いの木",
+    "isbn": "9784065227633",
+    "matchedTitle": "改訂完全版　暗闇坂の人喰いの木",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7633/9784065227633.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:05.479Z"
   },
   "kuroi-trunk": {
     "title": "黒いトランク",
@@ -1688,6 +1768,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8687/9784562048687.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:27.288Z"
+  },
+  "mitarai-no-aisatsu": {
+    "title": "御手洗潔の挨拶",
+    "isbn": "9784061849433",
+    "matchedTitle": "御手洗潔の挨拶",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0618/06184943.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:03.153Z"
+  },
+  "mitarai-no-dance": {
+    "title": "御手洗潔のダンス",
+    "isbn": "9784061854383",
+    "matchedTitle": "御手洗潔のダンス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4383/9784061854383.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:04.308Z"
   },
   "mitsukubito": {
     "title": "三つ首塔",
@@ -2196,6 +2292,14 @@
     "resolvedAt": "2026-08-04T03:39:37.367Z",
     "note": "初刊は出版芸術社だが書影は新潮文庫版。登録した刊行元(新潮社)と一致。"
   },
+  "ryugatei-jiken": {
+    "title": "龍臥亭事件",
+    "isbn": "9784334728892",
+    "matchedTitle": "龍臥亭事件（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8892/9784334728892_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:07.798Z"
+  },
   "ryusei-no-kizuna": {
     "title": "流星の絆",
     "isbn": "9784062769204",
@@ -2251,6 +2355,23 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8738/9784041168738_1_21.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:29:24.437Z"
+  },
+  "satsujinki": {
+    "title": "殺人鬼",
+    "isbn": "9784043855056",
+    "matchedTitle": "殺人鬼 --覚醒篇",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5056/9784043855056_1_26.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:46:43.080Z"
+  },
+  "satsujinki-2": {
+    "title": "殺人鬼II 逆襲篇",
+    "isbn": "9784041001691",
+    "matchedTitle": "殺人鬼 --逆襲篇",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1691/9784041001691_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:37.473Z",
+    "note": "登録書名『殺人鬼II 逆襲篇』では書誌に当たらないため、角川文庫版の書名『殺人鬼 --逆襲篇』のISBNを直接指定した。"
   },
   "satsuriku-ni-itaru-yamai": {
     "title": "殺戮にいたる病",
@@ -2594,6 +2715,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:41.207Z"
   },
+  "suisho-no-pyramid": {
+    "title": "水晶のピラミッド",
+    "isbn": "9784061858411",
+    "matchedTitle": "水晶のピラミッド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8411/9784061858411.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:47:06.652Z"
+  },
   "suizokukan": {
     "title": "水族館の殺人",
     "isbn": "9784488443122",
@@ -2657,6 +2786,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0079/9784167110079_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:30.841Z"
+  },
+  "tasogare-no-sasayaki": {
+    "title": "黄昏の囁き",
+    "isbn": "9784065236857",
+    "matchedTitle": "黄昏の囁き　〈新装改訂版〉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6857/9784065236857_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:46:41.923Z"
   },
   "tegami": {
     "title": "手紙",

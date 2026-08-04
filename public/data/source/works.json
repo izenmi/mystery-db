@@ -13704,5 +13704,557 @@
     "externalLinks": {},
     "sourceNote": "2024年8月講談社ノベルス刊。著者記事の著作一覧と楽天ブックスの書誌・内容紹介で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hiiro-no-sasayaki",
+    "title": "緋色の囁き",
+    "titleKana": "ひいろのささやき",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "gakuen",
+      "suspense",
+      "kaiki-gensou",
+      "seishun"
+    ],
+    "seriesName": "囁きシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "名門の女子高に転入した少女を待っていたのは、寮の閉ざされた空気と「魔女」をめぐる噂だった。開かずの間で生徒が死に、その言葉だけが残される。連続する死のなかで、誰が何を隠しているのかが分からなくなっていく。囁きシリーズ第1作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1988年10月祥伝社ノン・ノベル刊、1993年7月ノン・ポシェット、1997年11月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kurayami-no-sasayaki",
+    "title": "暗闇の囁き",
+    "titleKana": "くらやみのささやき",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense",
+      "kazoku",
+      "yakata-mono"
+    ],
+    "seriesName": "囁きシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "森のはざまに建つ白亜の洋館で、美しく謎めいた兄弟の周囲に不可解な死が重なる。遺体はいずれも体の一部を奪われていた。館に招かれた者たちは、兄弟の抱えるものに触れるうちに引き返せなくなっていく。囁きシリーズ第2作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1989年9月祥伝社ノン・ノベル刊、1994年7月ノン・ポシェット、1998年6月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tasogare-no-sasayaki",
+    "title": "黄昏の囁き",
+    "titleKana": "たそがれのささやき",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou",
+      "kazoku",
+      "seishun"
+    ],
+    "seriesName": "囁きシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "兄の急死に不審を抱いた医学生が、元予備校講師の協力を得て事件の裏側を追う。手がかりとなるのは、幼い日の記憶にひっかかる「ね、遊んでよ」という言葉だけだった。過去に見てしまったものの正体へ、少しずつ近づいていく。囁きシリーズ第3作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1993年1月祥伝社ノン・ノベル刊、1996年7月ノン・ポシェット、2001年6月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "satsujinki",
+    "title": "殺人鬼",
+    "titleKana": "さつじんき",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "kaiki-gensou",
+      "closed-circle",
+      "suspense"
+    ],
+    "seriesName": "殺人鬼シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "山中のキャンプ場に集まった若者たちの前に、人の形をした何かが現れる。逃げ場のない森のなかで、一人また一人と容赦なく命を奪われていく。徹底した残酷描写で知られる、著者のホラー路線を代表する長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1990年1月双葉社刊、1994年10月双葉ノベルズ、1996年2月新潮文庫。著者記事の著作一覧で確認した。同題の別作品(斎藤栄『殺人鬼』双葉社)があるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "satsujinki-2",
+    "title": "殺人鬼II 逆襲篇",
+    "titleKana": "さつじんきつーぎゃくしゅうへん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "kaiki-gensou",
+      "closed-circle",
+      "suspense"
+    ],
+    "seriesName": "殺人鬼シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "前作で語られた惨劇の続きが、新たな場所で幕を開ける。逃げる者と追う者の距離が縮まるたびに、状況はさらに救いのない方向へ転がっていく。ホラーの体裁を保ちながら、終盤の一手で作品の見え方を変えてみせる続編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1993年10月双葉社刊、1995年8月双葉ノベルズ、1997年2月新潮文庫。著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kirikoshitei-satsujin",
+    "title": "霧越邸殺人事件",
+    "titleKana": "きりごえていさつじんじけん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "closed-circle",
+      "mitate-satsujin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "吹雪の信州で道を失った劇団の一行が、山中に建つ洋館「霧越邸」に迎え入れられる。邸内には由緒ありげな調度と、素性の知れない住人たち。外界から切り離されたなかで不可解な出来事が続き、やがて人が死に始める。館ものの代表作の一つ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/霧越邸殺人事件"
+    },
+    "sourceNote": "1990年9月新潮社刊、1995年2月新潮文庫、2002年6月祥伝社ノン・ノベル。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。館シリーズとは独立した作品のため、seriesNameは設定していない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gankyu-kitan",
+    "title": "眼球綺譚",
+    "titleKana": "がんきゅうきたん",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "kaiki-gensou",
+      "tanpenshu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "「夜中に、一人で読んでください」という手紙とともに送られてきた原稿には、ある地方都市の奇怪な事件が書かれていた。表題作をはじめ、読み手の足元がじわじわ崩れていく感触を残す作品を集めたホラー短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1995年10月集英社刊、1998年1月祥伝社ノン・ノベル、1999年9月集英社文庫、2009年1月角川文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "freaks-ayatsuji",
+    "title": "フリークス",
+    "titleKana": "ふりーくす",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "tanpenshu",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "精神科医と患者の対話を枠組みに置いた3つの中編を収める。語られる出来事はいずれも歪んでいて、どこまでが記憶でどこからが妄想なのかがはっきりしない。ホラーの装いのなかに本格ミステリの技巧を仕込んだ作品集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1996年4月光文社カッパ・ノベルス刊、2000年3月光文社文庫、2011年4月角川文庫。著者記事の著作一覧で確認した。同題の別作品(極楽院櫻子『フリークス』幻冬舎)があるため、表紙取得時の誤マッチに注意が必要。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dondonbashi-ochita",
+    "title": "どんどん橋、落ちた",
+    "titleKana": "どんどんばしおちた",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "dokusha-e-no-chosen",
+      "tanpenshu",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "作家「綾辻行人」のもとに、知人が奇妙な事件の話を持ち込んでくる。犯人が誰か当ててみろ、と言わんばかりの提示のされ方で、聞き手は毎回まんまと足をすくわれる。犯人当てに特化した趣向の短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1999年10月講談社刊、2001年11月講談社ノベルス、2002年10月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mitarai-no-aisatsu",
+    "title": "御手洗潔の挨拶",
+    "titleKana": "みたらいきよしのあいさつ",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "misshitsu"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "嵐の夜、マンションの11階から姿を消した男が、13分後に走る電車へ飛び込んで死ぬ。全力で走ってもたどり着けない距離で、しかも首には絞められた痕があった。表題作ほか、御手洗潔が短い枚数で不可能状況を崩していく短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1987年10月講談社刊、1991年7月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "mitarai-no-dance",
+    "title": "御手洗潔のダンス",
+    "titleKana": "みたらいきよしのだんす",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tanpenshu",
+      "misshitsu"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "人は空を飛べるはずだと日ごろ言っていた幻想画家が、4階のアトリエから奇声とともに姿を消した。4日後、彼は地上20メートルの電線の上で死体となって見つかる。突拍子もない状況にこそ理屈をつけてみせる、御手洗潔の短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1990年7月講談社刊、1993年7月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kurayamizaka-no-hitokui-no-ki",
+    "title": "暗闇坂の人喰いの木",
+    "titleKana": "くらやみざかのひとくいのき",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kaiki-gensou",
+      "yakata-mono"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "さらし首の名所だった暗闇坂にそびえる樹齢二千年の大楠。この木が人を呑み込むのだという言い伝えのとおり、近づいた者に次々と異変が起こる。信じがたい状況を前に、御手洗潔は伝承と事実を切り分けていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1990年10月講談社刊。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "suisho-no-pyramid",
+    "title": "水晶のピラミッド",
+    "titleKana": "すいしょうのぴらみっど",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "mitarai-kiyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "misshitsu",
+      "kaiki-gensou"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "ギザの大ピラミッドを原寸大で再現した建造物のなかで、地上30メートルの密室にいた男が溺死体で見つかる。冥府の使者アヌビスが五千年を超えて甦ったかのような状況を、御手洗潔が古代エジプトの知識ごと引き受けて解体していく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1991年9月講談社刊、1994年12月講談社文庫。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ryugatei-jiken",
+    "title": "龍臥亭事件",
+    "titleKana": "りゅうがていじけん",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "yakata-mono",
+      "sengo-nihon"
+    ],
+    "seriesName": "御手洗潔シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "御手洗潔が日本を離れて一年半。友人の推理作家・石岡和己は、訪ねてきた女性に頼まれて岡山県の旧家へ向かう。かつてこの地で起きた大量殺人の記憶が残る屋敷で、現在の事件が動き出す。御手洗不在のまま石岡が立ち向かう長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1996年1月光文社より上・下巻で刊行、1999年10月光文社文庫。御手洗潔は登場せず石岡和己が主役のため、detectiveIdsは空にしている。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kiso-ten-o-ugokasu",
+    "title": "奇想、天を動かす",
+    "titleKana": "きそうてんをうごかす",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "yoshiki-takeshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "honkaku",
+      "sengo-nihon"
+    ],
+    "seriesName": "吉敷竹史シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "消費税が導入されて間もない平成元年、わずか十二円の税をめぐって女性店主が刺殺される。逮捕された老人は完全に黙秘を続けた。警視庁捜査一課の吉敷竹史が老人の来歴をたどるうちに、戦後日本が置き去りにしてきたものが姿を現す。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1989年9月光文社刊。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "izumo-densetsu-satsujin",
+    "title": "出雲伝説7/8の殺人",
+    "titleKana": "いずもでんせつはちぶんのななのさつじん",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "yoshiki-takeshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "seriesName": "吉敷竹史シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "山陰を走る六つのローカル線の駅に、切断された女性の遺体が分けて流れ着く。胴体は大阪駅で見つかったが、首だけがどうしても出てこない。休暇で故郷に戻っていた吉敷竹史が、地理と時刻表に縛られた事件に踏み込んでいく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1984年6月光文社刊。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kita-no-yuzuru-satsujin",
+    "title": "北の夕鶴2/3の殺人",
+    "titleKana": "きたのゆうづるさんぶんのにのさつじん",
+    "authorIds": [
+      "shimada-soji"
+    ],
+    "detectiveIds": [
+      "yoshiki-takeshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "keisatsu-shosetsu",
+      "suspense",
+      "kazoku"
+    ],
+    "seriesName": "吉敷竹史シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "五年ぶりに、別れた妻の通子から電話がかかってくる。寝台特急「ゆうづる九号」で彼女の姿を見かけた吉敷竹史だったが、翌日、車内で通子と思われる女性の遺体が発見される。私事と捜査が分かちがたく絡み合うシリーズ屈指の一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "1985年1月光文社刊。著者記事の著作一覧と楽天ブックスの内容紹介で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
