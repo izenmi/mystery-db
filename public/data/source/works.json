@@ -11963,5 +11963,573 @@
     },
     "sourceNote": "原題 Ten Days' Wonder、1948年発表。架空の町ライツヴィルを舞台にした作品の第3話。邦訳は早川書房の越前敏弥訳〔新訳版〕(2021年)を採用し、楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ryusei-no-kizuna",
+    "title": "流星の絆",
+    "titleKana": "りゅうせいのきずな",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "shakaiha",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "両親を殺された三兄妹は、施設で育ちながら犯人への復讐だけを胸に生きてきた。時効が迫るなか、彼らは詐欺まがいの手口で標的に近づこうとするが、末の妹が思わぬ相手に心を寄せてしまう。血のつながりと復讐心のあいだで揺れる兄妹の姿を、鮮やかな仕掛けとともに描く長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/流星の絆"
+    },
+    "sourceNote": "『週刊現代』2006年9月16日号〜2007年9月15日号連載、単行本は2008年3月講談社刊。2008年TBS系でテレビドラマ化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yoake-no-machi-de",
+    "title": "夜明けの街で",
+    "titleKana": "よあけのまちで",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "家庭を持つ会社員が、派遣社員の女性と不倫関係に陥る。彼女は15年前に起きた殺人事件の関係者で、まもなく時効を迎えようとしていた。恋に溺れるほどに事件の影が近づき、男は彼女を信じたい気持ちと疑う気持ちのあいだで追い詰められていく。横浜を舞台にした長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夜明けの街で"
+    },
+    "sourceNote": "『野性時代』2004年9月号〜2007年4月号連載、単行本は2007年6月角川書店刊。2011年に若松節朗監督で映画化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "samayou-yaiba",
+    "title": "さまよう刃",
+    "titleKana": "さまようやいば",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "kazoku",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "ひとり娘を無残なかたちで奪われた父親のもとに、犯人を告げる匿名の電話がかかってくる。少年法に守られる加害者に司法は届かないと悟った父は、自らの手で報いを与えるために走り出す。追う警察官もまた、法と正義のずれに苦しむ。復讐の是非を読者に突きつける社会派長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さまよう刃"
+    },
+    "sourceNote": "『週刊朝日』連載、単行本は2004年12月朝日新聞社刊(現在の朝日新聞出版)。2009年に日本で、2014年に韓国で映画化、2021年にWOWOWでドラマ化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tenku-no-hachi",
+    "title": "天空の蜂",
+    "titleKana": "てんくうのはち",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "自衛隊の巨大ヘリコプターが遠隔操作で奪われ、原子力発電所の真上でホバリングを始める。機内には少年がひとり取り残されていた。犯人が突きつけた要求は、国内の原発すべての破棄。燃料が尽きるまでの時間を計りながら、技術者と警察が救出と交渉に挑む書き下ろし長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天空の蜂"
+    },
+    "sourceNote": "1995年11月講談社より書き下ろしで刊行。第17回吉川英治文学新人賞候補作(候補は本DBの方針により受賞歴に登録しない)。2015年に堤幸彦監督で映画化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chojin-keikaku",
+    "title": "鳥人計画",
+    "titleKana": "ちょうじんけいかく",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "日本スキー界の期待を背負うジャンプ選手が毒殺された。捜査本部に届いたのは、犯人を名指しする匿名の告発文。だが指し示された人物にはアリバイがあった。選手を頂点へ押し上げるために組まれた科学的トレーニング計画の裏側へ、捜査は分け入っていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鳥人計画"
+    },
+    "sourceNote": "1989年5月新潮社「新潮ミステリー倶楽部」より書き下ろしで刊行。1994年新潮文庫、2003年角川文庫。Wikipedia日本語版で確認した。映像化は確認できなかったためmediaMixはすべてfalseとした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "brutus-no-shinzo",
+    "title": "ブルータスの心臓",
+    "titleKana": "ぶるーたすのしんぞう",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "tojo",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "出世と結婚を目前にしたエリート社員が、邪魔になった相手を消すため、三人で殺人を分担する「殺人リレー」を計画する。互いに動機のない部分を実行すれば完全犯罪が成立するはずだった。ところが待ち合わせの場所で、計画は最初から狂っていたことを知る。産業用ロボットを背景にした長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ブルータスの心臓"
+    },
+    "sourceNote": "正式タイトルは『ブルータスの心臓-完全犯罪殺人リレー』。1989年光文社カッパ・ノベルス刊、1993年光文社文庫。2011年に藤原竜也主演でテレビドラマ化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "utsukushiki-kyoki",
+    "title": "美しき凶器",
+    "titleKana": "うつくしききょうき",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "かつて頂点を争った四人の元アスリートが、現役時代の秘密を握る医師を手にかけ、証拠を消して日常へ戻る。だが彼らのもとに、常識では逃げ切れない追跡者が現れる。肉体の限界を極めた者たちが、自らの身体能力ゆえに追い詰められていくサスペンス長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品単独のWikipedia記事はなく、著者記事の著作一覧で1992年光文社カッパ・ノベルス刊、1997年光文社文庫、2020年光文社文庫〈新装版〉を確認した。映像化は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dokyusei-higashino",
+    "title": "同級生",
+    "titleKana": "どうきゅうせい",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "gakuen",
+      "seishun",
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "交通事故で亡くなった同級生の女子生徒は、妊娠していた。相手は自分かもしれないと考えた高校生の主人公は、彼女の死の前後に何があったのかを自分の足で調べ始める。学校という閉じた場所で、生徒も教師も何かを隠している。青春小説の顔をした学園ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "作品単独のWikipedia記事はなく、著者記事の著作一覧で1993年祥伝社刊、1996年講談社文庫を確認した。映像化は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tenshi-no-mimi",
+    "title": "天使の耳",
+    "titleKana": "てんしのみみ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "tanpenshu",
+      "shakaiha",
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "交通事故をめぐる短編集。目撃者の証言、被害者と加害者の立場、事故処理の現場に潜む思惑が、一編ごとに視点を変えて描かれる。誰が正しいのかは、見えていたものと見えていなかったものの差で簡単に反転する。日常に隣り合う事故を題材にした連作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天使の耳"
+    },
+    "sourceNote": "1992年に『交通警察の夜』の題名で実業之日本社より刊行、1995年に『天使の耳』へ改題して講談社文庫版が刊行された。本DBは初刊の書名ではなく現在流通している改題後の書名を採用している。収録作「分離帯」が2009年に漫画化、2023年にテレビドラマ化。いずれもWikipedia日本語版で確認した(映像化・漫画化は収録作単位)。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "chinmoku-no-parade",
+    "title": "沈黙のパレード",
+    "titleKana": "ちんもくのぱれーど",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "yukawa-manabu"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense",
+      "kazoku"
+    ],
+    "seriesName": "ガリレオシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "行方不明だった少女の遺体が見つかる。容疑者として浮かんだ男は、かつて別の少女失踪事件でも疑われながら黙秘を貫いて釈放された人物だった。町の人々の怒りが積み上がるなか、夏祭りのパレードの夜に事件が起きる。湯川学が沈黙の意味を解きほぐしていく長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/沈黙のパレード"
+    },
+    "sourceNote": "2018年10月文藝春秋刊。ガリレオシリーズ第9作・長編としては5作目。2022年に福山雅治主演で映画化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kindan-no-majutsu",
+    "title": "禁断の魔術",
+    "titleKana": "きんだんのまじゅつ",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "yukawa-manabu"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "seriesName": "ガリレオシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "かつて湯川が指導した高校の物理研究会の後輩が、思わぬかたちで事件に関わってしまう。科学の力は人を助けもすれば凶器にもなる。教え子の行き先を察した湯川は、自らが伝えた知識の責任を引き受けるように動き出す。ガリレオシリーズでも湯川の人間性が前に出る一編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/禁断の魔術_ガリレオ8"
+    },
+    "sourceNote": "初刊は2012年10月文藝春秋刊の短編集『禁断の魔術 ガリレオ8』。2015年の文春文庫化にあたり収録作「猛射つ」を改稿・長編化して『禁断の魔術』として刊行された。本DBは現在流通している長編版の書名を採用し、firstPublishedYearは初刊年の2012年とした。2022年に「ガリレオ 禁断の魔術」としてテレビドラマ(スペシャル)化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "utsuro-na-jujika",
+    "title": "虚ろな十字架",
+    "titleKana": "うつろなじゅうじか",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "娘を殺された夫婦は、犯人の死刑を求めて闘い、判決の後に離婚した。それから数年、元妻が刺殺される。遺族として再び事件に向き合う男は、死刑は本当に遺族を救うのか、償いとは何かという問いに引き戻されていく。加害者と遺族の双方を見据えた長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚ろな十字架"
+    },
+    "sourceNote": "2014年5月光文社刊、2017年5月光文社文庫。Wikipedia日本語版で確認した。2026年9月からWOWOW『連続ドラマW』で放送予定と記載があるが、本稿執筆時点では未放送のためmediaMixのdramaはfalseとした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inori-no-maku-ga-oriru-toki",
+    "title": "祈りの幕が下りる時",
+    "titleKana": "いのりのまくがおりるとき",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [
+      "kaga-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "kazoku",
+      "suspense",
+      "meitantei"
+    ],
+    "seriesName": "加賀恭一郎シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "アパートの一室で女性の絞殺死体が見つかる。現場に残されたカレンダーには、日本橋周辺の橋の名が書き込まれていた。捜査を進めた加賀恭一郎は、被害者と旧知だった演出家の女性に行き着き、やがて自身の母の失踪という過去にも触れることになる。シリーズの転回点となる長編。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2014,
+        "result": "第48回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/祈りの幕が下りる時"
+    },
+    "sourceNote": "2013年9月講談社刊、2016年9月講談社文庫。第48回吉川英治文学賞(2014年)受賞を著者記事の受賞歴で確認した。2018年に阿部寛主演で映画化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hakucho-to-komori",
+    "title": "白鳥とコウモリ",
+    "titleKana": "はくちょうとこうもり",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "shakaiha",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "弁護士の遺体が発見され、まもなく男が自首して罪を認める。動機も供述もそろい、事件は解決したように見えた。しかし加害者の息子と被害者の娘は、それぞれの親の語らなかった部分に引っかかりを覚え、独自に過去をたどり始める。加害者家族と被害者家族の双方を描く長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白鳥とコウモリ"
+    },
+    "sourceNote": "2021年4月幻冬舎刊をWikipedia日本語版のinfoboxで確認した。映像化はWikipedia日本語版で確認できなかったためmediaMixはすべてfalseとした。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kikenna-venus",
+    "title": "危険なビーナス",
+    "titleKana": "きけんなびーなす",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "獣医師の主人公のもとに、会ったことのない異父弟の妻を名乗る女性が現れ、夫が失踪したと訴える。二人で行方を追ううちに、莫大な資産を持つ一族の相続争いと、弟が追っていたある研究の存在が浮かび上がる。魅力的な女性に振り回されながら謎を追うエンターテインメント長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/危険なビーナス"
+    },
+    "sourceNote": "2016年8月講談社刊、2019年8月文庫化。2020年10月からTBS系「日曜劇場」でテレビドラマ化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "dying-eye",
+    "title": "ダイイング・アイ",
+    "titleKana": "だいいんぐあい",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "バーテンダーの主人公が何者かに襲われ、自分が過去に起こした交通死亡事故の記憶だけを失っていることに気づく。事故の真相を確かめようとするほど、被害者の女性にまつわる不可解な出来事が身の回りで起こり始める。加害者側の無責任さを見据えたハードサスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダイイング・アイ"
+    },
+    "sourceNote": "『小説宝石』1998年2月号〜1999年1月号連載、単行本は2007年11月光文社刊、2011年1月光文社文庫。2019年にWOWOWでテレビドラマ化。いずれもWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "satsujin-no-mon",
+    "title": "殺人の門",
+    "titleKana": "さつじんのもん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "少年時代からの知り合いに人生の節目ごとに現れては食い物にされ、家庭も財産も少しずつ失っていく男。憎しみは積もるのに、あと一歩で殺意を実行に移せない。人はどこで殺人者になるのか、その境目を主人公の半生を通して見つめ続ける長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2004,
+        "result": "第18位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/殺人の門"
+    },
+    "sourceNote": "2003年角川書店刊、2006年角川文庫。『このミステリーがすごい!2004年版』18位を著者記事のランキング一覧で確認した。2027年2月に映画公開予定との記載があるが未公開のためmediaMixのmovieはfalseとした。",
+    "updatedAt": "2026-08-04"
   }
 ]

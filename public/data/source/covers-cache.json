@@ -171,6 +171,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:20:39.096Z"
   },
+  "brutus-no-shinzo": {
+    "title": "ブルータスの心臓",
+    "isbn": "9784334790851",
+    "matchedTitle": "ブルータスの心臓　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0851/9784334790851_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:28:40.262Z"
+  },
   "bunshin": {
     "title": "分身",
     "isbn": "9784087485196",
@@ -220,6 +228,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0060/9784488130060.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:44.864Z"
+  },
+  "chinmoku-no-parade": {
+    "title": "沈黙のパレード",
+    "isbn": "9784163908717",
+    "matchedTitle": "沈黙のパレード",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8717/9784163908717.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:29:08.093Z"
+  },
+  "chojin-keikaku": {
+    "title": "鳥人計画",
+    "isbn": "9784043718016",
+    "matchedTitle": "鳥人計画",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8016/9784043718016_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:28:39.111Z"
   },
   "climbers-high": {
     "title": "クライマーズ・ハイ",
@@ -327,6 +351,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4382/9784488104382.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:01:41.480Z"
+  },
+  "dying-eye": {
+    "title": "ダイイング・アイ",
+    "isbn": "9784334748968",
+    "matchedTitle": "ダイイング・アイ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8968/9784334748968_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:29:23.280Z"
   },
   "egypt-cross": {
     "title": "エジプト十字架の謎",
@@ -590,6 +622,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:23:50.032Z"
   },
+  "hakucho-to-komori": {
+    "title": "白鳥とコウモリ",
+    "isbn": "9784344433700",
+    "matchedTitle": "白鳥とコウモリ（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3700/9784344433700_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:31:50.829Z",
+    "note": "自動取得が幻冬舎文庫版の下巻(9784344433717)を拾ったため、同日刊行の上巻に差し替えた。"
+  },
   "hakuchu-no-akuma": {
     "title": "白昼の悪魔",
     "isbn": "9784151310201",
@@ -803,6 +844,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:33.836Z",
     "note": "登録は光文社(光文社文庫・江戸川乱歩全集)だが書影は春陽文庫版。作品は同一。"
+  },
+  "inori-no-maku-ga-oriru-toki": {
+    "title": "祈りの幕が下りる時",
+    "isbn": "9784062934978",
+    "matchedTitle": "祈りの幕が下りる時",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4978/9784062934978_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:29:19.801Z"
   },
   "inpei-sosa": {
     "title": "隠蔽捜査",
@@ -1073,6 +1122,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:48.222Z"
   },
+  "kikenna-venus": {
+    "title": "危険なビーナス",
+    "isbn": "9784065165836",
+    "matchedTitle": "危険なビーナス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5836/9784065165836_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:29:22.110Z"
+  },
   "kimenkan": {
     "title": "奇面館の殺人",
     "isbn": "9784062930833",
@@ -1081,6 +1138,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:33.858Z",
     "note": "書影は講談社文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
+  "kindan-no-majutsu": {
+    "title": "禁断の魔術",
+    "isbn": "9784167903770",
+    "matchedTitle": "禁断の魔術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3770/9784167903770.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:29:09.237Z"
   },
   "kiri-no-hata": {
     "title": "霧の旗",
@@ -1921,6 +1986,14 @@
     "resolvedAt": "2026-08-04T03:39:37.367Z",
     "note": "初刊は出版芸術社だが書影は新潮文庫版。登録した刊行元(新潮社)と一致。"
   },
+  "ryusei-no-kizuna": {
+    "title": "流星の絆",
+    "isbn": "9784062769204",
+    "matchedTitle": "流星の絆",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9204/9784062769204_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:28:34.460Z"
+  },
   "sabishii-karyudo": {
     "title": "淋しい狩人",
     "isbn": "9784101369174",
@@ -1945,6 +2018,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-04T04:19:37.811Z"
   },
+  "samayou-yaiba": {
+    "title": "さまよう刃",
+    "isbn": "9784041176320",
+    "matchedTitle": "さまよう刃 新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6320/9784041176320_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:28:36.803Z"
+  },
   "saraba-itoshiki": {
     "title": "さらば愛しき女よ",
     "isbn": null,
@@ -1952,6 +2033,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2020/2000001712020.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-04T05:07:50.642Z"
+  },
+  "satsujin-no-mon": {
+    "title": "殺人の門",
+    "isbn": "9784041168738",
+    "matchedTitle": "殺人の門　上 新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8738/9784041168738_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:29:24.437Z"
   },
   "satsuriku-ni-itaru-yamai": {
     "title": "殺戮にいたる病",
@@ -2352,6 +2441,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:19.093Z"
   },
+  "tenku-no-hachi": {
+    "title": "天空の蜂",
+    "isbn": "9784062639149",
+    "matchedTitle": "天空の蜂",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9149/9784062639149.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:28:37.956Z"
+  },
   "tenshi-no-knife": {
     "title": "天使のナイフ",
     "isbn": "9784065237663",
@@ -2359,6 +2456,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7663/9784065237663_1_58.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:09.807Z"
+  },
+  "tenshi-no-mimi": {
+    "title": "天使の耳",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T06:29:06.899Z"
   },
   "terrorist-no-parasol": {
     "title": "テロリストのパラソル",
@@ -2465,6 +2568,20 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:27.274Z"
   },
+  "utsukushiki-kyoki": {
+    "title": "美しき凶器",
+    "isbn": "9784334791124",
+    "matchedTitle": "美しき凶器　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1124/9784334791124_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:28:41.410Z"
+  },
+  "utsuro-na-jujika": {
+    "title": "虚ろな十字架",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T06:29:18.605Z"
+  },
   "warau-keikan": {
     "title": "笑う警官",
     "isbn": "9784758446068",
@@ -2541,6 +2658,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4013/9784041304013_1_22.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:30.088Z"
+  },
+  "yoake-no-machi-de": {
+    "title": "夜明けの街で",
+    "isbn": "9784043718085",
+    "matchedTitle": "夜明けの街で",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8085/9784043718085.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T06:28:35.653Z"
   },
   "yochimu": {
     "title": "予知夢",

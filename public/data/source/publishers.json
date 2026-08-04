@@ -198,5 +198,16 @@
     },
     "sourceNote": "創業年・事業内容はWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shodensha",
+    "name": "祥伝社",
+    "nameKana": "しょうでんしゃ",
+    "description": "1970年創業の出版社。ノン・ノベル、祥伝社文庫でエンターテインメント小説を数多く刊行している。",
+    "externalLinks": {
+      "officialUrl": "https://www.shodensha.co.jp/"
+    },
+    "sourceNote": "創業年・刊行レーベルはWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

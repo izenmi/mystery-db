@@ -157,5 +157,17 @@
     },
     "sourceNote": "創設年・主催・対象はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yoshikawa-eiji-bungaku-sho",
+    "name": "吉川英治文学賞",
+    "nameKana": "よしかわえいじぶんがくしょう",
+    "organizer": "吉川英治国民文化振興会",
+    "description": "1967年に創設された、大衆文学の分野で優れた業績をあげた作家・作品に贈られる文学賞。新人対象の吉川英治文学新人賞とは別の賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉川英治文学賞"
+    },
+    "sourceNote": "創設年・主催・対象はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
