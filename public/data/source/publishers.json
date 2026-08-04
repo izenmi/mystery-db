@@ -165,5 +165,27 @@
     },
     "sourceNote": "創業年・事業内容はWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takarajimasha",
+    "name": "宝島社",
+    "nameKana": "たからじましゃ",
+    "description": "雑誌・実用書のほか、『このミステリーがすごい!』の刊行と同名の公募新人賞の主催で知られる出版社。",
+    "externalLinks": {
+      "officialUrl": "https://tkj.jp/"
+    },
+    "sourceNote": "事業内容はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kadokawa-haruki",
+    "name": "角川春樹事務所",
+    "nameKana": "かどかわはるきじむしょ",
+    "description": "1993年設立の出版社。文芸書とハルキ文庫を刊行し、警察小説・時代小説を多く手がける。",
+    "externalLinks": {
+      "officialUrl": "https://www.kadokawaharuki.co.jp/"
+    },
+    "sourceNote": "設立年・事業内容はWikipedia日本語版および公式サイトで確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

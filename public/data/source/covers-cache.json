@@ -24,6 +24,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:52:53.601Z"
   },
+  "ahiru-to-kamo": {
+    "title": "アヒルと鴨のコインロッカー",
+    "isbn": "9784488464011",
+    "matchedTitle": "アヒルと鴨のコインロッカー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4884/48846401.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:21.033Z"
+  },
   "akai-yubi": {
     "title": "赤い指",
     "isbn": "9784062764445",
@@ -72,6 +80,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-04T04:40:47.389Z"
   },
+  "audubon": {
+    "title": "オーデュボンの祈り",
+    "isbn": "9784101250212",
+    "matchedTitle": "オーデュボンの祈り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0212/9784101250212.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:24.490Z"
+  },
   "baskerville": {
     "title": "バスカヴィル家の犬",
     "isbn": "9784102134078",
@@ -113,6 +129,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5013/9784488415013_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:53.870Z"
+  },
+  "cadiz": {
+    "title": "カディスの赤い星",
+    "isbn": "9784062756402",
+    "matchedTitle": "新装版　カディスの赤い星（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6402/9784062756402.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:50.236Z",
+    "note": "書影は講談社文庫の新装版(上巻)。"
   },
   "climbers-high": {
     "title": "クライマーズ・ハイ",
@@ -204,6 +229,15 @@
     "resolvedAt": "2026-08-04T04:17:19.850Z",
     "note": "書影は早川書房版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
+  "eien-no-ko": {
+    "title": "永遠の仔",
+    "isbn": "9784344405714",
+    "matchedTitle": "永遠の仔　1　再会",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3444/34440571.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:49.089Z",
+    "note": "書影は幻冬舎文庫版(全5巻)の第1巻『再会』。"
+  },
   "eugenia": {
     "title": "ユージニア",
     "isbn": "9784043710027",
@@ -287,6 +321,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:33.990Z"
   },
+  "golden-slumber": {
+    "title": "ゴールデンスランバー",
+    "isbn": "9784101250267",
+    "matchedTitle": "ゴールデンスランバー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0267/9784101250267.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:22.192Z"
+  },
   "goth": {
     "title": "GOTH リストカット事件",
     "isbn": null,
@@ -316,6 +358,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1022/9784044271022_1_27.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:11.585Z"
+  },
+  "haikyo-ni-kou": {
+    "title": "廃墟に乞う",
+    "isbn": "9784167796037",
+    "matchedTitle": "廃墟に乞う",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6037/9784167796037_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:46.201Z"
   },
   "hakanai-hitsuji": {
     "title": "儚い羊たちの祝宴",
@@ -537,6 +587,14 @@
     "coverUrl": "https://c.bookwalker.jp/662671/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:43.412Z"
+  },
+  "juryoku-pierrot": {
+    "title": "重力ピエロ",
+    "isbn": "9784101250236",
+    "matchedTitle": "重力ピエロ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0236/9784101250236.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:25.643Z"
   },
   "juusan-kaidan": {
     "title": "13階段",
@@ -1076,6 +1134,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:40.105Z"
   },
+  "nazotoki-dinner": {
+    "title": "謎解きはディナーのあとで",
+    "isbn": "9784094087574",
+    "matchedTitle": "謎解きはディナーのあとで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7574/9784094087574_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:52.561Z"
+  },
   "nemuri-no-mori": {
     "title": "眠りの森",
     "isbn": null,
@@ -1158,6 +1224,12 @@
     "resolvedAt": "2026-08-04T04:41:17.426Z",
     "note": "書影は文春文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
+  "rensa": {
+    "title": "連鎖",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T04:56:42.693Z"
+  },
   "rirasou": {
     "title": "りら荘事件",
     "isbn": "9784488403140",
@@ -1223,6 +1295,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:14.721Z"
   },
+  "sayonara-debussy": {
+    "title": "さよならドビュッシー",
+    "isbn": "9784796679923",
+    "matchedTitle": "さよならドビュッシー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9923/9784796679923.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:51.404Z"
+  },
   "seijo-no-kyusai": {
     "title": "聖女の救済",
     "isbn": "9784167110147",
@@ -1262,6 +1342,23 @@
     "coverUrl": "https://c.bookwalker.jp/0689053/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:49:11.197Z"
+  },
+  "shinigami-no-seido": {
+    "title": "死神の精度",
+    "isbn": "9784167923372",
+    "matchedTitle": "死神の精度",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3372/9784167923372_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:23.342Z",
+    "note": "書影は文春文庫版。"
+  },
+  "shinjuku-zame": {
+    "title": "新宿鮫",
+    "isbn": "9784334766986",
+    "matchedTitle": "新宿鮫",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6986/9784334766986_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:26.799Z"
   },
   "shinzanmono": {
     "title": "新参者",
@@ -1328,6 +1425,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1967/9784167901967.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:19:38.953Z"
+  },
+  "soratobu-tire": {
+    "title": "空飛ぶタイヤ",
+    "isbn": "9784062764520",
+    "matchedTitle": "空飛ぶタイヤ（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4520/9784062764520_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:47.940Z",
+    "note": "登録は実業之日本社(単行本)だが書影は講談社文庫版の上巻。作品は同一。"
   },
   "soratobu-uma": {
     "title": "空飛ぶ馬",
@@ -1465,6 +1571,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:09.807Z"
   },
+  "terrorist-no-parasol": {
+    "title": "テロリストのパラソル",
+    "isbn": "9784062638173",
+    "matchedTitle": "テロリストのパラソル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8173/9784062638173_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:27.960Z"
+  },
   "tesso-no-ori": {
     "title": "鉄鼠の檻",
     "isbn": "9784062732475",
@@ -1554,6 +1668,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:27.274Z"
   },
+  "warau-keikan": {
+    "title": "笑う警官",
+    "isbn": "9784758446068",
+    "matchedTitle": "（新装版）笑う警官",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6068/9784758446068.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:45.049Z",
+    "note": "書影はハルキ文庫の新装版。登録した刊行元(角川春樹事務所)と同じ版元。"
+  },
   "warawanai-sugakusha": {
     "title": "笑わない数学者",
     "isbn": "9784062646147",
@@ -1569,6 +1692,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5841/9784065325841_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:35:26.109Z"
+  },
+  "whiteout": {
+    "title": "ホワイトアウト",
+    "isbn": "9784101270210",
+    "matchedTitle": "ホワイトアウト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1012/10127021.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T04:56:43.905Z"
   },
   "x-no-higeki": {
     "title": "Xの悲劇",

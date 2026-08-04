@@ -7601,5 +7601,590 @@
     },
     "sourceNote": "1987年12月、講談社より刊行(1990年12月講談社文庫)。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。受賞歴は確認できなかった。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ahiru-to-kamo",
+    "title": "アヒルと鴨のコインロッカー",
+    "titleKana": "あひるとかものこいんろっかー",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "seishun",
+      "suspense",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "引っ越してきた大学生の椎名は、隣人から「一緒に本屋を襲わないか」と誘われる。目的は一冊の広辞苑。二年前の出来事と現在が交互に語られ、二つの時間が近づいていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アヒルと鴨のコインロッカー"
+    },
+    "sourceNote": "2003年、東京創元社より刊行。第25回吉川英治文学新人賞受賞(2004年)だが本DB未登録の賞のため受賞歴には登録していない。2007年映画化、2016年舞台化。以上をWikipedia日本語版で確認。作品の仕掛けに関わるタグはspoiler扱いのものを用いている。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "golden-slumber",
+    "title": "ゴールデンスランバー",
+    "titleKana": "ごーるでんすらんばー",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "仙台で首相の暗殺事件が起き、宅配ドライバーの青柳雅春が実行犯に仕立て上げられる。逃げる以外にできることがないまま、彼はかつての友人たちに助けられながら街を走り続ける。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2008,
+        "result": "第21回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴールデンスランバー"
+    },
+    "sourceNote": "2007年、新潮社より刊行。第21回山本周五郎賞・第5回本屋大賞(本屋大賞は本DB未登録のため未登録)を受賞。2010年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinigami-no-seido",
+    "title": "死神の精度",
+    "titleKana": "しにがみのせいど",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tokushu-settei",
+      "rensaku-tanpen",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "死神の千葉は、対象となる人間を七日間観察し、その死を「可」とするか「見送り」とするかを報告する。音楽を愛し人間の事情に疎い彼が出会う六つの人生を描いた連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2004,
+        "result": "第57回受賞(短編部門、表題作「死神の精度」)"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/死神の精度"
+    },
+    "sourceNote": "2005年、文藝春秋より刊行の連作短編集。表題作「死神の精度」が2004年に第57回日本推理作家協会賞短編部門を受賞している(受賞は単行本刊行前の短編に対するもの)。2008年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "audubon",
+    "title": "オーデュボンの祈り",
+    "titleKana": "おーでゅぼんのいのり",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "tokushu-settei",
+      "kotou",
+      "kaiki-gensou",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "コンビニ強盗に失敗した伊藤は、気がつくと外界から切り離された島にいた。島には未来を予知できる喋る案山子がいて、住民たちに慕われている。その案山子が、ある朝ばらばらに壊されて見つかる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オーデュボンの祈り"
+    },
+    "sourceNote": "第5回新潮ミステリー倶楽部賞を受賞し、2000年に新潮社〈新潮ミステリー倶楽部〉より刊行された著者のデビュー作(2003年新潮文庫)。同賞は本DB未登録のため受賞歴には登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "juryoku-pierrot",
+    "title": "重力ピエロ",
+    "titleKana": "じゅうりょくぴえろ",
+    "authorIds": [
+      "isaka-kotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "kazoku",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "連続放火と、その現場近くに現れるグラフィティアート。兄の泉水と弟の春は、二つの出来事の対応関係に気づき、独自に調べ始める。兄弟が抱えてきた家族の事情が、少しずつ明らかになっていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2004,
+        "result": "第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/重力ピエロ"
+    },
+    "sourceNote": "2003年、新潮社より刊行。第129回直木賞・第57回日本推理作家協会賞・第1回本屋大賞の候補(候補は登録しない方針のため未登録)、『このミステリーがすごい!』2004年版3位。2009年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shinjuku-zame",
+    "title": "新宿鮫",
+    "titleKana": "しんじゅくざめ",
+    "authorIds": [
+      "osawa-arimasa"
+    ],
+    "detectiveIds": [
+      "samejima"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "hardboiled",
+      "noir",
+      "suspense"
+    ],
+    "seriesName": "新宿鮫シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "警察内部の抗争で孤立し、新宿署に置かれたままの警部・鮫島。街で改造拳銃による警官殺しが続くなか、彼は組織の後ろ盾なしに銃器職人を追う。シリーズ第1作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1991,
+        "result": "第44回受賞(長編部門)"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新宿鮫シリーズ"
+    },
+    "sourceNote": "1990年、光文社より刊行。第44回日本推理作家協会賞(長編部門)および第12回吉川英治文学新人賞(本DB未登録のため未登録)を受賞。作品単独のWikipedia記事はないためシリーズ記事と著者記事で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "terrorist-no-parasol",
+    "title": "テロリストのパラソル",
+    "titleKana": "てろりすとのぱらそる",
+    "authorIds": [
+      "fujiwara-iori"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "hardboiled",
+      "suspense",
+      "shakaiha",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "新宿の公園で爆弾テロが起き、居合わせたアルコール依存のバーテンダーが容疑者として追われる。彼には二十数年前の学生運動に関わる過去があった。逃亡しながら、男は自分の過去と向き合う。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1995,
+        "result": "第41回受賞"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 1996,
+        "result": "第114回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テロリストのパラソル"
+    },
+    "sourceNote": "1995年9月、講談社より刊行。江戸川乱歩賞受賞作が直木賞も受賞した初めての例。以上をWikipedia日本語版(作品記事・著者記事)で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "rensa",
+    "title": "連鎖",
+    "titleKana": "れんさ",
+    "authorIds": [
+      "shimpo-yuichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "厚生省の食品衛生監視員が、輸入食品をめぐる不正の痕跡に気づく。組織の壁に阻まれながら調査を続けるうち、事件は国境を越えた大きな構図につながっていく。著者のデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1991,
+        "result": "第37回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真保裕一"
+    },
+    "sourceNote": "1991年9月、講談社より刊行。第37回江戸川乱歩賞受賞のデビュー作。作品単独のWikipedia記事はないため著者記事の著作一覧・受賞歴で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "whiteout",
+    "title": "ホワイトアウト",
+    "titleKana": "ほわいとあうと",
+    "authorIds": [
+      "shimpo-yuichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "厳冬の奥遠和ダムが武装グループに占拠され、五十人以上が人質に取られる。吹雪で孤立した現場に残ったダム職員がただ一人、外部との連絡を絶たれたまま奪還を試みる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ホワイトアウト_(小説)"
+    },
+    "sourceNote": "1995年、新潮社〈新潮ミステリー倶楽部〉より書き下ろしで刊行。1996年に第17回吉川英治文学新人賞を受賞(本DB未登録の賞のため未登録)。2000年映画化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "warau-keikan",
+    "title": "笑う警官",
+    "titleKana": "わらうけいかん",
+    "authorIds": [
+      "sasaki-joh"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "shakaiha"
+    ],
+    "seriesName": "道警シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "北海道警の女性警官が自室で射殺され、同僚の男が容疑者として射殺命令つきで追われる。組織ぐるみの不祥事を疑った刑事たちは、非番の日に集まり、独自の捜査本部を立ち上げる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐々木譲"
+    },
+    "sourceNote": "2004年12月に『うたう警官』として角川春樹事務所より刊行され、2007年5月のハルキ文庫版で『笑う警官』に改題。道警シリーズ第1作。2009年映画化。作品単独のWikipedia記事はないため著者記事の著作一覧で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "haikyo-ni-kou",
+    "title": "廃墟に乞う",
+    "titleKana": "はいきょにこう",
+    "authorIds": [
+      "sasaki-joh"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "心を病んで休職中の道警刑事・仙道孝司のもとに、かつての同僚や知人から私的な調査の依頼が持ち込まれる。北海道各地の寂れた町を訪ね歩く六編を収めた連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 2010,
+        "result": "第142回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐々木譲"
+    },
+    "sourceNote": "2009年7月、文藝春秋より刊行の連作短編集(2012年1月文春文庫)。第142回直木賞受賞。作品単独のWikipedia記事はないため著者記事の著作一覧・受賞歴で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "soratobu-tire",
+    "title": "空飛ぶタイヤ",
+    "titleKana": "そらとぶたいや",
+    "authorIds": [
+      "ikeido-jun"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "走行中のトレーラーからタイヤが外れ、通行人が死亡した。整備不良と決めつけられた運送会社の社長は、自社に非はないと信じて大手自動車メーカーに立ち向かう。実際の事故に着想を得た長編。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/空飛ぶタイヤ"
+    },
+    "sourceNote": "『月刊J-novel』2005年〜2006年連載、2006年9月16日に実業之日本社より単行本刊行。発表年は連載開始年の2005年を採った。第28回吉川英治文学新人賞・第136回直木賞の候補(候補は登録しない方針のため未登録)。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "eien-no-ko",
+    "title": "永遠の仔",
+    "titleKana": "えいえんのこ",
+    "authorIds": [
+      "tendo-arata"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "shakaiha",
+      "kazoku",
+      "suspense",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "児童養護施設で出会った三人の子どもが、十七年後に弁護士・警察官・看護師として再会する。それぞれが虐待の記憶を抱えたまま、封じてきた過去の出来事に向き合っていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/永遠の仔"
+    },
+    "sourceNote": "1999年3月、幻冬舎より上下巻で刊行された書き下ろし長編。テレビドラマ化あり。受賞歴の記載は確認できた範囲では本DB未登録の賞に限られるため登録していない。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "cadiz",
+    "title": "カディスの赤い星",
+    "titleKana": "かでぃすのあかいほし",
+    "authorIds": [
+      "osaka-go"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "hardboiled",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "広告代理店に勤める漆田亮は、スペインの伝説的なギター製作者を探す依頼を受ける。フラメンコと内戦の記憶が残るスペインで、彼はテロ組織と情報機関の争いに巻き込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1986,
+        "result": "第96回受賞(1986年下半期)"
+      },
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1987,
+        "result": "第40回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カディスの赤い星"
+    },
+    "sourceNote": "1986年、講談社より書き下ろしで刊行。第96回直木賞(1986年下半期)、第5回日本冒険小説協会大賞(本DB未登録のため未登録)、第40回日本推理作家協会賞を受賞。1987年ラジオドラマ化、1992年テレビドラマ化。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sayonara-debussy",
+    "title": "さよならドビュッシー",
+    "titleKana": "さよならどびゅっしー",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [
+      "misaki-yosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "honkaku",
+      "seishun",
+      "kazoku",
+      "suspense"
+    ],
+    "seriesName": "岬洋介シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "火事で従妹と祖父を失い、自らも全身に重傷を負った少女・遥。ピアニストになる夢を諦めきれない彼女のもとに、指導者として岬洋介が現れる。リハビリと練習の日々の裏で、不審な出来事が続く。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-taisho",
+        "year": 2010,
+        "result": "第8回大賞(『トギオ』とのダブル受賞)"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さよならドビュッシー"
+    },
+    "sourceNote": "第8回『このミステリーがすごい!』大賞を太朗想史郎『トギオ』とのダブル受賞で獲得し、応募作『バイバイ、ドビュッシー』に加筆して2010年に宝島社より刊行。岬洋介シリーズ第1作。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nazotoki-dinner",
+    "title": "謎解きはディナーのあとで",
+    "titleKana": "なぞときはでぃなーのあとで",
+    "authorIds": [
+      "higashigawa-tokuya"
+    ],
+    "detectiveIds": [
+      "kageyama"
+    ],
+    "translatorIds": [],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "meitantei",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "大財閥の令嬢でありながら、身分を隠して刑事を務める宝生麗子。行き詰まった事件の話を夕食の席で漏らすと、執事の影山が容赦のない口調で矛盾を指摘し、真相を言い当てる連作短編集。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/謎解きはディナーのあとで"
+    },
+    "sourceNote": "2010年9月、小学館より刊行(2012年10月小学館文庫)。第8回本屋大賞受賞(2011年)は本DB未登録の賞のため未登録、第11回本格ミステリ大賞候補も未登録。シリーズ累計320万部。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
   }
 ]

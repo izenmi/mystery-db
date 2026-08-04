@@ -626,5 +626,47 @@
     },
     "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "samejima",
+    "name": "鮫島",
+    "nameKana": "さめじま",
+    "creatorAuthorId": "osawa-arimasa",
+    "occupation": "新宿署の警部",
+    "description": "キャリアでありながら、警察内部の抗争に巻き込まれて一人だけ所轄に置かれた刑事。組織の後ろ盾を持たないまま、新宿の街で単独捜査を続ける。",
+    "firstAppearanceWorkId": "shinjuku-zame",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新宿鮫シリーズ"
+    },
+    "sourceNote": "人物像・シリーズの設定はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "misaki-yosuke",
+    "name": "岬洋介",
+    "nameKana": "みさきようすけ",
+    "creatorAuthorId": "nakayama-shichiri",
+    "occupation": "ピアニスト",
+    "description": "法曹を志しながら音楽の道に進んだ青年。並外れた聴覚と観察眼を持ち、演奏の現場で起きた事件に居合わせては真相を言い当てる。",
+    "firstAppearanceWorkId": "sayonara-debussy",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さよならドビュッシー"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kageyama",
+    "name": "影山",
+    "nameKana": "かげやま",
+    "creatorAuthorId": "higashigawa-tokuya",
+    "occupation": "執事",
+    "description": "大富豪の令嬢に仕える執事。夕食後に主人が語る事件の話を聞き、毒舌まじりに矛盾を突きながら真相を示す。",
+    "firstAppearanceWorkId": "nazotoki-dinner",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/謎解きはディナーのあとで"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]

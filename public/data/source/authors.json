@@ -835,5 +835,125 @@
     },
     "sourceNote": "コンビの構成・経歴はWikipedia日本語版で確認した。合作名義のため生年は記載していない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "isaka-kotaro",
+    "name": "伊坂幸太郎",
+    "nameKana": "いさかこうたろう",
+    "description": "軽やかな会話と伏線の回収で知られる作家。犯罪小説の枠組みを使いながら、独特のユーモアと寓話性を持つ作品を書く。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/伊坂幸太郎"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "osawa-arimasa",
+    "name": "大沢在昌",
+    "nameKana": "おおさわありまさ",
+    "description": "ハードボイルド・警察小説の書き手。新宿署の一匹狼の刑事を主人公とする「新宿鮫」シリーズで知られる。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大沢在昌"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fujiwara-iori",
+    "name": "藤原伊織",
+    "nameKana": "ふじわらいおり",
+    "description": "広告代理店に勤めながら執筆した作家。ハードボイルドの文体と苦みのある人物造形で知られる。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤原伊織"
+    },
+    "sourceNote": "生年・経歴・受賞歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shimpo-yuichi",
+    "name": "真保裕一",
+    "nameKana": "しんぽゆういち",
+    "description": "アニメの制作進行を経て作家となった。専門的な職業の現場を徹底して取材し、緻密なサスペンスに仕立てる作風で知られる。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/真保裕一"
+    },
+    "sourceNote": "生年・経歴・受賞歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "sasaki-joh",
+    "name": "佐々木譲",
+    "nameKana": "ささきじょう",
+    "description": "冒険小説・戦記小説から警察小説まで幅広く手がける作家。北海道警を舞台にした一連の作品で知られる。",
+    "birthYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/佐々木譲"
+    },
+    "sourceNote": "生年・経歴・受賞歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "ikeido-jun",
+    "name": "池井戸潤",
+    "nameKana": "いけいどじゅん",
+    "description": "銀行員の経験を生かし、企業や金融の現場を舞台にした小説を書く作家。組織と個人の対立を主題にすることが多い。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/池井戸潤"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tendo-arata",
+    "name": "天童荒太",
+    "nameKana": "てんどうあらた",
+    "description": "家族の傷や虐待といった重い主題を、ミステリの構造を用いて描く作家。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天童荒太"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "osaka-go",
+    "name": "逢坂剛",
+    "nameKana": "おうさかごう",
+    "description": "広告代理店勤務のかたわら執筆を始めた作家。スペインを舞台にした冒険小説と、時代小説の双方で知られる。",
+    "birthYear": 1943,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/逢坂剛"
+    },
+    "sourceNote": "生年・経歴・受賞歴はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nakayama-shichiri",
+    "name": "中山七里",
+    "nameKana": "なかやましちり",
+    "description": "『さよならドビュッシー』でデビューした作家。終盤で状況が反転する構成を得意とし、多作でも知られる。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中山七里"
+    },
+    "sourceNote": "生年・経歴・デビュー作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "higashigawa-tokuya",
+    "name": "東川篤哉",
+    "nameKana": "ひがしがわとくや",
+    "description": "ユーモアミステリの書き手。軽妙な会話と本格ミステリの骨格を組み合わせた作品で知られる。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東川篤哉"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

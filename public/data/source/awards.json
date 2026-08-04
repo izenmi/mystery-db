@@ -145,5 +145,17 @@
     },
     "sourceNote": "創設年・主催・対象はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kono-mystery-taisho",
+    "name": "『このミステリーがすごい!』大賞",
+    "nameKana": "このみすてりーがすごいたいしょう",
+    "organizer": "宝島社",
+    "description": "2002年に宝島社が創設した、エンターテインメント小説の公募新人賞。受賞作は宝島社から刊行される。年間ランキング『このミステリーがすごい!』とは別の賞。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/このミステリーがすごい!大賞"
+    },
+    "sourceNote": "創設年・主催・対象はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]
