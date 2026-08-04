@@ -229,6 +229,22 @@
     "resolvedAt": "2026-08-04T04:17:19.850Z",
     "note": "書影は早川書房版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
+  "dutch-shoe": {
+    "title": "オランダ靴の謎",
+    "isbn": "9784488104382",
+    "matchedTitle": "オランダ靴の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4382/9784488104382.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:01:41.480Z"
+  },
+  "egypt-cross": {
+    "title": "エジプト十字架の謎",
+    "isbn": "9784488104405",
+    "matchedTitle": "エジプト十字架の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4405/9784488104405.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:01:42.640Z"
+  },
   "eien-no-ko": {
     "title": "永遠の仔",
     "isbn": "9784344405714",
@@ -245,6 +261,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0027/9784043710027_1_7.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:50.409Z"
+  },
+  "father-brown-chie": {
+    "title": "ブラウン神父の知恵",
+    "isbn": "9784488110147",
+    "matchedTitle": "ブラウン神父の知恵",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0147/9784488110147.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:03:14.797Z",
+    "note": "登録どおり東京創元社の中村保男訳。自動取得では筑摩書房版(南條竹則ほか訳)が当たっていたため差し替えた。"
   },
   "father-brown-doshin": {
     "title": "ブラウン神父の童心",
@@ -312,6 +337,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0112/9784062730112.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:30:57.326Z"
+  },
+  "gohiki-no-kobuta": {
+    "title": "五匹の子豚",
+    "isbn": "9784151310218",
+    "matchedTitle": "五匹の子豚",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0218/9784151310218_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:01:37.978Z"
   },
   "gokumonto": {
     "title": "獄門島",
@@ -450,6 +483,23 @@
     "resolvedAt": "2026-08-04T03:51:33.375Z",
     "note": "登録した新潮文庫・延原謙訳に手動で合わせた(自動取得では英語対訳版が当たっていた)"
   },
+  "holmes-kaiso": {
+    "title": "シャーロック・ホームズの回想",
+    "isbn": null,
+    "matchedTitle": "シャーロック・ホームズの回想",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7831/2000000247831.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-04T05:02:43.318Z"
+  },
+  "holmes-kikan": {
+    "title": "シャーロック・ホームズの帰還",
+    "isbn": "9784102134023",
+    "matchedTitle": "シャーロック・ホームズの帰還",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4023/9784102134023.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:03:12.287Z",
+    "note": "登録どおり新潮文庫の延原謙訳。自動取得では河出書房新社版が当たっていたため差し替えた。"
+  },
   "honjin-satsujin": {
     "title": "本陣殺人事件",
     "isbn": "9784041304082",
@@ -574,6 +624,15 @@
     "resolvedAt": "2026-08-04T04:46:08.799Z",
     "note": "書影は創元推理文庫版の上巻。"
   },
+  "judas-window": {
+    "title": "ユダの窓",
+    "isbn": "9784488118389",
+    "matchedTitle": "ユダの窓",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8389/9784488118389.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:03:17.323Z",
+    "note": "登録どおり東京創元社の高沢治訳。自動取得では解決できずISBN指定で設定した。"
+  },
   "jujiyashiki": {
     "title": "十字屋敷のピエロ",
     "isbn": null,
@@ -653,6 +712,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9181/9784101369181.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:36.348Z"
+  },
+  "kayo-club": {
+    "title": "火曜クラブ",
+    "isbn": "9784151300547",
+    "matchedTitle": "火曜クラブ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0547/9784151300547.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:01:40.324Z"
   },
   "kiganjo": {
     "title": "奇岩城",
@@ -795,6 +862,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:03.238Z"
   },
+  "kyofu-no-tani": {
+    "title": "恐怖の谷",
+    "isbn": "9784041086223",
+    "matchedTitle": "恐怖の谷",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6223/9784041086223_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:03:13.543Z",
+    "note": "登録どおり角川文庫の駒月雅子訳。自動取得では偕成社の児童向け版が当たっていたため差し替えた。"
+  },
   "kyojintei": {
     "title": "兇人邸の殺人",
     "isbn": "9784488028459",
@@ -828,6 +904,15 @@
     "resolvedAt": "2026-08-04T03:57:19.393Z",
     "note": "書影は講談社の新装版(上巻)。"
   },
+  "kyubi-no-neko": {
+    "title": "九尾の猫",
+    "isbn": "9784150701529",
+    "matchedTitle": "九尾の猫〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1529/9784150701529.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:03:16.057Z",
+    "note": "登録どおり早川書房の越前敏弥訳〔新訳版〕。自動取得では解決できずISBN指定で設定した。"
+  },
   "kyujukyu-percent": {
     "title": "99%の誘拐",
     "isbn": "9784062747875",
@@ -845,6 +930,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:41.547Z",
     "note": "書影は文春文庫版の上巻。"
+  },
+  "lane-last-case": {
+    "title": "レーン最後の事件",
+    "isbn": "9784042507185",
+    "matchedTitle": "レーン最後の事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7185/9784042507185_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:03:11.034Z",
+    "note": "登録どおり角川文庫の越前敏弥訳。自動取得では東京創元社(鮎川信夫訳)が当たっていたため差し替えた。"
   },
   "lautrec-so": {
     "title": "ロートレック荘事件",
@@ -887,6 +981,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:19.116Z",
     "note": "登録は原書房(単行本)だが書影は講談社文庫版。作品は同一。"
+  },
+  "magatta-chotsugai": {
+    "title": "曲がった蝶番",
+    "isbn": "9784488118341",
+    "matchedTitle": "曲がった蝶番",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8341/9784488118341.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:03:18.588Z",
+    "note": "登録どおり東京創元社の三角和代訳。自動取得では解決できずISBN指定で設定した。"
   },
   "main-theme": {
     "title": "メインテーマは殺人",
@@ -1215,6 +1318,14 @@
     "resolvedAt": "2026-08-04T04:09:04.096Z",
     "note": "登録は講談社の単行本だが書影は講談社文庫版(上巻)。作品は同一。"
   },
+  "paddington": {
+    "title": "パディントン発4時50分",
+    "isbn": "9784151300417",
+    "matchedTitle": "パディントン発4時50分",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0417/9784151300417_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:01:39.142Z"
+  },
   "rakuen-miyabe": {
     "title": "楽園",
     "isbn": "9784167549077",
@@ -1223,6 +1334,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:41:17.426Z",
     "note": "書影は文春文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
+  },
+  "red-redmaynes": {
+    "title": "赤毛のレドメイン家",
+    "isbn": "9784488111069",
+    "matchedTitle": "赤毛のレドメイン家【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1069/9784488111069.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:02:45.674Z"
   },
   "rensa": {
     "title": "連鎖",
@@ -1792,6 +1911,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2949/9784062732949.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:02.061Z"
+  },
+  "z-no-higeki": {
+    "title": "Zの悲劇",
+    "isbn": "9784488104467",
+    "matchedTitle": "Zの悲劇【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4467/9784488104467_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T05:03:09.775Z",
+    "note": "登録どおり東京創元社の中村有希訳【新訳版】。自動取得では角川文庫(越前敏弥訳)が当たっていたため差し替えた。"
   },
   "zero-no-shoten": {
     "title": "ゼロの焦点",

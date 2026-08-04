@@ -955,5 +955,17 @@
     },
     "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "eden-philpotts",
+    "name": "イーデン・フィルポッツ",
+    "nameKana": "いーでんふぃるぽっつ",
+    "description": "イギリスの作家。地方の風土を描く小説を多く残す一方、推理小説黄金時代の古典とされる作品も書いた。アガサ・クリスティーの助言者としても知られる。",
+    "birthYear": 1862,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/イーデン・フィルポッツ"
+    },
+    "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

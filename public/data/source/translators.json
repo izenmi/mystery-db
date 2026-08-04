@@ -204,5 +204,53 @@
     "description": "英米ミステリの翻訳者。ディクスン・カーやコナン・ドイルの新訳を手がけている。",
     "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "yamamoto-yayoi",
+    "name": "山本やよい",
+    "nameKana": "やまもとやよい",
+    "description": "英米ミステリの翻訳者。早川書房のクリスティー文庫などを手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "matsushita-shoko",
+    "name": "松下祥子",
+    "nameKana": "まつしたしょうこ",
+    "description": "英米ミステリの翻訳者。クリスティー作品の邦訳を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "nakamura-taeko",
+    "name": "中村妙子",
+    "nameKana": "なかむらたえこ",
+    "description": "英米文学の翻訳者。クリスティー作品をはじめ、児童文学やキリスト教関連書も多く訳している。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "takazawa-osamu",
+    "name": "高沢治",
+    "nameKana": "たかざわおさむ",
+    "description": "英米ミステリの翻訳者。カーター・ディクスン名義の作品などを手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "misumi-kazuyo",
+    "name": "三角和代",
+    "nameKana": "みすみかずよ",
+    "description": "英米ミステリの翻訳者。ディクスン・カー作品の新訳などを手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "muto-takae",
+    "name": "武藤崇恵",
+    "nameKana": "むとうたかえ",
+    "description": "英米ミステリの翻訳者。古典推理小説の新訳を手がけている。",
+    "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

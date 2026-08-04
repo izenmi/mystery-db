@@ -668,5 +668,19 @@
     },
     "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "henry-merrivale",
+    "name": "ヘンリ・メリヴェール卿",
+    "nameKana": "へんりめりゔぇーるきょう",
+    "creatorAuthorId": "john-dickson-carr",
+    "occupation": "法廷弁護士・元情報部長",
+    "description": "カーター・ディクスン名義の作品に登場する探偵。粗野な物言いと剽軽な振る舞いの裏に、不可能犯罪を解く力を隠している。法廷弁護士の肩書も持つ。",
+    "firstAppearanceWorkId": "judas-window",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ユダの窓"
+    },
+    "sourceNote": "人物像はWikipedia日本語版『ユダの窓』の記事で確認した。初登場は『黒死荘の殺人』だが本DBに未登録のため、登録済みの『ユダの窓』を初登場作としている。",
+    "updatedAt": "2026-08-04"
   }
 ]
