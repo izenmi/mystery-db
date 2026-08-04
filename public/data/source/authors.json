@@ -201,5 +201,17 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "arisugawa-alice",
+    "name": "有栖川有栖",
+    "nameKana": "ありすがわありす",
+    "description": "本格ミステリの書き手として知られる作家。作者と同名の語り手を置いた「学生アリス」「作家アリス」の二つのシリーズを軸に、論理を前面に出した作品を書き続けている。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/有栖川有栖"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-04"
   }
 ]

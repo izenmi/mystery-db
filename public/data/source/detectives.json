@@ -195,5 +195,32 @@
     },
     "sourceNote": "経歴・シリーズ構成はWikipedia日本語版で確認した。初登場は1986年の『卒業』だが本DBに未登録のため初登場作は設定していない。真相に関わる記述は含めていない。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "egami-jiro",
+    "name": "江神二郎",
+    "nameKana": "えがみじろう",
+    "creatorAuthorId": "arisugawa-alice",
+    "occupation": "大学生(英都大学推理小説研究会主宰)",
+    "description": "英都大学の推理小説研究会を率いる寡黙な学生。旅先や合宿先で出くわした事件を、手がかりの吟味と論理の積み上げだけで解いていく。後輩の有栖川有栖が語り手を務める。",
+    "firstAppearanceWorkId": "gekko-game",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/学生アリスシリーズ"
+    },
+    "sourceNote": "人物像・初登場作品はWikipedia日本語版で確認した。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "tachiarai-machi",
+    "name": "太刀洗万智",
+    "nameKana": "たちあらいまち",
+    "creatorAuthorId": "yonezawa-honobu",
+    "occupation": "フリージャーナリスト",
+    "description": "新聞社を辞めてフリーの記者となった女性。取材相手の言葉の裏を丁寧に読み、報道する側の立場そのものを問い直しながら事実に近づいていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王とサーカス"
+    },
+    "sourceNote": "人物像はWikipedia日本語版で確認した。初登場は『さよなら妖精』だが本DBに未登録のため初登場作は設定していない。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-04"
   }
 ]

@@ -1856,5 +1856,462 @@
     },
     "sourceNote": "『別册文藝春秋』2003年1月に掲載、同年8月25日に文藝春秋より単行本刊行。『週刊文春ミステリーベストテン』2003年第1位。2004年本屋大賞第2位は本DBに未登録の賞のため登録していない。日本航空123便墜落事故を題材とし、2005年NHKでドラマ化、2008年映画化。以上をWikipedia日本語版で確認。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gusha-no-endroll",
+    "title": "愚者のエンドロール",
+    "titleKana": "ぐしゃのえんどろーる",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "oreki-hotaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun",
+      "taju-kaiketsu"
+    ],
+    "seriesName": "古典部シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "文化祭に向けて撮影された自主制作ミステリ映画は、脚本家が倒れたために結末のないまま残された。続きを書けずにいるクラスの求めで、古典部の面々は未完のフィルムを見せられる。示された三つの解決案を前に、折木奉太郎は自分なりの答えを探す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/愚者のエンドロール"
+    },
+    "sourceNote": "2002年8月、角川スニーカー文庫より刊行。〈古典部〉シリーズ第2作。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kudryavka",
+    "title": "クドリャフカの順番",
+    "titleKana": "くどりゃふかのじゅんばん",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "oreki-hotaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun"
+    ],
+    "seriesName": "古典部シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "手違いで大量に刷られてしまった文集をどう売り切るか。頭を抱える古典部の四人をよそに、校内では文化祭の各所から小さな盗難が相次いでいた。四人の視点を順に切り替えながら、二日間の祭りの熱気と、盗みに込められた意味を描く。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クドリャフカの順番"
+    },
+    "sourceNote": "2005年6月30日、角川書店より刊行。〈古典部〉シリーズ第3作で文化祭三部作の最終作。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "incite-mill",
+    "title": "インシテミル",
+    "titleKana": "いんしてみる",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "tokushu-settei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "時給十一万二千円という破格の求人に応じた十二人が、地下の実験施設「暗鬼館」に集められる。七日間そこで暮らすだけの仕事のはずだったが、部屋には凶器が用意され、事件が起きれば報酬が跳ね上がる仕組みだった。参加者たちは互いを疑いはじめる。",
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インシテミル"
+    },
+    "sourceNote": "2007年8月30日、文藝春秋より刊行。第8回本格ミステリ大賞の最終候補作(候補は登録しない方針のため未登録)。本格ミステリ・ベスト10で4位、週刊文春ミステリーベスト10で7位、このミステリーがすごい!で10位に入っているが、Wikipedia日本語版に各ランキングの年次が明記されていないため受賞歴には登録していない。2010年映画化。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "hakanai-hitsuji",
+    "title": "儚い羊たちの祝宴",
+    "titleKana": "はかないひつじたちのしゅくえん",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "rensaku-tanpen",
+      "tanpenshu",
+      "iyamisu",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "上流階級の子女が集う読書サークル「バベルの会」を共通の背景に持つ五つの短編集。それぞれの語り手が屋敷や家族の内側を静かに語り、最後の一行で風景が反転する。上品な語り口と後味の悪さを併せ持つ一冊。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/儚い羊たちの祝宴"
+    },
+    "sourceNote": "2008年、新潮社より刊行の短編集。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "o-to-circus",
+    "title": "王とサーカス",
+    "titleKana": "おうとさーかす",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "tachiarai-machi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "新聞社を辞めた太刀洗万智は、旅行雑誌の取材でネパールを訪れる。滞在中に王宮で大きな事件が起き、取材対象だった軍人が殺害される。報道とは何を伝えることなのか。取材する側の立場を問い直しながら、彼女は現地で真相を追う。",
+    "awardResults": [
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2015,
+        "result": "国内部門第1位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2016,
+        "result": "国内編第1位"
+      },
+      {
+        "awardId": "mystery-ga-yomitai",
+        "year": 2016,
+        "result": "国内篇第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/王とサーカス"
+    },
+    "sourceNote": "2015年、東京創元社より刊行。2015年『週刊文春ミステリーベスト10』・2016年版『ミステリが読みたい!』・『このミステリーがすごい!』の国内部門でいずれも1位となり、前年の『満願』に続く2年連続のランキング3冠。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kokurojo",
+    "title": "黒牢城",
+    "titleKana": "こくろうじょう",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "rensaku-tanpen",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "織田信長に叛旗を翻した荒木村重は、有岡城に籠城していた。城内では説得に訪れた黒田官兵衛が土牢に囚われている。密室での殺害、人質の首の紛失など、城で起きる不可解な出来事を、村重は牢の官兵衛に問いにいく。戦国の籠城戦と本格ミステリを重ねた連作。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 2022,
+        "result": "第166回受賞"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2022,
+        "result": "第22回受賞(小説部門)"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2022,
+        "result": "国内編第1位"
+      },
+      {
+        "awardId": "shukan-bunshun-best10",
+        "year": 2021,
+        "result": "国内部門第1位"
+      },
+      {
+        "awardId": "mystery-ga-yomitai",
+        "year": 2022,
+        "result": "国内篇第1位"
+      },
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2022,
+        "result": "国内ランキング第1位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒牢城"
+    },
+    "sourceNote": "『文芸カドカワ』2019年・『カドブンノベル』2020年に掲載の4編を加筆修正し、2021年6月にKADOKAWAより刊行。第166回直木三十五賞・第22回本格ミステリ大賞(小説部門)・第12回山田風太郎賞(本DB未登録のため未登録)を受賞し、四大ミステリランキングを史上初制覇。以上をWikipedia日本語版で確認。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "magan-no-hako",
+    "title": "魔眼の匣の殺人",
+    "titleKana": "まがんのはこのさつじん",
+    "authorIds": [
+      "imamura-masahiro"
+    ],
+    "detectiveIds": [
+      "kenzaki-hiruko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "closed-circle",
+      "meitantei"
+    ],
+    "seriesName": "剣崎比留子シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "予言が必ず当たると噂される老女が暮らす、山中の施設「魔眼の匣」。訪れた葉村譲と剣崎比留子は、橋が落ちて外界から切り離される。老女は「二日のうちに男女四人が死ぬ」と告げ、その言葉を裏づけるように人が死んでいく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魔眼の匣の殺人"
+    },
+    "sourceNote": "2019年2月、東京創元社より書き下ろしで刊行。『屍人荘の殺人』シリーズ第2作。文庫版は2022年8月。表紙絵は遠田志帆。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kyojintei",
+    "title": "兇人邸の殺人",
+    "titleKana": "きょうじんていのさつじん",
+    "authorIds": [
+      "imamura-masahiro"
+    ],
+    "detectiveIds": [
+      "kenzaki-hiruko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "closed-circle",
+      "yakata-mono"
+    ],
+    "seriesName": "剣崎比留子シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "廃墟のテーマパークの奥に建つ「兇人邸」に、葉村譲と剣崎比留子は潜入する。屋敷の内部を徘徊していたのは、常識外れの膂力を持つ「巨人」だった。逃げ場のない建物の中で連続殺人が起こり、二人は脱出路を探しながら犯人を追う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/兇人邸の殺人"
+    },
+    "sourceNote": "2021年7月、東京創元社より書き下ろしで刊行。『屍人荘の殺人』シリーズ第3作。表紙絵は遠田志帆。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "invert",
+    "title": "invert 城塚翡翠倒叙集",
+    "titleKana": "いんゔぁーとじょうづかひすいとうじょしゅう",
+    "authorIds": [
+      "aizawa-sako"
+    ],
+    "detectiveIds": [
+      "shizukawa-hisui"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tojo",
+      "meitantei",
+      "rensaku-tanpen"
+    ],
+    "seriesName": "城塚翡翠シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "犯人の側から犯行と隠蔽の過程を描いたうえで、そこに城塚翡翠が現れる倒叙形式の中編三作を収める。完璧に見えた計画のどこに綻びがあったのか。読者は犯人と同じ情報を持ったまま、翡翠が糸口を手繰り寄せる過程を見守ることになる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Invert_城塚翡翠倒叙集"
+    },
+    "sourceNote": "『小説現代』2021年1月号掲載の「泡沫の審判」に書き下ろし中編2編を加え、2021年7月7日に講談社より刊行。城塚翡翠シリーズ第2作。2022年11月に日本テレビ系でドラマ化。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "gekko-game",
+    "title": "月光ゲーム Yの悲劇'88",
+    "titleKana": "げっこうげーむわいのひげきはちじゅうはち",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "egami-jiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "seishun",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "学生アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "英都大学推理小説研究会の面々は、夏合宿でキャンプ場を訪れる。他大学の学生たちと交流するさなか、火山が突然噴火し、一行は山中に閉じ込められる。逃げ場のない状況で連続殺人が起こり、江神二郎が手がかりを一つずつ検証していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月光ゲーム_Yの悲劇'88"
+    },
+    "sourceNote": "1989年1月1日、東京創元社より刊行された有栖川有栖のデビュー長編。学生アリスシリーズ第1作。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "kotou-puzzle",
+    "title": "孤島パズル",
+    "titleKana": "ことうぱずる",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "egami-jiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kotou",
+      "closed-circle",
+      "dokusha-e-no-chosen"
+    ],
+    "seriesName": "学生アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "南の島に建つ別荘に招かれた推理小説研究会の三人。島には亡き資産家が遺した宝の在処を示す暗号が伝わっていた。宝探しに沸く滞在客のなかで殺人が起き、船の便もない島で疑いだけが濃くなる。江神二郎が暗号と事件の両方に取り組む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/孤島パズル"
+    },
+    "sourceNote": "1989年7月1日、東京創元社より刊行。学生アリスシリーズ長編第2作。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "soto-no-akuma",
+    "title": "双頭の悪魔",
+    "titleKana": "そうとうのあくま",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "egami-jiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "dokusha-e-no-chosen",
+      "seishun"
+    ],
+    "seriesName": "学生アリスシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "芸術家たちが暮らす山間の村に入ったまま帰らない後輩を追って、推理小説研究会の面々は現地へ向かう。だが大雨で川が増水し、一行は村の内と外に分断されてしまう。それぞれの側で殺人が発生し、離れた場所にいる仲間同士が並行して謎に挑む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/双頭の悪魔"
+    },
+    "sourceNote": "1992年2月15日、東京創元社より刊行。学生アリスシリーズ長編第3作で作者の代表作とされる。以上をWikipedia日本語版で確認。受賞歴は確認できなかった。",
+    "updatedAt": "2026-08-04"
   }
 ]

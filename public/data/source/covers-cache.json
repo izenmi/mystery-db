@@ -46,6 +46,12 @@
     "resolvedAt": "2026-08-04T02:50:10.529Z",
     "note": "BOOK☆WALKERが解決したのは創元推理文庫『江戸川乱歩全集2 D坂の殺人事件』の書影で、works.jsonに登録している光文社(光文社文庫の江戸川乱歩全集)とは版が異なる。画像を目視し、漫画版(『漫画 D坂の殺人事件』泉こうてん)ではなく小説版であることを確認済み。"
   },
+  "gekko-game": {
+    "title": "月光ゲーム Yの悲劇'88",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-04T03:43:30.818Z"
+  },
   "gokumonto": {
     "title": "獄門島",
     "isbn": "9784041304037",
@@ -53,6 +59,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4037/9784041304037_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:33.990Z"
+  },
+  "gusha-no-endroll": {
+    "title": "愚者のエンドロール",
+    "isbn": "9784044271022",
+    "matchedTitle": "愚者のエンドロール",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1022/9784044271022_1_27.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:11.585Z"
+  },
+  "hakanai-hitsuji": {
+    "title": "儚い羊たちの祝宴",
+    "isbn": "9784101287829",
+    "matchedTitle": "儚い羊たちの祝宴",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7829/9784101287829.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:15.122Z"
   },
   "hanochi": {
     "title": "半落ち",
@@ -112,6 +134,14 @@
     "resolvedAt": "2026-08-04T03:34:40.057Z",
     "note": "書影は講談社文庫の改訂完全版。"
   },
+  "incite-mill": {
+    "title": "インシテミル",
+    "isbn": "9784167773700",
+    "matchedTitle": "インシテミル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3700/9784167773700_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:13.945Z"
+  },
   "injuu": {
     "title": "陰獣",
     "isbn": "9784394301462",
@@ -128,6 +158,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4051/9784041304051_1_17.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:31.248Z"
+  },
+  "invert": {
+    "title": "invert 城塚翡翠倒叙集",
+    "isbn": "9784065237328",
+    "matchedTitle": "invert　城塚翡翠倒叙集",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7328/9784065237328_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:21.052Z"
   },
   "jukkakukan": {
     "title": "十角館の殺人",
@@ -153,6 +191,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:36.348Z"
   },
+  "kokurojo": {
+    "title": "黒牢城",
+    "isbn": "9784041147221",
+    "matchedTitle": "黒牢城",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7221/9784041147221_1_23.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:17.473Z"
+  },
   "kotou-no-oni": {
     "title": "孤島の鬼",
     "isbn": "9784488401016",
@@ -162,6 +208,30 @@
     "resolvedAt": "2026-08-04T03:34:35.016Z",
     "note": "登録は光文社だが書影は創元推理文庫版。作品は同一。"
   },
+  "kotou-puzzle": {
+    "title": "孤島パズル",
+    "isbn": "9784488414023",
+    "matchedTitle": "孤島パズル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4023/9784488414023.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:32.087Z"
+  },
+  "kudryavka": {
+    "title": "クドリャフカの順番",
+    "isbn": "9784044271039",
+    "matchedTitle": "クドリャフカの順番",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1039/9784044271039_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:12.771Z"
+  },
+  "kyojintei": {
+    "title": "兇人邸の殺人",
+    "isbn": "9784488028459",
+    "matchedTitle": "兇人邸の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8459/9784488028459_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:19.870Z"
+  },
   "kyokotsu-no-yume": {
     "title": "狂骨の夢",
     "isbn": "9784062649612",
@@ -169,6 +239,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9612/9784062649612.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:31.050Z"
+  },
+  "magan-no-hako": {
+    "title": "魔眼の匣の殺人",
+    "isbn": "9784488027964",
+    "matchedTitle": "魔眼の匣の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7964/9784488027964.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:18.702Z"
   },
   "mangan": {
     "title": "満願",
@@ -236,6 +314,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:34:43.534Z"
   },
+  "o-to-circus": {
+    "title": "王とサーカス",
+    "isbn": "9784488451103",
+    "matchedTitle": "王とサーカス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1103/9784488451103.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:16.290Z"
+  },
   "orient-express": {
     "title": "オリエント急行の殺人",
     "isbn": null,
@@ -300,6 +386,14 @@
     "coverUrl": "https://c.bookwalker.jp/840e5c381c59ff94ec419465ecc5333/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:53:19.717Z"
+  },
+  "soto-no-akuma": {
+    "title": "双頭の悪魔",
+    "isbn": "9784488414030",
+    "matchedTitle": "双頭の悪魔",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4030/9784488414030_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-04T03:43:33.259Z"
   },
   "subete-ga-f": {
     "title": "すべてがFになる",
