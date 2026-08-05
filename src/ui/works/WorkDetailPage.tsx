@@ -80,7 +80,7 @@ export function WorkDetailPage() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Amazonで探す
+                Amazonで購入
               </a>
             </div>
             <div className="work-card__body">
