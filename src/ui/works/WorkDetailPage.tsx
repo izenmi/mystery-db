@@ -199,6 +199,14 @@ export function WorkDetailPage() {
             </p>
           )}
 
+          {state.data.relatedComicUrl && (
+            <p>
+              <a className="sister-link" href={state.data.relatedComicUrl}>
+                コミカライズをまんがDBで見る →
+              </a>
+            </p>
+          )}
+
           {relatedWorks.length > 0 && (
             <div className="home-section">
               <h2 className="home-section__heading font-display">この作品が好きなら</h2>

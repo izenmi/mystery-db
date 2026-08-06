@@ -50,6 +50,9 @@ export interface WorkSource {
   /** Adaptation status, verified against the work's Wikipedia article. Live-action film/TV
    *  dominate this genre, so they get their own flags alongside anime/manga. */
   mediaMix?: { movie?: boolean; drama?: boolean; anime?: boolean; comic?: boolean };
+  /** 姉妹サイト まんがDB の同一原作コミック作品ページへの相互リンク。
+   *  manga-db の scripts/link-sister-works.mjs が3リポジトリ分まとめて書き込む(手動実行)。 */
+  relatedComicUrl?: string;
   externalLinks: ExternalLinks;
   sourceNote: string;
   updatedAt: string;

@@ -247,7 +247,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/十角館の殺人"
     },
     "sourceNote": "1987年9月、講談社(講談社ノベルス)刊。新本格ミステリの出発点とされる作品。探偵役が島田潔と江南孝明であること、清原紘によるコミカライズ(2019〜2022年)とHulu・日本テレビでの実写ドラマ化(2024年)があることをWikipedia日本語版で確認。受賞歴は確認できなかったため未登録。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/jukkakukan-no-satsujin"
   },
   {
     "id": "tokeikan",
@@ -1054,7 +1055,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/犬神家の一族"
     },
     "sourceNote": "単行本は1951年5月に大日本雄弁会講談社から刊行。現在広く流通する角川文庫版に合わせて刊行元は角川書店とした。映画3本・テレビドラマ8作は横溝作品中最多であることをWikipedia日本語版で確認。受賞歴は確認できなかった。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/inugami-ke-no-ichizoku"
   },
   {
     "id": "akuma-no-temariuta",
@@ -3007,7 +3009,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドグラ・マグラ"
     },
     "sourceNote": "構想・執筆に10年以上をかけ、1935年1月に松柏館書店より刊行。『黒死館殺人事件』『虚無への供物』とともに三大奇書に数えられる。刊行元は現在流通する角川文庫版に合わせた。以上をWikipedia日本語版と楽天ブックスの書誌情報で確認。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/dogura-magura"
   },
   {
     "id": "kokushikan",
@@ -3678,7 +3681,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/GOTH_リストカット事件"
     },
     "sourceNote": "2002年7月、角川書店より単行本刊行。第3回本格ミステリ大賞受賞(同時受賞は笠井潔『オイディプス症候群』)。もとはライトノベル雑誌『ザ・スニーカー』掲載作だが一般小説として刊行された。のち『GOTH 夜の章』『GOTH 僕の章』の2分冊で文庫化。2007年に映画化決定。以上をWikipedia日本語版で確認。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/goth-risutokatto-jiken"
   },
   {
     "id": "eugenia",
@@ -10211,7 +10215,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚構推理"
     },
     "sourceNote": "2011年、講談社より刊行。第12回本格ミステリ大賞(小説部門)受賞、『本格ミステリ・ベスト10』2012年版4位。2015年以降コミカライズ、のちアニメ化。累計500万部。以上をWikipedia日本語版で確認。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-04",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kyokou-suiri"
   },
   {
     "id": "gurenkan",
