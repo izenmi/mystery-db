@@ -1,8 +1,9 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getWork } from "../../data/manifest";
+import { getWork, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
+import { WorkCard } from "../common/WorkCard";
 import { WorkCover, amazonSearchUrl } from "../common/WorkCover";
 import { BASE_PATH, DEFAULT_OG_IMAGE, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import type { WorkGenerated } from "../../types";
@@ -50,6 +51,17 @@ export function WorkDetailPage() {
   // Deliberately component-local and not persisted: every visit to a work page starts with the
   // spoiler tags hidden, even if the reader revealed them on a different work a moment ago.
   const [spoilersShown, setSpoilersShown] = useState(false);
+
+  // getWorks() resolves from the same cached works.json that getWork() above already pulled,
+  // so this costs no extra request.
+  const allWorksState = useAsyncData(getWorks, []);
+  const relatedWorks = useMemo(() => {
+    if (allWorksState.status !== "ready" || !work?.relatedWorkIds) return [];
+    const byId = new Map(allWorksState.data.map((x) => [x.id, x]));
+    return work.relatedWorkIds
+      .map((relatedId) => byId.get(relatedId))
+      .filter((x): x is WorkGenerated => Boolean(x));
+  }, [allWorksState, work]);
 
   useSeo({
     title: work?.title,
@@ -185,6 +197,17 @@ export function WorkDetailPage() {
                 Wikipediaで見る
               </a>
             </p>
+          )}
+
+          {relatedWorks.length > 0 && (
+            <div className="home-section">
+              <h2 className="home-section__heading font-display">この作品が好きなら</h2>
+              <div className="work-grid">
+                {relatedWorks.map((related) => (
+                  <WorkCard key={related.id} work={related} />
+                ))}
+              </div>
+            </div>
           )}
 
           <p className="source-note">{state.data.sourceNote}</p>
