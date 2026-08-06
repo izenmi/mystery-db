@@ -349,6 +349,7 @@ const sitemapEntries = [
   ...publishers.map((p) => urlEntry(`/publishers/${p.id}`, p.updatedAt?.slice(0, 10))),
   urlEntry("/awards"),
   ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
+  urlEntry("/timeline"),
   urlEntry("/about"),
 ];
 
