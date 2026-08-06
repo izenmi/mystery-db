@@ -41,6 +41,12 @@ const SISTER_SITES = [
     url: "https://izenmi.github.io/game-db/",
     tagline: "PS5/Switch/Switch2ゲームを会社・ジャンル・受賞歴から探せるデータベース",
   },
+  {
+    key: "tech",
+    name: "技術書DB",
+    url: "https://izenmi.github.io/tech-db/",
+    tagline: "ITエンジニア向けの技術書を技術スタック・対象レベル・著者・出版社から探せるデータベース",
+  },
 ] as const;
 
 /** Returns up to `count` elements from `works` in random order, without mutating the input. */
