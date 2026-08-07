@@ -71,7 +71,15 @@ def main():
     authors, publishers = load("authors"), load("publishers")
     themes, works = load("themes"), load("works")
     author_by_name = {norm(a["name"]): a["id"] for a in authors}
-    pub_by_name = {norm(p["name"]): p["id"] for p in publishers}
+    pub_by_name = {}
+    for p in publishers:
+        # publishers.json は「KADOKAWA(角川書店)」のように別称を括弧書きで持つので、
+        # 括弧の前後どちらの表記でもNDLの出版社名と突き合わせられるようにする
+        pub_by_name[norm(p["name"])] = p["id"]
+        m = re.match(r"^([^（(]+)[（(]([^）)]+)[）)]", p["name"])
+        if m:
+            pub_by_name.setdefault(norm(m.group(1)), p["id"])
+            pub_by_name.setdefault(norm(m.group(2)), p["id"])
     theme_ids = {t["id"] for t in themes}
     work_ids = {w["id"] for w in works}
     author_ids_taken = {a["id"] for a in authors}
