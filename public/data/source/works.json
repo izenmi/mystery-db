@@ -27630,5 +27630,660 @@
     "originalTitle": "The Dawn Patrol",
     "jpPublishedYear": 2011,
     "sourceNote": "書誌(角川書店、2011年、ISBN 9784042823087)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ドン・ウィンズロウ [著],中山宥 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "garasu-no-hammer",
+    "title": "硝子のハンマー",
+    "titleKana": "がらすのはんまー",
+    "authorIds": [
+      "kishi-yusuke"
+    ],
+    "detectiveIds": [
+      "enomoto-kei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "misshitsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "介護ロボットが行き交う会社の役員室で、社長が撲殺される。監視カメラと電子錠に守られた空間がなぜ破られたのか、防犯のプロが検討していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "防犯探偵・榎本シリーズ",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2005,
+        "result": "第5回小説部門受賞"
+      }
+    ],
+    "sourceNote": "書誌(埼玉福祉会、2009年、ISBN 9784884196080)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「貴志祐介 著」による。初刊年2004年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kitsunebi-no-ie",
+    "title": "狐火の家",
+    "titleKana": "きつねびのいえ",
+    "authorIds": [
+      "kishi-yusuke"
+    ],
+    "detectiveIds": [
+      "enomoto-kei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "密室で起きた事件を扱う四編を収める短編集。錠や建物の構造という現実的な知識から、不可能状況を一つずつ切り崩していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "防犯探偵・榎本シリーズ",
+    "sourceNote": "書誌(埼玉福祉会、2014年、ISBN 9784884199456)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「貴志祐介 著」による。初刊年2008年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mystery-clock",
+    "title": "ミステリークロック",
+    "titleKana": "みすてりーくろっく",
+    "authorIds": [
+      "kishi-yusuke"
+    ],
+    "detectiveIds": [
+      "enomoto-kei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "時計仕掛けのアリバイをはじめ、趣向の異なる密室を扱う中短編集。仕掛けの規模と検証の細かさが際立つシリーズの一冊。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "防犯探偵・榎本シリーズ",
+    "sourceNote": "書誌(KADOKAWA、2020年、ISBN 9784041098769)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「貴志祐介 [著]」による。初刊年2017年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "dark-zone",
+    "title": "ダークゾーン",
+    "titleKana": "だーくぞーん",
+    "authorIds": [
+      "kishi-yusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "目覚めると軍艦島に似た島で、駒として戦う立場に置かれていた棋士の物語。ゲームのルールに従いながら、その意味を探っていく特殊設定の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(祥伝社、2012年、ISBN 9784396208981)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「貴志祐介著」による。初刊年1984年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "zainin-no-sentaku",
+    "title": "罪人の選択",
+    "titleKana": "ざいにんのせんたく",
+    "authorIds": [
+      "kishi-yusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tanpenshu",
+      "suspense",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "毒殺を扱う表題作をはじめ、極限の選択を迫られる状況を描く中短編集。ホラーからSFまで、作者の引き出しの広さが表れている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2022年、ISBN 9784167919559)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「貴志祐介 著」による。初刊年2020年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "natsu-to-hanabi",
+    "title": "夏と花火と私の死体",
+    "titleKana": "なつとはなびとわたくしのしたい",
+    "authorIds": [
+      "otsuichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "seishun",
+      "suspense",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "殺された少女の視点から、遺体が隠される数日間が語られる。十七歳でのデビュー作にして、語りの位置そのものを仕掛けに使った中編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(集英社、2000年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「乙一 著」による。初刊年1996年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "ankoku-douwa",
+    "title": "暗黒童話",
+    "titleKana": "あんこくどうわ",
+    "authorIds": [
+      "otsuichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "事故で記憶と片目を失った少女が、移植された眼が見せる光景に導かれていく。残酷な童話の趣を帯びた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(集英社、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「乙一 著」による。初刊年2001年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "ushinawareru-monogatari",
+    "title": "失はれる物語",
+    "titleKana": "うしなわれるものがたり",
+    "authorIds": [
+      "otsuichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "tanpenshu",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "感覚を失った男の内面を描く表題作ほか、喪失を主題にした短編を収める。作者の「白い」側面が強く出た一冊。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「乙一 [著]」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kimi-ni-shika-kikoenai",
+    "title": "きみにしか聞こえない",
+    "titleKana": "きみにしかきこえない",
+    "authorIds": [
+      "otsuichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "seishun",
+      "tokushu-settei",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "心の中だけで通じ合う電話を通して出会った少年少女を描く表題作を含む短編集。静かで切ない読後感を残す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2009年、ISBN 9784046310187)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「乙一 作,Shel 絵」による。初刊年2001年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "initiation-love",
+    "title": "イニシエーション・ラブ",
+    "titleKana": "いにしえーしょんらぶ",
+    "authorIds": [
+      "inui-kurumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "harashobo",
+    "themeIds": [
+      "jojutsu-trick",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "1980年代の地方都市を舞台にした恋愛小説として進むが、最後の二行で全体の意味が変わる。仕掛けの一点に賭けた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(原書房、2015年、ISBN 9784562051496)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「乾くるみ 著」による。初刊年2004年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "ryujin-no-ame",
+    "title": "龍神の雨",
+    "titleKana": "りゅうじんのあめ",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "それぞれ血の繋がらない親を持つ二組の兄妹が、大人の死をきっかけに追い詰められていく。雨の描写が全編を覆う長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2009,
+        "result": "第22回受賞"
+      }
+    ],
+    "sourceNote": "書誌(新潮社、2012年、ISBN 9784101355535)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 著」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tsuki-to-kani",
+    "title": "月と蟹",
+    "titleKana": "つきとかに",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "seishun",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "転校してきた少年が、ヤドカリを使った願掛けに救いを求める。子どもの視点から家族の綻びを描き、直木賞を受賞した長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 2011,
+        "result": "第144回受賞"
+      }
+    ],
+    "sourceNote": "書誌(文藝春秋、2013年、ISBN 9784167838669)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 著」による。初刊年2010年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mizu-no-hitsugi",
+    "title": "水の柩",
+    "titleKana": "みずのひつぎ",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "故郷の町に戻った男が、少年時代に沈めた記憶と向き合う。過去と現在を静かに往復しながら、罪の輪郭が見えてくる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2014年、ISBN 9784062778312)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 [著]」による。初刊年2011年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tomei-chameleon",
+    "title": "透明カメレオン",
+    "titleKana": "とうめいかめれおん",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "ラジオパーソナリティの男と、行きつけのバーに集まる面々が、ある事情を抱えた女性を助けようとする。会話劇の妙が光る長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(KADOKAWA、2018年、ISBN 9784041063521)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 [著]」による。初刊年2015年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "skeleton-key",
+    "title": "スケルトン・キー",
+    "titleKana": "すけるとんきー",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "施設を出た青年が、自分の出生の秘密に近づいていく。危うい均衡の上を進む語りと、二転三転する展開が持ち味の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(KADOKAWA、2021年、ISBN 9784041113301)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 [著]」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hana-to-nagareboshi",
+    "title": "花と流れ星",
+    "titleKana": "はなとながれぼし",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "tanpenshu",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "霊現象探求所を営む真備たちが関わる事件を集めた短編集。怪異と現実の境目を歩くシリーズの持ち味がよく出ている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "真備庄介シリーズ",
+    "sourceNote": "書誌(幻冬舎、2026年、ISBN 9784344435766)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 [著]」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mukuro-no-tsume",
+    "title": "骸の爪",
+    "titleKana": "むくろのつめ",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "kaiki-gensou",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "仏像を彫る工房で起きた出来事を、真備たちが調べる。土地に残る信仰と人の思惑が絡み合うシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "真備庄介シリーズ",
+    "sourceNote": "書誌(幻冬舎、2026年、ISBN 9784344435605)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 [著]」による。初刊年2006年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kyutai-no-hebi",
+    "title": "球体の蛇",
+    "titleKana": "きゅうたいのへび",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "少年時代のある夏に起きた出来事を、大人になった男が語り直す。取り返しのつかない選択を見つめる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2012年、ISBN 9784041006191)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 [著]」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "solomon-no-inu",
+    "title": "ソロモンの犬",
+    "titleKana": "そろもんのいぬ",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "seishun",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "犬が引き起こした事故の意味を、大学生たちが解き明かそうとする。青春小説の枠組みで論理を積み上げていく長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2010年、ISBN 9784167773502)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 著」による。初刊年2007年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "oni-no-ashioto",
+    "title": "鬼の跫音",
+    "titleKana": "おにのあしおと",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "tanpenshu",
+      "iyamisu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "どれも語り手の視点が揺らぐ 六編を収めた短編集。読み終えたあとに前提が崩れる感覚を狙った、作者らしい一冊。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2011年、ISBN 9784041000120)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hanamado-hari",
+    "title": "花窗玻璃",
+    "titleKana": "はなまどはり",
+    "authorIds": [
+      "fukami-reiichiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "honkaku",
+      "kaigai-koten"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "フランスの大聖堂を舞台に、ステンドグラスをめぐる事件が起きる。美術の知識を組み込んだ本格ミステリ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(河出書房新社、2015年、ISBN 9784309414058)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「深水黎一郎 著」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "baku-no-ori",
+    "title": "貘の檻",
+    "titleKana": "ばくのおり",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "故郷で起きた事件の記憶に苦しむ男が、真相を確かめるために過去へ分け入る。長編ならではの重層的な構成を持つ一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(新潮社、2017年、ISBN 9784101355566)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 著」による。初刊年2014年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]

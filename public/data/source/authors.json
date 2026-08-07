@@ -1542,5 +1542,25 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1953
+  },
+  {
+    "id": "kishi-yusuke",
+    "name": "貴志祐介",
+    "nameKana": "きしゆうすけ",
+    "description": "小説家。ホラー、SF、本格ミステリを横断し、防犯コンサルタント榎本径のシリーズでも知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1959
+  },
+  {
+    "id": "inui-kurumi",
+    "name": "乾くるみ",
+    "nameKana": "いぬいくるみ",
+    "description": "小説家。読者の思い込みを利用した仕掛けの作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1963
   }
 ]

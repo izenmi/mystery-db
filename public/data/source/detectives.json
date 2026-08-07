@@ -948,5 +948,16 @@
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "nakayama-shichiri",
     "occupation": "警察官"
+  },
+  {
+    "id": "enomoto-kei",
+    "name": "榎本径",
+    "nameKana": "えのもとけい",
+    "description": "防犯コンサルタントを名乗る男。錠前と侵入経路の知識を武器に、密室の謎を解体していく。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "kishi-yusuke",
+    "occupation": "防犯コンサルタント"
   }
 ]
