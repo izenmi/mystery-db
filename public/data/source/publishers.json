@@ -305,5 +305,23 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ota-shuppan",
+    "name": "太田出版",
+    "nameKana": "おおたしゅっぱん",
+    "description": "サブカルチャー・文芸を手がける出版社。『バトル・ロワイアル』の版元。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "keibunsha",
+    "name": "勁文社",
+    "nameKana": "けいぶんしゃ",
+    "description": "1966年創業の出版社。2002年に倒産した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]
