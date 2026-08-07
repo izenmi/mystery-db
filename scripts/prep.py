@@ -186,7 +186,14 @@ def ndl_lookup(title, author, sleep):
         m = re.search(r"責任表示：([^<]+)", desc)
         if m:
             resp = m.group(1).strip()
+        orig = ""
+        for nde in item.findall("dc:description", namespaces=NS):
+            v = (nde.text or "").strip()
+            m2 = re.match(r"原タイトル\s*[:：]\s*(.+)", v)
+            if m2:
+                orig = re.sub(r"\s*(原著第?\d+版|第\d+版).*$", "", m2.group(1)).strip()
         hits.append({
+            "originalTitle": orig,
             "title": t, "kana": text(item, "dcndl:titleTranscription"),
             "creators": creators, "trans": trans, "resp": resp,
             "series": text(item, "dcndl:seriesTitle"),
@@ -212,6 +219,8 @@ def ndl_lookup(title, author, sleep):
         "lastYear": max(years) if years else None,
         "volumes": max(vols) if vols else len(hits),
         "editions": len(hits), "isbn": base["isbn"],
+        "originalTitle": next((h["originalTitle"] for h in hits if h["originalTitle"]), ""),
+        "resp": base.get("resp", ""),
     }
 
 
@@ -291,6 +300,26 @@ def rakuten_lookup(title, author, app_id, key, sleep):
 
 
 WIKI_API = "https://ja.wikipedia.org/w/api.php"
+OPENLIBRARY = "https://openlibrary.org/search.json"
+
+
+def openlibrary_year(original_title, sleep):
+    """原題から原著の初版年を引く(海外作品の firstPublishedYear 用)。"""
+    if not original_title:
+        return None
+    p = {"title": original_title, "limit": "3", "fields": "title,first_publish_year"}
+    body = get(OPENLIBRARY + "?" + urllib.parse.urlencode(p), sleep=sleep)
+    if not body:
+        return None
+    try:
+        docs = json.loads(body).get("docs", [])
+    except Exception:
+        return None
+    key = norm(original_title)
+    for d in docs:
+        if norm(d.get("title", "")) == key and d.get("first_publish_year"):
+            return int(d["first_publish_year"])
+    return None
 
 
 def wiki_lookup(title, sleep):

@@ -5,7 +5,8 @@
 
 anno.tsv(1行1作品、タブ区切り):
   <n> <themeIds(カンマ区切り)> <あらすじ(自分の言葉で要約、真相に触れない)> [<flags>] [<overrides>]
-    flags     … m=映像化(映画), d=ドラマ化, a=アニメ化, c=コミカライズ, o=ongoing(シリーズ継続中),
+    flags     … v=海外作品(origin=overseas。訳者と原題をNDLから解決する),
+                m=映像化(映画), d=ドラマ化, a=アニメ化, c=コミカライズ, o=ongoing(シリーズ継続中),
                 x=採用しない, n=あらすじの典拠が無く内容未確認
     overrides … title / kana / pub(=publisherId) / author(名前、カンマ区切り) / year / id /
                 award / result / ayear / series(=seriesName)
@@ -69,6 +70,10 @@ def main():
     prep = {r["n"]: r for r in json.load(open(prep_path, encoding="utf-8"))}
 
     authors, publishers = load("authors"), load("publishers")
+    translators = load("translators")
+    translator_by_name = {norm(t["name"]): t["id"] for t in translators}
+    translator_ids_taken = {t["id"] for t in translators}
+    new_translators = []
     themes, works = load("themes"), load("works")
     author_by_name = {norm(a["name"]): a["id"] for a in authors}
     pub_by_name = {}
@@ -124,6 +129,20 @@ def main():
         kana = re.sub(r"[:：].*$", "", ov.get("kana") or r.get("titleKana", ""))
         wid = ov.get("id") or uniq_id(r.get("workId", "").split(":")[0][:48].strip("-"), work_ids)
 
+        # 海外作品(フラグ v)は責任表示から訳者を切り出す。「○○著 ; △△訳」の形が基本
+        resp = (nd.get("resp") or "")
+        tr_names = []
+        if ov.get("translator"):
+            tr_names = [x.strip() for x in ov["translator"].split(",") if x.strip()]
+        elif "v" in flags:
+            for seg in re.split(r"[;；,、]", resp):
+                seg = seg.strip()
+                m = re.match(r"^(.+?)\s*(?:訳|共訳|翻訳)$", seg)
+                if m:
+                    nm = re.sub(r"[\s　]+", "", m.group(1))
+                    nm = re.sub(r"[\[\]]", "", nm)
+                    if nm and nm not in tr_names:
+                        tr_names.append(nm)
         a_names = [x.strip() for x in ov["author"].split(",")] if ov.get("author") else [r["author"]]
         persons = {p["name"]: p for p in r.get("persons", [])}
         author_ids = []
@@ -144,6 +163,25 @@ def main():
                                 "updatedAt": TODAY})
             author_by_name[key] = pid
             author_ids.append(pid)
+
+        translator_ids = []
+        for nm in tr_names:
+            key = norm(nm)
+            if key in translator_by_name:
+                translator_ids.append(translator_by_name[key])
+                continue
+            k = kana_lookup(nm, kana_cache)
+            base = romaji(k) if k else ""
+            if not re.fullmatch(r"[a-z0-9\-]+", base or ""):
+                base = "tr-" + str(abs(hash(nm)) % 10 ** 6)
+            pid = uniq_id(base + ("-tr" if base in translator_ids_taken else ""), translator_ids_taken)
+            new_translators.append({"id": pid, "name": nm, "nameKana": k or nm,
+                                    "description": "翻訳者。",
+                                    "externalLinks": {},
+                                    "sourceNote": f"国立国会図書館サーチの責任表示で確認({TODAY})。",
+                                    "updatedAt": TODAY})
+            translator_by_name[key] = pid
+            translator_ids.append(pid)
 
         pub_id = ov.get("pub", "")
         if not pub_id:
@@ -167,11 +205,15 @@ def main():
             year = ayear
         result = ov.get("result") or r.get("prize") or "受賞"
 
+        overseas = "v" in flags
+        if overseas and (not translator_ids or not (ov.get("otitle") or nd.get("originalTitle"))):
+            problems.append(f"n={n} {title}: 海外作品だが訳者または原題が取れない (resp='{resp}')")
+            continue
         w = {
             "id": wid, "title": title, "titleKana": kana,
-            "authorIds": author_ids, "detectiveIds": [], "translatorIds": [],
+            "authorIds": author_ids, "detectiveIds": [], "translatorIds": translator_ids,
             "publisherId": pub_id, "themeIds": themes_l,
-            "origin": "jp",
+            "origin": "overseas" if overseas else "jp",
             "firstPublishedYear": year,
             "status": "ongoing" if "o" in flags else "completed",
             "synopsis": synopsis,
@@ -185,15 +227,20 @@ def main():
                if "n" in flags else ""),
             "updatedAt": TODAY,
         }
+        if overseas:
+            w["originalTitle"] = ov.get("otitle") or nd.get("originalTitle")
+            w["jpPublishedYear"] = int(ov.get("jpyear") or nd.get("firstYear") or ayear or 0) or None
+            w["firstPublishedYear"] = int(ov.get("year") or r.get("originalYear")
+                                          or w["jpPublishedYear"] or 0) or None
         if ov.get("series"):
             w["seriesName"] = ov["series"]
         out_works.append(w)
 
     kana_cache_path.write_text(json.dumps(kana_cache, ensure_ascii=False), encoding="utf-8")
-    batch = {"newAuthors": new_authors, "newDetectives": [], "newTranslators": [],
+    batch = {"newAuthors": new_authors, "newDetectives": [], "newTranslators": new_translators,
              "newPublishers": [], "newThemes": [], "newAwards": [], "works": out_works}
     Path(out_path).write_text(json.dumps(batch, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"works={len(out_works)} newAuthors={len(new_authors)}")
+    print(f"works={len(out_works)} newAuthors={len(new_authors)} newTranslators={len(new_translators)}")
     for p in problems:
         print("! " + p)
 
