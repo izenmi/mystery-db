@@ -1719,5 +1719,24 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1931
+  },
+  {
+    "id": "hayasaka-yabusa",
+    "name": "早坂吝",
+    "nameKana": "はやさかやぶさ",
+    "description": "小説家。奇抜な設定と本格ミステリの論理を組み合わせた作品を書き、メフィスト賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nitadori-kei",
+    "name": "似鳥鶏",
+    "nameKana": "にたどりけい",
+    "description": "小説家。ユーモアのある語り口で日常の謎から警察小説まで幅広く手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1981
   }
 ]

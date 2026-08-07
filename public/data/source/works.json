@@ -30352,5 +30352,336 @@
     "updatedAt": "2026-08-07",
     "seriesName": "法月綸太郎シリーズ",
     "sourceNote": "書誌(埼玉県立熊谷点字図書館 (手製)、1996年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「法月綸太郎 著」による。初刊年1992年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "akechi-kyosuke-no-honso",
+    "title": "明智恭介の奔走",
+    "titleKana": "あけちきょうすけのほんそう",
+    "authorIds": [
+      "imamura-masahiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "gakuen",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "『屍人荘の殺人』以前を描く連作短編集。ミステリ愛好会の明智恭介と葉村譲が、大学周辺で起きる事件に取り組む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "屍人荘シリーズ",
+    "sourceNote": "書誌(東京創元社、2024年、ISBN 9784488029067)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「今村昌弘 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "aomikan-no-satsujin",
+    "title": "蒼海館の殺人",
+    "titleKana": "あおみかんのさつじん",
+    "authorIds": [
+      "atsukawa-tatsumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "洪水で孤立した実家の館で、探偵の少年が事件に向き合う。閉ざされた状況と家族の事情が重なる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "館四重奏",
+    "sourceNote": "書誌(講談社、2021年、ISBN 9784065212073)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「阿津川辰海 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "meitantei-ni-kanbi-naru-shi",
+    "title": "名探偵に甘美なる死を",
+    "titleKana": "めいたんていにかんびなるしお",
+    "authorIds": [
+      "hojo-kie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "仮想空間で開催された推理ゲームの最中に、参加者が現実でも危機に陥る。特殊設定を推理の条件として組み込んだ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(東京創元社、2024年、ISBN 9784488499235)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「方丈貴恵 著」による。初刊年2022年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "koto-no-raihosha",
+    "title": "孤島の来訪者",
+    "titleKana": "ことうのらいほうしゃ",
+    "authorIds": [
+      "hojo-kie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kotou",
+      "tokushu-settei",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "孤島に集まった一行の中に、人ならざる存在が紛れ込む。特殊な条件下で犯人を絞り込む論理が読みどころ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "竜泉家の一族",
+    "sourceNote": "書誌(東京創元社、2024年、ISBN 9784488499228)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「方丈貴恵 著」による。初刊年2020年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "gozen-reiji-no-cendrillon",
+    "title": "午前零時のサンドリヨン",
+    "titleKana": "ごせんれいじのさんどりよん",
+    "authorIds": [
+      "aizawa-sako"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "seishun",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "マジシャンの少女と高校生が、身近な謎に向き合う連作短編集。鮎川哲也賞を受賞した作者のデビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "酉乃初シリーズ",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2009,
+        "result": "第19回受賞"
+      }
+    ],
+    "sourceNote": "書誌(東京創元社、2012年、ISBN 9784488423117)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「相沢沙呼 著」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "niji-no-haburashi",
+    "title": "虹の歯ブラシ",
+    "titleKana": "にじのはぶらし",
+    "authorIds": [
+      "hayasaka-yabusa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "風変わりな探偵役が奇妙な事件に挑む連作。強烈な設定の裏で本格ミステリの論理が組まれているシリーズの一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "上木らいちシリーズ",
+    "sourceNote": "書誌(講談社、2017年、ISBN 9784062937511)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「早坂吝 [著]」による。初刊年2015年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "soja-misshitsu",
+    "title": "双蛇密室",
+    "titleKana": "そうじゃみっしつ",
+    "authorIds": [
+      "hayasaka-yabusa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "密室状況をめぐる推理を軸にした長編。作者らしい仕掛けと論理の組み立てが同居している。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "上木らいちシリーズ",
+    "sourceNote": "書誌(講談社、2019年、ISBN 9784065156124)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「早坂吝 [著]」による。初刊年2017年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "senryokugai-sosakan",
+    "title": "戦力外捜査官",
+    "titleKana": "せんりょくがいそうさかん",
+    "authorIds": [
+      "nitadori-kei"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "型破りな新人女性刑事と生真面目な巡査部長の凸凹コンビが事件を追う。軽快な会話と本格的な謎解きを併せ持つシリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "戦力外捜査官シリーズ",
+    "sourceNote": "書誌(河出書房新社、2013年、ISBN 9784309412481)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「似鳥鶏 著」による。初刊年2012年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "gogo-kara-wa-wani-biyori",
+    "title": "午後からはワニ日和",
+    "titleKana": "ごごからわわにびより",
+    "authorIds": [
+      "nitadori-kei"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "小さな動物園で起きる不可解な出来事を、アルバイトの大学生が解き明かす。ユーモアのある日常の謎ミステリ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "動物園シリーズ",
+    "sourceNote": "書誌(文藝春秋、2012年、ISBN 9784167801779)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「似鳥鶏 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kamen-genso-kyoku",
+    "title": "仮面幻双曲",
+    "titleKana": "かめんげんそうきょく",
+    "authorIds": [
+      "oyama-seiichiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "shin-honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "入れ替わりと密室が絡む事件を、緻密な論理で解きほぐしていく長編。本格ミステリの技巧に徹した一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(小学館、2023年、ISBN 9784094072631)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大山誠一郎 著」による。初刊年2006年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mystery-arena",
+    "title": "ミステリー・アリーナ",
+    "titleKana": "みすてりーありーな",
+    "authorIds": [
+      "fukami-reiichiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "taju-kaiketsu",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "テレビの推理クイズ番組で、出演者が次々と推理を披露していく。解決を積み重ねる構成に徹した実験的な長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2018年、ISBN 9784065118078)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「深水黎一郎 [著]」による。初刊年2015年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]
