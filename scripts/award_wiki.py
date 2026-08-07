@@ -140,6 +140,47 @@ def parse_tables(wikitext: str):
     return out
 
 
+def parse_lists(wikitext):
+    """箇条書き形式(「* [[作品名]]（著者）」)の受賞作一覧を拾う。
+
+    賞のページはテーブルとは限らず、年ごとの見出し+箇条書きで書かれていることも多い
+    (日本推理作家協会賞・マンガ大賞・手塚治虫文化賞など)。直近の見出しから年を引き継ぐ。
+    """
+    rows = []
+    year = ""
+    section = ""
+    for line in wikitext.splitlines():
+        st = line.strip()
+        m = re.match(r"^=+\s*(.+?)\s*=+$", st)
+        if m:
+            section = clean_cell(m.group(1))
+            y = re.search(r"(18|19|20)\d{2}", section)
+            if y:
+                year = y.group(0)
+            continue
+        if not re.match(r"^[*#:;]+\s*", st):
+            continue
+        body = re.sub(r"^[*#:;]+\s*", "", st)
+        y2 = re.match(r"^第?\s*\d+\s*回?[（(]?((18|19|20)\d{2})年", body)
+        if y2:
+            year = y2.group(1)
+        links = re.findall(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]", body)
+        if not links:
+            continue
+        title = clean_cell(links[0])
+        rest = clean_cell(body)
+        # 「作品名』(著者名)」「作品名 - 著者名」など、タイトルの後ろにある人名を拾う
+        author = ""
+        m2 = re.search(r"[（(]([^）)]{2,20})[）)]", rest)
+        if m2 and m2.group(1) != title:
+            author = m2.group(1).split("、")[0].split("・作")[0].strip()
+        if not author and len(links) > 1:
+            author = clean_cell(links[1])
+        author = re.sub(r"(作|著|画|漫画|原作)$", "", author).strip()
+        rows.append([year, section, title, author, rest[:60]])
+    return rows
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("page")
@@ -147,6 +188,7 @@ def main():
     ap.add_argument("--table", type=int, default=None, help="対象テーブルの番号(0始まり)")
     ap.add_argument("--title-col", type=int, default=None, help="重複判定に使う列")
     ap.add_argument("--all", action="store_true")
+    ap.add_argument("--list", action="store_true", help="表ではなく箇条書き形式のページを解析する")
     args = ap.parse_args()
 
     works = json.load(open(SRC / "works.json", encoding="utf-8"))
@@ -161,7 +203,8 @@ def main():
                 return wid
         return None
 
-    tables = parse_tables(fetch(args.page))
+    wikitext = fetch(args.page)
+    tables = [parse_lists(wikitext)] if args.list else parse_tables(wikitext)
     cols = [int(c) for c in args.cols.split(",") if c.strip() != ""]
     auto = not cols
 
@@ -190,8 +233,10 @@ def main():
     for ti, grid in enumerate(tables):
         if args.table is not None and ti != args.table:
             continue
-        tcol_auto = None
-        if auto:
+        tcol_auto = 2 if args.list else None
+        if args.list:
+            cols_t = [0, 1, 2, 3]
+        elif auto:
             if not grid:
                 continue
             cols_t, tcol_auto = detect(grid[0])

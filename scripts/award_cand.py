@@ -39,6 +39,8 @@ def main():
     ap.add_argument("--require-pub", action="store_true")
     ap.add_argument("--start", type=int, default=0)
     ap.add_argument("--limit", type=int, default=10000)
+    ap.add_argument("--base-year", type=int, default=0,
+                    help="年の列が『第N回』しか持たないページ用。年 = base-year + (N-1) で補う")
     args = ap.parse_args()
 
     out = []
@@ -62,6 +64,10 @@ def main():
             continue
         m = re.search(r"(19|20)\d{2}", ycell)
         year = m.group(0) if m else ""
+        if not year and args.base_year:
+            mn = re.search(r"\d+", ycell)
+            if mn:
+                year = str(args.base_year + int(mn.group(0)) - 1)
         t = pick(title, args.title_part)
         a = pick(author, 1)
         if not t or not a or not year:
