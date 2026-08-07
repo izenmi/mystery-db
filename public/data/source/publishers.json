@@ -249,5 +249,34 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fusosha",
+    "name": "扶桑社",
+    "nameKana": "ふそうしゃ",
+    "description": "扶桑社ミステリー文庫で海外の犯罪小説を多数刊行している出版社。",
+    "foundedYear": 1984,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "futami-shobo",
+    "name": "二見書房",
+    "nameKana": "ふたみしょぼう",
+    "description": "二見文庫・ザ・ミステリ・コレクションで海外ミステリを刊行してきた出版社。",
+    "foundedYear": 1958,
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "village-books",
+    "name": "ヴィレッジブックス",
+    "nameKana": "う゛ぃれっじぶっくす",
+    "description": "海外小説の翻訳を中心に刊行している出版社。",
+    "externalLinks": {},
+    "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
+    "updatedAt": "2026-08-07"
   }
 ]

@@ -999,5 +999,85 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "ed-mcbain"
+  },
+  {
+    "id": "harry-bosch",
+    "name": "ハリー・ボッシュ",
+    "nameKana": "はりーぼっしゅ",
+    "description": "ヴェトナム帰りの一匹狼の刑事。「すべての人間に価値がある、さもなくば誰にも価値がない」を信条に、組織と衝突しながら事件を追う。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "michael-connelly"
+  },
+  {
+    "id": "mickey-haller",
+    "name": "ミッキー・ハラー",
+    "nameKana": "みっきーはらー",
+    "description": "リンカーンの後部座席を事務所代わりにする弁護士。ハリー・ボッシュとは異母兄弟という設定で、法廷ものの主役を務める。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "michael-connelly"
+  },
+  {
+    "id": "matt-scudder",
+    "name": "マット・スカダー",
+    "nameKana": "まっとすかだー",
+    "description": "警察を辞めアルコールに沈んだ男。ニューヨークの街を歩き回り、報酬の一部を教会の賽銭箱に入れる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "lawrence-block"
+  },
+  {
+    "id": "kinsey-millhone",
+    "name": "キンジー・ミルホーン",
+    "nameKana": "きんじーみるほーん",
+    "description": "カリフォルニアの架空の街を拠点にする女性私立探偵。アルファベット順の題名で一作ずつ事件を重ねていく。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "sue-grafton"
+  },
+  {
+    "id": "vi-warshawski",
+    "name": "V・I・ウォーショースキー",
+    "nameKana": "う゛ぃーあいうぉーしょーすきー",
+    "description": "シカゴを拠点にする女性私立探偵。金融犯罪や企業の不正など、社会の構造に切り込む事件を扱う。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "sara-paretsky"
+  },
+  {
+    "id": "harry-hole",
+    "name": "ハリー・ホーレ",
+    "nameKana": "はりーほーれ",
+    "description": "酒に溺れながらも卓越した捜査能力を持つ刑事。北欧ミステリを代表するシリーズの主人公。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "jo-nesbo"
+  },
+  {
+    "id": "kurt-wallander",
+    "name": "クルト・ヴァランダー",
+    "nameKana": "くるとう゛ぁらんだー",
+    "description": "私生活の悩みを抱えながら地道に捜査を続ける中年刑事。スウェーデン社会の変化を映す鏡として描かれる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "henning-mankell"
+  },
+  {
+    "id": "carl-morck",
+    "name": "カール・マーク",
+    "nameKana": "かーるまーく",
+    "description": "未解決事件専従部署に追いやられた刑事。助手アサドとの掛け合いが持ち味のシリーズ主人公。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "jussi-adler-olsen"
   }
 ]

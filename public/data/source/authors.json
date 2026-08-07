@@ -1798,5 +1798,145 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1949
+  },
+  {
+    "id": "harlan-coben",
+    "name": "ハーラン・コーベン",
+    "nameKana": "はーらんこーべん",
+    "description": "アメリカの作家。日常が突然崩れる出だしと二転三転する展開のサスペンスで知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1962
+  },
+  {
+    "id": "michael-connelly",
+    "name": "マイクル・コナリー",
+    "nameKana": "まいくるこなりー",
+    "description": "アメリカの作家。元事件記者で、ロサンゼルスを舞台にした警察小説・法廷小説を書き続けている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1956
+  },
+  {
+    "id": "john-hart",
+    "name": "ジョン・ハート",
+    "nameKana": "じょんはーと",
+    "description": "アメリカの作家。アメリカ南部を舞台に、家族と過去を主題にした重厚な作品を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1965
+  },
+  {
+    "id": "dennis-lehane",
+    "name": "デニス・ルヘイン",
+    "nameKana": "でにするへいん",
+    "description": "アメリカの作家。ボストンの街と人を描き、犯罪小説を文学として押し上げた一人。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1965
+  },
+  {
+    "id": "thomas-h-cook",
+    "name": "トマス・H・クック",
+    "nameKana": "とますえいちくっく",
+    "description": "アメリカの作家。過去を回想する形式の物語で、静かな悲哀を描くことを得意とする。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1947
+  },
+  {
+    "id": "lawrence-block",
+    "name": "ローレンス・ブロック",
+    "nameKana": "ろーれんすぶろっく",
+    "description": "アメリカの作家。元刑事の探偵マット・スカダーのシリーズなど、都市の孤独を描くハードボイルドで知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1938
+  },
+  {
+    "id": "sue-grafton",
+    "name": "スー・グラフトン",
+    "nameKana": "すーぐらふとん",
+    "description": "アメリカの作家。アルファベット順に題名を付けた女性私立探偵シリーズで人気を得た。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1940
+  },
+  {
+    "id": "sara-paretsky",
+    "name": "サラ・パレツキー",
+    "nameKana": "さらぱれつきー",
+    "description": "アメリカの作家。女性私立探偵ものを社会派の視点で書き換えた第一人者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1947
+  },
+  {
+    "id": "james-ellroy",
+    "name": "ジェイムズ・エルロイ",
+    "nameKana": "じぇいむずえるろい",
+    "description": "アメリカの作家。実在の事件を下敷きに、暴力的で密度の高い文体の犯罪小説を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1948
+  },
+  {
+    "id": "jo-nesbo",
+    "name": "ジョー・ネスボ",
+    "nameKana": "じょーねすぼ",
+    "description": "ノルウェーの作家。刑事ハリー・ホーレのシリーズで北欧ミステリを代表する存在になった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1960
+  },
+  {
+    "id": "camilla-lackberg",
+    "name": "カミラ・レックバリ",
+    "nameKana": "かみられっくばり",
+    "description": "スウェーデンの作家。小さな町を舞台に、家族の歴史と現在の事件を重ねる作風。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1974
+  },
+  {
+    "id": "jussi-adler-olsen",
+    "name": "ユッシ・エーズラ・オールスン",
+    "nameKana": "ゆっしえーずらおーるすん",
+    "description": "デンマークの作家。未解決事件を扱う特捜部Qのシリーズで北欧を代表する書き手となった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1950
+  },
+  {
+    "id": "paula-hawkins",
+    "name": "ポーラ・ホーキンズ",
+    "nameKana": "ぽーらほーきんず",
+    "description": "イギリスの作家。信頼の置けない語り手を用いた心理サスペンスで世界的な話題作を生んだ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1972
+  },
+  {
+    "id": "sj-watson",
+    "name": "S・J・ワトソン",
+    "nameKana": "えすじぇーわとそん",
+    "description": "イギリスの作家。記憶をめぐる心理サスペンスでデビューした。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1971
   }
 ]

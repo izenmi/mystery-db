@@ -30856,5 +30856,1228 @@
     "originalTitle": "The Sculptress",
     "jpPublishedYear": 2024,
     "sourceNote": "書誌(東京創元社、2024年、ISBN 9784488187149)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ミネット・ウォルターズ 著,成川裕子 訳」による。初刊年1995年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "vanished-man",
+    "title": "魔術師",
+    "titleKana": "いりゅーじょにすと",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "奇術の技を使う犯人が、警察の包囲をすり抜けて犯行を重ねる。科学捜査と不可能状況が組み合わさったシリーズ作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リンカーン・ライムシリーズ",
+    "originalTitle": "The Vanished Man",
+    "jpPublishedYear": 2008,
+    "sourceNote": "書誌(文藝春秋、2008年、ISBN 9784167705695)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジェフリー・ディーヴァー 著,池田真紀子 訳」による。初刊年2004年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "broken-window",
+    "title": "ソウル・コレクター",
+    "titleKana": "そうるこれくたー",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "個人情報を扱う巨大企業のデータを使って、犯人が他人になりすます。情報社会の危うさを題材にした一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リンカーン・ライムシリーズ",
+    "originalTitle": "The Broken Window",
+    "jpPublishedYear": 2012,
+    "sourceNote": "書誌(文藝春秋、2012年、ISBN 9784167812119)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジェフリー・ディーヴァー 著,池田真紀子 訳」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "burning-wire",
+    "title": "バーニング・ワイヤー",
+    "titleKana": "ばーにんぐわいやー",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "送電網を凶器に変える犯人を、ライムとサックスが追う。都市のインフラそのものが脅威になる設定の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リンカーン・ライムシリーズ",
+    "originalTitle": "The Burning Wire",
+    "jpPublishedYear": 2015,
+    "sourceNote": "書誌(文藝春秋、2015年、ISBN 9784167905019)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジェフリー・ディーヴァー 著,池田真紀子 訳」による。初刊年2012年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "steel-kiss",
+    "title": "スティール・キス",
+    "titleKana": "すてぃーるきす",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [
+      "lincoln-rhyme"
+    ],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "身の回りの機械が制御を奪われて凶器になる。ネットにつながった製品の危険を扱ったシリーズ作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リンカーン・ライムシリーズ",
+    "originalTitle": "The Steel Kiss",
+    "jpPublishedYear": 2020,
+    "sourceNote": "書誌(文藝春秋、2020年、ISBN 9784167916015)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジェフリー・ディーヴァー 著,池田真紀子 訳」による。初刊年2017年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tell-no-one",
+    "title": "唇を閉ざせ",
+    "titleKana": "くちびるおとざせ",
+    "authorIds": [
+      "harlan-coben"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "sato-koji"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "八年前に妻を殺されたはずの男に、彼女の存在を示すメールが届く。日常が一通のメールで崩れていくサスペンス。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Tell No One",
+    "jpPublishedYear": 2002,
+    "sourceNote": "書誌(講談社、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ハーラン・コーベン [著],佐藤耕士 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "boy-from-the-woods",
+    "title": "森から来た少年",
+    "titleKana": "もりからきたしょうねん",
+    "authorIds": [
+      "harlan-coben"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "森で保護され育った過去を持つ男が、失踪した少女の行方を追う。出自の謎と現在の事件が絡む長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Boy from the Woods",
+    "jpPublishedYear": 2022,
+    "sourceNote": "書誌(小学館、2022年、ISBN 9784094068337)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ハーラン・コーベン 著,田口俊樹 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "darkness-more-than-night",
+    "title": "夜より暗き闇",
+    "titleKana": "よるよりくらきやみ",
+    "authorIds": [
+      "michael-connelly"
+    ],
+    "detectiveIds": [
+      "harry-bosch"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "引退した元FBI捜査官が、ある事件の捜査に加わる。二人の主人公の視点が交差する構成の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ハリー・ボッシュシリーズ",
+    "originalTitle": "A Darkness More Than Night",
+    "jpPublishedYear": 2003,
+    "sourceNote": "書誌(講談社、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マイクル・コナリー [著],古沢嘉通 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "city-of-bones",
+    "title": "シティ・オブ・ボーンズ",
+    "titleKana": "してぃおぶぼーんず",
+    "authorIds": [
+      "michael-connelly"
+    ],
+    "detectiveIds": [
+      "harry-bosch"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "丘の斜面から掘り出された子どもの骨をきっかけに、二十年前の出来事が浮かび上がる。ボッシュの職業人生の転機となる一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ハリー・ボッシュシリーズ",
+    "originalTitle": "City of Bones",
+    "jpPublishedYear": 2005,
+    "sourceNote": "書誌(早川書房、2005年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マイクル・コナリー 著,古沢嘉通 訳」による。初刊年2002年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "lincoln-lawyer",
+    "title": "リンカーン弁護士",
+    "titleKana": "りんかーんべんごし",
+    "authorIds": [
+      "michael-connelly"
+    ],
+    "detectiveIds": [
+      "mickey-haller"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "houtei",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "車を事務所代わりにする弁護士が、資産家の息子の弁護を引き受ける。法廷戦術を主役に据えたシリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リンカーン弁護士シリーズ",
+    "originalTitle": "The Lincoln Lawyer",
+    "jpPublishedYear": 2009,
+    "sourceNote": "書誌(講談社、2009年、ISBN 9784062763929)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マイクル・コナリー [著],古沢嘉通 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "reversal",
+    "title": "判決破棄",
+    "titleKana": "はんけつはき",
+    "authorIds": [
+      "michael-connelly"
+    ],
+    "detectiveIds": [
+      "mickey-haller",
+      "harry-bosch"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "houtei",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "弁護士ハラーが検察側に立ち、再審となった殺人事件を担当する。ボッシュが捜査を担う組み合わせの長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リンカーン弁護士シリーズ",
+    "originalTitle": "The Reversal",
+    "jpPublishedYear": 2014,
+    "sourceNote": "書誌(講談社、2014年、ISBN 9784062779760)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マイクル・コナリー [著],古沢嘉通 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "king-of-lies",
+    "title": "キングの死",
+    "titleKana": "きんぐのし",
+    "authorIds": [
+      "john-hart"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "higashino-sayaka"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "失踪していた父親が遺体で見つかり、弁護士の息子が疑いの目を向けられる。南部の町と家族の重みを描いたデビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The King of Lies",
+    "jpPublishedYear": 2006,
+    "sourceNote": "書誌(早川書房、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ハート 著,東野さやか 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "power-of-the-dog",
+    "title": "犬の力",
+    "titleKana": "いぬのちから",
+    "authorIds": [
+      "don-winslow"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "agarie-kazuki"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "noir",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "米国とメキシコにまたがる麻薬戦争を、三十年にわたって描く大作。関係者それぞれの人生が交錯していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "麻薬戦争三部作",
+    "originalTitle": "The Power of the Dog",
+    "jpPublishedYear": 2009,
+    "sourceNote": "書誌(角川書店、2009年、ISBN 9784042823049)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ドン・ウィンズロウ [著],東江一紀 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "winter-of-frankie-machine",
+    "title": "フランキー・マシーンの冬",
+    "titleKana": "ふらんきーましーんのふゆ",
+    "authorIds": [
+      "don-winslow"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "agarie-kazuki"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "noir",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "堅気の商売人として暮らす元殺し屋が、過去の因縁に引き戻される。乾いた語り口の犯罪小説。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Winter of Frankie Machine",
+    "jpPublishedYear": 2010,
+    "sourceNote": "書誌(角川書店、2010年、ISBN 9784042823063)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ドン・ウィンズロウ [著],東江一紀 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mystic-river",
+    "title": "ミスティック・リバー",
+    "titleKana": "みすてぃっくりばー",
+    "authorIds": [
+      "dennis-lehane"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "少年時代にある出来事を共有した三人の男が、殺人事件をきっかけに再び交わる。街と記憶を描いた重厚な長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Mystic River",
+    "jpPublishedYear": 2003,
+    "sourceNote": "書誌(早川書房、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「デニス・ルヘイン 著,加賀山卓朗 訳」による。初刊年2001年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shutter-island",
+    "title": "シャッター・アイランド",
+    "titleKana": "しゃったーあいらんど",
+    "authorIds": [
+      "dennis-lehane"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "kotou",
+      "closed-circle"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "孤島の精神科施設から患者が消え、連邦保安官が調査に向かう。閉ざされた島の中で足場が揺らいでいくサスペンス。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Shutter Island",
+    "jpPublishedYear": 2006,
+    "sourceNote": "書誌(早川書房、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「デニス・ルヘイン 著,加賀山卓朗 訳」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "live-by-night",
+    "title": "夜に生きる",
+    "titleKana": "よるにいきる",
+    "authorIds": [
+      "dennis-lehane"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "noir",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "禁酒法時代のアメリカで、警官の息子がギャングの世界にのめり込んでいく。時代の空気を描いた犯罪小説。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Live by Night",
+    "jpPublishedYear": 2017,
+    "sourceNote": "書誌(早川書房、2017年、ISBN 9784151744051)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「デニス・ルヘイン 著,加賀山卓朗 訳」による。初刊年2013年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "chatham-school-affair",
+    "title": "緋色の記憶",
+    "titleKana": "ひいろのきおく",
+    "authorIds": [
+      "thomas-h-cook"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "konosu-yukiko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "老いた弁護士が、少年時代に暮らした町で起きた出来事を回想する。静かな語りで進む、エドガー賞受賞の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "記憶シリーズ",
+    "originalTitle": "The Chatham School Affair",
+    "jpPublishedYear": 2023,
+    "sourceNote": "書誌(早川書房、2023年、ISBN 9784151799525)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「トマス・H・クック 著,鴻巣友季子 訳」による。初刊年1998年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mortal-memory",
+    "title": "死の記憶",
+    "titleKana": "しのきおく",
+    "authorIds": [
+      "thomas-h-cook"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "sato-kazuhiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "幼い日に家族を失った男が、当時のことを調べ直し始める。過去へ遡る構成で知られる作者の代表作の一つ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "記憶シリーズ",
+    "originalTitle": "Mortal Memory",
+    "jpPublishedYear": 1999,
+    "sourceNote": "書誌(文藝春秋、1999年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「トマス・H.クック 著,佐藤和彦 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "eight-million-ways-to-die",
+    "title": "八百万の死にざま",
+    "titleKana": "はっぴゃくまんのしにざま",
+    "authorIds": [
+      "lawrence-block"
+    ],
+    "detectiveIds": [
+      "matt-scudder"
+    ],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "娼婦から足を洗いたいという依頼を受けたスカダーが、彼女の死に向き合う。酒との闘いも並行して描かれる代表作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "マット・スカダーシリーズ",
+    "originalTitle": "Eight Million Ways to Die",
+    "jpPublishedYear": 1988,
+    "sourceNote": "書誌(早川書房、1988年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ローレンス・ブロック 著,田口俊樹 訳」による。初刊年1984年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "burglars-cant-be-choosers",
+    "title": "泥棒は選べない",
+    "titleKana": "どろぼうわえらべない",
+    "authorIds": [
+      "lawrence-block"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "shiritsu-tantei",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "泥棒に入った先で死体に出くわした男が、自分の潔白を証明するために動く。軽妙なユーモアミステリのシリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "泥棒バーニイシリーズ",
+    "originalTitle": "Burglars Can't Be Choosers",
+    "jpPublishedYear": 1992,
+    "sourceNote": "書誌(早川書房、1992年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ローレンス・ブロック 著,田口俊樹 訳」による。初刊年1980年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "a-is-for-alibi",
+    "title": "アリバイのA",
+    "titleKana": "ありばいのえい",
+    "authorIds": [
+      "sue-grafton"
+    ],
+    "detectiveIds": [
+      "kinsey-millhone"
+    ],
+    "translatorIds": [
+      "saga-shizue"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "shiritsu-tantei",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "服役を終えた女性から、夫殺しの真犯人を探してほしいと依頼される。アルファベット・シリーズの第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "キンジー・ミルホーンシリーズ",
+    "originalTitle": "\"A\" Is for Alibi",
+    "jpPublishedYear": 1987,
+    "sourceNote": "書誌(早川書房、1987年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「スー・グラフトン 著,嵯峨静江 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "indemnity-only",
+    "title": "サマータイム・ブルース",
+    "titleKana": "さまーたいむぶるーす",
+    "authorIds": [
+      "sara-paretsky"
+    ],
+    "detectiveIds": [
+      "vi-warshawski"
+    ],
+    "translatorIds": [
+      "yamamoto-yayoi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "shiritsu-tantei",
+      "hardboiled",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "人捜しの依頼から、労働組合と保険会社をめぐる問題へ踏み込んでいく。女性私立探偵ものの流れを変えたシリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "V・I・ウォーショースキーシリーズ",
+    "originalTitle": "Indemnity Only",
+    "jpPublishedYear": 2010,
+    "sourceNote": "書誌(早川書房、2010年、ISBN 9784150753702)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「サラ・パレツキー 著,山本やよい 訳」による。初刊年1985年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "black-dahlia",
+    "title": "ブラック・ダリア",
+    "titleKana": "ぶらっくだりあ",
+    "authorIds": [
+      "james-ellroy"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yoshino-mieko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "noir",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "実際に起きた猟奇事件に取り憑かれた刑事たちを描く。戦後ロサンゼルスの闇を描いた四部作の第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "暗黒のLA四部作",
+    "originalTitle": "The Black Dahlia",
+    "jpPublishedYear": 1994,
+    "sourceNote": "書誌(文芸春秋、1994年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジェイムズ・エルロイ 著,吉野美恵子 訳」による。初刊年1990年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "redbreast",
+    "title": "コマドリの賭け",
+    "titleKana": "こまどりのかけ",
+    "authorIds": [
+      "jo-nesbo"
+    ],
+    "detectiveIds": [
+      "harry-hole"
+    ],
+    "translatorIds": [
+      "inoue-etsuko"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "第二次大戦下の東部戦線と現代のオスロが交互に語られ、やがて一つに結ばれる。シリーズの評価を決定づけた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ハリー・ホーレシリーズ",
+    "originalTitle": "Rødstrupe",
+    "jpPublishedYear": 2018,
+    "sourceNote": "書誌(集英社、2018年、ISBN 9784087607468)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョー・ネスボ 著,井野上悦子 訳」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "nemesis-nesbo",
+    "title": "ネメシス",
+    "titleKana": "ねめしす",
+    "authorIds": [
+      "jo-nesbo"
+    ],
+    "detectiveIds": [
+      "harry-hole"
+    ],
+    "translatorIds": [
+      "toda-hiroyuki"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "銀行強盗殺人の捜査と並行して、ハリー自身が窮地に追い込まれていく。シリーズの緊張が高まる一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ハリー・ホーレシリーズ",
+    "originalTitle": "Sorgenfri",
+    "jpPublishedYear": 2015,
+    "sourceNote": "書誌(集英社、2015年、ISBN 9784087607086)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョー・ネスボ 著,戸田裕之 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "snowman",
+    "title": "スノーマン",
+    "titleKana": "すのーまん",
+    "authorIds": [
+      "jo-nesbo"
+    ],
+    "detectiveIds": [
+      "harry-hole"
+    ],
+    "translatorIds": [
+      "toda-hiroyuki"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "初雪の日に女性が消え、家の前には雪だるまが残される。シリーズで最も広く読まれた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ハリー・ホーレシリーズ",
+    "originalTitle": "Snømannen",
+    "jpPublishedYear": 2013,
+    "sourceNote": "書誌(集英社、2013年、ISBN 9784087606744)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョー・ネスボ 著,戸田裕之 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "faceless-killers",
+    "title": "殺人者の顔",
+    "titleKana": "さつじんしゃのかお",
+    "authorIds": [
+      "henning-mankell"
+    ],
+    "detectiveIds": [
+      "kurt-wallander"
+    ],
+    "translatorIds": [
+      "yanagisawa-yumiko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "農村の老夫婦が襲われ、被害者が残した一言が捜査をかき乱す。北欧警察小説の代表シリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "クルト・ヴァランダーシリーズ",
+    "originalTitle": "Mördare utan ansikte",
+    "jpPublishedYear": 2001,
+    "sourceNote": "書誌(東京創元社、2001年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ヘニング・マンケル 著,柳沢由実子 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "ice-princess",
+    "title": "氷姫",
+    "titleKana": "こおりひめ",
+    "authorIds": [
+      "camilla-lackberg"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "hara-kunishiro"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "故郷の町で幼馴染が浴槽で死んでいるのが見つかる。作家エリカと刑事パトリックが組むシリーズの出発点。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エリカ&パトリックシリーズ",
+    "originalTitle": "Isprinsessan",
+    "jpPublishedYear": 2009,
+    "sourceNote": "書誌(集英社、2009年、ISBN 9784087605846)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カミラ・レックバリ 著,原邦史朗 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kvinden-i-buret",
+    "title": "特捜部Q",
+    "titleKana": "とくそうぶきゅー",
+    "authorIds": [
+      "jussi-adler-olsen"
+    ],
+    "detectiveIds": [
+      "carl-morck"
+    ],
+    "translatorIds": [
+      "yoshida-nahoko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "未解決事件を扱う新部署に回されたカール・マークが、五年前に消えた女性政治家の事件を洗い直す。シリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "特捜部Qシリーズ",
+    "originalTitle": "Kvinden i buret",
+    "jpPublishedYear": 2012,
+    "sourceNote": "書誌(早川書房、2012年、ISBN 9784151794513)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ユッシ・エーズラ・オールスン 著,吉田奈保子 訳」による。初刊年2011年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "fasandraeberne",
+    "title": "特捜部Q",
+    "titleKana": "とくそうぶきゅー",
+    "authorIds": [
+      "jussi-adler-olsen"
+    ],
+    "detectiveIds": [
+      "carl-morck"
+    ],
+    "translatorIds": [
+      "yoshida-kaoru",
+      "fukuhara-mihoko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "寄宿学校の卒業生たちが関わった二十年前の事件に、特捜部Qが手を付ける。特権階級の闇に踏み込む第二作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "特捜部Qシリーズ",
+    "originalTitle": "Fasandræberne",
+    "jpPublishedYear": 2013,
+    "sourceNote": "書誌(早川書房、2013年、ISBN 9784151794520)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ユッシ・エーズラ・オールスン 著,吉田薫, 福原美穂子 訳」による。初刊年2011年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "dark-places",
+    "title": "冥闇",
+    "titleKana": "めいあん",
+    "authorIds": [
+      "gillian-flynn"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakatani-yukiko"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "一家惨殺の唯一の生き残りである女性が、当時の証言を検証し直していく。過去と現在を往復する構成のサスペンス。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Dark Places",
+    "jpPublishedYear": 2012,
+    "sourceNote": "書誌(小学館、2012年、ISBN 9784094087628)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ギリアン・フリン著 ; 中谷友紀子訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "girl-on-the-train",
+    "title": "ガール・オン・ザ・トレイン",
+    "titleKana": "がーるおんざとれいん",
+    "authorIds": [
+      "paula-hawkins"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "毎日同じ電車から他人の家を眺めていた女性が、ある朝目にした光景から事件に巻き込まれる。語り手の記憶が当てにならない構成。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Girl on the Train",
+    "jpPublishedYear": 2015,
+    "sourceNote": "書誌(講談社、2015年、ISBN 9784062932226)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ポーラ・ホーキンズ [著],池田真紀子 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "black-echo",
+    "title": "ナイトホークス",
+    "titleKana": "ないとほーくす",
+    "authorIds": [
+      "michael-connelly"
+    ],
+    "detectiveIds": [
+      "harry-bosch"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "fusosha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "下水管で見つかった遺体が、ボッシュのヴェトナム時代の記憶と結び付く。シリーズ第一作で、エドガー賞新人賞を受賞した。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ハリー・ボッシュシリーズ",
+    "originalTitle": "The Black Echo",
+    "jpPublishedYear": 1992,
+    "sourceNote": "書誌(扶桑社、1992年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マイクル・コナリー 著,古沢嘉通 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "concrete-blonde",
+    "title": "ブラック・ハート",
+    "titleKana": "ぶらっくはーと",
+    "authorIds": [
+      "michael-connelly"
+    ],
+    "detectiveIds": [
+      "harry-bosch"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "fusosha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "hardboiled",
+      "houtei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "かつて射殺した容疑者の遺族に訴えられたボッシュが、法廷と捜査の両方で追い詰められる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ハリー・ボッシュシリーズ",
+    "originalTitle": "The Concrete Blonde",
+    "jpPublishedYear": 1995,
+    "sourceNote": "書誌(扶桑社、1995年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マイクル・コナリー 著,古沢嘉通 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "sacred-ginmill",
+    "title": "聖なる酒場の挽歌",
+    "titleKana": "せいなるさかばのばんか",
+    "authorIds": [
+      "lawrence-block"
+    ],
+    "detectiveIds": [
+      "matt-scudder"
+    ],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "futami-shobo",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "飲んでいた頃を振り返る形で、三つの事件が語られる。シリーズでも評価の高い一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "マット・スカダーシリーズ",
+    "originalTitle": "When the Sacred Ginmill Closes",
+    "jpPublishedYear": 1986,
+    "sourceNote": "書誌(二見書房、1986年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ローレンス・ブロック 著,田口俊樹 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "before-i-go-to-sleep",
+    "title": "わたしが眠りにつく前に",
+    "titleKana": "わたしがねむりにつくまえに",
+    "authorIds": [
+      "sj-watson"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tanahashi-shiko"
+    ],
+    "publisherId": "village-books",
+    "themeIds": [
+      "suspense",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "眠るたびに記憶を失う女性が、日記を頼りに自分の状況を確かめようとする。設定そのものが緊張を生む心理サスペンス。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Before I Go to Sleep",
+    "jpPublishedYear": 2012,
+    "sourceNote": "書誌(ヴィレッジブックス、2012年、ISBN 9784863323933)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「SJ・ワトソン 著,棚橋志行 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]
