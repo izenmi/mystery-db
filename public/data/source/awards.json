@@ -179,5 +179,17 @@
     "externalLinks": {},
     "sourceNote": "創設年・対象は一般に公開されている情報で確認した。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nihon-mystery-shinjinshou",
+    "name": "日本ミステリー文学大賞新人賞",
+    "organizer": "光文文化財団",
+    "description": "光文文化財団が主催する公募新人賞。日本ミステリー文学大賞の新人部門として1997年に創設され、受賞作は光文社から刊行される。",
+    "firstYear": 1997,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本ミステリー文学大賞新人賞"
+    },
+    "sourceNote": "Wikipedia日本語版「日本ミステリー文学大賞新人賞」の受賞作一覧を参照(2026-08-07照会)。",
+    "updatedAt": "2026-08-07"
   }
 ]

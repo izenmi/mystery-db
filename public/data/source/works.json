@@ -38492,5 +38492,425 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chouan-botanka-ibun",
+    "title": "長安牡丹花異聞",
+    "titleKana": "ちょうあんぼたんかいぶん",
+    "authorIds": [
+      "morifukumiyako"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "jidai-mystery",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "唐代の都・長安。病の母が所望する桃を求めた利発な少年が、夜光の牡丹をつくるという噂に行き当たる。中国古典を舞台にした連作。",
+    "awardResults": [
+      {
+        "awardId": "matsumoto-seicho-sho",
+        "year": 1996,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mariko-no-shouzou",
+    "title": "マリ子の肖像",
+    "titleKana": "まりこのしょうぞう",
+    "authorIds": [
+      "murasamesadao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "matsumoto-seicho-sho",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yoshitoshi-meifu-houkou",
+    "title": "芳年冥府彷徨",
+    "titleKana": "よしとしめいふほうこう",
+    "authorIds": [
+      "shimamurashou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "jidai-mystery",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "matsumoto-seicho-sho",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gunchou-no-sora",
+    "title": "群蝶の空",
+    "titleKana": "ぐんちょうのそら",
+    "authorIds": [
+      "misakimitsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "jidai-mystery",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "matsumoto-seicho-sho",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hito-wa-bakemon-ware-mo-bakemon",
+    "title": "ひとは化けもん われも化けもん",
+    "titleKana": "ひとわばけもんわれもばけもん",
+    "authorIds": [
+      "yamamotootoya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "jidai-mystery",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "matsumoto-seicho-sho",
+        "year": 2002,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kuraishisu-f",
+    "title": "クライシスF",
+    "titleKana": "くらいしすF",
+    "authorIds": [
+      "itanimasaki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "引き算を間違えたことによる死亡事故が日本各地で同時多発する。新聞社の閑職にいる自見弥一が、その異常に気づいていく。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mystery-shinjinshou",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sairento-naito",
+    "title": "サイレント・ナイト",
+    "titleKana": "さいれんとないと",
+    "authorIds": [
+      "takanoyumiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "12のクリスマスソングになぞらえた情景が積み重なるなかで進行する、静かなサスペンス。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mystery-shinjinshou",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "heat",
+    "title": "HEAT",
+    "titleKana": "Heat",
+    "authorIds": [
+      "narisadaharuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "hardboiled",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "nihon-mystery-shinjinshou",
+        "year": 2000,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "namida-no-kawa",
+    "title": "涙の川",
+    "titleKana": "なみだのかわ",
+    "authorIds": [
+      "suganonatsu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "nihon-mystery-shinjinshou",
+        "year": 2000,
+        "result": "佳作"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "taikou-ansatsu",
+    "title": "太閤暗殺",
+    "titleKana": "たいこうあんさつ",
+    "authorIds": [
+      "okadahidefumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "jidai-mystery",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "ようやく授かった我が子にすべてを譲り渡したい——太閤秀吉の願いと、それを取り巻く者たちの思惑が交錯する歴史ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mystery-shinjinshou",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arisu-no-yoru",
+    "title": "アリスの夜",
+    "titleKana": "ありすのよる",
+    "authorIds": [
+      "mikamiakira"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "nihon-mystery-shinjinshou",
+        "year": 2002,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yuguno-no-noroi",
+    "title": "ユグノーの呪い",
+    "titleKana": "ゆぐのーののろい",
+    "authorIds": [
+      "araimasahiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "メディチ家の末裔である美少女ルチアが、ある日突然目と口の自由を失う。16世紀の出来事が現代に影を落とす伝奇ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "nihon-mystery-shinjinshou",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞・日本ミステリー文学大賞新人賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
   }
 ]
