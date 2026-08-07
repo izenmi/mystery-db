@@ -1139,5 +1139,25 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "john-le-carre"
+  },
+  {
+    "id": "nekomaru-senpai",
+    "name": "猫丸先輩",
+    "nameKana": "ねこまるせんぱい",
+    "description": "倉知淳の連作に登場する探偵役。小柄で子どものような風貌ながら、鋭い観察で謎を解く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "kurachi-jun"
+  },
+  {
+    "id": "black-widowers",
+    "name": "黒後家蜘蛛の会",
+    "nameKana": "くろごけくものかい",
+    "description": "月に一度集まる会員たちが持ち込まれた謎を論じ、最後に給仕のヘンリーが答えを示す。安楽椅子探偵ものの代表格。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "isaac-asimov"
   }
 ]

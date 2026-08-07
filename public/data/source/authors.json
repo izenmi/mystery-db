@@ -2177,5 +2177,64 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1893
+  },
+  {
+    "id": "kondo-fumie",
+    "name": "近藤史恵",
+    "nameKana": "こんどうふみえ",
+    "description": "小説家。自転車ロードレースを題材にした作品や、日常の謎を扱う連作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1969
+  },
+  {
+    "id": "kurachi-jun",
+    "name": "倉知淳",
+    "nameKana": "くらちじゅん",
+    "description": "小説家。とぼけた味わいの探偵役と、堅牢な本格の論理を組み合わせる作風。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1962
+  },
+  {
+    "id": "okura-takahiro",
+    "name": "大倉崇裕",
+    "nameKana": "おおくらたかひろ",
+    "description": "小説家・脚本家。落語や山岳など題材の幅が広く、映像作品の脚本も手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1968
+  },
+  {
+    "id": "nanakawa-kanan",
+    "name": "七河迦南",
+    "nameKana": "ななかわかなん",
+    "description": "小説家。児童養護施設を舞台にした連作で鮎川哲也賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "matsuo-yumi",
+    "name": "松尾由美",
+    "nameKana": "まつおゆみ",
+    "description": "小説家。SF的な着想を持ち込んだ軽やかなミステリを書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1960
+  },
+  {
+    "id": "isaac-asimov",
+    "name": "アイザック・アシモフ",
+    "nameKana": "あいざっくあしもふ",
+    "description": "アメリカの作家・生化学者。SFの巨匠として知られる一方、安楽椅子探偵ものの短編でも高く評価されている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1920
   }
 ]

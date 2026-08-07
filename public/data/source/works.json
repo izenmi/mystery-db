@@ -33971,5 +33971,845 @@
     "originalTitle": "As for the Woman",
     "jpPublishedYear": 1985,
     "sourceNote": "書誌(東京創元社、1985年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「フランシス・アイルズ 著 ; 鮎川信夫 訳」による。初刊年1972年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "eden-kondo",
+    "title": "エデン",
+    "titleKana": "えでん",
+    "authorIds": [
+      "kondo-fumie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "欧州のチームに移籍した主人公が、大きなレースでアシストとして走る。前作の続編にあたる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "サクリファイスシリーズ",
+    "sourceNote": "書誌(新潮社、2013年、ISBN 9784101312620)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「近藤史恵 著」による。初刊年2010年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "vin-chaud-o-anata-ni",
+    "title": "ヴァン・ショーをあなたに",
+    "titleKana": "ゔぁんしょーおあなたに",
+    "authorIds": [
+      "kondo-fumie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "下町のビストロを舞台にした連作短編集。料理と客の事情から小さな謎が立ち上がる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ビストロ・パ・マルシリーズ",
+    "sourceNote": "書誌(東京創元社、2015年、ISBN 9784488427054)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「近藤史恵 著」による。初刊年2008年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "maho-hiko",
+    "title": "魔法飛行",
+    "titleKana": "まほうひこう",
+    "authorIds": [
+      "kano-tomoko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "『ななつのこ』に続く連作短編集。手紙のやり取りを通じて日常の謎が解かれていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "駒子シリーズ",
+    "sourceNote": "書誌(東京創元社、2000年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「加納朋子 著」による。初刊年1993年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "te-no-naka-no-kotori",
+    "title": "掌の中の小鳥",
+    "titleKana": "てのなかのことり",
+    "authorIds": [
+      "kano-tomoko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "喫茶店を舞台にした連作短編集。人の心の機微を丁寧に描く、作者の持ち味が出た一冊。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(東京創元社、2001年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「加納朋子 著」による。初刊年1995年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "doppelganger-no-ju",
+    "title": "ドッペルゲンガーの銃",
+    "titleKana": "どっぺるげんがーのじゅう",
+    "authorIds": [
+      "kurachi-jun"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "不可能状況を扱った中短編を収めた一冊。堅牢な論理と軽妙な語り口を両立させている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2021年、ISBN 9784167917685)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「倉知淳 著」による。初刊年2018年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hoshifuri-sanso",
+    "title": "星降り山荘の殺人",
+    "titleKana": "ほしふりさんそうのさつじん",
+    "authorIds": [
+      "kurachi-jun"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "雪に閉ざされた山荘で起きる連続殺人を描く。読者に開示される情報の扱いに趣向を凝らした長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2018年、ISBN 9784062937016)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「倉知淳」による。初刊年1996年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "nekomaru-senpai-no-suisoku",
+    "title": "猫丸先輩の推測",
+    "titleKana": "ねこまるせんぱいのすいそく",
+    "authorIds": [
+      "kurachi-jun"
+    ],
+    "detectiveIds": [
+      "nekomaru-senpai"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "猫丸先輩が身近な不思議を解き明かす連作短編集。日常の謎を論理で詰めていく作風。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "猫丸先輩シリーズ",
+    "sourceNote": "書誌(講談社、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「倉知淳」による。初刊年2002年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shichido-gitsune",
+    "title": "七度狐",
+    "titleKana": "しちどぎつね",
+    "authorIds": [
+      "okura-takahiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "落語会のために訪れた地で、一行が事件に巻き込まれる。落語の演目を下敷きにしたシリーズの一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "落語シリーズ",
+    "sourceNote": "書誌(東京創元社、2009年、ISBN 9784488470036)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大倉崇裕 著」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "nanatsu-no-umi-o-terasu-hoshi",
+    "title": "七つの海を照らす星",
+    "titleKana": "ななつのうみおてらすほし",
+    "authorIds": [
+      "nanakawa-kanan"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "児童養護施設で働く保育士が、子どもたちをめぐる小さな謎に向き合う連作短編集。鮎川哲也賞受賞作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2008,
+        "result": "第18回受賞"
+      }
+    ],
+    "sourceNote": "書誌(東京創元社、2013年、ISBN 9784488428112)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「七河迦南 著」による。初刊年2008年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "present-wakatake",
+    "title": "プレゼント",
+    "titleKana": "ぷれぜんと",
+    "authorIds": [
+      "wakatake-nanami"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoron-shinsha",
+    "themeIds": [
+      "tanpenshu",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "人と人の関わりから生まれる謎を集めた短編集。皮肉と苦みのある結末が特徴。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(中央公論社、1998年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「若竹七海 著」による。初刊年1996年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "irainin-wa-shinda",
+    "title": "依頼人は死んだ",
+    "titleKana": "いらいにんわしんだ",
+    "authorIds": [
+      "wakatake-nanami"
+    ],
+    "detectiveIds": [
+      "hamura-akira"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shiritsu-tantei",
+      "tanpenshu",
+      "hardboiled"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "女性私立探偵の葉村晶が扱う事件を集めた短編集。理不尽な目に遭い続ける主人公の造形が印象的。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "葉村晶シリーズ",
+    "sourceNote": "書誌(文藝春秋、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「若竹七海 著」による。初刊年2000年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kanzen-muketsu-no-meitantei",
+    "title": "完全無欠の名探偵",
+    "titleKana": "かんぜんむけつのめいたんてい",
+    "authorIds": [
+      "nishizawa-yasuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "taju-kaiketsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "名探偵の推理が次々に覆されていく構成の長編。推理そのものを主題に据えた一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、1998年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西澤保彦 [著]」による。初刊年1995年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kanojo-ga-shinda-yoru",
+    "title": "彼女が死んだ夜",
+    "titleKana": "かのじょがしんだよる",
+    "authorIds": [
+      "nishizawa-yasuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "honkaku",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "死体を運び出そうとする若者たちの右往左往を描く。作者の代表シリーズの出発点となった長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "匠千暁シリーズ",
+    "sourceNote": "書誌(幻冬舎、2008年、ISBN 9784344411449)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西澤保彦 [著]」による。初刊年1996年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "konjaku-hyakki-shui-tsuki",
+    "title": "今昔百鬼拾遺 月",
+    "titleKana": "こんじゃくひゃっきしゅういつき",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "youkai",
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "昭和二十年代を舞台に、記者や関係者が奇怪な事件に関わる。中禅寺の妹を主役に据えた連作の一編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "百鬼夜行シリーズ",
+    "sourceNote": "書誌(講談社、2020年、ISBN 9784065190197)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「京極夏彦 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shitai-o-kau-otoko",
+    "title": "死体を買う男",
+    "titleKana": "したいおかうおとこ",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "江戸川乱歩を思わせる作中作と現在の物語が絡み合う。構成の妙で読ませる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2001年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午 [著]」による。初刊年1991年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "garasubari-no-yukai",
+    "title": "ガラス張りの誘拐",
+    "titleKana": "がらすばりのゆうかい",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "衆人環視の状況で行われる誘拐という難題を扱った長編。初期の作者らしい趣向重視の一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午 [著]」による。初刊年1990年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "horo-tantei-to-nanatsu",
+    "title": "放浪探偵と七つの殺人",
+    "titleKana": "ほうろうたんていと7つのさつじん",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "各地を放浪する探偵が事件に出会う連作短編集。趣向の異なる短編がそろっている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "信濃譲二シリーズ",
+    "sourceNote": "書誌(講談社、2011年、ISBN 9784062769501)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午 [著]」による。初刊年1999年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "zutto-anata-ga",
+    "title": "ずっとあなたが好きでした",
+    "titleKana": "ずっとあなたがすきでした",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tanpenshu",
+      "iyamisu",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "日常の関係の中に潜む悪意を描いた短編集。結末で像が反転する構成を得意とする作者らしい一冊。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2017年、ISBN 9784167909741)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午 著」による。初刊年2014年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "maojo-satsujin",
+    "title": "魔王城殺人事件",
+    "titleKana": "まおうじょうさつじんじけん",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "seishun",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "子どもたちが「魔王城」と呼ぶ建物で起きた事件を、少年たちが調べていく。若い読者にも向けた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2020年、ISBN 9784065189269)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午 [著]」による。初刊年2004年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shiroi-ie-no-satsujin",
+    "title": "白い家の殺人",
+    "titleKana": "しろいいえのさつじん",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "風変わりな造りの家で起きた事件に信濃譲二が挑む。新本格の流れの中で書かれた初期作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "信濃譲二シリーズ",
+    "sourceNote": "書誌(講談社、2009年、ISBN 9784062763202)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午 [著]」による。初刊年1989年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "ugoku-ie-no-satsujin",
+    "title": "動く家の殺人",
+    "titleKana": "うごくいえのさつじん",
+    "authorIds": [
+      "utano-shogo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "仕掛けのある建物を舞台にした事件を扱う。建築の趣向を推理に組み込んだ初期三部作の一つ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "信濃譲二シリーズ",
+    "sourceNote": "書誌(講談社、2009年、ISBN 9784062764391)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午 [著]」による。初刊年1989年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "anraku-isu-tantei-archie",
+    "title": "安楽椅子探偵アーチー",
+    "titleKana": "あんらくいすたんていあーちー",
+    "authorIds": [
+      "matsuo-yumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "tokushu-settei",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "喋る安楽椅子と少女が組んで謎を解く連作短編集。ファンタジー的な設定を日常の謎に接続している。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "アーチーシリーズ",
+    "sourceNote": "書誌(東京創元社、2005年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松尾由美 著」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "balloon-town",
+    "title": "バルーン・タウンの殺人",
+    "titleKana": "ばるーんたうんのさつじん",
+    "authorIds": [
+      "matsuo-yumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "tokushu-settei",
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "自然分娩を選んだ妊婦たちが暮らす特区を舞台にした連作。SF的な設定の中で本格の趣向を展開する。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(東京創元社、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松尾由美 著」による。初刊年1994年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tales-of-the-black-widowers",
+    "title": "黒後家蜘蛛の会",
+    "titleKana": "くろごけくものかい",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "detectiveIds": [
+      "black-widowers"
+    ],
+    "translatorIds": [
+      "ike-hiroaki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "tanpenshu",
+      "nichijo-no-nazo"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1974,
+    "status": "completed",
+    "synopsis": "月例の晩餐会に持ち込まれた謎を、会員たちが議論する連作短編集。安楽椅子探偵ものの代表作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "黒後家蜘蛛の会シリーズ",
+    "originalTitle": "Tales of the Black Widowers",
+    "jpPublishedYear": 2018,
+    "sourceNote": "書誌(東京創元社、2018年、ISBN 9784488167097)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アイザック・アシモフ 著,池央耿 訳」による。初刊年1976年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "dokuro-kengyo",
+    "title": "髑髏検校",
+    "titleKana": "どくろけんぎょう",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1970,
+    "status": "completed",
+    "synopsis": "江戸を舞台に、吸血鬼伝説を下敷きにした怪奇伝奇小説。金田一ものとは異なる作者の一面を示す作品。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2008年、ISBN 9784043555062)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「横溝正史 [著]」による。初刊年1970年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "meiroso-no-sangeki",
+    "title": "迷路荘の惨劇",
+    "titleKana": "めいろそうのさんげき",
+    "authorIds": [
+      "yokomizo-seishi"
+    ],
+    "detectiveIds": [
+      "kindaichi-kosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "からくり仕掛けの屋敷で起きた惨劇を金田一耕助が追う。旧作を改稿して長編化した一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "金田一耕助シリーズ",
+    "sourceNote": "書誌(角川書店、1996年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「横溝正史  [著]」による。初刊年1975年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "sacrifice",
+    "title": "サクリファイス",
+    "titleKana": "さくりふぁいす",
+    "authorIds": [
+      "kondo-fumie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "自転車ロードレースのチームで、エースを勝たせるために走る選手を描く。競技の構造そのものが物語の仕掛けになった長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "サクリファイスシリーズ",
+    "awardResults": [
+      {
+        "awardId": "oyabu-haruhiko-sho",
+        "year": 2008,
+        "result": "第10回受賞"
+      }
+    ],
+    "sourceNote": "書誌(新潮社、2010年、ISBN 9784101312613)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「近藤史恵 著」による。初刊年2007年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kami-no-logic",
+    "title": "神のロジック",
+    "titleKana": "かみのろじっく",
+    "authorIds": [
+      "nishizawa-yasuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "外界から隔てられた施設で暮らす子どもたちの日常に、不穏な影が差す。設定そのものが謎になっている長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(コスミック出版、2021年、ISBN 9784774762999)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西澤保彦 著」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]

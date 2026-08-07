@@ -169,5 +169,15 @@
     },
     "sourceNote": "創設年・主催・対象はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "oyabu-haruhiko-sho",
+    "name": "大藪春彦賞",
+    "nameKana": "おおやぶはるひこしょう",
+    "organizer": "大藪春彦賞選考委員会",
+    "description": "1999年に創設された、冒険小説・ハードボイルド・アクション小説を対象とする文学賞。",
+    "externalLinks": {},
+    "sourceNote": "創設年・対象は一般に公開されている情報で確認した。",
+    "updatedAt": "2026-08-07"
   }
 ]

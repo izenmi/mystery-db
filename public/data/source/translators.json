@@ -1030,5 +1030,15 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1920
+  },
+  {
+    "id": "ike-hiroaki",
+    "name": "池央耿",
+    "nameKana": "いけひろあき",
+    "description": "翻訳家。英米の小説・ノンフィクションを幅広く訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1940
   }
 ]
