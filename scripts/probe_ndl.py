@@ -168,6 +168,10 @@ def main():
     cands = [ln for ln in lines if ln and not ln.startswith("#")]
 
     def probe_one(i, cand):
+        # "タイトル|著者" 形式に対応する。著者は検索の絞り込みだけに使い、重複判定はタイトルで行う
+        creator = ""
+        if "|" in cand:
+            cand, creator = [x.strip() for x in cand.split("|", 1)]
         key = normalize(cand)
         hit = existing.get(key)
         if hit is None:
@@ -179,7 +183,10 @@ def main():
             return {"n": i, "query": cand, "status": "DUP", "existingId": hit}
 
         # mediatype は指定しないこと。`mediatype=1` を付けると図書がヒット0件になる(実際に踏んだ)
-        xml = fetch({"title": cand, "cnt": "30"}, sleep)
+        q = {"title": cand, "cnt": "30"}
+        if creator:
+            q["creator"] = creator
+        xml = fetch(q, sleep)
         time.sleep(sleep)
         editions = parse(xml or "", cand)
         if not editions:
