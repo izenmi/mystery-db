@@ -332,5 +332,23 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shuppan-geijutsusha",
+    "name": "出版芸術社",
+    "nameKana": "しゅっぱんげいじゅつしゃ",
+    "description": "ミステリ・幻想文学の復刊や作家全集を手がける出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asahi-sonorama",
+    "name": "朝日ソノラマ",
+    "nameKana": "あさひそのらま",
+    "description": "ソノラマ文庫などを刊行していた出版社。2007年に営業終了。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]
