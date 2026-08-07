@@ -35,7 +35,7 @@
     "title": "アリバイのA",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:42:10.422Z"
+    "resolvedAt": "2026-08-07T05:38:36.477Z"
   },
   "abashiri-hatsu": {
     "title": "網走発遙かなり",
@@ -144,9 +144,11 @@
   },
   "akui": {
     "title": "悪意",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T03:39:59.152Z"
+    "isbn": "9784062730174",
+    "matchedTitle": "悪意",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0174/9784062730174_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T05:17:20.597Z"
   },
   "akuma-ga-kitarite": {
     "title": "悪魔が来りて笛を吹く",
@@ -217,7 +219,7 @@
     "title": "第八の日",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:25:55.345Z"
+    "resolvedAt": "2026-08-07T05:22:11.186Z"
   },
   "ankoku-douwa": {
     "title": "暗黒童話",
@@ -273,13 +275,13 @@
     "title": "アラビアン・ナイトの殺人",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:28:46.952Z"
+    "resolvedAt": "2026-08-07T05:24:37.511Z"
   },
   "arbeit-tantei": {
     "title": "帰ってきたアルバイト探偵 (アイ)",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:16:12.426Z"
+    "resolvedAt": "2026-08-07T05:34:15.890Z"
   },
   "archimedes-wa-te-o-yogosanai": {
     "title": "アルキメデスは手を汚さない",
@@ -373,7 +375,7 @@
     "title": "バルコニーの男",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:33:30.251Z"
+    "resolvedAt": "2026-08-07T05:31:19.282Z"
   },
   "balloon-town": {
     "title": "バルーン・タウンの殺人",
@@ -403,7 +405,7 @@
     "title": "盤上の敵",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:01:26.375Z"
+    "resolvedAt": "2026-08-07T05:29:53.669Z"
   },
   "banjo-no-yoru": {
     "title": "盤上の夜",
@@ -434,7 +436,7 @@
     "title": "わたしが眠りにつく前に",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:43:45.764Z"
+    "resolvedAt": "2026-08-07T05:39:50.680Z"
   },
   "bellona-club": {
     "title": "ベローナ・クラブの不愉快な事件",
@@ -742,7 +744,7 @@
     "title": "喉切り隊長",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:29:20.377Z"
+    "resolvedAt": "2026-08-07T05:25:10.439Z"
   },
   "cards-on-the-table": {
     "title": "ひらいたトランプ",
@@ -772,13 +774,13 @@
     "title": "騎士の盃",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:30:28.565Z"
+    "resolvedAt": "2026-08-07T05:26:14.895Z"
   },
   "celle-qui-netait-plus": {
     "title": "悪魔のような女",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:06:46.742Z"
+    "resolvedAt": "2026-08-07T05:40:50.624Z"
   },
   "chatham-school-affair": {
     "title": "緋色の記憶",
@@ -816,7 +818,7 @@
     "title": "チャイルド44",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:35:03.014Z"
+    "resolvedAt": "2026-08-07T05:32:32.177Z"
   },
   "children-isaka": {
     "title": "チルドレン",
@@ -838,7 +840,7 @@
     "title": "血みどろ砂絵",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:23:26.297Z"
+    "resolvedAt": "2026-08-07T05:20:53.395Z"
   },
   "chinmoku-hotei": {
     "title": "沈黙法廷",
@@ -949,7 +951,7 @@
     "title": "コンチネンタル・オプの事件簿",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:32:17.990Z"
+    "resolvedAt": "2026-08-07T05:27:27.891Z"
   },
   "cop-hater": {
     "title": "警官嫌い",
@@ -1013,7 +1015,7 @@
     "title": "唾棄すべき男",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:34:02.488Z"
+    "resolvedAt": "2026-08-07T05:31:52.050Z"
   },
   "dali-no-mayu": {
     "title": "ダリの繭",
@@ -1027,7 +1029,7 @@
     "title": "新車の中の女",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:07:18.682Z"
+    "resolvedAt": "2026-08-07T05:41:22.008Z"
   },
   "dareka-ga-naka-ni-iru": {
     "title": "ダレカガナカニイル…",
@@ -1106,13 +1108,13 @@
     "title": "帽子から飛び出した死",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:37:45.205Z"
+    "resolvedAt": "2026-08-07T05:34:59.951Z"
   },
   "death-watch": {
     "title": "死時計",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:27:52.535Z"
+    "resolvedAt": "2026-08-07T05:23:42.650Z"
   },
   "deception-point": {
     "title": "デセプション・ポイント",
@@ -1148,9 +1150,11 @@
   },
   "dochiraka-ga": {
     "title": "どちらかが彼女を殺した",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T04:35:24.878Z"
+    "isbn": "9784065321393",
+    "matchedTitle": "どちらかが彼女を殺した　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1393/9784065321393_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T05:17:43.684Z"
   },
   "dogura-magura": {
     "title": "ドグラ・マグラ",
@@ -1229,7 +1233,7 @@
     "title": "ダブル・ダブル",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:26:50.780Z"
+    "resolvedAt": "2026-08-07T05:23:02.906Z"
   },
   "double-joker": {
     "title": "ダブル・ジョーカー",
@@ -1374,7 +1378,7 @@
     "title": "針の眼",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:08:56.066Z"
+    "resolvedAt": "2026-08-07T05:42:52.306Z"
   },
   "faceless-killers": {
     "title": "殺人者の顔",
@@ -1388,7 +1392,7 @@
     "title": "偽のデュー警部",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:38:20.962Z"
+    "resolvedAt": "2026-08-07T05:35:22.518Z"
   },
   "fasandraeberne": {
     "title": "特捜部Q",
@@ -1427,7 +1431,7 @@
     "title": "四つの兇器",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:29:01.353Z"
+    "resolvedAt": "2026-08-07T05:24:51.944Z"
   },
   "four-of-hearts": {
     "title": "ハートの4",
@@ -1457,7 +1461,7 @@
     "title": "不安な産声",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:22:31.725Z"
+    "resolvedAt": "2026-08-07T05:20:19.660Z"
   },
   "fuin-saido": {
     "title": "封印再度",
@@ -1577,7 +1581,7 @@
     "title": "硝子の太陽R",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:59:55.345Z"
+    "resolvedAt": "2026-08-07T05:29:07.653Z"
   },
   "garasu-no-to-no-satsujin": {
     "title": "硝子の塔の殺人",
@@ -1599,7 +1603,7 @@
     "title": "学寮祭の夜",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:31:05.606Z"
+    "resolvedAt": "2026-08-07T05:26:45.420Z"
   },
   "gekko-game": {
     "title": "月光ゲーム Yの悲劇'88",
@@ -1663,7 +1667,7 @@
     "title": "ガール・オン・ザ・トレイン",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:43:12.235Z"
+    "resolvedAt": "2026-08-07T05:39:20.413Z"
   },
   "giwaku-seicho": {
     "title": "疑惑",
@@ -1743,13 +1747,13 @@
     "title": "別れの顔",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:33:40.023Z"
+    "resolvedAt": "2026-08-07T05:28:49.703Z"
   },
   "goth": {
     "title": "GOTH リストカット事件",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-04T04:02:49.105Z"
+    "resolvedAt": "2026-08-07T05:17:41.284Z"
   },
   "gotoba-densetsu": {
     "title": "後鳥羽伝説殺人事件",
@@ -1779,7 +1783,7 @@
     "title": "グラン・ギニョール城",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:05:30.723Z"
+    "resolvedAt": "2026-08-07T05:39:58.684Z"
   },
   "grasshopper-isaka": {
     "title": "グラスホッパー",
@@ -1801,7 +1805,7 @@
     "title": "緑は危険",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:08:03.747Z"
+    "resolvedAt": "2026-08-07T05:42:06.867Z"
   },
   "greene-ke": {
     "title": "グリーン家殺人事件",
@@ -1839,7 +1843,7 @@
     "title": "ナヴァロンの要塞",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:09:15.291Z"
+    "resolvedAt": "2026-08-07T05:43:08.004Z"
   },
   "gurenkan": {
     "title": "紅蓮館の殺人",
@@ -2038,13 +2042,13 @@
     "title": "玻璃の天",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:01:09.197Z"
+    "resolvedAt": "2026-08-07T05:29:37.702Z"
   },
   "harikomi": {
     "title": "推理小説　張込み",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:24:08.401Z"
+    "resolvedAt": "2026-08-07T05:21:12.323Z"
   },
   "hatobuegusa": {
     "title": "鳩笛草",
@@ -2074,7 +2078,7 @@
     "title": "爬虫類館の殺人",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:28:01.954Z"
+    "resolvedAt": "2026-08-07T05:23:52.167Z"
   },
   "heike-densetsu": {
     "title": "平家伝説殺人事件",
@@ -2086,9 +2090,11 @@
   },
   "henshin": {
     "title": "変身",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T05:24:10.954Z"
+    "isbn": "9784061856981",
+    "matchedTitle": "変身",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6981/9784061856981.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T05:18:02.098Z"
   },
   "hercules-no-boken": {
     "title": "ヘラクレスの冒険",
@@ -2209,7 +2215,7 @@
     "title": "女王陛下のユリシーズ号",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:09:07.440Z"
+    "resolvedAt": "2026-08-07T05:43:00.187Z"
   },
   "hogs-back-mystery": {
     "title": "ホッグズ・バックの怪事件",
@@ -2379,7 +2385,7 @@
     "title": "氷姫",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:42:44.466Z"
+    "resolvedAt": "2026-08-07T05:38:58.514Z"
   },
   "ichi-no-higeki": {
     "title": "一の悲劇",
@@ -2443,7 +2449,7 @@
     "title": "雷鳴の中でも",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:29:41.486Z"
+    "resolvedAt": "2026-08-07T05:25:28.100Z"
   },
   "incite-mill": {
     "title": "インシテミル",
@@ -2522,13 +2528,13 @@
     "title": "クイーン警視自身の事件",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:27:04.958Z"
+    "resolvedAt": "2026-08-07T05:23:16.996Z"
   },
   "instant-enemy": {
     "title": "一瞬の敵",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:33:17.648Z"
+    "resolvedAt": "2026-08-07T05:28:26.976Z"
   },
   "inu-wa-dokoda": {
     "title": "犬はどこだ",
@@ -2767,9 +2773,11 @@
   },
   "jujiyashiki": {
     "title": "十字屋敷のピエロ",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T04:36:08.125Z"
+    "isbn": "9784065378786",
+    "matchedTitle": "十字屋敷のピエロ　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8786/9784065378786_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T05:17:45.987Z"
   },
   "jukkakukan": {
     "title": "十角館の殺人",
@@ -2864,7 +2872,7 @@
     "title": "翳ある墓標",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:23:10.462Z"
+    "resolvedAt": "2026-08-07T05:20:45.435Z"
   },
   "kage-naki-otoko": {
     "title": "影なき男",
@@ -3195,7 +3203,7 @@
     "title": "煙に消えた男",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:33:07.853Z"
+    "resolvedAt": "2026-08-07T05:30:56.967Z"
   },
   "kenji-kirishima-saburo": {
     "title": "検事霧島三郎",
@@ -3242,7 +3250,7 @@
     "title": "消えた消防車",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:33:47.857Z"
+    "resolvedAt": "2026-08-07T05:31:36.924Z"
   },
   "kieta-tanker": {
     "title": "消えたタンカー",
@@ -3298,7 +3306,7 @@
     "title": "危険な童話",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:22:14.838Z"
+    "resolvedAt": "2026-08-07T05:20:02.603Z"
   },
   "kikenna-venus": {
     "title": "危険なビーナス",
@@ -3441,7 +3449,7 @@
     "title": "キウイγは時計仕掛け = KIWI γ IN CLOCKWORK",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:00:48.969Z"
+    "resolvedAt": "2026-08-07T05:29:23.472Z"
   },
   "kizoku-tantei-maya": {
     "title": "貴族探偵",
@@ -3519,7 +3527,7 @@
     "title": "声",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:24:29.622Z"
+    "resolvedAt": "2026-08-07T05:21:33.821Z"
   },
   "kogechairo-no-pastel": {
     "title": "焦茶色のパステル",
@@ -3533,7 +3541,7 @@
     "title": "凍える街",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:34:34.147Z"
+    "resolvedAt": "2026-08-07T05:32:09.843Z"
   },
   "koi-to-kinki": {
     "title": "恋と禁忌の述語論理",
@@ -3751,7 +3759,7 @@
     "title": "暗い鏡の中に",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-04T07:29:42.102Z"
+    "resolvedAt": "2026-08-07T05:19:11.717Z"
   },
   "kurayami-no-sasayaki": {
     "title": "暗闇の囁き",
@@ -4054,7 +4062,7 @@
     "title": "さらば甘き口づけ",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:32:25.918Z"
+    "resolvedAt": "2026-08-07T05:27:35.749Z"
   },
   "last-seen-wearing": {
     "title": "キドリントンから消えた娘",
@@ -4108,7 +4116,7 @@
     "title": "ヴォスパー号の遭難",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:31:45.731Z"
+    "resolvedAt": "2026-08-07T05:27:16.707Z"
   },
   "lupin-no-shosoku": {
     "title": "ルパンの消息",
@@ -4508,9 +4516,11 @@
   },
   "meitantei-no-okite": {
     "title": "名探偵の掟",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T04:35:56.356Z"
+    "isbn": "9784062646185",
+    "matchedTitle": "名探偵の掟",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0626/06264618.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T05:17:44.828Z"
   },
   "meitantei-no-shomei": {
     "title": "名探偵の証明",
@@ -4824,7 +4834,7 @@
     "title": "死の記憶",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:41:40.146Z"
+    "resolvedAt": "2026-08-07T05:38:12.955Z"
   },
   "moryo-no-hako": {
     "title": "魍魎の匣",
@@ -4838,7 +4848,7 @@
     "title": "盲目の鴉",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:22:46.073Z"
+    "resolvedAt": "2026-08-07T05:20:34.362Z"
   },
   "mozu-no-sakebu-yoru": {
     "title": "百舌の叫ぶ夜",
@@ -4860,7 +4870,7 @@
     "title": "夢幻花",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T01:55:29.492Z"
+    "resolvedAt": "2026-08-07T05:19:31.258Z"
   },
   "mugi-no-umi": {
     "title": "麦の海に沈む果実",
@@ -4906,7 +4916,7 @@
     "title": "青ひげの花嫁",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:30:50.721Z"
+    "resolvedAt": "2026-08-07T05:26:37.571Z"
   },
   "mysterious-affair-at-styles": {
     "title": "スタイルズ荘の怪事件",
@@ -4953,7 +4963,7 @@
     "title": "ミスティック・リバー",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:40:50.640Z"
+    "resolvedAt": "2026-08-07T05:37:25.919Z"
   },
   "n-ka-m-ka": {
     "title": "NかMか",
@@ -5184,9 +5194,11 @@
   },
   "nemuri-no-mori": {
     "title": "眠りの森",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T04:35:05.971Z"
+    "isbn": "9784061851306",
+    "matchedTitle": "眠りの森",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1306/9784061851306.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T05:17:42.540Z"
   },
   "nerve": {
     "title": "度胸",
@@ -5257,7 +5269,7 @@
     "title": "九つの答",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:28:25.443Z"
+    "resolvedAt": "2026-08-07T05:24:15.900Z"
   },
   "ningen-isu": {
     "title": "人間椅子",
@@ -5328,7 +5340,7 @@
     "title": "能面殺人事件",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-04T07:13:43.823Z"
+    "resolvedAt": "2026-08-07T05:18:28.626Z"
   },
   "norizuki-no-boken": {
     "title": "法月綸太郎の冒険",
@@ -5390,7 +5402,7 @@
     "title": "狼の帝国",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:35:26.021Z"
+    "resolvedAt": "2026-08-07T05:32:55.301Z"
   },
   "okamibana": {
     "title": "狼花",
@@ -5551,7 +5563,7 @@
     "title": "黒衣夫人の香り",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:06:24.102Z"
+    "resolvedAt": "2026-08-07T05:40:28.282Z"
   },
   "partners-in-crime": {
     "title": "おしどり探偵",
@@ -5565,13 +5577,13 @@
     "title": "千尋の闇",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:38:39.313Z"
+    "resolvedAt": "2026-08-07T05:35:41.008Z"
   },
   "peacock-feather-murders": {
     "title": "孔雀の羽根",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:30:10.479Z"
+    "resolvedAt": "2026-08-07T05:25:56.710Z"
   },
   "pekin-kara-kita-otoko": {
     "title": "北京から来た男",
@@ -5610,13 +5622,13 @@
     "title": "ピカデリーの殺人",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:09:50.862Z"
+    "resolvedAt": "2026-08-07T05:43:22.225Z"
   },
   "piege-pour-cendrillon": {
     "title": "シンデレラの罠",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:07:04.145Z"
+    "resolvedAt": "2026-08-07T05:41:07.262Z"
   },
   "plague-court-murders": {
     "title": "プレーグ・コートの殺人",
@@ -5669,13 +5681,13 @@
     "title": "ポンスン事件",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:31:37.609Z"
+    "resolvedAt": "2026-08-07T05:27:07.824Z"
   },
   "power-of-the-dog": {
     "title": "犬の力",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:40:06.134Z"
+    "resolvedAt": "2026-08-07T05:36:41.389Z"
   },
   "present-wakatake": {
     "title": "プレゼント",
@@ -5770,7 +5782,7 @@
     "title": "レッド・ドラゴン",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-04T07:23:46.617Z"
+    "resolvedAt": "2026-08-07T05:18:50.266Z"
   },
   "red-harvest-hammett": {
     "title": "赤い収穫",
@@ -5790,13 +5802,13 @@
     "title": "赤い拇指紋",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:07:41.483Z"
+    "resolvedAt": "2026-08-07T05:41:44.907Z"
   },
   "red-widow-murders": {
     "title": "赤後家の殺人",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:27:39.582Z"
+    "resolvedAt": "2026-08-07T05:23:29.858Z"
   },
   "redbreast": {
     "title": "コマドリの賭け",
@@ -5818,7 +5830,7 @@
     "title": "連鎖",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-04T04:56:42.693Z"
+    "resolvedAt": "2026-08-07T05:18:00.828Z"
   },
   "renzoku-satsujinki-kaeru-otoko": {
     "title": "連続殺人鬼カエル男",
@@ -5832,7 +5844,7 @@
     "title": "判決破棄",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:39:41.433Z"
+    "resolvedAt": "2026-08-07T05:36:18.272Z"
   },
   "reverse-minato": {
     "title": "リバース",
@@ -5926,7 +5938,7 @@
     "title": "ロセアンナ",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:32:45.700Z"
+    "resolvedAt": "2026-08-07T05:30:35.125Z"
   },
   "ruiko-meikyu": {
     "title": "涙香迷宮",
@@ -6005,7 +6017,7 @@
     "title": "聖なる酒場の挽歌",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:43:26.910Z"
+    "resolvedAt": "2026-08-07T05:39:31.528Z"
   },
   "sacrifice": {
     "title": "サクリファイス",
@@ -6180,7 +6192,7 @@
     "title": "カブト虫殺人事件",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:37:56.478Z"
+    "resolvedAt": "2026-08-07T05:35:11.130Z"
   },
   "sculptress": {
     "title": "女彫刻家",
@@ -6589,7 +6601,7 @@
     "title": "証拠死体",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:15:34.494Z"
+    "resolvedAt": "2026-08-07T05:33:47.991Z"
   },
   "shokuzai": {
     "title": "贖罪",
@@ -6669,7 +6681,7 @@
     "title": "シャッター・アイランド",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:41:14.715Z"
+    "resolvedAt": "2026-08-07T05:37:50.066Z"
   },
   "siamese-twin": {
     "title": "シャム双子の謎",
@@ -7118,7 +7130,7 @@
     "title": "τになるまで待って = Please stay until τ",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:00:35.285Z"
+    "resolvedAt": "2026-08-07T05:29:15.551Z"
   },
   "te-no-naka-no-kotori": {
     "title": "掌の中の小鳥",
@@ -7164,7 +7176,7 @@
     "title": "唇を閉ざせ",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:39:15.250Z"
+    "resolvedAt": "2026-08-07T05:35:59.878Z"
   },
   "ten-days-wonder": {
     "title": "十日間の不思議",
@@ -7195,7 +7207,7 @@
     "title": "天狗の面",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:21:58.065Z"
+    "resolvedAt": "2026-08-07T05:19:45.679Z"
   },
   "tenkawa-densetsu": {
     "title": "天河伝説殺人事件",
@@ -7209,7 +7221,7 @@
     "title": "天啓の器",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:05:50.792Z"
+    "resolvedAt": "2026-08-07T05:40:13.073Z"
   },
   "tenku-no-hachi": {
     "title": "天空の蜂",
@@ -7246,9 +7258,11 @@
   },
   "tenshi-no-mimi": {
     "title": "天使の耳",
-    "isbn": null,
-    "coverUrl": null,
-    "resolvedAt": "2026-08-04T06:29:06.899Z"
+    "isbn": "9784062630160",
+    "matchedTitle": "天使の耳",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0160/9784062630160_1_19.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T05:18:03.269Z"
   },
   "tenshi-no-shokon": {
     "title": "天使の傷痕",
@@ -7303,25 +7317,25 @@
     "title": "ザ・カルテル",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:35:53.853Z"
+    "resolvedAt": "2026-08-07T05:33:15.064Z"
   },
   "the-door-between": {
     "title": "ニッポン樫鳥の謎",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:26:25.513Z"
+    "resolvedAt": "2026-08-07T05:22:40.902Z"
   },
   "the-finishing-stroke": {
     "title": "最後の一撃",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:26:17.602Z"
+    "resolvedAt": "2026-08-07T05:22:33.020Z"
   },
   "the-king-is-dead": {
     "title": "帝王死す",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:25:32.327Z"
+    "resolvedAt": "2026-08-07T05:21:48.130Z"
   },
   "themis-no-tsurugi": {
     "title": "テミスの剣",
@@ -7445,7 +7459,7 @@
     "title": "料理長が多すぎる",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:08:30.209Z"
+    "resolvedAt": "2026-08-07T05:42:30.062Z"
   },
   "toomawari-suru-hina": {
     "title": "遠まわりする雛",
@@ -7579,7 +7593,7 @@
     "title": "長い日曜日",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T05:07:33.652Z"
+    "resolvedAt": "2026-08-07T05:41:37.056Z"
   },
   "undead-girl-murder-farce": {
     "title": "アンデッドガール・マーダーファルス",
@@ -7593,7 +7607,7 @@
     "title": "一角獣の殺人",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:29:55.856Z"
+    "resolvedAt": "2026-08-07T05:25:42.269Z"
   },
   "unmei-no-urakido": {
     "title": "運命の裏木戸",
@@ -7647,7 +7661,7 @@
     "title": "虚ろな十字架",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-04T06:29:18.605Z"
+    "resolvedAt": "2026-08-07T05:18:12.694Z"
   },
   "vanished-man": {
     "title": "魔術師",
@@ -7686,7 +7700,7 @@
     "title": "笑う警官",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:32:22.097Z"
+    "resolvedAt": "2026-08-07T05:30:12.493Z"
   },
   "warawanai-sugakusha": {
     "title": "笑わない数学者",
@@ -7804,13 +7818,13 @@
     "title": "フランキー・マシーンの冬",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:40:26.521Z"
+    "resolvedAt": "2026-08-07T05:37:01.877Z"
   },
   "wycherly-woman": {
     "title": "ウィチャリー家の女",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:32:45.626Z"
+    "resolvedAt": "2026-08-07T05:27:55.575Z"
   },
   "x-no-higeki": {
     "title": "Xの悲劇",
@@ -7834,7 +7848,7 @@
     "title": "夜行列車殺人事件",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T04:17:21.703Z"
+    "resolvedAt": "2026-08-07T05:34:36.999Z"
   },
   "yakou-kanransha": {
     "title": "夜行観覧車",
@@ -7914,7 +7928,7 @@
     "title": "夜明けのパトロール",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T03:36:08.622Z"
+    "resolvedAt": "2026-08-07T05:33:29.773Z"
   },
   "yochimu": {
     "title": "予知夢",
@@ -8140,7 +8154,7 @@
     "title": "縞模様の霊柩車",
     "isbn": null,
     "coverUrl": null,
-    "resolvedAt": "2026-08-07T02:32:53.558Z"
+    "resolvedAt": "2026-08-07T05:28:03.477Z"
   },
   "zero-jikan-e": {
     "title": "ゼロ時間へ",
