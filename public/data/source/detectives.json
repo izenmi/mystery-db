@@ -979,5 +979,25 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "yamamura-misa"
+  },
+  {
+    "id": "morse",
+    "name": "モース警部",
+    "nameKana": "もーすけいぶ",
+    "description": "オックスフォードを管轄する偏屈な警部。クラシック音楽とビールを好み、直感的な発想と部下ルイス巡査部長の地道な捜査で事件を解く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "colin-dexter"
+  },
+  {
+    "id": "steve-carella",
+    "name": "スティーヴ・キャレラ",
+    "nameKana": "すてぃーう゛きゃれら",
+    "description": "87分署シリーズの中心となる刑事。群像劇の中で、家庭を持つ一人の職業人としても描かれる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "ed-mcbain"
   }
 ]

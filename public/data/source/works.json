@@ -22413,42 +22413,6 @@
     "sourceNote": "書誌(早川書房、2023年、ISBN 9784152102485)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,奥村章子 訳」による。初刊年1961年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   },
   {
-    "id": "three-act-tragedy",
-    "title": "三幕の悲劇",
-    "titleKana": "さんまくのひげき",
-    "authorIds": [
-      "agatha-christie"
-    ],
-    "detectiveIds": [
-      "hercule-poirot"
-    ],
-    "translatorIds": [
-      "tamura-ryuichi"
-    ],
-    "publisherId": "hayakawa",
-    "themeIds": [
-      "kaigai-koten",
-      "meitantei",
-      "honkaku"
-    ],
-    "origin": "overseas",
-    "firstPublishedYear": 1934,
-    "status": "completed",
-    "synopsis": "晩餐会で牧師が急死し、同じ状況の死が繰り返される。俳優だった旧友とともに、ポアロが三幕の芝居のような事件を追う。",
-    "mediaMix": {
-      "movie": false,
-      "drama": false,
-      "anime": false,
-      "comic": false
-    },
-    "externalLinks": {},
-    "updatedAt": "2026-08-07",
-    "seriesName": "エルキュール・ポアロシリーズ",
-    "originalTitle": "Three Act Tragedy",
-    "jpPublishedYear": 1936,
-    "sourceNote": "書誌(講談社、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティ 作,花上かつみ 訳,高松啓二 絵」による。初刊年1936年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
-  },
-  {
     "id": "cards-on-the-table",
     "title": "ひらいたトランプ",
     "titleKana": "ひらいたとらんぷ",
@@ -22831,42 +22795,6 @@
     "originalTitle": "Inspector Queen's Own Case",
     "jpPublishedYear": 1976,
     "sourceNote": "書誌(早川書房、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリイ・クイーン 著 ; 青田勝 訳」による。初刊年1976年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
-  },
-  {
-    "id": "plague-court-murders",
-    "title": "プレーグ・コートの殺人",
-    "titleKana": "ぷれーぐこーとのさつじん",
-    "authorIds": [
-      "john-dickson-carr"
-    ],
-    "detectiveIds": [
-      "henry-merrivale"
-    ],
-    "translatorIds": [
-      "jinka-katsuo"
-    ],
-    "publisherId": "hayakawa",
-    "themeIds": [
-      "kaigai-koten",
-      "misshitsu",
-      "honkaku"
-    ],
-    "origin": "overseas",
-    "firstPublishedYear": 1934,
-    "status": "completed",
-    "synopsis": "幽霊屋敷として知られる館の離れで、霊媒師が刺殺される。周囲はぬかるみに囲まれ、足跡ひとつない。ヘンリ・メリヴェール卿が初登場する怪奇趣味あふれる密室長編。",
-    "mediaMix": {
-      "movie": false,
-      "drama": false,
-      "anime": false,
-      "comic": false
-    },
-    "externalLinks": {},
-    "updatedAt": "2026-08-07",
-    "seriesName": "ヘンリ・メリヴェール卿シリーズ",
-    "originalTitle": "The Plague Court Murders",
-    "jpPublishedYear": 1977,
-    "sourceNote": "書誌(早川書房、1977年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カーター・ディクスン 著,仁賀克雄 訳」による。初刊年1900年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   },
   {
     "id": "red-widow-murders",
@@ -23807,41 +23735,6 @@
     "originalTitle": "The Hog's Back Mystery",
     "jpPublishedYear": 1983,
     "sourceNote": "書誌(東京創元社、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「F.W.クロフツ 著,大庭忠男 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
-  },
-  {
-    "id": "red-harvest-hammett",
-    "title": "赤い収穫",
-    "titleKana": "あかいしゅうかく",
-    "authorIds": [
-      "dashiell-hammett"
-    ],
-    "detectiveIds": [
-      "continental-op"
-    ],
-    "translatorIds": [
-      "kodaka-nobumitsu"
-    ],
-    "publisherId": "hayakawa",
-    "themeIds": [
-      "hardboiled",
-      "noir",
-      "kaigai-koten"
-    ],
-    "origin": "overseas",
-    "firstPublishedYear": 1929,
-    "status": "completed",
-    "synopsis": "腐敗しきった鉱山町に降り立った探偵が、対立する勢力を互いに衝突させて街を掃除していく。乾いた文体と暴力の連鎖で知られる長編。",
-    "mediaMix": {
-      "movie": false,
-      "drama": false,
-      "anime": false,
-      "comic": false
-    },
-    "externalLinks": {},
-    "updatedAt": "2026-08-07",
-    "originalTitle": "Red Harvest",
-    "jpPublishedYear": 1989,
-    "sourceNote": "書誌(早川書房、1989年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ダシール・ハメット 著,小鷹信光 訳」による。初刊年1929年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   },
   {
     "id": "continental-op",
@@ -25076,37 +24969,6 @@
     "updatedAt": "2026-08-07",
     "seriesName": "浅見光彦シリーズ",
     "sourceNote": "書誌(KADOKAWA、2018年、ISBN 9784041068038)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 [著]」による。初刊年1988年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
-  },
-  {
-    "id": "gotoba-densetsu-uchida",
-    "title": "後鳥羽伝説殺人事件",
-    "titleKana": "ごとばでんせつさつじんじけん",
-    "authorIds": [
-      "uchida-yasuo"
-    ],
-    "detectiveIds": [
-      "asami-mitsuhiko"
-    ],
-    "translatorIds": [],
-    "publisherId": "kadokawa",
-    "themeIds": [
-      "honkaku",
-      "jidai-mystery"
-    ],
-    "origin": "jp",
-    "firstPublishedYear": 1982,
-    "status": "completed",
-    "synopsis": "後鳥羽上皇にまつわる伝承をたどるうち、現代の殺人へと繋がっていく。浅見光彦が初めて登場した長編。",
-    "mediaMix": {
-      "movie": false,
-      "drama": false,
-      "anime": false,
-      "comic": false
-    },
-    "externalLinks": {},
-    "updatedAt": "2026-08-07",
-    "seriesName": "浅見光彦シリーズ",
-    "sourceNote": "書誌(角川書店、2012年、ISBN 9784048741347)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 著」による。初刊年1982年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   },
   {
     "id": "heike-densetsu",
@@ -29625,34 +29487,6 @@
     "sourceNote": "書誌(東京創元社、2017年、ISBN 9784488465124)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「市川哲也 著」による。初刊年2013年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   },
   {
-    "id": "sono-kanosei-wa-sudeni",
-    "title": "その可能性はすでに考えた",
-    "titleKana": "そのかのうせいわすでにかんがえた",
-    "authorIds": [
-      "inoue-magi"
-    ],
-    "detectiveIds": [],
-    "translatorIds": [],
-    "publisherId": "kodansha",
-    "themeIds": [
-      "honkaku",
-      "taju-kaiketsu"
-    ],
-    "origin": "jp",
-    "firstPublishedYear": 2015,
-    "status": "completed",
-    "synopsis": "雪山の村で起きた事件に、奇跡の実在を証明しようとする探偵が挑む。あらゆる合理的説明を潰していく異色の構成を持つ長編。",
-    "mediaMix": {
-      "movie": false,
-      "drama": false,
-      "anime": false,
-      "comic": false
-    },
-    "externalLinks": {},
-    "updatedAt": "2026-08-07",
-    "sourceNote": "書誌(講談社、2018年、ISBN 9784062938532)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「井上真偽 [著]」による。初刊年2015年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
-  },
-  {
     "id": "majo-no-ekubo",
     "title": "魔女の笑窪 (えくぼ)",
     "titleKana": "まじょのえくぼ",
@@ -30683,5 +30517,344 @@
     "externalLinks": {},
     "updatedAt": "2026-08-07",
     "sourceNote": "書誌(講談社、2018年、ISBN 9784065118078)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「深水黎一郎 [著]」による。初刊年2015年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "death-from-a-top-hat",
+    "title": "帽子から飛び出した死",
+    "titleKana": "ぼうしからとびだしたし",
+    "authorIds": [
+      "clayton-rawson"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakamura-yoshimi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "misshitsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1938,
+    "status": "completed",
+    "synopsis": "奇術師や霊媒が集まる世界で起きた密室殺人に、奇術師探偵グレート・マーリニが挑む。不可能犯罪ものの古典。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Death from a Top Hat",
+    "jpPublishedYear": 1976,
+    "sourceNote": "書誌(早川書房、1976年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「クレイトン・ロースン 著,中村能三 訳」による。初刊年1955年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "scarab-murder",
+    "title": "カブト虫殺人事件",
+    "titleKana": "かぶとむしさつじんじけん",
+    "authorIds": [
+      "van-dine"
+    ],
+    "detectiveIds": [
+      "philo-vance"
+    ],
+    "translatorIds": [
+      "inoue-isamu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "mitate-satsujin"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1930,
+    "status": "completed",
+    "synopsis": "エジプト学の私設博物館で起きた殺人に、古代の神の姿が重ねられる。ヴァンスが博識を発揮する一編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ファイロ・ヴァンスシリーズ",
+    "originalTitle": "The Scarab Murder Case",
+    "jpPublishedYear": 1990,
+    "sourceNote": "書誌(東京創元社、1990年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ヴァン・ダイン 著,井上勇 訳」による。初刊年1959年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "cop-hater",
+    "title": "警官嫌い",
+    "titleKana": "けいかんぎらい",
+    "authorIds": [
+      "ed-mcbain"
+    ],
+    "detectiveIds": [
+      "steve-carella"
+    ],
+    "translatorIds": [
+      "inoue-kazuo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "kaigai-koten"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "猛暑の街で刑事が次々に射殺される。捜査を群像劇として描き、警察小説というジャンルを切り開いたシリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "87分署シリーズ",
+    "originalTitle": "Cop Hater",
+    "sourceNote": "書誌(小池書院、2009年、ISBN 9784862254771)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エド・マクベイン 著,松森正 画,井上一夫 訳」による。初刊年1959年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "higaisha-no-kao",
+    "title": "被害者の顔",
+    "titleKana": "ひがいしゃのかお",
+    "authorIds": [
+      "ed-mcbain"
+    ],
+    "detectiveIds": [
+      "steve-carella"
+    ],
+    "translatorIds": [
+      "kajima-shozo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1957,
+    "status": "completed",
+    "synopsis": "酒店で射殺された女性の身元と人物像が、証言のたびに食い違っていく。87分署の刑事たちが地道に捜査を積み重ねる一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "87分署シリーズ",
+    "originalTitle": "Killer's Choice",
+    "jpPublishedYear": 1990,
+    "sourceNote": "書誌(早川書房、1990年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エド・マクベイン 著,加島祥造 訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "last-bus-to-woodstock",
+    "title": "ウッドストック行最終バス",
+    "titleKana": "うっどすとっくゆきさいしゅうばす",
+    "authorIds": [
+      "colin-dexter"
+    ],
+    "detectiveIds": [
+      "morse"
+    ],
+    "translatorIds": [
+      "oba-tadao"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "ヒッチハイクをした娘が殺され、モース警部が捜査に乗り出す。シリーズ第一作で、推理を何度も組み直す作風が既に出ている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "モース警部シリーズ",
+    "originalTitle": "Last Bus to Woodstock",
+    "jpPublishedYear": 1993,
+    "sourceNote": "書誌(早川書房、1993年、ISBN 9784150775513)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大庭忠男」による。初刊年1976年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "last-seen-wearing",
+    "title": "キドリントンから消えた娘",
+    "titleKana": "きどりんとんからきえたむすめ",
+    "authorIds": [
+      "colin-dexter"
+    ],
+    "detectiveIds": [
+      "morse"
+    ],
+    "translatorIds": [
+      "oba-tadao"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "synopsis": "二年前に失踪した女子生徒の事件を、モース警部が引き継ぐ。手がかりの乏しい旧事件に論理で切り込む長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "モース警部シリーズ",
+    "originalTitle": "Last Seen Wearing",
+    "jpPublishedYear": 1989,
+    "sourceNote": "書誌(早川書房、1989年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「コリン・デクスター 著,大庭忠男 訳」による。初刊年1977年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "dead-of-jericho",
+    "title": "ジェリコ街の女",
+    "titleKana": "じぇりこがいのおんな",
+    "authorIds": [
+      "colin-dexter"
+    ],
+    "detectiveIds": [
+      "morse"
+    ],
+    "translatorIds": [
+      "oba-tadao"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "モースが個人的に知る女性が死体で見つかる。オックスフォードの一角ジェリコを舞台にした一編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "モース警部シリーズ",
+    "originalTitle": "The Dead of Jericho",
+    "jpPublishedYear": 1993,
+    "sourceNote": "書誌(早川書房、1993年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「コリン・デクスター 著,大庭忠男 訳」による。初刊年1982年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "false-inspector-dew",
+    "title": "偽のデュー警部",
+    "titleKana": "にせのでゅーけいぶ",
+    "authorIds": [
+      "peter-lovesey"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakamura-yasuo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "大西洋を渡る客船を舞台に、入れ替わりと思惑が絡み合う。英国推理作家協会賞のゴールド・ダガーを受賞した長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The False Inspector Dew",
+    "jpPublishedYear": 1983,
+    "sourceNote": "書誌(早川書房、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ピーター・ラヴゼイ 著,中村保男 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "past-caring",
+    "title": "千尋の闇",
+    "titleKana": "ちいろのやみ",
+    "authorIds": [
+      "robert-goddard"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "koda-atsuko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "職を失った歴史学徒が、大臣の座を退いた政治家の過去を調べ始める。現在と過去が絡み合う構成の長編デビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Past Caring",
+    "jpPublishedYear": 1996,
+    "sourceNote": "書誌(東京創元社、1996年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ロバ－ト・ゴダ－ド 著,幸田敦子 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "sculptress",
+    "title": "女彫刻家",
+    "titleKana": "おんなちょうこくか",
+    "authorIds": [
+      "minette-walters"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "narikawa-yuko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "houtei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "家族殺害で服役中の女性を取材することになった作家が、事件の見え方を揺さぶられていく。緊迫した心理サスペンス。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Sculptress",
+    "jpPublishedYear": 2024,
+    "sourceNote": "書誌(東京創元社、2024年、ISBN 9784488187149)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ミネット・ウォルターズ 著,成川裕子 訳」による。初刊年1995年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]

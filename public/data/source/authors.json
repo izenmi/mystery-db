@@ -1738,5 +1738,65 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1981
+  },
+  {
+    "id": "clayton-rawson",
+    "name": "クレイトン・ロースン",
+    "nameKana": "くれいとんろーそん",
+    "description": "アメリカの作家・奇術師。奇術師探偵グレート・マーリニを主人公にした不可能犯罪ものを書いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1906
+  },
+  {
+    "id": "ed-mcbain",
+    "name": "エド・マクベイン",
+    "nameKana": "えどまくべいん",
+    "description": "アメリカの作家。架空の都市を舞台にした「87分署」シリーズで警察小説というジャンルを確立した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1926
+  },
+  {
+    "id": "colin-dexter",
+    "name": "コリン・デクスター",
+    "nameKana": "こりんでくすたー",
+    "description": "イギリスの作家。オックスフォードを舞台にしたモース警部シリーズで知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1930
+  },
+  {
+    "id": "peter-lovesey",
+    "name": "ピーター・ラヴゼイ",
+    "nameKana": "ぴーたーらう゛ぜい",
+    "description": "イギリスの作家。ヴィクトリア朝を舞台にした歴史ミステリと現代ものの両方を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1936
+  },
+  {
+    "id": "robert-goddard",
+    "name": "ロバート・ゴダード",
+    "nameKana": "ろばーとごだーど",
+    "description": "イギリスの作家。過去の秘密が現在を揺さぶる構成の長編を得意とする。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1954
+  },
+  {
+    "id": "minette-walters",
+    "name": "ミネット・ウォルターズ",
+    "nameKana": "みねっとうぉるたーず",
+    "description": "イギリスの作家。心理的な圧迫感の強いサスペンスで英米の主要賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1949
   }
 ]
