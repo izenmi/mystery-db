@@ -1236,5 +1236,35 @@
     },
     "sourceNote": "生年・経歴・代表作はWikipedia日本語版で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "shuno-masayuki",
+    "name": "殊能将之",
+    "nameKana": "しゅのうまさゆき",
+    "description": "小説家。『ハサミ男』でメフィスト賞を受賞。技巧的な仕掛けと乾いた語り口で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1964
+  },
+  {
+    "id": "awasaka-tsumao",
+    "name": "泡坂妻夫",
+    "nameKana": "あわさかつまお",
+    "description": "小説家・紋章上絵師。奇術師としての知識を活かした本格ミステリと、洒脱な短編で高い評価を得た。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1933
+  },
+  {
+    "id": "renjo-mikihiko",
+    "name": "連城三紀彦",
+    "nameKana": "れんじょうみきひこ",
+    "description": "小説家。緻密な構成の本格ミステリと恋愛小説の双方で知られ、直木賞も受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1948
   }
 ]

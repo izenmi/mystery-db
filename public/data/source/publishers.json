@@ -231,5 +231,23 @@
     },
     "sourceNote": "沿革・刊行レーベルはWikipedia日本語版および公式サイトで確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "php-kenkyusho",
+    "name": "PHP研究所",
+    "nameKana": "ぴーえいちぴーけんきゅうしょ",
+    "description": "日本の出版社。文芸書・実用書を幅広く刊行している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nanundo",
+    "name": "南雲堂",
+    "nameKana": "なんうんどう",
+    "description": "日本の出版社。ミステリ評論や作品集を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
   }
 ]
