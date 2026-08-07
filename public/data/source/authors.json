@@ -1562,5 +1562,152 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1963
+  },
+  {
+    "id": "sawamura-ichi",
+    "name": "澤村伊智",
+    "nameKana": "さわむらいち",
+    "description": "小説家。現代を舞台にした民俗ホラーとミステリを組み合わせた作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1979
+  },
+  {
+    "id": "ono-fuyumi",
+    "name": "小野不由美",
+    "nameKana": "おのふゆみ",
+    "description": "小説家。『十二国記』などのファンタジーとともに、実話怪談の手法を取り込んだホラーでも高い評価を得ている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1960
+  },
+  {
+    "id": "iwai-shimako",
+    "name": "岩井志麻子",
+    "nameKana": "いわいしまこ",
+    "description": "小説家。岡山を舞台にした土俗的なホラーで日本ホラー小説大賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1964
+  },
+  {
+    "id": "kaido-takeru",
+    "name": "海堂尊",
+    "nameKana": "かいどうたける",
+    "description": "小説家・医師。医療現場の内実を描く一連の作品で知られ、死因究明制度の問題提起も行っている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1961
+  },
+  {
+    "id": "kusakabe-yo",
+    "name": "久坂部羊",
+    "nameKana": "くさかべよう",
+    "description": "小説家・医師。医療の現実を冷徹に描く作品を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1955
+  },
+  {
+    "id": "patricia-cornwell",
+    "name": "パトリシア・コーンウェル",
+    "nameKana": "ぱとりしあこーんうぇる",
+    "description": "アメリカの作家。検屍官ケイ・スカーペッタを主人公にした法医学ミステリで一大ジャンルを築いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1956
+  },
+  {
+    "id": "mw-craven",
+    "name": "M・W・クレイヴン",
+    "nameKana": "えむだぶりゅーくれいう゛ん",
+    "description": "イギリスの作家。刑事ワシントン・ポーのシリーズで英国推理作家協会賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "honjo-masato",
+    "name": "本城雅人",
+    "nameKana": "ほんじょうまさと",
+    "description": "小説家。新聞記者の経験を活かした報道ミステリを手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1965
+  },
+  {
+    "id": "shiota-takeshi",
+    "name": "塩田武士",
+    "nameKana": "しおたたけし",
+    "description": "小説家。記者出身で、実際の事件を下敷きにした作品でも知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1979
+  },
+  {
+    "id": "ota-ai",
+    "name": "太田愛",
+    "nameKana": "おおたあい",
+    "description": "小説家・脚本家。テレビドラマの脚本を手がけたのち、社会性の強いミステリを発表している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takano-fumio",
+    "name": "高野史緒",
+    "nameKana": "たかのふみお",
+    "description": "小説家。歴史や古典を下敷きにしたSF・ミステリを書き、江戸川乱歩賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1966
+  },
+  {
+    "id": "himeno-kaoruko",
+    "name": "姫野カオルコ",
+    "nameKana": "ひめのかおるこ",
+    "description": "小説家。人の心の機微を独特の距離感で描き、直木賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1958
+  },
+  {
+    "id": "ashizawa-yo",
+    "name": "芦沢央",
+    "nameKana": "あしざわよう",
+    "description": "小説家。日常の中の悪意やすれ違いを描くミステリで注目を集めている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1984
+  },
+  {
+    "id": "asakura-akinari",
+    "name": "浅倉秋成",
+    "nameKana": "あさくらあきなり",
+    "description": "小説家。特殊な設定と伏線の回収を組み合わせた作品で人気を得ている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1989
+  },
+  {
+    "id": "ichikawa-tetsuya",
+    "name": "市川哲也",
+    "nameKana": "いちかわてつや",
+    "description": "小説家。名探偵という存在そのものを扱う本格ミステリで鮎川哲也賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
   }
 ]
