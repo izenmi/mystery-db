@@ -36821,5 +36821,1676 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "furenzokusen",
+    "title": "不連続線",
+    "titleKana": "ふれんぞくせん",
+    "authorIds": [
+      "ishikawashinsuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "義母がカバン詰めの死体となって発見される。死の直前に義母が漏らした呟きと、北陸の土地に残る記憶が事件へ繋がっていく。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 1991,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kogoeru-shima",
+    "title": "凍える島",
+    "titleKana": "こごえるしま",
+    "authorIds": [
+      "kondo-fumie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kotou",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "霧に閉ざされた孤島の灰色の別荘で起きる連続殺人。第4回鮎川哲也賞受賞作で、著者の出発点となった本格ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 1993,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "keshin",
+    "title": "化身",
+    "titleKana": "けしん",
+    "authorIds": [
+      "aikawaakira"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "夏休みに入ったばかりの女子大生・人見操のもとに届いた報せから、家族をめぐる謎が動き出す。第5回鮎川哲也賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 1994,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyouran-nijuushikou",
+    "title": "狂乱廿四孝",
+    "titleKana": "きょうらんにじゅうしこう",
+    "authorIds": [
+      "kitamorikou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 1995,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaizokumaru-hyouchaku-ibun",
+    "title": "海賊丸漂着異聞",
+    "titleKana": "かいぞくまるひょうちゃくいぶん",
+    "authorIds": [
+      "mitsusakatarou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 1996,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mimei-no-akumu",
+    "title": "未明の悪夢",
+    "titleKana": "みめいのあくむ",
+    "authorIds": [
+      "kodamakenji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "1995年1月17日未明、神戸を未曾有の大震災が襲う。崩壊した街を舞台に、私立探偵が謎を追う第8回鮎川哲也賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "junkyou-katerina-sharin",
+    "title": "殉教カテリナ車輪",
+    "titleKana": "じゅんきょうかてりなしゃりん",
+    "authorIds": [
+      "asukabekatsunori"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou",
+      "mitate-satsujin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "憑かれたように五百余点の絵を描き上げ自殺した画家。彼が遺した二枚の絵をめぐって事件が起こる、第9回鮎川哲也賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 1998,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "vesariusu-no-hitsugi",
+    "title": "ヴェサリウスの柩",
+    "titleKana": "ゔぇさりうすのひつぎ",
+    "authorIds": [
+      "asamikazushi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "解剖実習中、遺体の腹部から一本のチューブが摘出される。中にあったのは、教授を告発し脅迫する謎の文書だった。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2006,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "taiyou-ga-shinda-yoru",
+    "title": "太陽が死んだ夜",
+    "titleKana": "たいようがしんだよる",
+    "authorIds": [
+      "tsukiharawataru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "第二次大戦中のニュージーランドの捕虜収容所と全寮制女子校で相次いだ密室殺人。41年後、同じ学校で再び事件が起こる。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2010,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meganeya-wa-kieta",
+    "title": "眼鏡屋は消えた",
+    "titleKana": "めがねやわきえた",
+    "authorIds": [
+      "yamadaayato"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "seishun",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "部室で目覚めると8年前だった——青春時代の甘く切ない事件をハイテンションの筆致で綴る第21回鮎川哲也賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2011,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kinki-no-ko",
+    "title": "禁忌の子",
+    "titleKana": "きんきのこ",
+    "authorIds": [
+      "yamaguchimio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "デビュー作にして本屋大賞にノミネートされた第34回鮎川哲也賞受賞作。医療の現場を舞台に、読者を没入させる謎が展開する。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2024,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kozumikku",
+    "title": "コズミック 世紀末探偵神話",
+    "titleKana": "こずみっく",
+    "authorIds": [
+      "seiryouinryuusui"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "misshitsu",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "「今年、一二〇〇個の密室で、一二〇〇人が殺される」——90年代のミステリ界を騒然とさせた、新時代の探偵神話。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1996,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rokumai-no-tonkatsu",
+    "title": "六枚のとんかつ",
+    "titleKana": "ろくまいのとんかつ",
+    "authorIds": [
+      "sobukenichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "空前絶後のバカミス・トリックで話題をさらった第3回メフィスト賞受賞作。笑いと感動を同居させた連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "j-no-shinwa",
+    "title": "Jの神話",
+    "titleKana": "Jのしんわ",
+    "authorIds": [
+      "inui-kurumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "gakuen",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "全寮制のミッションスクールで、敬虔なクリスチャンの女生徒が投身自殺を遂げる。遺書に記されていた言葉の意味を追う。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1998,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kioku-no-hate",
+    "title": "記憶の果て",
+    "titleKana": "きおくのはて",
+    "authorIds": [
+      "uragakazuhiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1998,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chinurareta-shinwa",
+    "title": "血塗られた神話",
+    "titleKana": "ちぬられたしんわ",
+    "authorIds": [
+      "shindoufuyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "noir",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "債務者への過酷な取り立てから「悪魔」と呼ばれた街金融の経営者のもとに、惨殺された新規客の一報が届く。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1998,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dabuesuton-kaidou",
+    "title": "ダブ(エ)ストン街道",
+    "titleKana": "だぶえすとんかいどう",
+    "authorIds": [
+      "asaguremitsufumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "「ダブ（エ）ストンって、どっちですか？」——迷い込んだ恋人を捜す旅は、道を尋ねるほど遠ざかる不思議な世界へ。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1998,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "qed-hyakunin-isshu-no-shu",
+    "title": "QED 百人一首の呪",
+    "titleKana": "QED",
+    "authorIds": [
+      "takadatakafumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "百人一首に仕組まれた謎に薬剤師の探偵が挑む。歴史学と本格ミステリを接続した人気シリーズの原点。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1998,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "k-no-ryuugi-furu-kontakuto-gemu",
+    "title": "Kの流儀 フルコンタクト・ゲーム",
+    "titleKana": "Kのりゅうぎ",
+    "authorIds": [
+      "nakajimanozomu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "hardboiled",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gin-no-ori-o-tokashite-kusuriya-tantei-youkidan",
+    "title": "銀の檻を溶かして 薬屋探偵妖綺談",
+    "titleKana": "ぎんのおりおとかして",
+    "authorIds": [
+      "takasatoshiina"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "kaiki-gensou",
+      "youkai",
+      "shiritsu-tantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "小さな町の住宅街の先にある「深山木薬店」。三人の従業員が営むこの店は、人ならざるものの悩みも引き受けている。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dopperugengakyuu-akazu-no-tobira-kenkyuukai-ryuu",
+    "title": "ドッペルゲンガー宮 《あかずの扉》研究会流氷館へ",
+    "titleKana": "どっぺるげんがーきゅう",
+    "authorIds": [
+      "kirishatakumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "帰省した女生徒が戻ってこない——相談を受けた《あかずの扉》研究会の面々が、流氷館へ向かう。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hasamiotoko",
+    "title": "ハサミ男",
+    "titleKana": "はさみおとこ",
+    "authorIds": [
+      "shuno-masayuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "jojutsu-trick",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "女子高生が相次いで殺害され、いずれも喉にハサミが突き立てられていた。「ハサミ男」と呼ばれた犯人をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "makkurana-yoake",
+    "title": "真っ暗な夜明け",
+    "titleKana": "まっくらなよあけ",
+    "authorIds": [
+      "hikawatooru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2000,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wedingu-doresu",
+    "title": "ウェディング・ドレス",
+    "titleKana": "うぇでぃんぐどれす",
+    "authorIds": [
+      "kurodakenji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2000,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "higa",
+    "title": "火蛾",
+    "titleKana": "ひが",
+    "authorIds": [
+      "koizumikajuu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kaigai-koten",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "12世紀の中東。聖者たちの伝記録編纂を志す詩人ファリードが、伝説の聖者の教派につらなる男を訪ねる幻想的な本格ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2000,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nichiyoubi-no-chinmoku",
+    "title": "日曜日の沈黙",
+    "titleKana": "にちようびのちんもく",
+    "authorIds": [
+      "ishizakikouji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "密室で死んだ作家にちなむ「ミステリィの館」へようこそ——20世紀最後のメフィスト賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2000,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kemuri-ka-tsuchi-ka-kuimono",
+    "title": "煙か土か食い物 Smoke, Soil or Sacrifices",
+    "titleKana": "けむりかつちかくいもの",
+    "authorIds": [
+      "maijououtarou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "kazoku",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "故郷の福井へ帰った医師が、連続する事件と家族の記憶に向き合う。疾走する文体で知られる著者のデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gecchouseki-no-maken",
+    "title": "月長石の魔犬",
+    "titleKana": "げっちょうせきのまけん",
+    "authorIds": [
+      "akizukiryousuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "furikkashiki-kagami-kimihiko-ni-uttetsuke-no-sat",
+    "title": "フリッカー式 鏡公彦にうってつけの殺人",
+    "titleKana": "ふりっかーしき",
+    "authorIds": [
+      "satouyuuya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "kazoku",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "妹を殺されたと知らされた鏡家の三男・公彦が、復讐へと動き出す。第21回メフィスト賞を受けた著者のデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kubikiri-saikuru-aoiro-savan-to-zaregoto-tsukai",
+    "title": "クビキリサイクル 青色サヴァンと戯言遣い",
+    "titleKana": "くびきりさいくる",
+    "authorIds": [
+      "nishioishin"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "kotou",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "絶海の孤島に集められた天才たちのあいだで起きる殺人。「戯言遣い」を語り手に据えたシリーズの第1作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2002,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurokkujou-satsujin-jiken",
+    "title": "クロック城』殺人事件",
+    "titleKana": "くろっくじょうさつじんじけん",
+    "authorIds": [
+      "kitayamatakekuni"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "yakata-mono",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "2002年、22歳で第24回メフィスト賞を受賞した著者のデビュー作。「城」シリーズの第1作となった物理トリックの本格。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2002,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "soredemo-keikan-wa-warau",
+    "title": "それでも、警官は微笑う",
+    "titleKana": "それでもけいかんわわらう",
+    "authorIds": [
+      "tachimorimegumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2002,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shito-nippon",
+    "title": "死都日本",
+    "titleKana": "しとにっぽん",
+    "authorIds": [
+      "ishiguroakira"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "有史以来初となる破局噴火が日本を襲う。地質学の知見に裏打ちされたパニック小説として評価された第26回メフィスト賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2002,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "furemu-auto",
+    "title": "フレームアウト",
+    "titleKana": "ふれーむあうと",
+    "authorIds": [
+      "ikegakishintarou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "平凡すぎるほど平凡な映像作家志望の学生と、その幼なじみ。映像を題材にした技巧的なミステリ。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2003,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mitsu-no-mori-no-kogoeru-megami",
+    "title": "蜜の森の凍える女神",
+    "titleKana": "みつのもりのこごえるめがみ",
+    "authorIds": [
+      "sekitanamida"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2003,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sora-o-miageru-furui-uta-o-kuchizusamu",
+    "title": "空を見上げる古い歌を口ずさむ",
+    "titleKana": "そらおみあげるふるいうたおくちずさむ",
+    "authorIds": [
+      "shoujiyukiya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "kaiki-gensou",
+      "seishun",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "「誰かが〈のっぺらぼう〉を見るようになったら呼んでほしい」——20年前の兄の言葉から始まる、町と記憶の物語。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2003,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyokugen-suiri-koroshiamu",
+    "title": "極限推理コロシアム",
+    "titleKana": "きょくげんすいりころしあむ",
+    "authorIds": [
+      "yanoryuuou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "closed-circle",
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "突然監禁された男女が、生き残りを賭けて犯人を言い当てる推理サバイバル。夏の館と冬の館、二つの舞台で進行する。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsumetai-kousha-no-toki-wa-tomaru",
+    "title": "冷たい校舎の時は止まる",
+    "titleKana": "つめたいこうしゃのときわとまる",
+    "authorIds": [
+      "tsujimuramizuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "gakuen",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "雪の降る夜、閉ざされた校舎に取り残された8人の生徒。止まった時間のなかで、彼らは自分たちに何が起きたのかを探る。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kochuushou",
+    "title": "孤虫症",
+    "titleKana": "こちゅうしょう",
+    "authorIds": [
+      "mariyukiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "iyamisu",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "不倫を重ねる主婦の相手が、次々と身体に瘤の生じる奇病に倒れていく。第32回メフィスト賞を受けたイヤミスの代表作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2005,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mokka-no-daishou",
+    "title": "黙過の代償",
+    "titleKana": "もっかのだいしょう",
+    "authorIds": [
+      "moriyamatakeshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2005,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tentei-no-hashitanaki-kajitsu",
+    "title": "天帝のはしたなき果実",
+    "titleKana": "てんていのはしたなきかじつ",
+    "authorIds": [
+      "furunomahoro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "gakuen",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "第35回メフィスト賞を受賞したデビュー作。衒学的な文体と学園を舞台にした大掛かりな趣向で知られるシリーズの第1作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2007,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "uruchimo-torukko-hannin-wa-anata-da",
+    "title": "ウルチモ・トルッコ 犯人はあなただ！",
+    "titleKana": "うるちもとるっこはんにんわあなただ",
+    "authorIds": [
+      "fukami-reiichiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "新聞連載小説を書く「私」のもとに届いた一通の手紙。そこにはミステリー界最後の不可能トリックが記されていた。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2007,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "paradaisu-kurozudo-thanatos",
+    "title": "パラダイス・クローズド THANATOS",
+    "titleKana": "ぱらだいすくろーずど",
+    "authorIds": [
+      "migiwakorumono"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shin-honkaku",
+      "tokushu-settei",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "周囲の人間に不審な死をもたらす「死神体質」の兄と、事件を解決する妹。特殊な設定を軸に据えた本格ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2008,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "horiwari-de-warau-onna-rounin-samon-ayakashi-shi",
+    "title": "掘割で笑う女 浪人左門あやかし指南",
+    "titleKana": "ほりわりでわらうおんな",
+    "authorIds": [
+      "wawatarisousuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "kaiki-gensou",
+      "youkai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "酒と怪談を愛する剣客が、この世の不思議に対峙する。「時代×怪談×ミステリ」で話題をさらった第38回メフィスト賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2008,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mane-rodo",
+    "title": "マネーロード",
+    "titleKana": "まねーろーど",
+    "authorIds": [
+      "jirouyuushin"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "noir",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2008,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mushitori-no-uta",
+    "title": "虫とりのうた",
+    "titleKana": "むしとりのうた",
+    "authorIds": [
+      "akahoshikouichirou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "知らない男に追いかけられていると訴える少女。しかし男は自分こそ少女の父親だと言い張る。どちらが嘘をついているのか。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2009,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "puru-no-soko-ni-nemuru",
+    "title": "プールの底に眠る",
+    "titleKana": "ぷーるのそこにねむる",
+    "authorIds": [
+      "shirakawamito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "seishun",
+      "gakuen",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "夏の終わり、裏山で出会った少女は木の上で首にロープを巻いていた。「セミ」と呼ばれた彼女との日々を描く。",
+    "awardResults": [
+      {
+        "awardId": "mephisto-sho",
+        "year": 2009,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「鮎川哲也賞・メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
   }
 ]
