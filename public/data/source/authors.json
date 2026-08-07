@@ -2236,5 +2236,518 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1920
+  },
+  {
+    "id": "nikietsuko",
+    "name": "仁木悦子",
+    "nameKana": "にき,えつこ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takigawakyou",
+    "name": "多岐川恭",
+    "nameKana": "たきがわきょう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shinshoufumiko",
+    "name": "新章文子",
+    "nameKana": "しんしょうふみこ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sagasen",
+    "name": "佐賀潜",
+    "nameKana": "さがせん",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fujimurashouta",
+    "name": "藤村正太",
+    "nameKana": "ふじむらしょうた",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saitounoboru",
+    "name": "西東登",
+    "nameKana": "さいとうのぼる",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saitousakae",
+    "name": "斎藤栄",
+    "nameKana": "さいとうさかえ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaitoeisuke",
+    "name": "海渡英祐",
+    "nameKana": "かいとえいすけ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ootaniyoutarou",
+    "name": "大谷羊太郎",
+    "nameKana": "おおたにようたろう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wakushunzou",
+    "name": "和久峻三",
+    "nameKana": "わくしゅんぞう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kobayashikyuuzou",
+    "name": "小林久三",
+    "nameKana": "こばやしきゅうぞう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kusakakeisuke",
+    "name": "日下圭介",
+    "nameKana": "くさかけいすけ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tomonoakira",
+    "name": "伴野朗",
+    "nameKana": "ともの,あきら",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fujimotosen",
+    "name": "藤本泉",
+    "nameKana": "ふじもとせん",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kajitatsuo",
+    "name": "梶龍雄",
+    "nameKana": "かじ,たつお",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurimotokaoru",
+    "name": "栗本薫",
+    "nameKana": "くりもとかおる",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takayanagiyoshio",
+    "name": "高柳芳夫",
+    "nameKana": "たかやなぎよしお",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "izawamotohiko",
+    "name": "井沢元彦",
+    "nameKana": "いざわもとひこ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nagaiakira",
+    "name": "長井彬",
+    "nameKana": "ながいあきら",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nakatsufumihiko",
+    "name": "中津文彦",
+    "nameKana": "なかつふみひこ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takahashikatsuhiko",
+    "name": "高橋克彦",
+    "nameKana": "たかはしかつひこ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toriikanako",
+    "name": "鳥井加南子",
+    "nameKana": "とりいかなこ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yamazakiyouko",
+    "name": "山崎洋子",
+    "nameKana": "やまざきようこ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ishiitoshihiro",
+    "name": "石井敏弘",
+    "nameKana": "いしいとしひろ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sakamotokouichi",
+    "name": "坂本光一",
+    "nameKana": "さかもとこういち",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nagasakahideka",
+    "name": "長坂秀佳",
+    "nameKana": "ながさかひでか",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tobaryou",
+    "name": "鳥羽亮",
+    "nameKana": "とばりょう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "narumishou",
+    "name": "鳴海章",
+    "nameKana": "なるみしょう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kawadayaichirou",
+    "name": "川田弥一郎",
+    "nameKana": "かわだ,やいちろう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watanabeyouko",
+    "name": "渡辺容子",
+    "nameKana": "わたなべようこ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nozawahisashi",
+    "name": "野沢尚",
+    "nameKana": "のざわひさし",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fukuiharutoshi",
+    "name": "福井晴敏",
+    "nameKana": "ふくいはるとし",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shinnotakeshi",
+    "name": "新野剛志",
+    "nameKana": "しんのたけし",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shudouurio",
+    "name": "首藤瓜於",
+    "nameKana": "しゅどううりお",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "miuraakihiro",
+    "name": "三浦明博",
+    "nameKana": "みうらあきひろ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shiranuikyousuke",
+    "name": "不知火京介",
+    "nameKana": "しらぬいきょうすけ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akaimihiro",
+    "name": "赤井三尋",
+    "nameKana": "あかいみひろ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kamiyamayuusuke",
+    "name": "神山裕右",
+    "nameKana": "かみやまゆうすけ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaburagiren",
+    "name": "鏑木蓮",
+    "nameKana": "かぶらぎれん",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hayaseran",
+    "name": "早瀬乱",
+    "nameKana": "はやせらん",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sonekeisuke",
+    "name": "曽根圭介",
+    "nameKana": "そねけいすけ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shoudakan",
+    "name": "翔田寛",
+    "nameKana": "しょうだかん",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sueurahiromi",
+    "name": "末浦広海",
+    "nameKana": "すえうらひろみ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "endoutakefumi",
+    "name": "遠藤武文",
+    "nameKana": "えんどうたけふみ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yokozekidai",
+    "name": "横関大",
+    "nameKana": "よこぜきだい",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kawasenanao",
+    "name": "川瀬七緒",
+    "nameKana": "かわせななお",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kumuramayumi",
+    "name": "玖村まゆみ",
+    "nameKana": "くむらまゆみ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "takeyoshiyuusuke",
+    "name": "竹吉優輔",
+    "nameKana": "たけよしゆうすけ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saitoueiichi",
+    "name": "斉藤詠一",
+    "nameKana": "さいとうえいいち",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "author-927272",
+    "name": "神護かずみ",
+    "nameKana": "神護かずみ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sanohiromi",
+    "name": "佐野広実",
+    "nameKana": "さのひろみ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fushiomiki",
+    "name": "伏尾美紀",
+    "nameKana": "ふしおみき",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "momonozappa",
+    "name": "桃野雑派",
+    "nameKana": "もものざっぱ",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mikamikoushirou",
+    "name": "三上幸四郎",
+    "nameKana": "みかみこうしろう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shimotsukiryuu",
+    "name": "霜月流",
+    "nameKana": "しもつきりゅう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hinoeitarou",
+    "name": "日野瑛太郎",
+    "nameKana": "ひのえいたろう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nomiyayuu",
+    "name": "野宮有",
+    "nameKana": "のみやゆう",
+    "description": "ミステリ作品を手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]

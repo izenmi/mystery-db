@@ -34811,5 +34811,2015 @@
     "externalLinks": {},
     "updatedAt": "2026-08-07",
     "sourceNote": "書誌(コスミック出版、2021年、ISBN 9784774762999)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西澤保彦 著」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "nekowa-shitteita",
+    "title": "猫は知っていた",
+    "titleKana": "ねこわしっていた",
+    "authorIds": [
+      "nikietsuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shiritsu-tantei",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1957,
+    "status": "completed",
+    "synopsis": "素人探偵の兄妹が巻き込まれた連続殺人。怪しげな電話、秘密の抜け穴、蛇毒を塗られた凶器——戦後日本の本格探偵小説を代表する第3回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1957,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nureta-kokoro",
+    "title": "濡れた心",
+    "titleKana": "ぬれたこころ",
+    "authorIds": [
+      "takigawakyou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "gakuen",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "女子高生たちの純粋な関係を阻む悪意と、その先に起きる殺人。少女たちをあざ笑うようにのしかかる事件を描く第4回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1958,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kikenna-kankei",
+    "title": "危険な関係",
+    "titleKana": "きけんなかんけい",
+    "authorIds": [
+      "shinshoufumiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1959,
+    "status": "completed",
+    "synopsis": "恋愛と友情、結婚と不倫、愛情と憎悪。日常が非日常へ転じる一瞬を捉えた、女性作家によるサスペンス。第5回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1959,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hanayakana-shitai",
+    "title": "華やかな死体",
+    "titleKana": "はなやかなしたい",
+    "authorIds": [
+      "sagasen"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1962,
+    "status": "completed",
+    "synopsis": "真夜中の散歩道で、白菊と曼珠沙華に飾られた大手食品会社社長の死体が見つかる。巨額の遺産をめぐる思惑が交錯する社会派ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1962,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kodoku-na-asufaruto",
+    "title": "孤独なアスファルト",
+    "titleKana": "こどくなあすふぁると",
+    "authorIds": [
+      "fujimurashouta"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "sengo-nihon"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1963,
+    "status": "completed",
+    "synopsis": "玉川上水で企業の常務が殺害された。転職をめぐって被害者と対立していた東北出身の少年に疑いが向かう、高度成長期の社会派長編。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1963,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ari-no-ki-no-shita-de",
+    "title": "蟻の木の下で",
+    "titleKana": "ありのきのしたで",
+    "authorIds": [
+      "saitounoboru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "井の頭公園の羆の檻の前で、爪痕を残した男の死体が発見される。傍らに落ちていた新興宗教の痕跡が事件を複雑にしていく。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1964,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "satsujin-no-kifu",
+    "title": "殺人の棋譜",
+    "titleKana": "さつじんのきふ",
+    "authorIds": [
+      "saitousakae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1966,
+    "status": "completed",
+    "synopsis": "将棋界の俊英・河辺八段の愛娘が誘拐された。「身代金を軽飛行機から投下せよ」という奇妙な要求が捜査を翻弄する。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1966,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "berurin-1888nen",
+    "title": "伯林－一八八八年",
+    "titleKana": "べるりん1888ねん",
+    "authorIds": [
+      "kaitoeisuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kaigai-koten"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1967,
+    "status": "completed",
+    "synopsis": "",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1967,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "satsui-no-ensou",
+    "title": "殺意の演奏",
+    "titleKana": "さついのえんそう",
+    "authorIds": [
+      "ootaniyoutarou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1970,
+    "status": "completed",
+    "synopsis": "人気司会者が自室で死体となって発見された。遺されたのは暗号めいた日記。それは遺書なのか、別の意味を持つのか。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1970,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kamen-houtei",
+    "title": "仮面法廷",
+    "titleKana": "かめんほうてい",
+    "authorIds": [
+      "wakushunzou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "houtei",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1972,
+    "status": "completed",
+    "synopsis": "琵琶湖を望む高台の土地売買をめぐるトラブルから、仲介の弁護士と不動産屋が殺害される。法廷ミステリの書き手として知られる著者の受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1972,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ankoku-kokuchi",
+    "title": "暗黒告知",
+    "titleKana": "あんこくこくち",
+    "authorIds": [
+      "kobayashikyuuzou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1974,
+    "status": "completed",
+    "synopsis": "明治40年の栃木県谷中村。足尾銅山鉱毒事件をめぐり官憲と立ち退き反対の農民が激しく対立するなか、事件が起こる。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1974,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "choutachi-wa-ima",
+    "title": "蝶たちは今…",
+    "titleKana": "ちょうたちわいま",
+    "authorIds": [
+      "kusakakeisuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "旅先で取り違えた他人のバッグから、一通の手紙が出てくる。女から男へ宛てたその手紙が、思わぬ事件へと繋がっていく。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1975,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gojuumannen-no-shikaku",
+    "title": "五十万年の死角",
+    "titleKana": "ごじゅうまんねんのしかく",
+    "authorIds": [
+      "tomonoakira"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "synopsis": "太平洋戦争開戦の日、日本軍は北京の医大研究施設を急襲した。北京原人の化石骨をめぐる、歴史の空白に挑む長編。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1976,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toki-o-kizamu-shio",
+    "title": "時をきざむ潮",
+    "titleKana": "ときおきざむしお",
+    "authorIds": [
+      "fujimotosen"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "三陸の辺鄙な海岸で、双生児と思われる学生の遺体が車の中から発見された。地方の風土を背景にした第23回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1977,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toumeina-kisetsu",
+    "title": "透明な季節",
+    "titleKana": "とうめいなきせつ",
+    "authorIds": [
+      "kajitatsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "seishun",
+      "gakuen",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "「ぼくは夜明けまで犯人を追っていた」——級友の死をきっかけに、高校生たちが自ら真相を追う青春ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1977,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "bokura-no-jidai",
+    "title": "ぼくらの時代",
+    "titleKana": "ぼくらのじだい",
+    "authorIds": [
+      "kurimotokaoru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "seishun",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "同時代の若者たちの姿を切り取った、第24回江戸川乱歩賞受賞作。のちに幅広いジャンルで活躍する著者のデビュー作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1978,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "puraha-karano-douketachi",
+    "title": "プラハからの道化たち",
+    "titleKana": "ぷらはからのどうけたち",
+    "authorIds": [
+      "takayanagiyoshio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "ソ連軍の戦車がチェコ市民の希望を踏みにじった時代。元外交官の著者が現代史の結節点に潜む謎を描いた問題作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1979,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sarumaru-genshikou",
+    "title": "猿丸幻視行",
+    "titleKana": "さるまるげんしこう",
+    "authorIds": [
+      "izawamotohiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "jojutsu-trick",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1980,
+    "status": "completed",
+    "synopsis": "明治42年の日本。折口信夫が、万葉仮名で記された猿丸額といろは歌に隠された意味を解き明かしていく暗号ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1980,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "genshiro-no-kani",
+    "title": "原子炉の蟹",
+    "titleKana": "げんしろのかに",
+    "authorIds": [
+      "nagaiakira"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "原子力発電所を舞台に、新聞記者が事故と事件の境界を追う。技術と組織の闇に迫る社会派長編。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1981,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ougon-ryuusa",
+    "title": "黄金流砂",
+    "titleKana": "おうごんりゅうさ",
+    "authorIds": [
+      "nakatsufumihiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "義経は平泉で討たれたのではなく、追捕の手を逃れて北へ脱出していた——歴史学者の死を軸に据えた歴史ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1982,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sharaku-satsujin-jiken",
+    "title": "写楽殺人事件",
+    "titleKana": "しゃらくさつじんじけん",
+    "authorIds": [
+      "takahashikatsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "活動期間わずか10か月で消えた絵師・写楽。その正体という230年来の謎に、美術評論の世界を舞台にして挑む歴史ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1983,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tennyo-no-matsuei",
+    "title": "天女の末裔",
+    "titleKana": "てんにょのまつえい",
+    "authorIds": [
+      "toriikanako"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "kaiki-gensou",
+      "youkai",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "禁男の山中で巫女が産んだ女児は、民俗学研究の学生が連れ去ったという。土地に伝わる因習をめぐる伝奇ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1984,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hanazono-no-meikyuu",
+    "title": "花園の迷宮",
+    "titleKana": "はなぞののめいきゅう",
+    "authorIds": [
+      "yamazakiyouko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "昭和恐慌のさなかの昭和7年、横浜の遊郭で不可解な殺人が続く。女中として働く少女の視点から描かれる第32回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1986,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaze-no-tan-rodo",
+    "title": "風のターン・ロード",
+    "titleKana": "かぜのたーんろーど",
+    "authorIds": [
+      "ishiitoshihiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "娘たちの喉から金切り声がほとばしる——バイクを駆る若者たちの疾走感とともに描かれる青春サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1987,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hakushoku-no-zanzou",
+    "title": "白色の残像",
+    "titleKana": "はくしょくのざんぞう",
+    "authorIds": [
+      "sakamotokouichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "夏の甲子園。かつて名門校でバッテリーを組んだ二人の監督が、指導者として再び対峙する。高校野球を背景にしたミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1988,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asakusa-enoken-ichiza-no-arashi",
+    "title": "浅草エノケン一座の嵐",
+    "titleKana": "あさくさえのけんいちざのあらし",
+    "authorIds": [
+      "nagasakahideka"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "昭和12年の浅草。人気役者が殺され、容疑者に浮かんだのは人気絶頂の喜劇王だった。芸能史を織り込んだ歴史ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1989,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ken-no-michi-satsujin-jiken",
+    "title": "剣の道殺人事件",
+    "titleKana": "けんのみちさつじんじけん",
+    "authorIds": [
+      "tobaryou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "全日本学生剣道大会の決勝戦、衆人環視のただ中で選手が殺害される。剣道界を舞台にした不可能犯罪もの。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1990,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "naito-dansa",
+    "title": "ナイト・ダンサー",
+    "titleKana": "ないとだんさー",
+    "authorIds": [
+      "narumishou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "ジャンボ機の貨物室から、アルミ合金を溶かす何かが——乱歩賞史上初の航空サスペンスと評された第37回受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1991,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shiroku-nagai-rouka",
+    "title": "白く長い廊下",
+    "titleKana": "しろくながいろうか",
+    "authorIds": [
+      "kawadayaichirou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "手術後の患者が病室へ運ばれる途中で急変し死亡した。医療事故か、それとも巧妙に仕組まれた殺人か。医療ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1992,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hidarite-ni-tsugerunakare",
+    "title": "左手に告げるなかれ",
+    "titleKana": "ひだりてにつげるなかれ",
+    "authorIds": [
+      "watanabeyouko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "スーパーの保安士である主人公が、別れた愛人の妻が刺殺された事件で疑いをかけられ、自ら真相を追い始める。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1996,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hasen-no-marisu",
+    "title": "破線のマリス",
+    "titleKana": "はせんのまりす",
+    "authorIds": [
+      "nozawahisashi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "映像編集の技術に長けたテレビ局の編集者が、報道の現場で編集という行為の持つ力と危うさに直面していく。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "twelve-yo",
+    "title": "Twelve Y. O.",
+    "titleKana": "TwelveY.O",
+    "authorIds": [
+      "fukuiharutoshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "沖縄を主な舞台に展開する、国家の暗部を巻き込んだサスペンス・アクション。のちの大作を予告する第44回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1998,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hachigatsu-no-marukusu",
+    "title": "八月のマルクス",
+    "titleKana": "はちがつのまるくす",
+    "authorIds": [
+      "shinnotakeshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "noir",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "スキャンダルで引退したお笑い芸人のもとを、元相方が5年ぶりに訪ねてくる。芸能界の裏側を描くクライムノベル。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1999,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nouotoko",
+    "title": "脳男",
+    "titleKana": "のうおとこ",
+    "authorIds": [
+      "shudouurio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "地方都市で連続爆破事件が発生する。警察がたどり着いた容疑者は、感情を持たないかのような男だった。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2000,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "horobi-no-monokuromu",
+    "title": "滅びのモノクローム",
+    "titleKana": "ほろびのものくろーむ",
+    "authorIds": [
+      "miuraakihiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "CM制作者が骨董市で手に入れた古いリールとスチール缶。その中から現れたものが、時代の闇へと繋がっていく。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2002,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "macchi-meiku",
+    "title": "マッチメイク",
+    "titleKana": "まっちめいく",
+    "authorIds": [
+      "shiranuikyousuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "プロレス団体の総帥が対戦直後に急死した。額の傷から検出されたのは蛇毒。大観衆の前で何が起きたのかを追う。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2003,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kageriyuku-natsu",
+    "title": "翳りゆく夏",
+    "titleKana": "かげりゆくなつ",
+    "authorIds": [
+      "akaimihiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "「誘拐犯の娘が新聞社の記者に内定」——週刊誌の記事をきっかけに、大手新聞社が20年前の新生児誘拐事件を再検証していく。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2003,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "katakonbe",
+    "title": "カタコンベ",
+    "titleKana": "かたこんべ",
+    "authorIds": [
+      "kamiyamayuusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "kotou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "水没までのタイムリミットは約5時間。ケイビングを題材に、5年前の事件の記憶が呼び覚まされる冒険サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toukyou-damoi",
+    "title": "東京ダモイ",
+    "titleKana": "とうきょうだもい",
+    "authorIds": [
+      "kaburagiren"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "極寒のシベリア捕虜収容所で起きた中尉斬首事件。60年の沈黙が破られるとき、戦後日本に残された宿題が浮かび上がる。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2006,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sannenzaka-hi-no-yume",
+    "title": "三年坂 火の夢",
+    "titleKana": "さんねんざかひのゆめ",
+    "authorIds": [
+      "hayaseran"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "kaiki-gensou",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "転ぶと三年以内に死ぬという言い伝えのある「三年坂」。そこで転んでねと言い遺して亡くなった兄の死の意味を追う。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2006,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chinteigyo",
+    "title": "沈底魚",
+    "titleKana": "ちんていぎょ",
+    "authorIds": [
+      "sonekeisuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "現職国会議員にスパイがいるという情報を受け、警視庁外事課に極秘の捜査本部が設置される。公安の内側を描く長編。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2007,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yuukaiji",
+    "title": "誘拐児",
+    "titleKana": "ゆうかいじ",
+    "authorIds": [
+      "shoudakan"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "終戦翌年の夏、5歳の男児が誘拐された。旧円と新円が交錯する混乱期の東京を背景に、時を越えて事件が語り直される。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2008,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ketsubetsu-no-mori",
+    "title": "訣別の森",
+    "titleKana": "けつべつのもり",
+    "authorIds": [
+      "sueurahiromi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "陸自の元エースパイロットが、ドクターヘリの機長として北海道の空を飛ぶ。救命の現場で彼が向き合うことになる事件。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2008,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "purizun-torikku",
+    "title": "プリズン・トリック",
+    "titleKana": "ぷりずんとりっく",
+    "authorIds": [
+      "endoutakefumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "tojo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "交通刑務所内で受刑者が殺され、別の受刑者が逃亡した。遺体は奇妙にも「前へ倣え」の姿勢をとっていた。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2009,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saikai",
+    "title": "再会",
+    "titleKana": "さいかい",
+    "authorIds": [
+      "yokozekidai"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "第56回江戸川乱歩賞受賞作。過去の出来事で結ばれた者たちが再会したとき、封じたはずの真実が動き出す。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2010,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yorozu-no-koto-ni-kiotsukeyo",
+    "title": "よろずのことに気をつけよ",
+    "titleKana": "よろずのことにきおつけよ",
+    "authorIds": [
+      "kawasenanao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "tokushu-settei",
+      "kaiki-gensou",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "呪いで人は殺せるのか。変死体のそばで見つかった「呪術符」を手がかりに、呪術を専門とする研究者が事件に関わっていく。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2011,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kantou-onsaito",
+    "title": "完盗オンサイト",
+    "titleKana": "かんとうおんさいと",
+    "authorIds": [
+      "kumuramayumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "皇居に侵入し、徳川家光が愛でたという樹齢550年の名盆栽を盗み出せ——クライミング描写が光る異色の犯罪小説。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2011,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shuumeihan",
+    "title": "襲名犯",
+    "titleKana": "しゅうめいはん",
+    "authorIds": [
+      "takeyoshiyuusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "関東の地方都市で起きた連続猟奇殺人。ネットの住人から「ブージャム」と英雄視される犯人像が独り歩きしていく。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2013,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toutatsu-funoukyoku",
+    "title": "到達不能極",
+    "titleKana": "とうたつふのうきょく",
+    "authorIds": [
+      "saitoueiichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "kotou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "遊覧中のチャーター機がシステムダウンを起こし南極へ不時着する。極限の環境と過去の秘密が交錯する冒険ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2018,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nowaru-o-matou-onna",
+    "title": "ノワールをまとう女",
+    "titleKana": "のわーるおまとうおんな",
+    "authorIds": [
+      "author-927272"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "大手医薬品メーカーへのデモを鎮圧するため市民団体に潜入した女性を描く、第65回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2019,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watashi-ga-kieru",
+    "title": "わたしが消える",
+    "titleKana": "わたしがきえる",
+    "authorIds": [
+      "sanohiromi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "序盤の地味な謎が進行とともに厚みを増していく——選考委員の評価を得た第66回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2020,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hokui-yonjuusando-no-korudo-kesu",
+    "title": "北緯43度のコールドケース",
+    "titleKana": "ほくいよんじゅうさんどのこーるどけーす",
+    "authorIds": [
+      "fushiomiki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "組織の論理に翻弄されながら未解決事件に挑む、異色の女性ノンキャリア警察官を主人公にした第67回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2021,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rouko-zanmu",
+    "title": "老虎残夢",
+    "titleKana": "ろうこざんむ",
+    "authorIds": [
+      "momonozappa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "湖上の楼閣で舞い、少女は大人になった。武侠の世界を舞台に、復讐か真相かを追うヒロインを描く第67回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2021,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "souten-no-tori",
+    "title": "蒼天の鳥",
+    "titleKana": "そうてんのとり",
+    "authorIds": [
+      "mikamikoushirou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "第69回江戸川乱歩賞受賞作。脚本家として活躍してきた著者が、大正期の地方を舞台に描いた歴史ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2023,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yuukakujima-shinjuugatari",
+    "title": "遊廓島心中譚",
+    "titleKana": "ゆうかくじましんじゅうがたり",
+    "authorIds": [
+      "shimotsukiryuu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "遊廓の島で起きた心中事件。終盤で本格ミステリとしてのクライマックスが待ち受ける、第70回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2024,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "feiku-massuru",
+    "title": "フェイク・マッスル",
+    "titleKana": "ふぇいくまっする",
+    "authorIds": [
+      "hinoeitarou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "筋肉と虚飾をめぐる現代の欺瞞を扱った第70回江戸川乱歩賞受賞作。選考委員から高い評価を受けた。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2024,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koroshiya-no-eigyoujutsu",
+    "title": "殺し屋の営業術",
+    "titleKana": "ころしやのえいぎょうじゅつ",
+    "authorIds": [
+      "nomiyayuu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "2人の殺し屋に遭遇した凄腕営業マンが、命がけの営業トークで「2週間で2億円」を賭けた交渉に挑むクライムコメディ。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2025,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
   }
 ]
