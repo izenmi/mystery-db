@@ -937,5 +937,16 @@
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "dashiell-hammett",
     "occupation": "私立探偵"
+  },
+  {
+    "id": "inukai-hayato",
+    "name": "犬養隼人",
+    "nameKana": "いぬかいはやと",
+    "description": "警視庁捜査一課の刑事。娘との関係に悩みながら、社会性の強い事件に向き合う。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "nakayama-shichiri",
+    "occupation": "警察官"
   }
 ]

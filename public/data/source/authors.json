@@ -1326,5 +1326,45 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1939
+  },
+  {
+    "id": "chinen-mikito",
+    "name": "知念実希人",
+    "nameKana": "ちねんみきと",
+    "description": "小説家・医師。医療の知識を活かしたミステリと本格ミステリの双方を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1978
+  },
+  {
+    "id": "doba-shunichi",
+    "name": "堂場瞬一",
+    "nameKana": "どうばしゅんいち",
+    "description": "小説家。警察小説とスポーツ小説を軸に、多作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1963
+  },
+  {
+    "id": "fukami-reiichiro",
+    "name": "深水黎一郎",
+    "nameKana": "ふかみれいいちろう",
+    "description": "小説家。芸術を題材にした本格ミステリと、大胆な仕掛けの作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1963
+  },
+  {
+    "id": "miyauchi-yusuke",
+    "name": "宮内悠介",
+    "nameKana": "みやうちゆうすけ",
+    "description": "小説家。SFとミステリの境界で、ゲームや辺境を題材にした作品を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1979
   }
 ]

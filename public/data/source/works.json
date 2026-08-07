@@ -24085,5 +24085,1855 @@
     "originalTitle": "The Goodbye Look",
     "jpPublishedYear": 1982,
     "sourceNote": "書誌(早川書房、1982年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ロス・マクドナルド／著,菊池 光／訳」による。初刊年1970年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "keikan-no-joken",
+    "title": "警官の条件",
+    "titleKana": "けいかんのじょうけん",
+    "authorIds": [
+      "sasaki-joh"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "警察官の家系に生まれた男たちの選択を描く長編。組織の論理と個人の正義がぶつかる場面を重ね、警察という職業の重さを問う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(新潮社、2014年、ISBN 9784101223261)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「佐々木譲 著」による。初刊年2011年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "chinmoku-hotei",
+    "title": "沈黙法廷",
+    "titleKana": "ちんもくほうてい",
+    "authorIds": [
+      "sasaki-joh"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "houtei",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "二件の殺人容疑で起訴された女性の裁判を、捜査側と弁護側の双方から描く。供述と証拠の解釈が揺れ動く過程を丁寧に追った長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(新潮社、2019年、ISBN 9784101223292)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「佐々木譲 著」による。初刊年2016年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "suna-no-ie",
+    "title": "砂の家",
+    "titleKana": "すなのいえ",
+    "authorIds": [
+      "doba-shunichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kazoku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "殺人犯として服役した父と、その家族の関係を描く。事件そのものより、残された者たちが背負う時間に焦点を当てた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(KADOKAWA、2021年、ISBN 9784041108857)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「堂場瞬一 [著]」による。初刊年1971年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kenji-no-shingi",
+    "title": "検事の信義",
+    "titleKana": "けんじのしんぎ",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "houtei",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "検事・佐方貞人が、筋を通すために組織の意向にも逆らう。罪を明らかにすることと人を裁くことの違いを見据えた連作短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "佐方貞人シリーズ",
+    "sourceNote": "書誌(埼玉福祉会、2025年、ISBN 9784865967166)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「柚月裕子 著」による。初刊年2019年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "akutoku-no-rondo",
+    "title": "悪徳の輪舞曲",
+    "titleKana": "あくとくのろんど",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [
+      "mikoshiba-reiji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "houtei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "過去に重大な罪を犯した弁護士・御子柴礼司が、実の母が被告となった事件の弁護に立つ。過去と現在が正面からぶつかるシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "御子柴礼司シリーズ",
+    "sourceNote": "書誌(講談社、2019年、ISBN 9784065176764)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里」による。初刊年2018年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "boko-no-kiba",
+    "title": "暴虎の牙",
+    "titleKana": "ぼうこのきば",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "暴力団と警察の関係が変質していく広島を舞台に、愚連隊上がりの男たちの生き様を描く。シリーズの前日譚にあたる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "孤狼の血シリーズ",
+    "sourceNote": "書誌(KADOKAWA、2023年、ISBN 9784041127568)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「柚月裕子 [著]」による。初刊年2020年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "michael-no-kodo",
+    "title": "ミカエルの鼓動",
+    "titleKana": "みかえるのこどう",
+    "authorIds": [
+      "yuzuki-yuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "最先端の手術支援ロボットを扱う医療現場で、医師たちの信念と組織の思惑が交錯する。命を救う技術のあり方を問う長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2021年、ISBN 9784163914428)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「柚月裕子 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "anonymous-call",
+    "title": "アノニマス・コール",
+    "titleKana": "あのにますこーる",
+    "authorIds": [
+      "yakumaru-gaku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "元刑事のもとに、誘拐を告げる匿名の電話がかかってくる。過去の失敗を引きずる男が、限られた時間で真相に迫っていくサスペンス。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(KADOKAWA、2018年、ISBN 9784041068922)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「薬丸岳 [著]」による。初刊年2015年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "themis-no-tsurugi",
+    "title": "テミスの剣",
+    "titleKana": "てみすのつるぎ",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "冤罪を生んだ過去の捜査に、当時の刑事が向き合う。自白偏重の捜査がもたらす取り返しのつかなさを描いた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2017年、ISBN 9784167908041)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 著」による。初刊年2014年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "nanairo-no-doku",
+    "title": "七色の毒",
+    "titleKana": "なないろのどく",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [
+      "inukai-hayato"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "tanpenshu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "刑事・犬養隼人が向き合う事件を集めた連作短編集。それぞれの事件が現代社会の歪みを映し、後味の苦さを残す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "刑事犬養隼人シリーズ",
+    "sourceNote": "書誌(埼玉福祉会、2023年、ISBN 9784865965650)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里」による。初刊年2013年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "gekko-no-stigma",
+    "title": "月光のスティグマ",
+    "titleKana": "げっこうのすてぃぐま",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "阪神・淡路大震災と現代を結ぶ因縁を軸に、復讐と赦しをめぐる物語が進む。事件の背景に時代の傷を置いた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(新潮社、2017年、ISBN 9784101209616)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 著」による。初刊年2014年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hippocrates-no-chikai",
+    "title": "ヒポクラテスの誓い",
+    "titleKana": "ひぽくらてすのちかい",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "研修医の栂野真琴が法医学教室に配属され、解剖から見えてくる事実に向き合う。死者の身体が語る手がかりを軸にした医療ミステリ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "法医学教室シリーズ",
+    "sourceNote": "書誌(祥伝社、2016年、ISBN 9784396342104)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 著」による。初刊年2015年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hippocrates-no-yuutsu",
+    "title": "ヒポクラテスの憂鬱",
+    "titleKana": "ひぽくらてすのゆううつ",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "事件性がないとされた遺体に、あえてメスを入れる法医学教室の日常を描く連作。制度の隙間からこぼれ落ちる死を掬い上げていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "法医学教室シリーズ",
+    "sourceNote": "書誌(祥伝社、2019年、ISBN 9784396345310)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 著」による。初刊年2002年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "onshu-no-requiem",
+    "title": "恩讐の鎮魂曲(レクイエム)",
+    "titleKana": "おんしゅうのれくいえむ",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [
+      "mikoshiba-reiji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "houtei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "死刑判決を受けた被告の再審請求を、御子柴礼司が引き受ける。勝算の薄い弁護に挑む姿を通して、裁くことの意味を問う長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "御子柴礼司シリーズ",
+    "sourceNote": "書誌(講談社、2018年、ISBN 9784062938365)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 [著]」による。初刊年2016年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "dokoka-de-beethoven",
+    "title": "どこかでベートーヴェン",
+    "titleKana": "どこかでべーとーゔぇん",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [
+      "misaki-yosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "seishun",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "高校時代の岬洋介を描く一作。転入してきた天才ピアニストと、彼を取り巻く生徒たちの間で起きる事件を、音楽の描写とともに追う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "岬洋介シリーズ",
+    "sourceNote": "書誌(宝島社、2017年、ISBN 9784800271044)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 著」による。初刊年2016年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "itsumademo-chopin",
+    "title": "いつまでもショパン",
+    "titleKana": "いつまでもしょぱん",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [
+      "misaki-yosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "ワルシャワのショパン・コンクールを舞台に、テロの脅威と演奏が並行して進む。音楽小説とミステリを両立させたシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "岬洋介シリーズ",
+    "sourceNote": "書誌(宝島社、2014年、ISBN 9784800220431)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 著」による。初刊年2013年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "oyasumi-rachmaninoff",
+    "title": "おやすみラフマニノフ",
+    "titleKana": "おやすみらふまにのふ",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [
+      "misaki-yosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "honkaku",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "音大の演奏会を控えた時期に、名器のチェロが密室から消える。音楽学生たちの視点で描かれる、シリーズ第二作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "岬洋介シリーズ",
+    "sourceNote": "書誌(宝島社、2011年、ISBN 9784796685825)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 著」による。初刊年2010年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shizuka-obachan",
+    "title": "静おばあちゃんにおまかせ",
+    "titleKana": "しずかおばあちゃんにおまかせ",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "元判事の祖母が、孫娘の持ち込む事件を安楽椅子から解き明かす連作短編集。法律家らしい視点と、家庭的な語り口が同居する。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2014年、ISBN 9784167902407)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中山七里 著」による。初刊年2012年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kamen-byoto",
+    "title": "仮面病棟",
+    "titleKana": "かめんびょうとう",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "suspense",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "ピエロの仮面をつけた強盗によって、病院が閉鎖空間となる。医師の視点から、限られた情報で状況を読み解いていくサスペンス。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(実業之日本社、2020年、ISBN 9784408537542)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「知念実希人 著」による。初刊年2014年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "jigen-byoto",
+    "title": "時限病棟",
+    "titleKana": "じげんびょうとう",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "suspense",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "閉鎖された病院で目覚めた男女が、脱出のために謎を解いていく。制限時間つきの状況で、参加者それぞれの過去が明らかになる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(実業之日本社、2016年、ISBN 9784408553160)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「知念実希人 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kuzureru-no-o-dakishimete",
+    "title": "崩れる脳を抱きしめて",
+    "titleKana": "くずれるのうおだきしめて",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "研修医が担当した患者の女性をめぐり、記憶と事実の食い違いが浮かび上がる。医療の現場を背景にした切ない長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(実業之日本社、2020年、ISBN 9784408556192)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「知念実希人 著」による。初刊年2017年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "garasu-no-to-no-satsujin",
+    "title": "硝子の塔の殺人",
+    "titleKana": "がらすのとうのさつじん",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "雪山に建つ硝子の塔に集められた面々の間で、殺人が起きる。本格ミステリへの愛着を全面に押し出した、作者の代表作の一つ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2022,
+        "result": "国内篇第2位"
+      }
+    ],
+    "sourceNote": "書誌(実業之日本社、2025年、ISBN 9784408559766)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「知念実希人 著」による。初刊年2021年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "inori-no-karte",
+    "title": "祈りのカルテ",
+    "titleKana": "いのりのかるて",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "rensaku-tanpen",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "研修医が各科をまわりながら、患者が抱える事情を解きほぐしていく連作短編集。日常の謎を医療の現場に置き換えた温かい一冊。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(埼玉福祉会、2025年、ISBN 9784865967333)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「知念実希人 著」による。初刊年2018年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "rasen-no-shujutsushitsu",
+    "title": "螺旋の手術室",
+    "titleKana": "らせんのしゅじゅつしつ",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "手術室で起きた不可解な死をめぐり、院内の人間関係が揺れる。医療知識に裏打ちされた謎解きと、緊迫した展開が続く長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(新潮社、2017年、ISBN 9784101210711)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「知念実希人 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mugen-no-i",
+    "title": "ムゲンのi",
+    "titleKana": "むげんのあい",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "患者の夢に入り込む力を持つ精神科医が、原因不明の昏睡事件に挑む。特殊な設定を軸にしながら、失われた記憶と向き合う物語。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(双葉社、2022年、ISBN 9784575525403)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「知念実希人 著」による。初刊年2019年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "garasu-no-taiyo-r",
+    "title": "硝子の太陽R",
+    "titleKana": "がらすのたいようあーる",
+    "authorIds": [
+      "honda-tetsuya"
+    ],
+    "detectiveIds": [
+      "himekawa-reiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "姫川玲子が、別シリーズの登場人物とも絡み合う大きな事件に挑む。組織の思惑と現場の意地がぶつかる警察小説。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "姫川玲子シリーズ",
+    "sourceNote": "書誌(光文社、2016年、ISBN 9784334910938)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「誉田哲也 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "no-mans-land",
+    "title": "ノーマンズランド",
+    "titleKana": "のーまんずらんど",
+    "authorIds": [
+      "honda-tetsuya"
+    ],
+    "detectiveIds": [
+      "himekawa-reiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "殺人事件の捜査線上に、外国人労働者をめぐる社会の歪みが浮かび上がる。姫川班が地道な捜査で真相へ迫るシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "姫川玲子シリーズ",
+    "sourceNote": "書誌(光文社、2020年、ISBN 9784334791063)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「誉田哲也 著」による。初刊年2002年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kabukicho-seven",
+    "title": "歌舞伎町セブン",
+    "titleKana": "かぶきちょうせぶん",
+    "authorIds": [
+      "honda-tetsuya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoron-shinsha",
+    "themeIds": [
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "歌舞伎町の裏で私刑を請け負う集団を描く。警察小説とは別の角度から、街の秩序と暴力の関係を描いた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(中央公論新社、2025年、ISBN 9784122076563)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「誉田哲也 著」による。初刊年2010年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kemono-no-shiro",
+    "title": "ケモノの城",
+    "titleKana": "けもののしろ",
+    "authorIds": [
+      "honda-tetsuya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "suspense",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "監禁と支配が続いた家で何が起きていたのかを、捜査側の視点から追う。実際の事件を思わせる題材を扱った重い長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(双葉社、2017年、ISBN 9784575519952)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「誉田哲也 著」による。初刊年2014年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kansen-yugi",
+    "title": "感染遊戯",
+    "titleKana": "かんせんゆうぎ",
+    "authorIds": [
+      "honda-tetsuya"
+    ],
+    "detectiveIds": [
+      "himekawa-reiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "姫川班の面々や、彼らと関わる刑事たちを主役にした連作短編集。一つの事件が別の物語へと繋がっていく構成が読みどころ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "姫川玲子シリーズ",
+    "sourceNote": "書誌(光文社、2013年、ISBN 9784334766481)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「誉田哲也 著」による。初刊年2011年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kyozo-no-arabesque",
+    "title": "虚像のアラベスク",
+    "titleKana": "きょぞうのあらべすく",
+    "authorIds": [
+      "fukami-reiichiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "バレエ団を舞台に、公演をめぐって起きる事件を描く。芸術の世界の内側を丁寧に描写しながら、本格ミステリとして組み立てられている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(KADOKAWA、2021年、ISBN 9784041114360)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「深水黎一郎 [著]」による。初刊年2018年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "meitantei-nanka-kowakunai",
+    "title": "名探偵なんか怖くない",
+    "titleKana": "めいたんていなんかこわくない",
+    "authorIds": [
+      "nishimura-kyotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1971,
+    "status": "completed",
+    "synopsis": "世界の名探偵たちが日本に集められ、事件に挑む。古典ミステリの登場人物を借りたパスティーシュとして、遊び心にあふれた一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西村京太郎」による。初刊年1971年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "koroshi-no-sokyokusen",
+    "title": "殺しの双曲線",
+    "titleKana": "ころしのそうきょくせん",
+    "authorIds": [
+      "nishimura-kyotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1971,
+    "status": "completed",
+    "synopsis": "雪深い山荘に集められた六人と、双子という手がかり。閉ざされた状況で進む殺人を、大胆な仕掛けとともに描いた本格長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(実業之日本社、2023年、ISBN 9784408538310)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西村京太郎 著」による。初刊年1971年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tenkawa-densetsu",
+    "title": "天河伝説殺人事件",
+    "titleKana": "てんかわでんせつさつじんじけん",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "能楽の家元をめぐる不審死を追って、浅見光彦が奈良の天河へ向かう。伝承と芸能の世界を背景にしたシリーズ屈指の人気作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "浅見光彦シリーズ",
+    "sourceNote": "書誌(KADOKAWA、2018年、ISBN 9784041068038)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 [著]」による。初刊年1988年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "gotoba-densetsu-uchida",
+    "title": "後鳥羽伝説殺人事件",
+    "titleKana": "ごとばでんせつさつじんじけん",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "後鳥羽上皇にまつわる伝承をたどるうち、現代の殺人へと繋がっていく。浅見光彦が初めて登場した長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "浅見光彦シリーズ",
+    "sourceNote": "書誌(角川書店、2012年、ISBN 9784048741347)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 著」による。初刊年1982年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "heike-densetsu",
+    "title": "平家伝説殺人事件",
+    "titleKana": "へいけでんせつさつじんじけん",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "平家の落人伝説が残る土地で起きた事件を、浅見光彦が調べる。地方の歴史と現代の思惑が絡み合うシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "浅見光彦シリーズ",
+    "sourceNote": "書誌(角川書店、2010年、ISBN 9784048741224)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 著」による。初刊年1982年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "togakushi-densetsu",
+    "title": "戸隠伝説殺人事件",
+    "titleKana": "とがくしでんせつさつじんじけん",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "戸隠の鬼女伝説をなぞるように起きる連続殺人に、浅見光彦が挑む。伝承の見立てを軸にした人気作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "浅見光彦シリーズ",
+    "sourceNote": "書誌(講談社、2015年、ISBN 9784062932332)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 [著]」による。初刊年1983年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shisha-no-kodama",
+    "title": "死者の木霊",
+    "titleKana": "ししゃのこだま",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1980,
+    "status": "completed",
+    "synopsis": "ダム建設に揺れる山村で起きた事件を追う長編。作者のデビュー作で、後の作風につながる土地の描写が既に色濃い。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2016年、ISBN 9784062933537)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 [著]」による。初刊年1980年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "karuizawa-satsujin",
+    "title": "軽井沢殺人事件",
+    "titleKana": "かるいざわさつじんじけん",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "避暑地・軽井沢を舞台に、別荘地の人間関係に潜む事情が明らかになる。浅見光彦が土地の空気を読みながら真相へ迫る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "浅見光彦シリーズ",
+    "sourceNote": "書誌(集英社、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 著」による。初刊年1987年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kaerazaru-michi",
+    "title": "還らざる道",
+    "titleKana": "かえらざるみち",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "過去の事件の記憶を辿るうち、封じられていた真実が浮かび上がる。旅の空気と人情を織り交ぜたシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "浅見光彦シリーズ",
+    "sourceNote": "書誌(文藝春秋、2014年、ISBN 9784167902193)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 著」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "yogorechimatta-michi",
+    "title": "汚れちまった道",
+    "titleKana": "よごれちまったみち",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "山口を舞台に、詩人ゆかりの土地で起きた事件を浅見光彦が追う。地域の歴史と現代の利害が絡む長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "浅見光彦シリーズ",
+    "sourceNote": "書誌(文藝春秋、2018年、ISBN 9784167911713)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 著」による。初刊年2012年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "ushinawareta-michi",
+    "title": "喪われた道",
+    "titleKana": "うしなわれたみち",
+    "authorIds": [
+      "uchida-yasuo"
+    ],
+    "detectiveIds": [
+      "asami-mitsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "失踪した人物の足取りを追ううちに、過去の事件へ行き着く。旅情ミステリの型を守りながら人の情を描く一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "浅見光彦シリーズ",
+    "sourceNote": "書誌(祥伝社、2017年、ISBN 9784396343576)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「内田康夫 著」による。初刊年1991年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mikeneko-homes-no-tsuiseki",
+    "title": "三毛猫ホームズの追跡",
+    "titleKana": "みけねこほーむずのついせき",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [
+      "katayama-yoshitaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "血が苦手で高所も怖い刑事・片山義太郎と、推理を助ける三毛猫ホームズが事件を追う。軽妙な語りで人気を博したシリーズの一編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "三毛猫ホームズシリーズ",
+    "sourceNote": "書誌(光文社、2012年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎 著・文・その他」による。初刊年1979年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mikeneko-homes-no-kishido",
+    "title": "三毛猫ホームズの騎士道",
+    "titleKana": "みけねこほーむずのきしどう",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [
+      "katayama-yoshitaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "片山兄妹とホームズが、殺人事件の渦中に巻き込まれる。テンポの良い会話とユーモアで読ませるシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "三毛猫ホームズシリーズ",
+    "sourceNote": "書誌(光文社、2018年、ISBN 9784334777340)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎 著」による。初刊年1983年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "yurei-kohosei",
+    "title": "幽霊候補生",
+    "titleKana": "ゆうれいこうほせい",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "幽霊になりきれない存在をめぐる、ユーモアと哀感の入り混じった物語。初期の作者らしい軽やかな筆致が光る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2017年、ISBN 9784167909086)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎著」による。初刊年1978年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shisha-no-gakuensai",
+    "title": "死者の学園祭",
+    "titleKana": "ししゃのがくえんさい",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "gakuen",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "学園祭の準備が進む高校で、生徒が不審な死を遂げる。若者たちの視点から事件を追う、作者の初期を代表する学園ミステリ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(KADOKAWA、2017年、ISBN 9784043870141)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎 [著]」による。初刊年1977年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "onna-shacho-ni-kanpai",
+    "title": "女社長に乾杯!",
+    "titleKana": "おんなしゃちょうにかんぱい",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "若くして社長となった女性の周囲で起きる騒動を描く。軽妙なユーモアミステリとして、シリーズ化された人気作の一つ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(KADOKAWA、2015年、ISBN 9784041031742)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎 [著]」による。初刊年1982年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "majotachi-no-tasogare",
+    "title": "魔女たちのたそがれ",
+    "titleKana": "まじょたちのたそがれ",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "少女たちの周囲で起きる不吉な出来事を描く。ホラー色を帯びた設定と、読みやすい語り口が同居する長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2010年、ISBN 9784043870219)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎 [著]」による。初刊年1984年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "theta-wa-asonde-kureta-yo",
+    "title": "θは遊んでくれたよ",
+    "titleKana": "しーたわあそんでくれたよ",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "密室に近い状況で見つかった遺体と、現場に残された文字。理系の学生たちが論理を積み上げていくシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "Gシリーズ",
+    "sourceNote": "書誌(講談社、2008年、ISBN 9784062760072)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2005年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tau-ni-naru-made-matte",
+    "title": "τになるまで待って = Please stay until τ",
+    "titleKana": "たうになるまでまって",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "山中の館に招かれた人々の間で起きる事件を描く。閉鎖状況と論理の応酬という、作者らしい要素が揃った一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "Gシリーズ",
+    "sourceNote": "書誌(講談社、2008年、ISBN 9784062761079)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣」による。初刊年2005年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "epsilon-ni-chikatte",
+    "title": "εに誓って",
+    "titleKana": "いぷしろんにちかって",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "バスジャック事件に巻き込まれた人々の中で、思わぬ死が起きる。限定された空間での出来事を冷静な筆致で追う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "Gシリーズ",
+    "sourceNote": "書誌(講談社、2009年、ISBN 9784062764988)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2006年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "lambda-ni-ha-ga-nai",
+    "title": "λに歯がない",
+    "titleKana": "らむだにはがない",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "歯を抜かれた遺体が続けて見つかる。奇妙な符合の意味を、学生たちが議論を重ねながら解き明かしていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "Gシリーズ",
+    "sourceNote": "書誌(講談社、2010年、ISBN 9784062766081)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2006年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "eta-nanoni-yume-no-yo",
+    "title": "ηなのに夢のよう",
+    "titleKana": "いーたなのにゆめのよう",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "首を切断された遺体と、儀式めいた状況。理詰めの検討と不気味な雰囲気が併走するシリーズ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "Gシリーズ",
+    "sourceNote": "書誌(講談社、2010年、ISBN 9784062767057)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2007年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "megusuri-alpha",
+    "title": "目薬αで殺菌します",
+    "titleKana": "めぐすりあるふぁでさっきんします",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "研究室と大学を舞台に、日常の延長で起きた事件を扱う。登場人物たちの会話が推理の中心を占める一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "Gシリーズ",
+    "sourceNote": "書誌(講談社、2012年、ISBN 9784062774420)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2008年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "jig-beta",
+    "title": "ジグβは神ですか",
+    "titleKana": "じぐべーたわかみですか",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "連続する事件の背後に、シリーズ全体を貫く構図が見えてくる。個々の謎と大きな物語が重なり合う長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "Gシリーズ",
+    "sourceNote": "書誌(講談社、2015年、ISBN 9784062932165)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2012年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kiwi-gamma",
+    "title": "キウイγは時計仕掛け = KIWI γ IN CLOCKWORK",
+    "titleKana": "きういがんまわとけいじかけ",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "時計仕掛けのように配置された出来事を、登場人物たちが読み解いていく。シリーズの結末へ向かう重要な一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "Gシリーズ",
+    "sourceNote": "書誌(講談社、2016年、ISBN 9784062935418)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2013年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "joo-no-hyakunen-misshitsu",
+    "title": "女王の百年密室",
+    "titleKana": "じょおうのひゃくねんみっしつ",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "tokushu-settei",
+      "misshitsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "外界から隔絶された都市を訪れた旅人が、王の死をめぐる謎に触れる。SF的な設定の中で密室の問題が扱われる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "百年シリーズ",
+    "sourceNote": "書誌(講談社、2017年、ISBN 9784062935838)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2000年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "meikyu-hyakunen-no-suima",
+    "title": "迷宮百年の睡魔",
+    "titleKana": "めいきゅうひゃくねんのすいま",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "tokushu-settei",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "迷宮のような街を舞台に、生死の境が曖昧な世界で謎が積み上がる。作者のSF志向が強く出たシリーズ第二作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "百年シリーズ",
+    "sourceNote": "書誌(講談社、2017年、ISBN 9784062936071)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣 [著]」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tantei-hakushaku-to-boku",
+    "title": "探偵伯爵と僕",
+    "titleKana": "たんていはくしゃくとぼく",
+    "authorIds": [
+      "mori-hiroshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "seishun",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "夏休みの町で起きた事件を、少年と自称探偵伯爵が追う。児童向けに書かれながら、作者らしい仕掛けが効いている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2009年、ISBN 9784062762076)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森博嗣」による。初刊年2004年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hari-no-ten",
+    "title": "玻璃の天",
+    "titleKana": "はりのてん",
+    "authorIds": [
+      "kitamura-kaoru"
+    ],
+    "detectiveIds": [
+      "betsumiya-mitsuko"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "昭和初期の東京で、令嬢・花村英子と女性運転手ベッキーさんが日常に潜む謎に向き合う。時代の空気を丁寧に描いたシリーズ第二作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ベッキーさんシリーズ",
+    "sourceNote": "書誌(大活字、2010年、ISBN 9784860555634)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「北村薫 [著]」による。初刊年2007年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "nippon-koka-no-nazo",
+    "title": "ニッポン硬貨の謎",
+    "titleKana": "にっぽんこうかのなぞ",
+    "authorIds": [
+      "kitamura-kaoru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kaigai-koten",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "来日したエラリー・クイーンが、日本の硬貨をめぐる謎に挑む。クイーン作品への深い読み込みに基づいたパスティーシュ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(東京創元社、2009年、ISBN 9784488413064)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「北村薫 著」による。初刊年2005年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "banjo-no-teki",
+    "title": "盤上の敵",
+    "titleKana": "ばんじょうのてき",
+    "authorIds": [
+      "kitamura-kaoru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "押し入った男に妻を人質に取られた男が、チェスの盤面に見立てた対決に挑む。緊迫した状況を保ちながら構成の妙を見せる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2021年、ISBN 9784065231777)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「北村薫 [著]」による。初刊年1999年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "banjo-no-yoru",
+    "title": "盤上の夜",
+    "titleKana": "ばんじょうのよる",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "tanpenshu",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "囲碁や将棋、チェッカーなど盤上遊戯を題材にした連作短編集。競技の描写に人間の業と知性の限界を重ね、直木賞候補にもなった。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-best10",
+        "year": 2013,
+        "result": "国内篇第7位"
+      }
+    ],
+    "sourceNote": "書誌(東京創元社、2014年、ISBN 9784488747015)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「宮内悠介 著」による。初刊年2012年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]
