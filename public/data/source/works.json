@@ -29708,5 +29708,649 @@
     "externalLinks": {},
     "updatedAt": "2026-08-07",
     "sourceNote": "書誌(集英社、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「奥田英朗 著」による。初刊年2003年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "oyayubi-no-uzuki",
+    "title": "親指のうずき",
+    "titleKana": "おやゆびのうずき",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "tommy-and-tuppence"
+    ],
+    "translatorIds": [
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1968,
+    "status": "completed",
+    "synopsis": "老人ホームを訪れたタペンスが、そこで聞いた奇妙な話をきっかけに、ある家と絵をめぐる過去を調べ始める。老境に入った夫婦探偵の一編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "トミーとタペンスシリーズ",
+    "originalTitle": "By the Pricking of My Thumbs",
+    "jpPublishedYear": 2004,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,深町眞理子 訳」による。初刊年1929年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "fukusu-no-tokei",
+    "title": "複数の時計",
+    "titleKana": "ふくすうのとけい",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "hashimoto-fukuo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1963,
+    "status": "completed",
+    "synopsis": "見知らぬ家で死体を発見した女性の周囲には、時刻の合わない時計がいくつも置かれていた。奇妙な状況の意味をポアロが解き明かす長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "The Clocks",
+    "jpPublishedYear": 2003,
+    "sourceNote": "書誌(早川書房、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,橋本福夫 訳」による。初刊年1965年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hercules-no-boken",
+    "title": "ヘラクレスの冒険",
+    "titleKana": "へらくれすのぼうけん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "tanaka-kazue"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "tanpenshu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1947,
+    "status": "completed",
+    "synopsis": "引退を前にしたポアロが、ギリシア神話の十二の功業になぞらえた事件を引き受ける連作短編集。趣向を凝らした構成で知られる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "The Labours of Hercules",
+    "jpPublishedYear": 2004,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,田中一江 訳」による。初刊年1976年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shinin-no-kagami",
+    "title": "死人の鏡",
+    "titleKana": "しにんのかがみ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "ogura-takashi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "tanpenshu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1937,
+    "status": "completed",
+    "synopsis": "中編四作を収めたポアロもの。密室状況や消えた遺言書など、長編とは違う手際で謎が畳まれていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "Murder in the Mews",
+    "jpPublishedYear": 2004,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,小倉多加志 訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mancho-ni-notte",
+    "title": "満潮に乗って",
+    "titleKana": "まんちょうにのって",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "onchi-mihoko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1948,
+    "status": "completed",
+    "synopsis": "戦時下の空襲で当主を失った一族に、思いがけない相続の問題が持ち上がる。財産をめぐる思惑が交錯する中でポアロが動く長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "Taken at the Flood",
+    "jpPublishedYear": 2004,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,恩地三保子 訳」による。初刊年1957年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shi-ga-saigo-ni",
+    "title": "死が最後にやってくる",
+    "titleKana": "しがさいごにやってくる",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kajima-shozo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "jidai-mystery",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1944,
+    "status": "completed",
+    "synopsis": "古代エジプトを舞台にした異色作。神官の一族に起きる不幸を、時代考証を踏まえて描いた歴史ミステリ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Death Comes as the End",
+    "jpPublishedYear": 2004,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,加島祥造 訳」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "wasurarenu-shi",
+    "title": "忘られぬ死",
+    "titleKana": "わすられぬし",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakamura-yoshimi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1945,
+    "status": "completed",
+    "synopsis": "パーティの席で起きた死から一年後、同じ顔ぶれが再び集まる。六人それぞれの視点から事件の像を組み上げていく長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Sparkling Cyanide",
+    "jpPublishedYear": 2004,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,中村能三 訳」による。初刊年1954年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "n-ka-m-ka",
+    "title": "NかMか",
+    "titleKana": "nかmか",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "tommy-and-tuppence"
+    ],
+    "translatorIds": [
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1941,
+    "status": "completed",
+    "synopsis": "第二次大戦下、海辺の下宿に潜むスパイを探すよう命じられた夫婦が、宿泊客たちの正体を探る。冒険色の強いシリーズ作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "トミーとタペンスシリーズ",
+    "originalTitle": "N or M?",
+    "jpPublishedYear": 2004,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,深町眞理子 訳」による。初刊年1957年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "unmei-no-urakido",
+    "title": "運命の裏木戸",
+    "titleKana": "うんめいのうらきど",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "tommy-and-tuppence"
+    ],
+    "translatorIds": [
+      "nakamura-yoshimi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "引っ越した家の古い蔵書に残された書き込みから、老いた夫婦が昔の出来事を掘り起こしていく。著者が最後に書き上げた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "トミーとタペンスシリーズ",
+    "originalTitle": "Postern of Fate",
+    "jpPublishedYear": 2004,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,中村能三 訳」による。初刊年1974年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shuchakueki-satsujin",
+    "title": "終着駅殺人事件",
+    "titleKana": "たーみなるさつじんじけん",
+    "authorIds": [
+      "nishimura-kyotaro"
+    ],
+    "detectiveIds": [
+      "totsugawa-shozo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1980,
+    "status": "completed",
+    "synopsis": "上野発の寝台特急に乗り合わせた同郷の男女をめぐる事件を、十津川警部が追う。時刻表を使ったトリックで日本推理作家協会賞を受賞した長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "十津川警部シリーズ",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1981,
+        "result": "第34回長編部門受賞"
+      }
+    ],
+    "sourceNote": "書誌(双葉社、1997年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西村京太郎 著」による。初刊年1980年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "yako-ressha-satsujin",
+    "title": "夜行列車殺人事件",
+    "titleKana": "やこうれっしゃさつじんじけん",
+    "authorIds": [
+      "nishimura-kyotaro"
+    ],
+    "detectiveIds": [
+      "totsugawa-shozo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "夜行列車を舞台にした事件に十津川警部が挑む。鉄道の運行と時間の使い方が推理の鍵になる、作者の代表的な路線の一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "十津川警部シリーズ",
+    "sourceNote": "書誌(群衆出版社、1999年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「(日)西村京太郎著 ; 楊軍(逸博)訳」による。初刊年1981年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kieta-tanker",
+    "title": "消えたタンカー",
+    "titleKana": "きえたたんかー",
+    "authorIds": [
+      "nishimura-kyotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "巨大タンカーが航行中に消息を絶つ。大掛かりな仕掛けと捜査の展開で読ませる、初期の長編推理小説。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2018年、ISBN 9784334777012)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西村京太郎 著」による。初刊年1975年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "yurei-ressha",
+    "title": "幽霊列車",
+    "titleKana": "ゆうれいれっしゃ",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tanpenshu",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "廃線になったはずの路線に列車が現れるという話から始まる連作短編集。軽妙な語りとユーモアで人気を得た作者の出発点。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "幽霊シリーズ",
+    "sourceNote": "書誌(文藝春秋、2016年、ISBN 9784167905309)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎著」による。初刊年1978年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "marionette-no-wana",
+    "title": "マリオネットの罠",
+    "titleKana": "まりおねっとのわな",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "屋敷に閉じ込められた女性をめぐる物語が、思わぬ方向へ転がっていく。作者の初期を代表するサスペンス長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、2006年、ISBN 9784167262273)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎著」による。初刊年1977年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "sailor-fuku-to-kikanju",
+    "title": "セーラー服と機関銃",
+    "titleKana": "せーらーふくときかんじゅう",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "seishun",
+      "noir",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "女子高生が突然、弱小暴力団の組長を継ぐことになる。映画化もされた、ユーモアとアクションを併せ持つ長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2009年、ISBN 9784046310668)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「赤川次郎 作,椋本夏夜 絵」による。初刊年1981年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kyoto-satsujin-chizu",
+    "title": "京都殺人地図",
+    "titleKana": "きょうとさつじんちず",
+    "authorIds": [
+      "yamamura-misa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1980,
+    "status": "completed",
+    "synopsis": "京都の名所を舞台にした事件を集めた一冊。土地の風物と犯罪を組み合わせる、作者の得意な趣向がそろっている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文芸春秋、1988年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「山村美紗 著」による。初刊年1980年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hana-no-hitsugi",
+    "title": "花の棺",
+    "titleKana": "はなのひつぎ",
+    "authorIds": [
+      "yamamura-misa"
+    ],
+    "detectiveIds": [
+      "catherine-turner"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "京都の華道の家元をめぐる事件に、アメリカ人女性キャサリンが関わる。シリーズの出発点となった長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "キャサリンシリーズ",
+    "sourceNote": "書誌(埼玉福祉会、2001年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「山村美紗 著」による。初刊年1975年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "saigo-no-kioku",
+    "title": "最後の記憶",
+    "titleKana": "さいごのきおく",
+    "authorIds": [
+      "ayatsuji-yukito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "記憶を失っていく母が繰り返し口にする言葉の意味を、息子が探っていく。館ものとは異なる作者のもう一つの持ち味が出た長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2007年、ISBN 9784043855018)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「綾辻行人 [著]」による。初刊年2002年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kisaki-wa-fune-o",
+    "title": "妃は船を沈める",
+    "titleKana": "きさきわふねおしずめる",
+    "authorIds": [
+      "arisugawa-alice"
+    ],
+    "detectiveIds": [
+      "himura-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "ある資産家の女性の周囲で起きる事件を、火村英生と有栖川有栖が追う中編三作。人物を軸に据えた構成が特徴。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "作家アリスシリーズ",
+    "sourceNote": "書誌(光文社、2023年、ISBN 9784334795528)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「有栖川有栖」による。初刊年2008年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "futatabi-akai-akumu",
+    "title": "ふたたび赤い悪夢",
+    "titleKana": "ふたたびあかいあくむ",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "detectiveIds": [
+      "norizuki-detective"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "shin-honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "精神を病んだ女性をめぐる事件に法月綸太郎が向き合う。探偵自身が抱える迷いも描かれるシリーズの一編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "法月綸太郎シリーズ",
+    "sourceNote": "書誌(埼玉県立熊谷点字図書館 (手製)、1996年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「法月綸太郎 著」による。初刊年1992年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]

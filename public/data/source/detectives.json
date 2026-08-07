@@ -959,5 +959,25 @@
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "kishi-yusuke",
     "occupation": "防犯コンサルタント"
+  },
+  {
+    "id": "tommy-and-tuppence",
+    "name": "トミーとタペンス",
+    "nameKana": "とみーとたぺんす",
+    "description": "クリスティーが生んだ夫婦探偵。年齢を重ねながら作品ごとに歳を取っていく珍しいシリーズで、冒険小説色の強い事件を担当する。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "agatha-christie"
+  },
+  {
+    "id": "catherine-turner",
+    "name": "キャサリン・ターナー",
+    "nameKana": "きゃさりんたーなー",
+    "description": "山村美紗作品に登場する若いアメリカ人女性。京都で起きる事件に巻き込まれながら謎を解く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "yamamura-misa"
   }
 ]
