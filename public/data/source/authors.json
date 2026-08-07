@@ -1266,5 +1266,65 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1948
+  },
+  {
+    "id": "tsuchiya-takao",
+    "name": "土屋隆夫",
+    "nameKana": "つちやたかお",
+    "description": "小説家。寡作ながら完成度の高い本格ミステリを書き続け、千草検事シリーズで知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1917
+  },
+  {
+    "id": "tsuzuki-michio",
+    "name": "都筑道夫",
+    "nameKana": "つづきみちお",
+    "description": "小説家・翻訳家・編集者。モジュラー型の推理小説を提唱し、時代小説からSFまで幅広く手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1929
+  },
+  {
+    "id": "chin-shunshin",
+    "name": "陳舜臣",
+    "nameKana": "ちんしゅんしん",
+    "description": "小説家。中国歴史小説で知られるが、推理小説でも江戸川乱歩賞・直木賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1924
+  },
+  {
+    "id": "komine-hajime",
+    "name": "小峰元",
+    "nameKana": "こみねはじめ",
+    "description": "小説家。青春群像と推理を組み合わせた作品で江戸川乱歩賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1921
+  },
+  {
+    "id": "freeman-wills-crofts",
+    "name": "F・W・クロフツ",
+    "nameKana": "えふだぶりゅーくろふつ",
+    "description": "アイルランド生まれの推理作家。鉄道技師の経験を活かし、アリバイ崩しを主眼とした緻密な作品を多く残した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1879
+  },
+  {
+    "id": "james-crumley",
+    "name": "ジェイムズ・クラムリー",
+    "nameKana": "じぇいむずくらむりー",
+    "description": "アメリカの作家。荒々しい抒情をたたえたハードボイルド作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1939
   }
 ]

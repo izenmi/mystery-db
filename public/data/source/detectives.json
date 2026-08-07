@@ -915,5 +915,27 @@
     },
     "sourceNote": "人物像・シリーズ設定はWikipedia日本語版で確認した。初登場作は本DBに登録した『街の灯』としている。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "inspector-french",
+    "name": "フレンチ警部",
+    "nameKana": "ふれんちけいぶ",
+    "description": "スコットランドヤードの警部。派手さはないが、几帳面な聞き込みと時刻表の検証で難事件のアリバイを崩していく。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "freeman-wills-crofts",
+    "occupation": "警察官"
+  },
+  {
+    "id": "continental-op",
+    "name": "コンチネンタル・オプ",
+    "nameKana": "こんちねんたるおぷ",
+    "description": "コンチネンタル探偵社に所属する名無しの調査員。感傷を排した語りで、暴力の渦中を淡々と歩く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "dashiell-hammett",
+    "occupation": "私立探偵"
   }
 ]

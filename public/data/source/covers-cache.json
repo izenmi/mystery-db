@@ -1,4 +1,12 @@
 {
+  "12-30-from-croydon": {
+    "title": "クロイドン発12時30分",
+    "isbn": "9784488106348",
+    "matchedTitle": "クロイドン発12時30分【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6348/9784488106348.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:31:12.476Z"
+  },
   "46banme": {
     "title": "46番目の密室",
     "isbn": "9784062764278",
@@ -159,6 +167,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:01:32.382Z"
   },
+  "and-on-the-eighth-day": {
+    "title": "第八の日",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:25:55.345Z"
+  },
   "ankokukan": {
     "title": "暗黒館の殺人",
     "isbn": "9784062758550",
@@ -177,6 +191,28 @@
     "resolvedAt": "2026-08-04T04:31:54.718Z",
     "note": "書影は角川文庫版の上巻。自動取得では下巻が当たっていたため差し替えた。"
   },
+  "arabian-nights-murder": {
+    "title": "アラビアン・ナイトの殺人",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:28:46.952Z"
+  },
+  "archimedes-wa-te-o-yogosanai": {
+    "title": "アルキメデスは手を汚さない",
+    "isbn": null,
+    "matchedTitle": "アルキメデスは手を汚さない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9053/2000008089053.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:23:36.161Z"
+  },
+  "aru-kokura-nikki-den": {
+    "title": "或る「小倉日記」伝",
+    "isbn": "9784101109022",
+    "matchedTitle": "或る「小倉日記」伝改版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10110902.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:23:47.705Z"
+  },
   "aru-tozasareta-yuki-no-sanso-de": {
     "title": "ある閉ざされた雪の山荘で",
     "isbn": "9784061859098",
@@ -184,6 +220,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9098/9784061859098.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T01:55:02.981Z"
+  },
+  "at-bertrams-hotel": {
+    "title": "バートラム・ホテルにて",
+    "isbn": "9784151300448",
+    "matchedTitle": "バートラム・ホテルにて",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0448/9784151300448.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:40.057Z"
   },
   "atopos": {
     "title": "アトポス",
@@ -234,6 +278,14 @@
     "resolvedAt": "2026-08-04T03:51:32.115Z",
     "note": "登録した新潮文庫・延原謙訳の改版に手動で合わせた(自動取得では光文社文庫版が当たっていた)"
   },
+  "bellona-club": {
+    "title": "ベローナ・クラブの不愉快な事件",
+    "isbn": "9784488183059",
+    "matchedTitle": "ベローナ・クラブの不愉快な事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3059/9784488183059.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:31:07.883Z"
+  },
   "benson-satsujin-jiken": {
     "title": "ベンスン殺人事件",
     "isbn": "9784488103194",
@@ -266,6 +318,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:31:05.573Z"
   },
+  "blind-barber": {
+    "title": "盲目の理髪師",
+    "isbn": "9784488118440",
+    "matchedTitle": "盲目の理髪師",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8440/9784488118440.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:30:55.338Z"
+  },
+  "blue-train": {
+    "title": "青列車の秘密",
+    "isbn": "9784151300059",
+    "matchedTitle": "青列車の秘密",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0059/9784151300059_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:34.286Z"
+  },
   "bodaijuso": {
     "title": "菩提樹荘の殺人",
     "isbn": "9784167905255",
@@ -273,6 +341,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5255/9784167905255.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T01:55:52.896Z"
+  },
+  "body-in-the-library": {
+    "title": "書斎の死体",
+    "isbn": "9784151300363",
+    "matchedTitle": "書斎の死体",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0363/9784151300363.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:41.198Z"
   },
   "bokushikan": {
     "title": "牧師館の殺人",
@@ -408,6 +484,20 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:03:51.024Z"
   },
+  "captain-cut-throat": {
+    "title": "喉切り隊長",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:29:20.377Z"
+  },
+  "cards-on-the-table": {
+    "title": "ひらいたトランプ",
+    "isbn": "9784151300134",
+    "matchedTitle": "ひらいたトランプ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0134/9784151300134.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:25:14.550Z"
+  },
   "caribbean-no-himitsu": {
     "title": "カリブ海の秘密",
     "isbn": "9784151300431",
@@ -416,6 +506,20 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:57:08.724Z"
   },
+  "cat-among-the-pigeons": {
+    "title": "鳩のなかの猫",
+    "isbn": "9784151300288",
+    "matchedTitle": "鳩のなかの猫",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0288/9784151300288_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:48.093Z"
+  },
+  "cavaliers-cup": {
+    "title": "騎士の盃",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:30:28.565Z"
+  },
   "chi-no-shukaku": {
     "title": "血の収穫",
     "isbn": "9784488130060",
@@ -423,6 +527,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0060/9784488130060.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:44.864Z"
+  },
+  "chihoshi-o-kau-onna": {
+    "title": "地方紙を買う女",
+    "isbn": "9784165093602",
+    "matchedTitle": "松本清張全集 第36巻 地方紙を買う女 短編2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3602/9784165093602.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:23:50.032Z"
   },
   "chikagai-no-ame": {
     "title": "地下街の雨",
@@ -447,6 +559,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0181/2000000240181.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T01:57:00.633Z"
+  },
+  "chimidoro-sunae": {
+    "title": "血みどろ砂絵",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:23:26.297Z"
   },
   "chinmoku-no-parade": {
     "title": "沈黙のパレード",
@@ -481,6 +599,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:28:39.111Z"
   },
+  "christmas-pudding": {
+    "title": "名探偵ポアロ クリスマス・プディングの冒険",
+    "isbn": "9784152102485",
+    "matchedTitle": "名探偵ポアロ　クリスマス・プディングの冒険",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2485/9784152102485.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:50.405Z"
+  },
   "chuto-no-ie": {
     "title": "中途の家",
     "isbn": "9784041014585",
@@ -497,6 +623,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:03.963Z"
   },
+  "clouds-of-witness": {
+    "title": "雲なす証言",
+    "isbn": "9784488183035",
+    "matchedTitle": "雲なす証言",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3035/9784488183035_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:30:57.657Z"
+  },
   "coffin-dancer": {
     "title": "コフィン・ダンサー",
     "isbn": null,
@@ -504,6 +638,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7610/2000000177610.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-04T07:23:16.485Z"
+  },
+  "continental-op": {
+    "title": "コンチネンタル・オプの事件簿",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:32:17.990Z"
   },
   "crossfire": {
     "title": "クロスファイア",
@@ -563,6 +703,28 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:32.231Z",
     "note": "登録は実業之日本社(単行本)だが書影は文春文庫版。作品は同一。"
+  },
+  "dead-mans-folly": {
+    "title": "死者のあやまち",
+    "isbn": "9784151300271",
+    "matchedTitle": "死者のあやまち",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0271/9784151300271_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:44.636Z"
+  },
+  "death-watch": {
+    "title": "死時計",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:27:52.535Z"
+  },
+  "devil-in-velvet": {
+    "title": "ビロードの悪魔",
+    "isbn": null,
+    "matchedTitle": "ビロードの悪魔",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6075/2000003066075.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:29:23.897Z"
   },
   "dispel": {
     "title": "でぃすぺる",
@@ -627,6 +789,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:47:02.007Z"
   },
+  "double-double": {
+    "title": "ダブル・ダブル",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:26:50.780Z"
+  },
   "dragon-tattoo": {
     "title": "ミレニアム1 ドラゴン・タトゥーの女",
     "isbn": "9784151792519",
@@ -677,6 +845,14 @@
     "resolvedAt": "2026-08-04T04:56:49.089Z",
     "note": "書影は幻冬舎文庫版(全5巻)の第1巻『再会』。"
   },
+  "eight-of-swords": {
+    "title": "剣の八",
+    "isbn": null,
+    "matchedTitle": "剣の八",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1609/2000002911609.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:30:54.198Z"
+  },
   "eikoku-teien-no-nazo": {
     "title": "英国庭園の謎",
     "isbn": "9784062648912",
@@ -719,6 +895,20 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:16:59.910Z"
   },
+  "four-false-weapons": {
+    "title": "四つの兇器",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:29:01.353Z"
+  },
+  "four-of-hearts": {
+    "title": "ハートの4",
+    "isbn": null,
+    "matchedTitle": "ハートの４",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3106/2000003003106.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:26:29.017Z"
+  },
   "freaks-ayatsuji": {
     "title": "フリークス",
     "isbn": "9784043855049",
@@ -734,6 +924,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4375/9784488104375.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:32:08.594Z"
+  },
+  "fuanna-ubugoe": {
+    "title": "不安な産声",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:22:31.725Z"
   },
   "fuin-saido": {
     "title": "封印再度",
@@ -808,6 +1004,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5032/9784043855032_1_17.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:46:58.515Z"
+  },
+  "gaudy-night": {
+    "title": "学寮祭の夜",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:31:05.606Z"
   },
   "gekko-game": {
     "title": "月光ゲーム Yの悲劇'88",
@@ -892,6 +1094,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:43.709Z",
     "note": "書影は小学館文庫版の下巻(上巻は楽天ブックスに書誌がない)。作品は同一。"
+  },
+  "goodbye-look": {
+    "title": "別れの顔",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:33:40.023Z"
   },
   "goth": {
     "title": "GOTH リストカット事件",
@@ -1092,6 +1300,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:40:02.771Z"
   },
+  "harikomi": {
+    "title": "推理小説　張込み",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:24:08.401Z"
+  },
   "hatobuegusa": {
     "title": "鳩笛草",
     "isbn": "9784334749729",
@@ -1116,6 +1330,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:15.895Z"
   },
+  "he-wouldnt-kill-patience": {
+    "title": "爬虫類館の殺人",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:28:01.954Z"
+  },
   "henshin": {
     "title": "変身",
     "isbn": null,
@@ -1130,6 +1350,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:42.541Z",
     "note": "書影は早川書房版の上巻。"
+  },
+  "hickory-dickory-dock": {
+    "title": "ヒッコリー・ロードの殺人",
+    "isbn": "9784151300264",
+    "matchedTitle": "ヒッコリー・ロードの殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0264/9784151300264_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:46.938Z"
   },
   "hiiro-no-kenkyu": {
     "title": "緋色の研究",
@@ -1180,6 +1408,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:16:28.820Z",
     "note": "書影は新潮文庫版の上巻。"
+  },
+  "hogs-back-mystery": {
+    "title": "ホッグズ・バックの怪事件",
+    "isbn": "9784488106263",
+    "matchedTitle": "ホッグズ・バックの怪事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6263/9784488106263.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:31:46.884Z"
   },
   "hokago": {
     "title": "放課後",
@@ -1297,6 +1533,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T02:57:42.230Z"
   },
+  "hyosho-shijin": {
+    "title": "表象詩人",
+    "isbn": "9784165080107",
+    "matchedTitle": "松本清張全集 第39巻 遠い接近 表象詩人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0107/9784165080107.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:23:46.554Z"
+  },
   "i-no-higeki": {
     "title": "Iの悲劇",
     "isbn": "9784167919313",
@@ -1347,6 +1591,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:12.221Z"
   },
+  "in-spite-of-thunder": {
+    "title": "雷鳴の中でも",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:29:41.486Z"
+  },
   "incite-mill": {
     "title": "インシテミル",
     "isbn": "9784167773700",
@@ -1388,6 +1638,26 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:07.502Z"
   },
+  "inspector-frenchs-greatest-case": {
+    "title": "フレンチ警部最大の事件",
+    "isbn": null,
+    "matchedTitle": "フレンチ警部最大の事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7802/2000000207802.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:31:11.331Z"
+  },
+  "inspector-queens-own-case": {
+    "title": "クイーン警視自身の事件",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:27:04.958Z"
+  },
+  "instant-enemy": {
+    "title": "一瞬の敵",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:33:17.648Z"
+  },
   "inu-wa-dokoda": {
     "title": "犬はどこだ",
     "isbn": "9784488451042",
@@ -1419,6 +1689,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4333/9784334764333_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:44.727Z"
+  },
+  "ivory-grin": {
+    "title": "象牙色の嘲笑",
+    "isbn": "9784150705152",
+    "matchedTitle": "象牙色の嘲笑〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5152/9784150705152.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:32:54.714Z"
   },
   "izumo-densetsu-satsujin": {
     "title": "出雲伝説7/8の殺人",
@@ -1590,6 +1868,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:57:07.567Z"
   },
+  "kage-aru-bohyo": {
+    "title": "翳ある墓標",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:23:10.462Z"
+  },
   "kage-naki-otoko": {
     "title": "影なき男",
     "isbn": null,
@@ -1606,6 +1890,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:09:05.240Z",
     "note": "書影は文春文庫版。"
+  },
+  "kage-no-kokuhatsu": {
+    "title": "影の告発",
+    "isbn": null,
+    "matchedTitle": "影の告発",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2407/2000009132407.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:21:43.867Z"
+  },
+  "kage-no-kuruma": {
+    "title": "影の車",
+    "isbn": "9784334776862",
+    "matchedTitle": "影の車",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6862/9784334776862.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:30.841Z"
   },
   "kagi-no-kakatta-otoko": {
     "title": "鍵の掛かった男",
@@ -1704,6 +2004,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:07:51.798Z"
   },
+  "karekusa-no-ne": {
+    "title": "枯草の根",
+    "isbn": null,
+    "matchedTitle": "枯草の根／炎に絵を",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7669/2000009707669.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:23:29.783Z"
+  },
   "karyudo-no-akumu": {
     "title": "狩人の悪夢",
     "isbn": "9784041078556",
@@ -1779,6 +2087,14 @@
     "resolvedAt": "2026-08-04T07:18:56.557Z",
     "note": "自動取得が新潮文庫版の下巻を拾ったため上巻に差し替えた。"
   },
+  "kenji-kirishima-saburo": {
+    "title": "検事霧島三郎",
+    "isbn": null,
+    "matchedTitle": "検事霧島三郎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1868/2000002271868.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:21:40.407Z"
+  },
   "kenji-no-honkai": {
     "title": "検事の本懐",
     "isbn": "9784041066591",
@@ -1787,6 +2103,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:45.871Z",
     "note": "登録は宝島社(単行本)だが書影は角川文庫版。作品は同一。"
+  },
+  "kieta-crew": {
+    "title": "消えた乗組員(クルー)",
+    "isbn": null,
+    "matchedTitle": "消えた乗組員（クルー）　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4266/2000005884266.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:23:40.797Z"
   },
   "kifujin-toshite-shisu": {
     "title": "貴婦人として死す",
@@ -1829,6 +2153,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8045/9784488108045.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:48.222Z"
+  },
+  "kikenna-douwa": {
+    "title": "危険な童話",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:22:14.838Z"
   },
   "kikenna-venus": {
     "title": "危険なビーナス",
@@ -1895,6 +2225,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:47:08.948Z"
   },
+  "kita-no-shijin": {
+    "title": "北の詩人",
+    "isbn": "9784041123324",
+    "matchedTitle": "北の詩人 新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3324/9784041123324_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:31.983Z"
+  },
   "kita-no-yuzuru-satsujin": {
     "title": "北の夕鶴2/3の殺人",
     "isbn": "9784334110345",
@@ -1958,6 +2296,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2347/2000003992347.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T01:56:57.107Z"
+  },
+  "koe-seicho": {
+    "title": "声",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:24:29.622Z"
   },
   "kogechairo-no-pastel": {
     "title": "焦茶色のパステル",
@@ -2161,6 +2505,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:47:05.479Z"
   },
+  "kuro-no-yoshiki": {
+    "title": "黒の様式",
+    "isbn": "9784101109275",
+    "matchedTitle": "黒の様式",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9275/9784101109275.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:23:45.402Z"
+  },
   "kuroi-fukuin": {
     "title": "黒い福音",
     "isbn": "9784101109138",
@@ -2168,6 +2520,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10110913.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:13:24.075Z"
+  },
+  "kuroi-hakucho": {
+    "title": "黒い白鳥",
+    "isbn": null,
+    "matchedTitle": "黒い白鳥〜鬼貫警部事件簿／鮎川哲也コレクション〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6067/2000001836067.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:22:53.668Z"
   },
   "kuroi-hotoke": {
     "title": "黒い仏",
@@ -2338,6 +2698,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T01:55:07.714Z"
   },
+  "last-good-kiss": {
+    "title": "さらば甘き口づけ",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:32:25.918Z"
+  },
   "lautrec-so": {
     "title": "ロートレック荘事件",
     "isbn": "9784101171333",
@@ -2353,6 +2719,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9129/9784101369129.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:27.587Z"
+  },
+  "loss-of-the-jane-vosper": {
+    "title": "ヴォスパー号の遭難",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:31:45.731Z"
   },
   "maboroshi-no-onna": {
     "title": "幻の女",
@@ -2460,6 +2832,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7722/9784101267722_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:09:05.788Z"
+  },
+  "man-in-the-brown-suit": {
+    "title": "茶色の服の男",
+    "isbn": "9784151310720",
+    "matchedTitle": "茶色の服の男",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0720/9784151310720_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:35.434Z"
   },
   "manatsu-no-hoteishiki": {
     "title": "真夏の方程式",
@@ -2840,6 +3220,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:29.879Z"
   },
+  "moumoku-no-karasu": {
+    "title": "盲目の鴉",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:22:46.073Z"
+  },
   "mugenbana": {
     "title": "夢幻花",
     "isbn": null,
@@ -2869,6 +3255,36 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0141/9784065410141_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:24:14.587Z"
+  },
+  "murder-on-the-links": {
+    "title": "ゴルフ場殺人事件",
+    "isbn": "9784151310027",
+    "matchedTitle": "ゴルフ場殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0027/9784151310027_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:25:15.736Z"
+  },
+  "my-late-wives": {
+    "title": "青ひげの花嫁",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:30:50.721Z"
+  },
+  "mysterious-affair-at-styles": {
+    "title": "スタイルズ荘の怪事件",
+    "isbn": "9784151300011",
+    "matchedTitle": "スタイルズ荘の怪事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0011/9784151300011_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:25:16.906Z"
+  },
+  "mystery-in-the-channel": {
+    "title": "英仏海峡の謎",
+    "isbn": "9784488106096",
+    "matchedTitle": "英仏海峡の謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6096/9784488106096_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:31:13.626Z"
   },
   "mystery-opera": {
     "title": "ミステリ・オペラ",
@@ -2926,6 +3342,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3026/9784043803026_1_8.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:44.671Z"
+  },
+  "namekuji-ni-kiite-miro": {
+    "title": "なめくじに聞いてみろ",
+    "isbn": null,
+    "matchedTitle": "なめくじに聞いてみろ　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9632/2000010019632.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:23:18.506Z"
   },
   "nami-no-to": {
     "title": "波の塔",
@@ -3034,6 +3458,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:57:09.883Z"
   },
+  "neko-no-shita-ni-kugi-o-ute": {
+    "title": "猫の舌に釘をうて",
+    "isbn": "9784198947187",
+    "matchedTitle": "猫の舌に釘をうて",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7187/9784198947187_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:23:11.641Z"
+  },
   "nemuri-no-mori": {
     "title": "眠りの森",
     "isbn": null,
@@ -3080,6 +3512,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4881/48818310.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:29:12.946Z"
+  },
+  "nine-wrong-answers": {
+    "title": "九つの答",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:28:25.443Z"
   },
   "ningen-isu": {
     "title": "人間椅子",
@@ -3259,6 +3697,20 @@
     "resolvedAt": "2026-08-04T05:11:28.535Z",
     "note": "登録は光文社だが書影は春陽文庫版。作品は同一。"
   },
+  "partners-in-crime": {
+    "title": "おしどり探偵",
+    "isbn": "9784151300523",
+    "matchedTitle": "おしどり探偵",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0523/9784151300523.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:38.914Z"
+  },
+  "peacock-feather-murders": {
+    "title": "孔雀の羽根",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:30:10.479Z"
+  },
   "perfect-blue": {
     "title": "パーフェクト・ブルー",
     "isbn": "9784488411039",
@@ -3283,6 +3735,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:38:27.758Z",
     "note": "自動取得が文春文庫版の下巻を拾ったため上巻に差し替えた。"
+  },
+  "plague-court-murders": {
+    "title": "プレーグ・コートの殺人",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:27:26.891Z"
   },
   "playback-chandler": {
     "title": "プレイバック",
@@ -3316,6 +3774,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6961/9784334776961.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T01:55:50.582Z"
+  },
+  "ponson-case": {
+    "title": "ポンスン事件",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:31:37.609Z"
   },
   "rakuen-miyabe": {
     "title": "楽園",
@@ -3372,6 +3836,12 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-04T07:23:46.617Z"
   },
+  "red-harvest-hammett": {
+    "title": "赤い収穫",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:32:06.692Z"
+  },
   "red-redmaynes": {
     "title": "赤毛のレドメイン家",
     "isbn": "9784488111069",
@@ -3379,6 +3849,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1069/9784488111069.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:02:45.674Z"
+  },
+  "red-widow-murders": {
+    "title": "赤後家の殺人",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:27:39.582Z"
   },
   "renren-renpo-no-enshu": {
     "title": "恋恋蓮歩の演習",
@@ -3531,6 +4007,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:40:29.897Z"
   },
+  "sad-cypress": {
+    "title": "杉の柩",
+    "isbn": "9784151300189",
+    "matchedTitle": "杉の柩",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0189/9784151300189_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:45.781Z"
+  },
   "sagi-to-yuki": {
     "title": "鷺と雪",
     "isbn": "9784167586072",
@@ -3538,6 +4022,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6072/9784167586072.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:48.104Z"
+  },
+  "saigosatsu": {
+    "title": "西郷札",
+    "isbn": "9784101109046",
+    "matchedTitle": "西郷札",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9046/9784101109046.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:23:48.882Z"
   },
   "saiyaku-no-machi": {
     "title": "災厄の町",
@@ -3570,6 +4062,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0626/06264880.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:35:38.783Z"
+  },
+  "sanju-roshutsu": {
+    "title": "三重露出",
+    "isbn": "9784198948641",
+    "matchedTitle": "三重露出",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8641/9784198948641_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:23:30.939Z"
   },
   "sanmaku-no-satsujin": {
     "title": "三幕の殺人",
@@ -3644,6 +4144,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:35:41.178Z"
   },
+  "secret-of-chimneys": {
+    "title": "チムニーズ館の秘密",
+    "isbn": "9784151300738",
+    "matchedTitle": "チムニーズ館の秘密",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1513/15130073.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:36.582Z"
+  },
   "seifuku-sosa": {
     "title": "制服捜査",
     "isbn": "9784101223216",
@@ -3676,6 +4184,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:35.451Z"
   },
+  "seven-dials": {
+    "title": "七つの時計",
+    "isbn": "9784151300745",
+    "matchedTitle": "七つの時計",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0745/9784151300745.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:37.767Z"
+  },
   "shadow": {
     "title": "シャドウ",
     "isbn": "9784488496012",
@@ -3683,6 +4199,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6012/9784488496012.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:02:22.699Z"
+  },
+  "shi-no-aru-fukei": {
+    "title": "死のある風景",
+    "isbn": "9784334794033",
+    "matchedTitle": "死のある風景　増補版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4033/9784334794033_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:22:54.819Z"
   },
   "shi-tono-yakusoku": {
     "title": "死との約束",
@@ -3699,6 +4223,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5038/9784101445038.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T01:57:08.788Z"
+  },
+  "shichijugowa-no-karasu": {
+    "title": "七十五羽の烏",
+    "isbn": null,
+    "matchedTitle": "七十五羽の烏",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3134/2000002943134.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:23:15.066Z"
   },
   "shijinso": {
     "title": "屍人荘の殺人",
@@ -3798,6 +4330,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:11:35.519Z"
   },
+  "shiro-no-kyofu": {
+    "title": "白の恐怖",
+    "isbn": "9784334776978",
+    "matchedTitle": "白の恐怖",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6978/9784334776978.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:22:55.975Z"
+  },
   "shiroi-soin-no-satsujin": {
     "title": "白い僧院の殺人",
     "isbn": "9784488118464",
@@ -3814,6 +4354,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6443/9784334766443_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:57:24.080Z"
+  },
+  "shisha-no-rinbu": {
+    "title": "死者の輪舞",
+    "isbn": null,
+    "matchedTitle": "死者の輪舞",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0258/2000001780258.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:23:44.222Z"
   },
   "shiteki-shiteki-jack": {
     "title": "詩的私的ジャック",
@@ -3856,6 +4404,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:53.326Z"
   },
+  "shu-no-zeppitsu": {
+    "title": "朱の絶筆",
+    "isbn": null,
+    "matchedTitle": "朱の絶筆",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1685/2000000121685.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:22:59.407Z"
+  },
   "shuiro-no-kenkyu": {
     "title": "朱色の研究",
     "isbn": "9784041913048",
@@ -3896,6 +4452,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4474/9784488104474_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:32:09.742Z"
+  },
+  "sittaford-mystery": {
+    "title": "シタフォードの秘密",
+    "isbn": "9784151300769",
+    "matchedTitle": "シタフォードの秘密",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1513/15130076.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:43.499Z"
   },
   "sleeping-murder": {
     "title": "スリーピング・マーダー",
@@ -4018,6 +4582,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6681/9784334746681_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:15:43.581Z"
+  },
+  "spanish-cape-mystery": {
+    "title": "スペイン岬の秘密",
+    "isbn": "9784041014561",
+    "matchedTitle": "スペイン岬の秘密",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4561/9784041014561.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:25:18.075Z"
+  },
+  "starvel-hollow-tragedy": {
+    "title": "スターヴェルの悲劇",
+    "isbn": "9784488106300",
+    "matchedTitle": "スターヴェルの悲劇",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6300/9784488106300_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:31:14.752Z"
   },
   "stepfather-step": {
     "title": "ステップファザー・ステップ",
@@ -4204,6 +4784,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:36:11.698Z"
   },
+  "teikoku-no-shikaku": {
+    "title": "帝国の死角",
+    "isbn": "9784122078048",
+    "matchedTitle": "帝国の死角",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8048/9784122078048_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:21:36.953Z"
+  },
   "teito-eisei-kido": {
     "title": "帝都衛星軌道",
     "isbn": null,
@@ -4228,6 +4816,12 @@
     "coverUrl": "https://c.bookwalker.jp/6921602/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:19.093Z"
+  },
+  "tengu-no-men": {
+    "title": "天狗の面",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:21:58.065Z"
   },
   "tenku-no-hachi": {
     "title": "天空の蜂",
@@ -4268,6 +4862,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-04T06:29:06.899Z"
   },
+  "tenshi-no-shokon": {
+    "title": "天使の傷痕",
+    "isbn": "9784062930208",
+    "matchedTitle": "新装版　天使の傷痕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0208/9784062930208.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:23:32.089Z"
+  },
   "terigaki": {
     "title": "照柿",
     "isbn": "9784101347219",
@@ -4300,6 +4902,54 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:51:55.025Z",
     "note": "登録は光文社(単行本)だが書影は創元推理文庫版。作品は同一。"
+  },
+  "the-door-between": {
+    "title": "ニッポン樫鳥の謎",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:26:25.513Z"
+  },
+  "the-finishing-stroke": {
+    "title": "最後の一撃",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:26:17.602Z"
+  },
+  "the-king-is-dead": {
+    "title": "帝王死す",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:25:32.327Z"
+  },
+  "they-came-to-baghdad": {
+    "title": "バグダッドの秘密",
+    "isbn": "9784151300882",
+    "matchedTitle": "バグダッドの秘密",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1513/15130088.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:49.245Z"
+  },
+  "they-do-it-with-mirrors": {
+    "title": "魔術の殺人",
+    "isbn": "9784151300394",
+    "matchedTitle": "魔術の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0394/9784151300394_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:42.346Z"
+  },
+  "three-act-tragedy": {
+    "title": "三幕の悲劇",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:25:13.210Z"
+  },
+  "to-wake-the-dead": {
+    "title": "死者はよみがえる",
+    "isbn": "9784488118488",
+    "matchedTitle": "死者はよみがえる【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8488/9784488118488.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:30:56.505Z"
   },
   "tokeikan": {
     "title": "時計館の殺人",
@@ -4429,6 +5079,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:41:57.838Z"
   },
+  "unicorn-murders": {
+    "title": "一角獣の殺人",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:29:55.856Z"
+  },
   "uso-wo-mou-hitotsu": {
     "title": "嘘をもうひとつだけ",
     "isbn": "9784062736695",
@@ -4484,6 +5140,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:37:42.509Z"
   },
+  "watasareta-bamen": {
+    "title": "渡された場面",
+    "isbn": "9784101109473",
+    "matchedTitle": "渡された場面",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9473/9784101109473.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:24:33.133Z"
+  },
   "watashi-ga-kare-wo": {
     "title": "私が彼を殺した",
     "isbn": "9784065325841",
@@ -4523,6 +5187,20 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1012/10127021.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:56:43.905Z"
+  },
+  "whose-body": {
+    "title": "誰の死体?",
+    "isbn": "9784488183028",
+    "matchedTitle": "誰の死体？",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3028/9784488183028.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:31:06.743Z"
+  },
+  "wycherly-woman": {
+    "title": "ウィチャリー家の女",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:32:45.626Z"
   },
   "x-no-higeki": {
     "title": "Xの悲劇",
@@ -4566,6 +5244,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T04:46:21.056Z",
     "note": "書影は講談社文庫版。登録した刊行元は原書房(単行本)。"
+  },
+  "yamataikoku-no-himitsu": {
+    "title": "邪馬台国の秘密",
+    "isbn": "9784334741426",
+    "matchedTitle": "邪馬台国の秘密新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3347/33474142.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T02:21:35.792Z"
   },
   "yami-no-rappa": {
     "title": "闇の喇叭",
@@ -4756,6 +5442,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:18:12.524Z"
   },
+  "zebra-striped-hearse": {
+    "title": "縞模様の霊柩車",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T02:32:53.558Z"
+  },
   "zero-jikan-e": {
     "title": "ゼロ時間へ",
     "isbn": "9784151300820",
@@ -4796,5 +5488,13 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5147/9784758435147.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T01:57:15.787Z"
+  },
+  "zouo-no-kaseki": {
+    "title": "憎悪の化石",
+    "isbn": null,
+    "matchedTitle": "憎悪の化石〜鬼貫警部事件簿〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7068/2000001887068.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-07T02:22:49.597Z"
   }
 }

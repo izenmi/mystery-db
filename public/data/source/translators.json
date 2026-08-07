@@ -468,5 +468,176 @@
     "description": "英米文学の翻訳者。古典ミステリの新訳を手がけている。",
     "sourceNote": "担当作は楽天ブックスの書誌情報で確認した。",
     "updatedAt": "2026-08-04"
+  },
+  {
+    "id": "fukamachi-mariko",
+    "name": "深町眞理子",
+    "nameKana": "ふかまちまりこ",
+    "description": "翻訳家。クリスティをはじめ英米ミステリの翻訳を数多く手がけている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "aota-masaru",
+    "name": "青田勝",
+    "nameKana": "あおたまさる",
+    "description": "翻訳家。エラリイ・クイーン作品などの翻訳を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "oba-tadao",
+    "name": "大庭忠男",
+    "nameKana": "おおばただお",
+    "description": "翻訳家。英米の推理小説を数多く訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "noshima-takefumi",
+    "name": "能島武文",
+    "nameKana": "のしまたけふみ",
+    "description": "翻訳家。クリスティ作品の初期の邦訳を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hasegawa-shuji",
+    "name": "長谷川修二",
+    "nameKana": "はせがわしゅうじ",
+    "description": "翻訳家。クイーン作品などの邦訳を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kunihiro-kimiyo",
+    "name": "国弘喜美代",
+    "nameKana": "くにひろきみよ",
+    "description": "翻訳家。英米ミステリの共訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okumura-akiko",
+    "name": "奥村章子",
+    "nameKana": "おくむらあきこ",
+    "description": "翻訳家。クリスティ作品の新訳などを手がけている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yoshida-seiichi",
+    "name": "吉田誠一",
+    "nameKana": "よしだせいいち",
+    "description": "翻訳家。カーをはじめとする英米ミステリを訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shirasu-kiyomi",
+    "name": "白須清美",
+    "nameKana": "しらすきよみ",
+    "description": "翻訳家。古典ミステリの新訳を数多く手がけている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "murasaki-toshiro",
+    "name": "村崎敏郎",
+    "nameKana": "むらさきとしろう",
+    "description": "翻訳家。英米の推理小説を訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "atsugi-jun",
+    "name": "厚木淳",
+    "nameKana": "あつぎじゅん",
+    "description": "翻訳家・編集者。東京創元社で古典ミステリの翻訳と編集に携わった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jinka-katsuo",
+    "name": "仁賀克雄",
+    "nameKana": "じんかかつお",
+    "description": "翻訳家・評論家。怪奇小説とミステリの紹介に努めた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "aoki-yuzo",
+    "name": "青木雄造",
+    "nameKana": "あおきゆうぞう",
+    "description": "英文学者・翻訳家。英国小説の翻訳を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eirai-shigeaki",
+    "name": "永来重明",
+    "nameKana": "えいらいしげあき",
+    "description": "翻訳家。英米ミステリの邦訳を担当した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shimojima-yoshiaki",
+    "name": "霜島義明",
+    "nameKana": "しもじまよしあき",
+    "description": "翻訳家。クロフツなど古典ミステリの新訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shimada-sanzo",
+    "name": "島田三蔵",
+    "nameKana": "しまださんぞう",
+    "description": "翻訳家。英米ミステリの翻訳を数多く手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "inoue-isamu",
+    "name": "井上勇",
+    "nameKana": "いのうえいさむ",
+    "description": "翻訳家。東京創元社の古典ミステリ叢書で多くの作品を訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kikuchi-mitsu",
+    "name": "菊池光",
+    "nameKana": "きくちみつ",
+    "description": "翻訳家。ハードボイルドや冒険小説の名訳で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tanaka-junji",
+    "name": "田中潤司",
+    "nameKana": "たなかじゅんじ",
+    "description": "翻訳家・評論家。海外ミステリの紹介に長く携わった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
   }
 ]

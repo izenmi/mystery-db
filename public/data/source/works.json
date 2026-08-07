@@ -20885,5 +20885,3205 @@
     "externalLinks": {},
     "updatedAt": "2026-08-07",
     "sourceNote": "書誌(幻冬舎、2011年、ISBN 9784344417410)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「恩田陸 [著]」による。初刊年2008年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "yamataikoku-no-himitsu",
+    "title": "邪馬台国の秘密",
+    "titleKana": "やまたいこくのひみつ",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [
+      "kamizu-kyosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "病床の神津恭介が、資料だけを頼りに邪馬台国の所在地という歴史の謎に挑む。安楽椅子探偵の形式で古代史論争を推理の対象として扱った長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "神津恭介シリーズ",
+    "sourceNote": "書誌(光文社、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「高木彬光著」による。初刊年1973年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "teikoku-no-shikaku",
+    "title": "帝国の死角",
+    "titleKana": "ていこくのしかく",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoron-shinsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1972,
+    "status": "completed",
+    "synopsis": "戦後日本の政財界の暗部に切り込む長編。企業と権力が絡む事件を追いながら、時代の空気を色濃く映し出している。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(中央公論新社、2026年、ISBN 9784122078048)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「高木彬光 著」による。初刊年1972年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kenji-kirishima-saburo",
+    "title": "検事霧島三郎",
+    "titleKana": "けんじきりしまさぶろう",
+    "authorIds": [
+      "takagi-akimitsu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "houtei",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "検事・霧島三郎が、法の枠内で真相に迫っていく連作。捜査と公判の手続きを丁寧に描きながら、裁くことの難しさを問う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2014年、ISBN 9784334767754)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「高木彬光 著」による。初刊年1964年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kage-no-kokuhatsu",
+    "title": "影の告発",
+    "titleKana": "かげのこくはつ",
+    "authorIds": [
+      "tsuchiya-takao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1963,
+    "status": "completed",
+    "synopsis": "検事・千草泰輔が、一見単純に見える事件の裏にある構図を粘り強く解いていく。犯人と検事の緊張感ある対峙を描いた、シリーズを代表する長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "千草検事シリーズ",
+    "sourceNote": "書誌(光文社、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「土屋隆夫著」による。初刊年1963年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tengu-no-men",
+    "title": "天狗の面",
+    "titleKana": "てんぐのめん",
+    "authorIds": [
+      "tsuchiya-takao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1940,
+    "status": "completed",
+    "synopsis": "天狗の面にまつわる因習が残る土地で起きた事件を描く。伝承と現実の犯罪を重ね合わせながら、端正な論理で真相へ迫る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2007年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「土屋隆夫 著」による。初刊年1940年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kikenna-douwa",
+    "title": "危険な童話",
+    "titleKana": "きけんなどうわ",
+    "authorIds": [
+      "tsuchiya-takao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "童話めいた見立てが残された事件を、千草検事が追う。抑制された筆致と緻密な構成で、本格ミステリの完成度を高く保った長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "千草検事シリーズ",
+    "sourceNote": "書誌(光文社、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「土屋隆夫 著」による。初刊年1961年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "fuanna-ubugoe",
+    "title": "不安な産声",
+    "titleKana": "ふあんなうぶごえ",
+    "authorIds": [
+      "tsuchiya-takao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "出産と家族をめぐる事情が絡んだ事件を、千草検事が慎重に解きほぐしていく。人の営みの重さを見据えた作者らしい長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "千草検事シリーズ",
+    "sourceNote": "書誌(光文社、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「土屋隆夫 著」による。初刊年1989年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "moumoku-no-karasu",
+    "title": "盲目の鴉",
+    "titleKana": "もうもくのからす",
+    "authorIds": [
+      "tsuchiya-takao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1980,
+    "status": "completed",
+    "synopsis": "目撃者の証言が食い違う事件を軸に、見ることと信じることのずれを描く。静かな筆致で論理を積み上げていく長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「土屋隆夫 著」による。初刊年1980年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "zouo-no-kaseki",
+    "title": "憎悪の化石",
+    "titleKana": "ぞうおのかせき",
+    "authorIds": [
+      "ayukawa-tetsuya"
+    ],
+    "detectiveIds": [
+      "onitsura-keibu"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1959,
+    "status": "completed",
+    "synopsis": "鉄道と時刻表を用いた鉄壁のアリバイに、鬼貫警部が挑む。大がかりな仕掛けではなく、細部の矛盾を丹念に潰していく捜査の積み重ねが読みどころ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "鬼貫警部シリーズ",
+    "sourceNote": "書誌(光文社、2014年、ISBN 9784334766993)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「鮎川哲也 著」による。初刊年1959年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kuroi-hakucho",
+    "title": "黒い白鳥",
+    "titleKana": "くろいはくちょう",
+    "authorIds": [
+      "ayukawa-tetsuya"
+    ],
+    "detectiveIds": [
+      "onitsura-keibu"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1953,
+    "status": "completed",
+    "synopsis": "完璧に見えるアリバイを崩すため、鬼貫警部が各地を歩いて検証を重ねる。日本のアリバイ崩しものを代表する長編で、日本探偵作家クラブ賞を受賞した。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "鬼貫警部シリーズ",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1960,
+        "result": "第13回受賞"
+      }
+    ],
+    "sourceNote": "書誌(光文社、2013年、ISBN 9784334766702)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「鮎川哲也 著」による。初刊年1953年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shi-no-aru-fukei",
+    "title": "死のある風景",
+    "titleKana": "しのあるふうけい",
+    "authorIds": [
+      "ayukawa-tetsuya"
+    ],
+    "detectiveIds": [
+      "onitsura-keibu"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1965,
+    "status": "completed",
+    "synopsis": "風景の中に紛れ込んだ小さな違和感から、鬼貫警部が事件の構図を組み替えていく。淡々とした捜査描写の積み重ねが独特の緊張を生む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "鬼貫警部シリーズ",
+    "sourceNote": "書誌(光文社、2022年、ISBN 9784334794033)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「鮎川哲也 著」による。初刊年1965年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shiro-no-kyofu",
+    "title": "白の恐怖",
+    "titleKana": "しろのきょうふ",
+    "authorIds": [
+      "ayukawa-tetsuya"
+    ],
+    "detectiveIds": [
+      "hoshikage-ryuzo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1959,
+    "status": "completed",
+    "synopsis": "名探偵・星影龍三が、不可解な状況で起きた事件に挑む。切れ味の鋭い推理と端正な構成で、作者のもう一つの代表作となっている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "星影龍三シリーズ",
+    "sourceNote": "書誌(光文社、2018年、ISBN 9784334776978)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「鮎川哲也 著」による。初刊年1959年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shu-no-zeppitsu",
+    "title": "朱の絶筆",
+    "titleKana": "しゅのぜっぴつ",
+    "authorIds": [
+      "ayukawa-tetsuya"
+    ],
+    "detectiveIds": [
+      "hoshikage-ryuzo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "画家の死をきっかけに、関係者の間で連続して事件が起きる。星影龍三が現場の細部から論理を組み立てていく本格長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "星影龍三シリーズ",
+    "sourceNote": "書誌(光文社、2007年、ISBN 9784334742027)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「鮎川哲也 著」による。初刊年1979年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kage-aru-bohyo",
+    "title": "翳ある墓標",
+    "titleKana": "かげあるぼひょう",
+    "authorIds": [
+      "ayukawa-tetsuya"
+    ],
+    "detectiveIds": [
+      "onitsura-keibu"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1962,
+    "status": "completed",
+    "synopsis": "墓標に刻まれた名前をきっかけに、過去の事件と現在が結び付いていく。鬼貫警部が丹念な聞き込みで時間の壁を越えていく長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "鬼貫警部シリーズ",
+    "sourceNote": "書誌(光文社、2015年、ISBN 9784334768768)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「鮎川哲也 著」による。初刊年1962年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "neko-no-shita-ni-kugi-o-ute",
+    "title": "猫の舌に釘をうて",
+    "titleKana": "ねこのしたにくぎおうて",
+    "authorIds": [
+      "tsuzuki-michio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "honkaku",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "語り手が自らの犯罪を綴っていく形式の長編。読者への挑戦を含んだ大胆な構成で、日本の本格ミステリ史に残る実験作となった。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(徳間書店、2022年、ISBN 9784198947187)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「都筑道夫 著」による。初刊年1961年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shichijugowa-no-karasu",
+    "title": "七十五羽の烏",
+    "titleKana": "しちじゅうごわのからす",
+    "authorIds": [
+      "tsuzuki-michio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "shiritsu-tantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1972,
+    "status": "completed",
+    "synopsis": "働きたくない青年・物部太郎と、探偵事務所を切り盛りする片岡直次郎が奇妙な依頼に挑む。モジュラー型を志向した作者の本格長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "物部太郎シリーズ",
+    "sourceNote": "書誌(光文社、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「都筑道夫 著・文・その他」による。初刊年1972年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "namekuji-ni-kiite-miro",
+    "title": "なめくじに聞いてみろ",
+    "titleKana": "なめくじにきいてみろ",
+    "authorIds": [
+      "tsuzuki-michio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "hardboiled",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1968,
+    "status": "completed",
+    "synopsis": "アクションと諧謔を織り交ぜたハードボイルド長編。テンポの良い展開と乾いた文体で、日本製ハードボイルドの一つの形を示した。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(講談社、2021年、ISBN 9784065236819)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「都筑道夫 [著]」による。初刊年1968年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "chimidoro-sunae",
+    "title": "血みどろ砂絵",
+    "titleKana": "ちみどろすなえ",
+    "authorIds": [
+      "tsuzuki-michio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "jidai-mystery",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "江戸の裏長屋に暮らす住人たちが、砂絵師のセンセーを中心に事件を解く連作短編集。時代小説の風情と本格ミステリの論理を両立させている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "なめくじ長屋捕物さわぎ",
+    "sourceNote": "書誌(角川書店、2008年、ISBN 9784041425398)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「都筑道夫 [著]」による。初刊年1969年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "karekusa-no-ne",
+    "title": "枯草の根",
+    "titleKana": "かれくさのね",
+    "authorIds": [
+      "chin-shunshin"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "神戸の中華街で起きた殺人事件を、老人の視点から描く。異なる文化が交わる街の空気を丁寧に写し取った、江戸川乱歩賞受賞作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1961,
+        "result": "第7回受賞"
+      }
+    ],
+    "sourceNote": "書誌(集英社、2009年、ISBN 9784087463972)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「陳舜臣 著」による。初刊年1961年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "sanju-roshutsu",
+    "title": "三重露出",
+    "titleKana": "さんじゅうろしゅつ",
+    "authorIds": [
+      "tsuzuki-michio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "suspense",
+      "jojutsu-trick"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "スパイ小説の体裁を借りながら、語りの層が幾重にも重なっていく実験的な長編。作者の技巧が前面に出た一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(徳間書店、2023年、ISBN 9784198948641)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「都筑道夫 著」による。初刊年1964年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tenshi-no-shokon",
+    "title": "天使の傷痕",
+    "titleKana": "てんしのしょうこん",
+    "authorIds": [
+      "nishimura-kyotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1965,
+    "status": "completed",
+    "synopsis": "新聞記者が追う事件を通して、社会に潜む差別と偏見を描く。江戸川乱歩賞を受賞し、作者の名を広く知らしめた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1965,
+        "result": "第11回受賞"
+      }
+    ],
+    "sourceNote": "書誌(講談社、2015年、ISBN 9784062930208)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西村京太郎 [著]」による。初刊年1965年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "archimedes-wa-te-o-yogosanai",
+    "title": "アルキメデスは手を汚さない",
+    "titleKana": "あるきめですわておよごさない",
+    "authorIds": [
+      "komine-hajime"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "seishun",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1970,
+    "status": "completed",
+    "synopsis": "高校生の死をきっかけに、同級生たちが事件の意味を探る。若者の焦りと空虚さを描きながら推理を進める、江戸川乱歩賞受賞作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1973,
+        "result": "第19回受賞"
+      }
+    ],
+    "sourceNote": "書誌(講談社、2007年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「小峰元」による。初刊年1970年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kieta-crew",
+    "title": "消えた乗組員(クルー)",
+    "titleKana": "きえたくるー",
+    "authorIds": [
+      "nishimura-kyotaro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "suspense",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "synopsis": "船から乗組員が消えるという状況を軸に、緻密な調査で謎を解いていく長編。トラベルミステリ以前の作者の本格志向がよく表れている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2017年、ISBN 9784334775766)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西村京太郎 著」による。初刊年1976年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "shisha-no-rinbu",
+    "title": "死者の輪舞",
+    "titleKana": "ししゃのりんぶ",
+    "authorIds": [
+      "awasaka-tsumao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "死者をめぐって複数の視点が交錯し、事件の像が少しずつ組み替えられていく。作者らしい端正な構成が光る長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(河出書房新社、2019年、ISBN 9784309416656)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「泡坂妻夫 著」による。初刊年1985年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kuro-no-yoshiki",
+    "title": "黒の様式",
+    "titleKana": "くろのようしき",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shakaiha",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1967,
+    "status": "completed",
+    "synopsis": "社会の仕組みの中で追い詰められていく人々を描いた中編集。犯罪そのものより、そこへ至る事情に筆を割く作者の姿勢がよく出ている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(新潮社、2009年、ISBN 9784101109275)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張著」による。初刊年1967年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hyosho-shijin",
+    "title": "表象詩人",
+    "titleKana": "ひょうしょうしじん",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "詩人と評論家の関係を軸に、文壇の内側で起きる出来事を描く。人の名誉と嫉妬を主題にした作者らしい一編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2014年、ISBN 9784334767747)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張 著」による。初刊年1973年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "aru-kokura-nikki-den",
+    "title": "或る「小倉日記」伝",
+    "titleKana": "あるこくらにっきでん",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "tanpenshu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "森鷗外が小倉時代に記した日記の行方を追う人物を描く表題作を含む短編集。作者の芥川賞受賞作で、後の作品世界の萌芽が見て取れる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(角川書店、2008年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張 〔著〕」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "saigosatsu",
+    "title": "西郷札",
+    "titleKana": "さいごうさつ",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "jidai-mystery",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1955,
+    "status": "completed",
+    "synopsis": "西南戦争で発行された軍票をめぐる人間の欲望を描く表題作ほかを収める。作者のデビュー作を含む初期短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2008年、ISBN 9784334744762)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張 著」による。初刊年1955年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "chihoshi-o-kau-onna",
+    "title": "地方紙を買う女",
+    "titleKana": "ちほうしおかうおんな",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shakaiha",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "地方新聞を定期購読する女性の意図を追う表題作をはじめ、日常の違和感から犯罪が立ち上がる短編を収める。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(文藝春秋、1973年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "harikomi",
+    "title": "推理小説　張込み",
+    "titleKana": "すいりしょうせつはりこみ",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shakaiha",
+      "keisatsu-shosetsu",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1959,
+    "status": "completed",
+    "synopsis": "容疑者の恋人を張り込む刑事たちを描く表題作を含む短編集。地道な捜査の時間と、市井の人々の生活が交差する。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(東都書房、1959年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本 清張／著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "koe-seicho",
+    "title": "声",
+    "titleKana": "こえ",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "電話交換手が耳にした一言から事件が動き出す表題作ほかを収める短編集。些細な手がかりが人の運命を変えていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2009年、ISBN 9784334745332)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張 著」による。初刊年1964年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kage-no-kuruma",
+    "title": "影の車",
+    "titleKana": "かげのくるま",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "tanpenshu",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "家庭の内側に生じたひずみが、静かに破局へ向かっていく短編集。日常の風景の中に不安を忍ばせる作者の手つきが際立つ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(光文社、2018年、ISBN 9784334776862)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張 著」による。初刊年1961年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "kita-no-shijin",
+    "title": "北の詩人",
+    "titleKana": "きたのしじん",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "朝鮮半島の詩人を主人公に、政治と文学のはざまで揺れる人間を描く。史実を踏まえながら、権力に翻弄される個人を追った長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(KADOKAWA、2022年、ISBN 9784041123324)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張 [著]」による。初刊年1964年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "watasareta-bamen",
+    "title": "渡された場面",
+    "titleKana": "わたされたばめん",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "synopsis": "作家と編集者をめぐる出来事から事件が浮かび上がる長編。文章という仕事の内側を舞台に、人の見栄と打算を描き出す。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "sourceNote": "書誌(新潮社、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本清張 著」による。初刊年1976年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "blue-train",
+    "title": "青列車の秘密",
+    "titleKana": "あおれっしゃのひみつ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "aoki-hisae"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "kaigai-koten",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1928,
+    "status": "completed",
+    "synopsis": "豪華列車ブルー・トレインで富豪の娘が殺され、高価なルビーが消える。同じ列車に乗り合わせたポアロが、乗客たちの証言のずれから事件の構図を組み立てていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "The Mystery of the Blue Train",
+    "jpPublishedYear": 1959,
+    "sourceNote": "書誌(早川書房、2004年、ISBN 9784151300059)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー著 ; 青木久恵訳」による。初刊年1959年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "man-in-the-brown-suit",
+    "title": "茶色の服の男",
+    "titleKana": "ちゃいろのふくのおとこ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1924,
+    "status": "completed",
+    "synopsis": "地下鉄駅で起きた転落死を目撃した娘アンが、好奇心に駆られて事件を追う。南アフリカへ向かう船旅を舞台に、冒険小説の色合いが強い初期の一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Man in the Brown Suit",
+    "jpPublishedYear": 1956,
+    "sourceNote": "書誌(早川書房、2020年、ISBN 9784152099303)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,深町眞理子 訳」による。初刊年1956年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "secret-of-chimneys",
+    "title": "チムニーズ館の秘密",
+    "titleKana": "ちむにーずやかたのひみつ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-junko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "yakata-mono",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1925,
+    "status": "completed",
+    "synopsis": "英国の館チムニーズを舞台に、王位継承をめぐる陰謀と殺人が交錯する。軽妙な会話と国際的な策謀を織り交ぜた、初期クリスティの冒険色の強い長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Secret of Chimneys",
+    "jpPublishedYear": 1955,
+    "sourceNote": "書誌(東京創元社、2024年、ISBN 9784488105532)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティ 著,山田順子 訳」による。初刊年1955年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "seven-dials",
+    "title": "七つの時計",
+    "titleKana": "ななつのとけい",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "yakata-mono",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "status": "completed",
+    "synopsis": "目覚まし時計をめぐる悪ふざけが、思わぬ死につながる。チムニーズ館を再び舞台に、秘密結社「七つの時計」の正体を追う軽快な長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Seven Dials Mystery",
+    "jpPublishedYear": 1957,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,深町眞理子 訳」による。初刊年1900年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "partners-in-crime",
+    "title": "おしどり探偵",
+    "titleKana": "おしどりたんてい",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "hashimoto-fukuo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "tanpenshu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "status": "completed",
+    "synopsis": "探偵事務所を引き継いだトミーとタペンスの夫婦が、当時の名探偵たちの手法を真似ながら依頼をこなす連作短編集。ミステリのパロディとしても楽しめる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "トミーとタペンスシリーズ",
+    "originalTitle": "Partners in Crime",
+    "jpPublishedYear": 1960,
+    "sourceNote": "書誌(グーテンベルク21、2010年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティ／[著],橋本 福夫／訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "at-bertrams-hotel",
+    "title": "バートラム・ホテルにて",
+    "titleKana": "ばーとらむほてるにて",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "inui-shinichiro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1965,
+    "status": "completed",
+    "synopsis": "昔のままの姿を保つロンドンの老舗ホテルに滞在したマープルが、居心地の良さの裏に潜む違和感に気づく。時代の変化を背景にした一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ミス・マープルシリーズ",
+    "originalTitle": "At Bertram's Hotel",
+    "jpPublishedYear": 1969,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー著 ; 乾信一郎訳」による。初刊年1969年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "body-in-the-library",
+    "title": "書斎の死体",
+    "titleKana": "しょさいのしたい",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "yamamoto-yayoi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1942,
+    "status": "completed",
+    "synopsis": "知人の屋敷の書斎で見知らぬ娘の死体が見つかる。ミステリの定型そのものを題名に掲げつつ、マープルが村の噂と人間観察から真相へ迫る。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ミス・マープルシリーズ",
+    "originalTitle": "The Body in the Library",
+    "jpPublishedYear": 1956,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,山本やよい 訳」による。初刊年1956年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "they-do-it-with-mirrors",
+    "title": "魔術の殺人",
+    "titleKana": "まじゅつのさつじん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "miss-marple"
+    ],
+    "translatorIds": [
+      "tamura-ryuichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "status": "completed",
+    "synopsis": "非行少年の更生施設を営む旧友の家に招かれたマープルが、そこで起きた殺人に立ち会う。見せかけと現実のずれを主題にした長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ミス・マープルシリーズ",
+    "originalTitle": "They Do It with Mirrors",
+    "jpPublishedYear": 1958,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,田村隆一 訳」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "sittaford-mystery",
+    "title": "シタフォードの秘密",
+    "titleKana": "したふぉーどのひみつ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tamura-ryuichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "closed-circle"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1931,
+    "status": "completed",
+    "synopsis": "雪に閉ざされた村で、降霊術の最中に告げられた死が現実になる。孤立した状況と超自然的な演出を組み合わせた本格長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Sittaford Mystery",
+    "jpPublishedYear": 1956,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,田村隆一 訳」による。初刊年1956年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "dead-mans-folly",
+    "title": "死者のあやまち",
+    "titleKana": "ししゃのあやまち",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "tamura-ryuichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "屋敷の催しで行われる「犯人当てゲーム」の準備を頼まれたポアロが、演出のはずだった殺人が本物になる現場に立ち会う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "Dead Man's Folly",
+    "jpPublishedYear": 1956,
+    "sourceNote": "書誌(早川書房、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,田村隆一 訳」による。初刊年1956年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "sad-cypress",
+    "title": "杉の柩",
+    "titleKana": "すぎのひつぎ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "onchi-mihoko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "houtei",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1940,
+    "status": "completed",
+    "synopsis": "殺人罪で起訴された若い女性の弁護を依頼されたポアロが、裁判と並行して事実を洗い直す。法廷の場面を軸に据えた構成が特徴の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "Sad Cypress",
+    "jpPublishedYear": 1957,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,恩地三保子 訳」による。初刊年1957年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hickory-dickory-dock",
+    "title": "ヒッコリー・ロードの殺人",
+    "titleKana": "ひっこりーろーどのさつじん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "takahashi-yutaka"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1955,
+    "status": "completed",
+    "synopsis": "学生寮で相次ぐ盗難に不審を抱いたポアロが調査に乗り出す。ささいな出来事の連なりが、やがて殺人へと発展していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "Hickory Dickory Dock",
+    "jpPublishedYear": 1956,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,高橋豊 訳」による。初刊年1956年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "cat-among-the-pigeons",
+    "title": "鳩のなかの猫",
+    "titleKana": "はとのなかのねこ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "hashimoto-fukuo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "gakuen"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1959,
+    "status": "completed",
+    "synopsis": "名門女子校で教師が射殺される。中東の政変で持ち出された宝石の行方と、学校という閉じた社会の緊張が絡み合う長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "Cat Among the Pigeons",
+    "jpPublishedYear": 1960,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,橋本福夫 訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "they-came-to-baghdad",
+    "title": "バグダッドの秘密",
+    "titleKana": "ばぐだっどのひみつ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakamura-taeko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1951,
+    "status": "completed",
+    "synopsis": "恋を追ってバグダッドへ渡った娘が、国際会議をめぐる陰謀に巻き込まれる。冒険小説の色合いが強い、旅情豊かな一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "They Came to Baghdad",
+    "jpPublishedYear": 1956,
+    "sourceNote": "書誌(早川書房、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,中村妙子 訳」による。初刊年1956年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "christmas-pudding",
+    "title": "名探偵ポアロ クリスマス・プディングの冒険",
+    "titleKana": "めいたんていぽあろくりすますぷでぃんぐのぼうけん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "okumura-akiko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "tanpenshu",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1960,
+    "status": "completed",
+    "synopsis": "英国の古い館で過ごすクリスマスを舞台にした表題作をはじめ、ポアロとマープルが登場する六編を収めた短編集。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "The Adventure of the Christmas Pudding",
+    "jpPublishedYear": 1961,
+    "sourceNote": "書誌(早川書房、2023年、ISBN 9784152102485)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,奥村章子 訳」による。初刊年1961年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "three-act-tragedy",
+    "title": "三幕の悲劇",
+    "titleKana": "さんまくのひげき",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "tamura-ryuichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "status": "completed",
+    "synopsis": "晩餐会で牧師が急死し、同じ状況の死が繰り返される。俳優だった旧友とともに、ポアロが三幕の芝居のような事件を追う。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "Three Act Tragedy",
+    "jpPublishedYear": 1936,
+    "sourceNote": "書誌(講談社、2004年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティ 作,花上かつみ 訳,高松啓二 絵」による。初刊年1936年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "cards-on-the-table",
+    "title": "ひらいたトランプ",
+    "titleKana": "ひらいたとらんぷ",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "kajima-shozo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1936,
+    "status": "completed",
+    "synopsis": "殺人者を集めたと称する主催者が、ブリッジの最中に殺される。容疑者は四人だけという極端な設定で、心理と記録から犯人を絞り込んでいく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "Cards on the Table",
+    "jpPublishedYear": 1937,
+    "sourceNote": "書誌(早川書房、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,加島祥造 訳」による。初刊年1936年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "murder-on-the-links",
+    "title": "ゴルフ場殺人事件",
+    "titleKana": "ごるふじょうさつじんじけん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "tamura-yoshinobu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1923,
+    "status": "completed",
+    "synopsis": "フランスの別荘から届いた救援の手紙に応じたポアロが、ゴルフ場で発見された死体と対面する。現地の予審判事との推理合戦も見どころ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "The Murder on the Links",
+    "jpPublishedYear": 1959,
+    "sourceNote": "書誌(早川書房、2011年、ISBN 9784151310027)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティー 著,田村義進 訳」による。初刊年1959年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mysterious-affair-at-styles",
+    "title": "スタイルズ荘の怪事件",
+    "titleKana": "すたいるずそうのかいじけん",
+    "authorIds": [
+      "agatha-christie"
+    ],
+    "detectiveIds": [
+      "hercule-poirot"
+    ],
+    "translatorIds": [
+      "noshima-takefumi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "meitantei",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1920,
+    "status": "completed",
+    "synopsis": "戦傷で帰郷したヘイスティングズが滞在した屋敷で、女主人が毒殺される。亡命中のベルギー人探偵ポアロが初登場する記念すべきデビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "エルキュール・ポアロシリーズ",
+    "originalTitle": "The Mysterious Affair at Styles",
+    "jpPublishedYear": 1955,
+    "sourceNote": "書誌(グーテンベルク21、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アガサ・クリスティ／[著],能島 武文／訳」による。初刊年1955年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "spanish-cape-mystery",
+    "title": "スペイン岬の秘密",
+    "titleKana": "すぺいんみさきのひみつ",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "echizen-toshiya",
+      "kunihiro-kimiyo"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1935,
+    "status": "completed",
+    "synopsis": "岬の別荘で、全裸にマントだけを羽織った死体が発見される。不可解な状況の意味を、エラリー・クイーンが論理だけで詰めていく国名シリーズ最終作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "国名シリーズ",
+    "originalTitle": "The Spanish Cape Mystery",
+    "jpPublishedYear": 1955,
+    "sourceNote": "書誌(KADOKAWA、2015年、ISBN 9784041014561)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリー・クイーン [著],越前敏弥, 国弘喜美代 訳」による。初刊年1955年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "the-king-is-dead",
+    "title": "帝王死す",
+    "titleKana": "ていおうしす",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "oba-tadao"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "status": "completed",
+    "synopsis": "武器王と呼ばれる富豪が、私設の島で予告どおりに撃たれる。物理的にありえない状況をどう説明するかという一点に賭けた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The King Is Dead",
+    "jpPublishedYear": 1955,
+    "sourceNote": "書誌(早川書房、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリイ・クイーン 著 ; 大庭忠男 訳」による。初刊年1955年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "and-on-the-eighth-day",
+    "title": "第八の日",
+    "titleKana": "だいはちのひ",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "aota-masaru"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "tokushu-settei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "砂漠で道に迷ったエラリーが、外界から隔絶された共同体にたどり着く。寓話的な設定の中で、探偵という存在の意味が問い直される異色作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "And on the Eighth Day",
+    "jpPublishedYear": 1959,
+    "sourceNote": "書誌(早川書房、1984年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリイ・クイーン 著 ; 青田勝 訳」による。初刊年1959年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "the-finishing-stroke",
+    "title": "最後の一撃",
+    "titleKana": "さいごのいちげき",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "aota-masaru"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "クリスマスの十二夜にわたって届けられる謎めいた贈り物と詩。若き日のエラリーが解けなかった事件を、二十数年後に振り返る構成の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Finishing Stroke",
+    "jpPublishedYear": 1958,
+    "sourceNote": "書誌(早川書房、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリイ・クイーン 著 ; 青田勝 訳」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "the-door-between",
+    "title": "ニッポン樫鳥の謎",
+    "titleKana": "にっぽんかしどりのなぞ",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "uno-toshiyasu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1937,
+    "status": "completed",
+    "synopsis": "日本と縁の深い作家の周辺で起きた事件を、エラリーが追う。密室状況の扱いと、真相の提示の仕方に作者の変化が見える一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Door Between",
+    "jpPublishedYear": 1958,
+    "sourceNote": "書誌(東京創元社、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリー・クイーン 著」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "four-of-hearts",
+    "title": "ハートの4",
+    "titleKana": "はーとのよん",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "hasegawa-shuji"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1938,
+    "status": "completed",
+    "synopsis": "ハリウッドを舞台に、往年のスター二人の再婚をめぐって事件が起きる。映画産業の内幕を背景にしたライツヴィル前夜の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Four of Hearts",
+    "jpPublishedYear": 1959,
+    "sourceNote": "書誌(グーテンベルク21、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリー・クイーン／[著],長谷川 修二／訳」による。初刊年1959年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "double-double",
+    "title": "ダブル・ダブル",
+    "titleKana": "だぶるだぶる",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [
+      "ellery-queen-detective"
+    ],
+    "translatorIds": [
+      "echizen-toshiya"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "mitate-satsujin"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1950,
+    "status": "completed",
+    "synopsis": "ライツヴィルの町で、童謡の文句をなぞるように人が死んでいく。見立てのパターンを読み解きながら、エラリーが次の犠牲を止めようとする。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Double, Double",
+    "jpPublishedYear": 1957,
+    "sourceNote": "書誌(早川書房、2022年、ISBN 9784150701550)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリイ・クイーン 著,越前敏弥 訳」による。初刊年1957年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "inspector-queens-own-case",
+    "title": "クイーン警視自身の事件",
+    "titleKana": "くいーんけいしじしんのじけん",
+    "authorIds": [
+      "ellery-queen"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "aota-masaru"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "退職したクイーン警視が、赤ん坊の不可解な死をめぐる依頼を単独で調べる。息子に頼らない老警視の姿を描いたシリーズ外伝的な長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Inspector Queen's Own Case",
+    "jpPublishedYear": 1976,
+    "sourceNote": "書誌(早川書房、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エラリイ・クイーン 著 ; 青田勝 訳」による。初刊年1976年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "plague-court-murders",
+    "title": "プレーグ・コートの殺人",
+    "titleKana": "ぷれーぐこーとのさつじん",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "jinka-katsuo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "misshitsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "status": "completed",
+    "synopsis": "幽霊屋敷として知られる館の離れで、霊媒師が刺殺される。周囲はぬかるみに囲まれ、足跡ひとつない。ヘンリ・メリヴェール卿が初登場する怪奇趣味あふれる密室長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ヘンリ・メリヴェール卿シリーズ",
+    "originalTitle": "The Plague Court Murders",
+    "jpPublishedYear": 1977,
+    "sourceNote": "書誌(早川書房、1977年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カーター・ディクスン 著,仁賀克雄 訳」による。初刊年1900年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "red-widow-murders",
+    "title": "赤後家の殺人",
+    "titleKana": "あかごけのさつじん",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "takazawa-osamu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "misshitsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1935,
+    "status": "completed",
+    "synopsis": "入った者が必ず死ぬと噂される「赤後家の間」で、施錠された室内から死者が出る。因習めいた屋敷を舞台に、H・Mが不可能状況の理屈を解きほぐす。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ヘンリ・メリヴェール卿シリーズ",
+    "originalTitle": "The Red Widow Murders",
+    "jpPublishedYear": 1958,
+    "sourceNote": "書誌(東京創元社、2026年、ISBN 9784488118532)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カーター・ディクスン 著,高沢治 訳」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "death-watch",
+    "title": "死時計",
+    "titleKana": "しどけい",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "yoshida-seiichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1935,
+    "status": "completed",
+    "synopsis": "時計商の家で、大時計の針を凶器に男が殺される。奇怪な状況を前に、フェル博士が屋敷の人間関係と時間の齟齬を丹念に検討していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ギデオン・フェル博士シリーズ",
+    "originalTitle": "Death-Watch",
+    "jpPublishedYear": 1960,
+    "sourceNote": "書誌(東京創元社、1995年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ディクスン・カー 著,吉田誠一 訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "he-wouldnt-kill-patience",
+    "title": "爬虫類館の殺人",
+    "titleKana": "はちゅうるいかんのさつじん",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "shirasu-kiyomi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "misshitsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1944,
+    "status": "completed",
+    "synopsis": "戦時下のロンドン動物園で、爬虫類館の館長が完全な密室で死んでいた。テープで目張りされた部屋という状況の意味を、H・Mが解き明かす。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ヘンリ・メリヴェール卿シリーズ",
+    "originalTitle": "He Wouldn't Kill Patience",
+    "jpPublishedYear": 1960,
+    "sourceNote": "書誌(東京創元社、2025年、ISBN 9784488118525)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カーター・ディクスン 著,白須清美 訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "nine-wrong-answers",
+    "title": "九つの答",
+    "titleKana": "ここのつのこたえ",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "aoki-yuzo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "status": "completed",
+    "synopsis": "他人になりすまして遺産を得ようとした男が、思わぬ罠に絡め取られる。読者に向けた注釈が随所に挿入される趣向で知られるサスペンス長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Nine Wrong Answers",
+    "jpPublishedYear": 1958,
+    "sourceNote": "書誌(早川書房、1981年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ディクスン・カー 著,青木 雄造 訳」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "arabian-nights-murder",
+    "title": "アラビアン・ナイトの殺人",
+    "titleKana": "あらびあんないとのさつじん",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "uno-toshiyasu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1936,
+    "status": "completed",
+    "synopsis": "博物館の敷地で、つけ髭の男が象牙の短剣で刺殺される。三人の関係者が順に語る奇妙な夜の出来事を、フェル博士が一つの筋へまとめ上げる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ギデオン・フェル博士シリーズ",
+    "originalTitle": "The Arabian Nights Murder",
+    "jpPublishedYear": 1960,
+    "sourceNote": "書誌(グーテンベルク21、2015年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ディクスン・カー／[著],宇野 利泰／訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "four-false-weapons",
+    "title": "四つの兇器",
+    "titleKana": "よっつのきょうき",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "murasaki-toshiro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1937,
+    "status": "completed",
+    "synopsis": "パリ郊外の別荘で、四種類の凶器が残された不可解な現場が見つかる。引退していたバンコラン予審判事が再び登場する長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Four False Weapons",
+    "jpPublishedYear": 1958,
+    "sourceNote": "書誌(早川書房、1987年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ディクスン・カー 著,村崎 敏郎 訳」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "captain-cut-throat",
+    "title": "喉切り隊長",
+    "titleKana": "のどきりたいちよう",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "shimada-sanzo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1955,
+    "status": "completed",
+    "synopsis": "ナポレオン軍の陣営で、歩哨が次々と刺殺される。誰にも見られずに犯行を重ねる「喉切り隊長」の正体を追う歴史ミステリ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Captain Cut-Throat",
+    "jpPublishedYear": 1958,
+    "sourceNote": "書誌(早川書房、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ディクスン・カー 著」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "devil-in-velvet",
+    "title": "ビロードの悪魔",
+    "titleKana": "びろーどのあくま",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yoshida-seiichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "tokushu-settei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1951,
+    "status": "completed",
+    "synopsis": "悪魔と取引して十七世紀へ渡った歴史学者が、これから起きる殺人を防ごうとする。時代小説と本格ミステリを掛け合わせた意欲作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Devil in Velvet",
+    "jpPublishedYear": 1965,
+    "sourceNote": "書誌(早川書房、1981年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ディクスン・カー 著,吉田誠一 訳」による。初刊年1965年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "in-spite-of-thunder",
+    "title": "雷鳴の中でも",
+    "titleKana": "らいめいのなかでも",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "eirai-shigeaki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1960,
+    "status": "completed",
+    "synopsis": "スイスの別荘で、過去の不審死に関わった女優が衆人環視の中で墜落死する。フェル博士が過去と現在の二つの死を結び付けていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ギデオン・フェル博士シリーズ",
+    "originalTitle": "In Spite of Thunder",
+    "jpPublishedYear": 1979,
+    "sourceNote": "書誌(早川書房、1979年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ディクスン・カー 著,永来重明 訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "unicorn-murders",
+    "title": "一角獣の殺人",
+    "titleKana": "いっかくじゅうのさつじん",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "tanaka-junji"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "misshitsu",
+      "closed-circle"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1935,
+    "status": "completed",
+    "synopsis": "嵐で孤立したフランスの城に集まった人々の間で、額を一角獣の角で貫かれたような死体が現れる。怪盗と探偵の攻防を絡めた不可能犯罪もの。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ヘンリ・メリヴェール卿シリーズ",
+    "originalTitle": "The Unicorn Murders",
+    "jpPublishedYear": 2009,
+    "sourceNote": "書誌(東京創元社、2009年、ISBN 9784488118297)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カーター・ディクスン 著,田中潤司 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "peacock-feather-murders",
+    "title": "孔雀の羽根",
+    "titleKana": "くじゃくのはね",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "atsugi-jun"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "misshitsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1937,
+    "status": "completed",
+    "synopsis": "警察が見張る空き家の中で、十客の茶碗を並べた部屋の死が繰り返される。徹底した監視下での殺人という難題にH・Mが挑む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ヘンリ・メリヴェール卿シリーズ",
+    "originalTitle": "The Peacock Feather Murders",
+    "jpPublishedYear": 1980,
+    "sourceNote": "書誌(東京創元社、1980年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カーター・ディクスン 著,厚木淳 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "cavaliers-cup",
+    "title": "騎士の盃",
+    "titleKana": "きしのさかずき",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "shimada-sanzo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "status": "completed",
+    "synopsis": "厳重に施錠された金庫室で、盗まれるはずだった盃が動かされていた。喜劇の色が濃いシリーズ最終作で、H・Mの暴走ぶりも見どころ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ヘンリ・メリヴェール卿シリーズ",
+    "originalTitle": "The Cavalier's Cup",
+    "jpPublishedYear": 1982,
+    "sourceNote": "書誌(早川書房、1982年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カーター・ディクスン 著,島田三蔵 訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "my-late-wives",
+    "title": "青ひげの花嫁",
+    "titleKana": "あおひげのはなよめ",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "henry-merrivale"
+    ],
+    "translatorIds": [
+      "ogura-takashi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "misshitsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1946,
+    "status": "completed",
+    "synopsis": "妻を次々と姿を消させた男の正体を追う。過去の連続失踪と現在の劇団の企てが重なり、H・Mが危険な賭けに出る長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ヘンリ・メリヴェール卿シリーズ",
+    "originalTitle": "My Late Wives",
+    "jpPublishedYear": 1982,
+    "sourceNote": "書誌(早川書房、1982年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「カーター・ディクスン 著,小倉多加志 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "eight-of-swords",
+    "title": "剣の八",
+    "titleKana": "つるぎのはち",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "status": "completed",
+    "synopsis": "司教が幽霊に襲われたという珍事から始まり、屋敷での射殺事件へ発展する。喜劇的な導入と本格の骨格を両立させた一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ギデオン・フェル博士シリーズ",
+    "originalTitle": "The Eight of Swords",
+    "jpPublishedYear": 1958,
+    "sourceNote": "書誌(早川書房、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ディクスン・カー 著,加賀山卓朗 訳」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "blind-barber",
+    "title": "盲目の理髪師",
+    "titleKana": "もうもくのりはつし",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "misumi-kazuyo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "status": "completed",
+    "synopsis": "大西洋を渡る客船で起きた騒動を、後日フェル博士が話として聞き、安楽椅子探偵として解決する。喜劇的な展開の中に伏線が仕込まれている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ギデオン・フェル博士シリーズ",
+    "originalTitle": "The Blind Barber",
+    "jpPublishedYear": 1962,
+    "sourceNote": "書誌(東京創元社、2018年、ISBN 9784488118440)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ディクスン・カー 著,三角和代 訳」による。初刊年1962年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "to-wake-the-dead",
+    "title": "死者はよみがえる",
+    "titleKana": "ししゃわよみがえる",
+    "authorIds": [
+      "john-dickson-carr"
+    ],
+    "detectiveIds": [
+      "gideon-fell"
+    ],
+    "translatorIds": [
+      "misumi-kazuyo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "misshitsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1938,
+    "status": "completed",
+    "synopsis": "ロンドンのホテルで、無銭飲食をした青年が偶然にも殺人現場に踏み込む。錯綜した状況をフェル博士が整理していく本格長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ギデオン・フェル博士シリーズ",
+    "originalTitle": "To Wake the Dead",
+    "jpPublishedYear": 1972,
+    "sourceNote": "書誌(東京創元社、2020年、ISBN 9784488118488)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ディクスン・カー 著,三角和代 訳」による。初刊年1972年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "clouds-of-witness",
+    "title": "雲なす証言",
+    "titleKana": "くもなすしょうげん",
+    "authorIds": [
+      "dorothy-l-sayers"
+    ],
+    "detectiveIds": [
+      "peter-wimsey"
+    ],
+    "translatorIds": [
+      "asaba-sayako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "houtei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1926,
+    "status": "completed",
+    "synopsis": "兄が殺人罪で告発され、ピーター卿は一族の名誉を賭けて捜査に乗り出す。貴族院での審理を含む、シリーズ第二作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ピーター・ウィムジイ卿シリーズ",
+    "originalTitle": "Clouds of Witness",
+    "jpPublishedYear": 1994,
+    "sourceNote": "書誌(東京創元社、1994年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ドロシー・L.セイヤーズ 著,浅羽莢子 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "gaudy-night",
+    "title": "学寮祭の夜",
+    "titleKana": "がくりょうさいのよる",
+    "authorIds": [
+      "dorothy-l-sayers"
+    ],
+    "detectiveIds": [
+      "peter-wimsey"
+    ],
+    "translatorIds": [
+      "asaba-sayako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "gakuen",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1935,
+    "status": "completed",
+    "synopsis": "母校の女子学寮で続く悪質な嫌がらせを、作家ハリエット・ヴェインが調べる。学問と女性の生き方を主題に据えた、シリーズ屈指の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ピーター・ウィムジイ卿シリーズ",
+    "originalTitle": "Gaudy Night",
+    "jpPublishedYear": 2001,
+    "sourceNote": "書誌(東京創元社、2001年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ドロシー・L.セイヤーズ 著,浅羽莢子 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "whose-body",
+    "title": "誰の死体?",
+    "titleKana": "だれのしたい",
+    "authorIds": [
+      "dorothy-l-sayers"
+    ],
+    "detectiveIds": [
+      "peter-wimsey"
+    ],
+    "translatorIds": [
+      "asaba-sayako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1923,
+    "status": "completed",
+    "synopsis": "浴室で見知らぬ裸の死体が発見される。趣味人の貴族ピーター・ウィムジイ卿が初めて事件に関わる、シリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ピーター・ウィムジイ卿シリーズ",
+    "originalTitle": "Whose Body?",
+    "jpPublishedYear": 1993,
+    "sourceNote": "書誌(東京創元社、1993年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ドロシー・L.セイヤーズ 著,浅羽莢子 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "bellona-club",
+    "title": "ベローナ・クラブの不愉快な事件",
+    "titleKana": "べろーなくらぶのふゆかいなじけん",
+    "authorIds": [
+      "dorothy-l-sayers"
+    ],
+    "detectiveIds": [
+      "peter-wimsey"
+    ],
+    "translatorIds": [
+      "asaba-sayako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1928,
+    "status": "completed",
+    "synopsis": "退役軍人のクラブで老将軍が椅子に座ったまま死んでいた。死亡時刻の確定が遺産相続を左右するという状況から、静かな捜査が始まる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ピーター・ウィムジイ卿シリーズ",
+    "originalTitle": "The Unpleasantness at the Bellona Club",
+    "jpPublishedYear": 1995,
+    "sourceNote": "書誌(東京創元社、1995年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ドロシー・L.セイヤーズ 著,浅羽莢子 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "inspector-frenchs-greatest-case",
+    "title": "フレンチ警部最大の事件",
+    "titleKana": "ふれんちけいぶさいだいのじけん",
+    "authorIds": [
+      "freeman-wills-crofts"
+    ],
+    "detectiveIds": [
+      "inspector-french"
+    ],
+    "translatorIds": [
+      "hasegawa-shuji"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1924,
+    "status": "completed",
+    "synopsis": "宝石商の事務所で夜警が殺され、ダイヤが消える。フレンチ警部が登場する第一作で、地道な追跡と国際的な捜査が展開される。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "フレンチ警部シリーズ",
+    "originalTitle": "Inspector French's Greatest Case",
+    "jpPublishedYear": 1957,
+    "sourceNote": "書誌(グーテンベルク21、2008年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「クロフツ／[著],長谷川 修二／訳」による。初刊年1957年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "12-30-from-croydon",
+    "title": "クロイドン発12時30分",
+    "titleKana": "くろいどんはつじゅうにじさんじっぷん",
+    "authorIds": [
+      "freeman-wills-crofts"
+    ],
+    "detectiveIds": [
+      "inspector-french"
+    ],
+    "translatorIds": [
+      "shimojima-yoshiaki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "tojo",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1934,
+    "status": "completed",
+    "synopsis": "航空機の乗客が死んでいるのが見つかる。犯行に至るまでを犯人側から描く倒叙形式で、後半にフレンチ警部の捜査が重なっていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "フレンチ警部シリーズ",
+    "originalTitle": "The 12.30 from Croydon",
+    "jpPublishedYear": 1956,
+    "sourceNote": "書誌(東京創元社、2019年、ISBN 9784488106348)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「F・W・クロフツ 著,霜島義明 訳」による。初刊年1956年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "mystery-in-the-channel",
+    "title": "英仏海峡の謎",
+    "titleKana": "えいふつかいきょうのなぞ",
+    "authorIds": [
+      "freeman-wills-crofts"
+    ],
+    "detectiveIds": [
+      "inspector-french"
+    ],
+    "translatorIds": [
+      "inoue-isamu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1931,
+    "status": "completed",
+    "synopsis": "英仏海峡を漂うヨットで、金融会社の重役二人が射殺されているのが見つかる。船舶と時間の検証を積み重ねる、作者らしい捜査小説。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "フレンチ警部シリーズ",
+    "originalTitle": "Mystery in the Channel",
+    "jpPublishedYear": 1960,
+    "sourceNote": "書誌(東京創元新社、1965年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「F・W・クロフツ 著 ; 井上勇 訳」による。初刊年1960年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "starvel-hollow-tragedy",
+    "title": "スターヴェルの悲劇",
+    "titleKana": "すたーゔぇるのひげき",
+    "authorIds": [
+      "freeman-wills-crofts"
+    ],
+    "detectiveIds": [
+      "inspector-french"
+    ],
+    "translatorIds": [
+      "oba-tadao"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1927,
+    "status": "completed",
+    "synopsis": "火事で全焼した屋敷から三人の焼死体が見つかり、金庫の紙幣が灰になっていた。フレンチ警部が偽装の可能性を一つずつ潰していく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "フレンチ警部シリーズ",
+    "originalTitle": "The Starvel Hollow Tragedy",
+    "jpPublishedYear": 1987,
+    "sourceNote": "書誌(東京創元社、1987年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「F.W.クロフツ 著,大庭忠男 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "ponson-case",
+    "title": "ポンスン事件",
+    "titleKana": "ぽんすんじけん",
+    "authorIds": [
+      "freeman-wills-crofts"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "inoue-isamu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1921,
+    "status": "completed",
+    "synopsis": "川で溺死した准男爵の死をめぐり、事故か他殺かをめぐる調査が進む。作者の第二長編で、後の作風につながる緻密さが既に現れている。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Ponson Case",
+    "jpPublishedYear": 1936,
+    "sourceNote": "書誌(東京創元社、1991年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Ｆ．Ｗ．クロフツ 著 ; 井上勇 訳」による。初刊年1936年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "loss-of-the-jane-vosper",
+    "title": "ヴォスパー号の遭難",
+    "titleKana": "ゔぉすぱーごうのそうなん",
+    "authorIds": [
+      "freeman-wills-crofts"
+    ],
+    "detectiveIds": [
+      "inspector-french"
+    ],
+    "translatorIds": [
+      "shimada-sanzo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1936,
+    "status": "completed",
+    "synopsis": "航行中の貨物船が爆発し沈没する。保険金をめぐる調査からフレンチ警部が加わり、輸送と時間の記録を突き合わせて真相に近づく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "フレンチ警部シリーズ",
+    "originalTitle": "The Loss of the S.S. Jane Vosper",
+    "jpPublishedYear": 1981,
+    "sourceNote": "書誌(早川書房、1981年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「F.W.クロフツ 著,島田三蔵 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hogs-back-mystery",
+    "title": "ホッグズ・バックの怪事件",
+    "titleKana": "ほっぐずばっくのかいじけん",
+    "authorIds": [
+      "freeman-wills-crofts"
+    ],
+    "detectiveIds": [
+      "inspector-french"
+    ],
+    "translatorIds": [
+      "oba-tadao"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1933,
+    "status": "completed",
+    "synopsis": "のどかな田園地帯で医師が忽然と姿を消し、続いて別の失踪が起きる。フレンチ警部が地道な聞き込みで空白の時間を埋めていく。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "フレンチ警部シリーズ",
+    "originalTitle": "The Hog's Back Mystery",
+    "jpPublishedYear": 1983,
+    "sourceNote": "書誌(東京創元社、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「F.W.クロフツ 著,大庭忠男 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "red-harvest-hammett",
+    "title": "赤い収穫",
+    "titleKana": "あかいしゅうかく",
+    "authorIds": [
+      "dashiell-hammett"
+    ],
+    "detectiveIds": [
+      "continental-op"
+    ],
+    "translatorIds": [
+      "kodaka-nobumitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "noir",
+      "kaigai-koten"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "status": "completed",
+    "synopsis": "腐敗しきった鉱山町に降り立った探偵が、対立する勢力を互いに衝突させて街を掃除していく。乾いた文体と暴力の連鎖で知られる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Red Harvest",
+    "jpPublishedYear": 1989,
+    "sourceNote": "書誌(早川書房、1989年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ダシール・ハメット 著,小鷹信光 訳」による。初刊年1929年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "continental-op",
+    "title": "コンチネンタル・オプの事件簿",
+    "titleKana": "こんちねんたるおぷのじけんぼ",
+    "authorIds": [
+      "dashiell-hammett"
+    ],
+    "detectiveIds": [
+      "continental-op"
+    ],
+    "translatorIds": [
+      "kodaka-nobumitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "tanpenshu",
+      "kaigai-koten"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1974,
+    "status": "completed",
+    "synopsis": "名前を持たない調査員コンチネンタル・オプが登場する短編を集めた一冊。感情を排した記録のような語りが、ハードボイルドの原型を示している。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Continental Op",
+    "jpPublishedYear": 1994,
+    "sourceNote": "書誌(早川書房、1994年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ダシール・ハメット 著,小鷹信光 編訳」による。初刊年1978年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "last-good-kiss",
+    "title": "さらば甘き口づけ",
+    "titleKana": "さらばあまきくちずけ",
+    "authorIds": [
+      "james-crumley"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "koizumi-kimiko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "失踪した娘を捜す依頼を受けた探偵が、酔いどれの作家とともに西部の街を巡る。ロードムービーのような道行きと抒情でハードボイルドの名作とされる。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Last Good Kiss",
+    "jpPublishedYear": 1988,
+    "sourceNote": "書誌(早川書房、1988年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジェイムズ・クラムリー 著,小泉喜美子 訳」による。初刊年1980年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "wycherly-woman",
+    "title": "ウィチャリー家の女",
+    "titleKana": "うぃちゃりーけのおんな",
+    "authorIds": [
+      "ross-macdonald"
+    ],
+    "detectiveIds": [
+      "lew-archer"
+    ],
+    "translatorIds": [
+      "ogasawara-toyoki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "失踪した娘の行方を追ううち、家族が隠してきた過去が次々に露わになる。アーチャーが他人の家庭の歪みに分け入っていく長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リュウ・アーチャーシリーズ",
+    "originalTitle": "The Wycherly Woman",
+    "jpPublishedYear": 1962,
+    "sourceNote": "書誌(早川書房、2009年、ISBN 9784150705015)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ロス・マクドナルド著 ; 小笠原豊樹訳」による。初刊年1962年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "zebra-striped-hearse",
+    "title": "縞模様の霊柩車",
+    "titleKana": "しまもようのれいきゅうしゃ",
+    "authorIds": [
+      "ross-macdonald"
+    ],
+    "detectiveIds": [
+      "lew-archer"
+    ],
+    "translatorIds": [
+      "ogasawara-toyoki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "status": "completed",
+    "synopsis": "娘の結婚相手を調べてほしいという依頼から、過去の事件へと調査が広がる。世代を越えて連なる因縁を描くシリーズ中期の代表作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リュウ・アーチャーシリーズ",
+    "originalTitle": "The Zebra-Striped Hearse",
+    "jpPublishedYear": 1986,
+    "sourceNote": "書誌(早川書房、1986年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ロス・マクドナルド 著 ; 小笠原豊樹 訳」による。初刊年1964年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "ivory-grin",
+    "title": "象牙色の嘲笑",
+    "titleKana": "ぞうげいろのちょうしょう",
+    "authorIds": [
+      "ross-macdonald"
+    ],
+    "detectiveIds": [
+      "lew-archer"
+    ],
+    "translatorIds": [
+      "kodaka-nobumitsu",
+      "matsushita-shoko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "status": "completed",
+    "synopsis": "家出したメイドを捜す依頼を受けたアーチャーが、階級と人種の壁に阻まれながら真相に近づく。初期の代表作の一つ。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リュウ・アーチャーシリーズ",
+    "originalTitle": "The Ivory Grin",
+    "jpPublishedYear": 2016,
+    "sourceNote": "書誌(早川書房、2016年、ISBN 9784150705152)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ロス・マクドナルド 著,小鷹信光, 松下祥子 訳」による。初刊年1952年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "instant-enemy",
+    "title": "一瞬の敵",
+    "titleKana": "いっしゅんのてき",
+    "authorIds": [
+      "ross-macdonald"
+    ],
+    "detectiveIds": [
+      "lew-archer"
+    ],
+    "translatorIds": [
+      "kodaka-nobumitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1968,
+    "status": "completed",
+    "synopsis": "家出した少女とその恋人を追う依頼が、十数年前の事件へと繋がっていく。父と子の主題を執拗に描くシリーズ後期の一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リュウ・アーチャーシリーズ",
+    "originalTitle": "The Instant Enemy",
+    "jpPublishedYear": 1988,
+    "sourceNote": "書誌(早川書房、1988年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ロス・マクドナルド 著,小鷹信光 訳」による。初刊年1972年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "goodbye-look",
+    "title": "別れの顔",
+    "titleKana": "わかれのかお",
+    "authorIds": [
+      "ross-macdonald"
+    ],
+    "detectiveIds": [
+      "lew-archer"
+    ],
+    "translatorIds": [
+      "kikuchi-mitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "盗まれた金庫の中身を調べるうち、旧家の秘密と過去の死が浮かび上がる。記憶と家族の連鎖を描く、アーチャーものの完成形とされる長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "リュウ・アーチャーシリーズ",
+    "originalTitle": "The Goodbye Look",
+    "jpPublishedYear": 1982,
+    "sourceNote": "書誌(早川書房、1982年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ロス・マクドナルド／著,菊池 光／訳」による。初刊年1970年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]
