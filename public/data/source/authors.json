@@ -1366,5 +1366,181 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1979
+  },
+  {
+    "id": "yanagi-koji",
+    "name": "柳広司",
+    "nameKana": "やなぎこうじ",
+    "description": "小説家。史実や実在の題材を下敷きにした知的なミステリで知られ、『ジョーカー・ゲーム』でスパイ小説の新境地を開いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1967
+  },
+  {
+    "id": "makado-kohei",
+    "name": "真門浩平",
+    "nameKana": "まかどこうへい",
+    "description": "小説家。論理を主軸に据えた本格ミステリの短編で注目を集めている。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kamosaki-danro",
+    "name": "鴨崎暖炉",
+    "nameKana": "かもさきだんろ",
+    "description": "小説家。密室トリックを主題に据えた作品でデビューした。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "matsushiro-akira",
+    "name": "松城明",
+    "nameKana": "まつしろあきら",
+    "description": "小説家。特殊な設定と論理を組み合わせた本格ミステリを書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "okuda-hideo",
+    "name": "奥田英朗",
+    "nameKana": "おくだひでお",
+    "description": "小説家。ユーモア小説から重厚な犯罪小説まで幅広く手がけ、直木賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1959
+  },
+  {
+    "id": "ichikawa-yuto",
+    "name": "市川憂人",
+    "nameKana": "いちかわゆうと",
+    "description": "小説家。SF的な設定を導入した本格ミステリで鮎川哲也賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sjowall-wahloo",
+    "name": "マイ・シューヴァル&ペール・ヴァールー",
+    "nameKana": "まいしゅーう゛ぁるあんどぺーるう゛ぁーるー",
+    "description": "スウェーデンの作家夫妻。刑事マルティン・ベックを主人公にした全10作で、社会派警察小説の原型を作った。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "leif-gw-persson",
+    "name": "レイフ・GW・ペーション",
+    "nameKana": "れいふじーだぶりゅーぺーそん",
+    "description": "スウェーデンの犯罪学者・作家。実際の捜査知識に基づく重厚な犯罪小説を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "henning-mankell",
+    "name": "ヘニング・マンケル",
+    "nameKana": "へにんぐまんける",
+    "description": "スウェーデンの作家。刑事ヴァランダーを主人公にしたシリーズで北欧ミステリを世界に広めた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1948
+  },
+  {
+    "id": "jim-kelly",
+    "name": "ジム・ケリー",
+    "nameKana": "じむけりー",
+    "description": "イギリスの作家。東イングランドの湿地帯を舞台にしたミステリで知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "anne-holt",
+    "name": "アンネ・ホルト",
+    "nameKana": "あんねほると",
+    "description": "ノルウェーの作家。元法務大臣という経歴を持ち、社会性の強い犯罪小説を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "michel-bussi",
+    "name": "ミシェル・ビュッシ",
+    "nameKana": "みしぇるびゅっし",
+    "description": "フランスの作家・地理学者。大胆な仕掛けと風景描写を組み合わせた作品で人気を集める。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nina-george",
+    "name": "ニーナ・ゲオルゲ",
+    "nameKana": "にーなげおるげ",
+    "description": "ドイツの作家。本と旅を主題にした物語で国際的な読者を得た。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "dan-brown",
+    "name": "ダン・ブラウン",
+    "nameKana": "だんぶらうん",
+    "description": "アメリカの作家。宗教や暗号を題材にしたスリラーで世界的なベストセラーを連発した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1964
+  },
+  {
+    "id": "peter-swanson",
+    "name": "ピーター・スワンソン",
+    "nameKana": "ぴーたーすわんそん",
+    "description": "アメリカの作家。古典ミステリを踏まえた仕掛けと現代的な語りを組み合わせる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tom-rob-smith",
+    "name": "トム・ロブ・スミス",
+    "nameKana": "とむろぶすみす",
+    "description": "イギリスの作家。スターリン体制下のソ連を舞台にした犯罪小説で注目された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jean-christophe-grange",
+    "name": "ジャン=クリストフ・グランジェ",
+    "nameKana": "じゃんくりすとふぐらんじぇ",
+    "description": "フランスの作家。猟奇的な題材と疾走感のある展開で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "victor-lavalle",
+    "name": "ヴィクター・ラヴァル",
+    "nameKana": "う゛ぃくたーらう゛ぁる",
+    "description": "アメリカの作家。ホラーと社会批評を融合させた作品を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "don-winslow",
+    "name": "ドン・ウィンズロウ",
+    "nameKana": "どんうぃんずろう",
+    "description": "アメリカの作家。麻薬戦争を描いた大作から軽妙なサーフミステリまで幅広く手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1953
   }
 ]
