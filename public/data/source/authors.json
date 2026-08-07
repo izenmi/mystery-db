@@ -1938,5 +1938,125 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1971
+  },
+  {
+    "id": "yamada-futaro",
+    "name": "山田風太郎",
+    "nameKana": "やまだふうたろう",
+    "description": "小説家。忍法帖シリーズで知られる一方、探偵小説と明治ものでも独自の位置を占める。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1922
+  },
+  {
+    "id": "morimura-seiichi",
+    "name": "森村誠一",
+    "nameKana": "もりむらせいいち",
+    "description": "小説家。ホテル勤務の経験を活かした社会派推理で人気を得て、映画化作品も多い。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1933
+  },
+  {
+    "id": "natsuki-shizuko",
+    "name": "夏樹静子",
+    "nameKana": "なつきしずこ",
+    "description": "小説家。女性の視点から描く社会派推理で、海外でも翻訳された。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1938
+  },
+  {
+    "id": "togawa-masako",
+    "name": "戸川昌子",
+    "nameKana": "とがわまさこ",
+    "description": "小説家・シャンソン歌手。妖しさのある独特の作風で江戸川乱歩賞を受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1931
+  },
+  {
+    "id": "inoue-yumehito",
+    "name": "井上夢人",
+    "nameKana": "いのうえゆめひと",
+    "description": "小説家。岡嶋二人の一方として活動したのち単独名義に移り、特異な着想の作品を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1950
+  },
+  {
+    "id": "nikaido-reito",
+    "name": "二階堂黎人",
+    "nameKana": "にかいどうれいと",
+    "description": "小説家。長大な本格ミステリと不可能犯罪ものを手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1959
+  },
+  {
+    "id": "ashibe-taku",
+    "name": "芦辺拓",
+    "nameKana": "あしべたく",
+    "description": "小説家。弁護士探偵森江春策のシリーズなど、古典的趣向を現代に接続する作品を書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1958
+  },
+  {
+    "id": "kobayashi-yasumi",
+    "name": "小林泰三",
+    "nameKana": "こばやしやすみ",
+    "description": "小説家。ホラーとSFの手法を本格ミステリに持ち込んだ作品で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1962
+  },
+  {
+    "id": "hamanaka-aki",
+    "name": "葉真中顕",
+    "nameKana": "はまなかあき",
+    "description": "小説家。介護や労働など社会の問題を正面から扱うミステリを書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1976
+  },
+  {
+    "id": "tsukimura-ryoe",
+    "name": "月村了衛",
+    "nameKana": "つきむらりょうえ",
+    "description": "小説家。脚本家出身で、アクション性の高い警察小説・犯罪小説を手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1963
+  },
+  {
+    "id": "kurokawa-hiroyuki",
+    "name": "黒川博行",
+    "nameKana": "くろかわひろゆき",
+    "description": "小説家。関西を舞台にした犯罪小説で、会話の妙と乾いた笑いに定評がある。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1949
+  },
+  {
+    "id": "sato-kiwamu",
+    "name": "佐藤究",
+    "nameKana": "さとうきわむ",
+    "description": "小説家。暴力と神話的な主題を組み合わせた作品で直木賞などを受賞した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1977
   }
 ]

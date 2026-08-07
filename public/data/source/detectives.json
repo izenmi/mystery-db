@@ -1079,5 +1079,35 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "jussi-adler-olsen"
+  },
+  {
+    "id": "yogi-ganji",
+    "name": "ヨギ ガンジー",
+    "nameKana": "よぎがんじー",
+    "description": "泡坂妻夫が生んだ風変わりな探偵役。奇術師でもある作者らしい仕掛けの中心に立つ。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "awasaka-tsumao"
+  },
+  {
+    "id": "nikaido-ranko",
+    "name": "二階堂蘭子",
+    "nameKana": "にかいどうらんこ",
+    "description": "二階堂黎人の作品に登場する女性名探偵。不可能犯罪を論理で解体していく。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "nikaido-reito"
+  },
+  {
+    "id": "morie-shunsaku",
+    "name": "森江春策",
+    "nameKana": "もりえしゅんさく",
+    "description": "元新聞記者の弁護士探偵。法廷ものから怪奇趣味の強い事件まで幅広く関わる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "ashibe-taku"
   }
 ]
