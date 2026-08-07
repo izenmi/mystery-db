@@ -2058,5 +2058,124 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "birthYear": 1977
+  },
+  {
+    "id": "boileau-narcejac",
+    "name": "ボアロー&ナルスジャック",
+    "nameKana": "ぼあろーあんどなるすじゃっく",
+    "description": "フランスの作家二人による合作名義。心理的な不安を積み上げるサスペンスでフランスミステリの一時代を築いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sebastien-japrisot",
+    "name": "セバスチアン・ジャプリゾ",
+    "nameKana": "せばすちあんじゃぷりぞ",
+    "description": "フランスの作家・脚本家。記憶や視点の操作を用いた技巧的なミステリで知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1931
+  },
+  {
+    "id": "austin-freeman",
+    "name": "R・オースティン・フリーマン",
+    "nameKana": "あーるおーすてぃんふりーまん",
+    "description": "イギリスの作家。科学的手法で謎を解くソーンダイク博士を生み、倒叙ミステリの形式を確立した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1862
+  },
+  {
+    "id": "nicholas-blake",
+    "name": "ニコラス・ブレイク",
+    "nameKana": "にこらすぶれいく",
+    "description": "イギリスの詩人セシル・デイ=ルイスが探偵小説を書く際に用いた筆名。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1904
+  },
+  {
+    "id": "rex-stout",
+    "name": "レックス・スタウト",
+    "nameKana": "れっくすすたうと",
+    "description": "アメリカの作家。安楽椅子探偵ネロ・ウルフのシリーズを長期にわたって書き続けた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1886
+  },
+  {
+    "id": "john-le-carre",
+    "name": "ジョン・ル・カレ",
+    "nameKana": "じょんるかれ",
+    "description": "イギリスの作家。元情報部員で、冷戦下のスパイの現実を抑制した筆致で描いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1931
+  },
+  {
+    "id": "frederick-forsyth",
+    "name": "フレデリック・フォーサイス",
+    "nameKana": "ふれでりっくふぉーさいす",
+    "description": "イギリスの作家。記者としての取材力を活かした緻密なドキュメンタリー的手法で冒険小説を書いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1938
+  },
+  {
+    "id": "ken-follett",
+    "name": "ケン・フォレット",
+    "nameKana": "けんふぉれっと",
+    "description": "イギリスの作家。戦時下のスパイ小説から歴史大作まで幅広く手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1949
+  },
+  {
+    "id": "jack-higgins",
+    "name": "ジャック・ヒギンズ",
+    "nameKana": "じゃっくひぎんず",
+    "description": "イギリスの作家。第二次大戦を舞台にした冒険小説で世界的な人気を得た。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1929
+  },
+  {
+    "id": "alistair-maclean",
+    "name": "アリステア・マクリーン",
+    "nameKana": "ありすてあまくりーん",
+    "description": "イギリスの作家。海軍での経験を背景にした冒険小説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1922
+  },
+  {
+    "id": "dick-francis",
+    "name": "ディック・フランシス",
+    "nameKana": "でぃっくふらんしす",
+    "description": "イギリスの作家。元障害競馬の騎手で、競馬界を舞台にした一連の作品を書いた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1920
+  },
+  {
+    "id": "francis-iles",
+    "name": "フランシス・アイルズ",
+    "nameKana": "ふらんしすあいるず",
+    "description": "アントニイ・バークリーが心理犯罪小説を書く際に用いた筆名。倒叙形式の先駆となった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1893
   }
 ]

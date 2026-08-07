@@ -33108,5 +33108,868 @@
     "externalLinks": {},
     "updatedAt": "2026-08-07",
     "sourceNote": "書誌(文藝春秋、2020年、ISBN 9784167914523)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「桐野夏生 著」による。初刊年2017年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "parfum-dame-en-noir",
+    "title": "黒衣夫人の香り",
+    "titleKana": "こくいふじんのかおり",
+    "authorIds": [
+      "gaston-leroux"
+    ],
+    "detectiveIds": [
+      "rouletabille"
+    ],
+    "translatorIds": [
+      "hikage-jokichi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1908,
+    "status": "completed",
+    "synopsis": "『黄色い部屋の謎』に続く一編。新婚の館を舞台に、再び若き記者ルールタビーユが不可解な出来事に挑む。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ルールタビーユシリーズ",
+    "originalTitle": "Le Parfum de la dame en noir",
+    "jpPublishedYear": 1979,
+    "sourceNote": "書誌(早川書房、1979年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ガストン・ルルー 著,日影丈吉 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "celle-qui-netait-plus",
+    "title": "悪魔のような女",
+    "titleKana": "あくまのようなおんな",
+    "authorIds": [
+      "boileau-narcejac"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kitamura-taro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "status": "completed",
+    "synopsis": "共謀して妻を殺した男の前に、あるはずのない痕跡が現れ始める。心理的な締め付けを積み上げるフランスサスペンスの代表作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Celle qui n'était plus",
+    "jpPublishedYear": 1996,
+    "sourceNote": "書誌(早川書房、1996年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ボアロー, ナルスジャック 著,北村太郎 訳」による。初刊年1952年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "piege-pour-cendrillon",
+    "title": "シンデレラの罠",
+    "titleKana": "しんでれらのわな",
+    "authorIds": [
+      "sebastien-japrisot"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "hiraoka-atsushi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "status": "completed",
+    "synopsis": "火事で記憶と顔を失った女性が、自分が誰なのかを確かめようとする。語りの構造そのものが仕掛けになった長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Piège pour Cendrillon",
+    "jpPublishedYear": 2012,
+    "sourceNote": "書誌(東京創元社、2012年、ISBN 9784488142063)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「セバスチアン・ジャプリゾ著 ; 平岡敦訳」による。初刊年1964年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "dame-dans-lauto",
+    "title": "新車の中の女",
+    "titleKana": "しんしやのなかのおんなそうげんすいりぶんこ",
+    "authorIds": [
+      "sebastien-japrisot"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "mochizuki-yoshiro"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "status": "completed",
+    "synopsis": "車で南へ向かった女性が、行く先々で「昨日も来た」と言われる。自分の正気を疑いながら進む異色のサスペンス。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "La Dame dans l'auto avec des lunettes et un fusil",
+    "jpPublishedYear": 1976,
+    "sourceNote": "書誌(東京創元社、1976年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「セバスティアン・ジャプリゾ／著者,望月　芳郎／訳者」による。初刊年1968年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "un-long-dimanche",
+    "title": "長い日曜日",
+    "titleKana": "ながいにちようび",
+    "authorIds": [
+      "sebastien-japrisot"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tabe-takemitsu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "第一次大戦で戦死したとされる婚約者の行方を、女性が粘り強く調べていく。手紙と証言を積み重ねる構成の長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Un long dimanche de fiançailles",
+    "jpPublishedYear": 2005,
+    "sourceNote": "書誌(東京創元社、2005年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「セバスチアン・ジャプリゾ 著,田部武光 訳」による。初刊年1994年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "red-thumb-mark",
+    "title": "赤い拇指紋",
+    "titleKana": "あかいぼしもん",
+    "authorIds": [
+      "austin-freeman"
+    ],
+    "detectiveIds": [
+      "dr-thorndyke"
+    ],
+    "translatorIds": [
+      "yoshino-mieko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1907,
+    "status": "completed",
+    "synopsis": "指紋という当時最新の証拠が被告を追い詰める中、ソーンダイク博士が科学的検証で立ち向かう。シリーズ第一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ソーンダイク博士シリーズ",
+    "originalTitle": "The Red Thumb Mark",
+    "jpPublishedYear": 1982,
+    "sourceNote": "書誌(東京創元社、1982年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「オースチン・フリーマン 著,吉野美恵子 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "green-for-danger",
+    "title": "緑は危険",
+    "titleKana": "みどりわきけん",
+    "authorIds": [
+      "christianna-brand"
+    ],
+    "detectiveIds": [
+      "inspector-cockrill"
+    ],
+    "translatorIds": [
+      "nakamura-yasuo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku",
+      "closed-circle"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1944,
+    "status": "completed",
+    "synopsis": "空襲下の野戦病院で、手術中に患者が死亡する。限られた容疑者の中から犯人を絞り込む、作者の代表作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "コックリル警部シリーズ",
+    "originalTitle": "Green for Danger",
+    "jpPublishedYear": 1983,
+    "sourceNote": "書誌(早川書房、1983年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「クリスチアナ・ブランド 著 ; 中村保男 訳」による。初刊年1958年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "beast-must-die",
+    "title": "野獣死すべし",
+    "titleKana": "やじゅうしすべし",
+    "authorIds": [
+      "nicholas-blake"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nagai-jun"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense",
+      "tojo"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1938,
+    "status": "completed",
+    "synopsis": "息子を轢き逃げで失った父が、犯人を突き止めて殺すまでを日記に記す。倒叙形式の古典として名高い長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Beast Must Die",
+    "jpPublishedYear": 1995,
+    "sourceNote": "書誌(早川書房、1995年、ISBN 9784150710019)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ニコラス・ブレイク著 ; 永井淳訳」による。初刊年1954年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "too-many-cooks",
+    "title": "料理長が多すぎる",
+    "titleKana": "りょうりちょうがおおすぎる",
+    "authorIds": [
+      "rex-stout"
+    ],
+    "detectiveIds": [
+      "nero-wolfe"
+    ],
+    "translatorIds": [
+      "hirai-isaku"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1938,
+    "status": "completed",
+    "synopsis": "世界の名料理人が集う会合で殺人が起きる。滅多に外出しないウルフが遠出をする、シリーズでも異色の一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ネロ・ウルフシリーズ",
+    "originalTitle": "Too Many Cooks",
+    "jpPublishedYear": 1986,
+    "sourceNote": "書誌(早川書房、1986年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「レックス・スタウト 著 ; 平井イサク 訳」による。初刊年1976年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "spy-who-came-in",
+    "title": "寒い国から帰ってきたスパイ",
+    "titleKana": "さむいくにからかえってきたすぱい",
+    "authorIds": [
+      "john-le-carre"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "uno-toshiyasu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1963,
+    "status": "completed",
+    "synopsis": "東西ドイツの境界を舞台に、使い捨てられていく諜報員を描く。英雄的な物語を退けたスパイ小説の転換点。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Spy Who Came in from the Cold",
+    "jpPublishedYear": 2012,
+    "sourceNote": "書誌(早川書房、2012年、ISBN 9784150401740)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ル・カレ著 ; 宇野利泰訳」による。初刊年1964年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "tinker-tailor",
+    "title": "ティンカー、テイラー、ソルジャー、スパイ",
+    "titleKana": "てぃんかーていらーそるじゃーすぱい",
+    "authorIds": [
+      "john-le-carre"
+    ],
+    "detectiveIds": [
+      "george-smiley"
+    ],
+    "translatorIds": [
+      "murakami-hiroki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1974,
+    "status": "completed",
+    "synopsis": "情報部の中枢に潜む二重スパイを、引退したスマイリーが洗い出す。書類と記憶をたどる静かな捜査の物語。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "スマイリー三部作",
+    "originalTitle": "Tinker, Tailor, Soldier, Spy",
+    "jpPublishedYear": 2012,
+    "sourceNote": "書誌(早川書房、2012年、ISBN 9784150412531)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ル・カレ 著,村上博基 訳」による。初刊年1986年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "day-of-the-jackal",
+    "title": "ジャッカルの日",
+    "titleKana": "じゃっかるのひ",
+    "authorIds": [
+      "frederick-forsyth"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "shinohara-shin"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1971,
+    "status": "completed",
+    "synopsis": "大統領暗殺を請け負った狙撃手と、それを追う警察の攻防を克明に描く。ドキュメンタリー的手法で読ませるデビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Day of the Jackal",
+    "jpPublishedYear": 2022,
+    "sourceNote": "書誌(KADOKAWA、2022年、ISBN 9784041131329)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「フレデリック・フォーサイス [著],篠原慎 訳」による。初刊年1973年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "eye-of-the-needle",
+    "title": "針の眼",
+    "titleKana": "はりのめ",
+    "authorIds": [
+      "ken-follett"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "toda-hiroyuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "連合軍の上陸作戦の秘密をつかんだドイツ側の工作員が、本国へ情報を届けようとする。追う者と追われる者の物語。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Eye of the Needle",
+    "jpPublishedYear": 2009,
+    "sourceNote": "書誌(東京創元社、2009年、ISBN 9784488129033)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ケン・フォレット 著,戸田裕之 訳」による。初刊年1980年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "eagle-has-landed",
+    "title": "鷲は舞い降りた",
+    "titleKana": "わしわまいおりた",
+    "authorIds": [
+      "jack-higgins"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kikuchi-mitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "英国の首相誘拐という無謀な作戦に挑むドイツ空挺部隊を描く。敵味方の双方を人間として書いた冒険小説の名作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Eagle Has Landed",
+    "jpPublishedYear": 1997,
+    "sourceNote": "書誌(早川書房、1997年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジャック・ヒギンズ著 ; 菊池光訳」による。初刊年1977年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "hms-ulysses",
+    "title": "女王陛下のユリシーズ号",
+    "titleKana": "じょおうへいかのゆりしーずごう",
+    "authorIds": [
+      "alistair-maclean"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "murakami-hiroki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1955,
+    "status": "completed",
+    "synopsis": "極寒の北極海で船団護衛にあたる巡洋艦の航海を描く。海軍勤務の経験に裏打ちされたデビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "HMS Ulysses",
+    "jpPublishedYear": 2011,
+    "sourceNote": "書誌(早川書房、2011年、ISBN 9784150400071)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アリステア・マクリーン著 ; 村上博基訳」による。初刊年1967年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "guns-of-navarone",
+    "title": "ナヴァロンの要塞",
+    "titleKana": "なゔぁろんのようさい",
+    "authorIds": [
+      "alistair-maclean"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "hirai-isaku"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1957,
+    "status": "completed",
+    "synopsis": "難攻不落の砲台を破壊するため、少人数の部隊が島に潜入する。映画化もされた冒険小説の代表作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Guns of Navarone",
+    "jpPublishedYear": 2013,
+    "sourceNote": "書誌(早川書房、2013年、ISBN 9784150401313)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アリステア・マクリーン著 ; 平井イサク訳」による。初刊年1966年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "for-kicks",
+    "title": "興奮",
+    "titleKana": "こうふん",
+    "authorIds": [
+      "dick-francis"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kikuchi-mitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1965,
+    "status": "completed",
+    "synopsis": "競走馬に何が起きているのかを探るため、青年が厩務員として潜入する。競馬界を舞台にした一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "競馬シリーズ",
+    "originalTitle": "For Kicks",
+    "jpPublishedYear": 2011,
+    "sourceNote": "書誌(早川書房、2011年、ISBN 9784150707019)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ディック・フランシス著 ; 菊池光訳」による。初刊年1967年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "enquiry",
+    "title": "罰金",
+    "titleKana": "ばっきん",
+    "authorIds": [
+      "dick-francis"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kikuchi-mitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "八百長の裁定で騎手免許を取り上げられた男が、自らの潔白を証明しようとする。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "競馬シリーズ",
+    "originalTitle": "Enquiry",
+    "jpPublishedYear": 1998,
+    "sourceNote": "書誌(早川書房、1998年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ディック・フランシス著 ; 菊池光訳」による。初刊年1969年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "whip-hand",
+    "title": "利腕",
+    "titleKana": "ききうで",
+    "authorIds": [
+      "dick-francis"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kikuchi-mitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "hardboiled",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "片手を失って騎手を引退し調査業に就いた男が、新たな依頼に向き合う。英国推理作家協会賞を受賞した長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "シッド・ハレーシリーズ",
+    "originalTitle": "Whip Hand",
+    "jpPublishedYear": 1985,
+    "sourceNote": "書誌(早川書房、1985年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ディック・フランシス 著,菊池光 訳」による。初刊年1981年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "nerve",
+    "title": "度胸",
+    "titleKana": "どきょう",
+    "authorIds": [
+      "dick-francis"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kikuchi-mitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "騎手たちが次々と不振に陥る背景を、若い騎手が探っていく。主人公が痛めつけられながら立ち上がる作風の一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "競馬シリーズ",
+    "originalTitle": "Nerve",
+    "jpPublishedYear": 1986,
+    "sourceNote": "書誌(早川書房、1986年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ディック・フランシス 著 ; 菊池光 訳」による。初刊年1968年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "dead-cert",
+    "title": "本命",
+    "titleKana": "ほんめい",
+    "authorIds": [
+      "dick-francis"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kikuchi-mitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "status": "completed",
+    "synopsis": "レース中に落馬死した友人の死に疑いを持った騎手が、真相を追う。元騎手である作者のデビュー作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "競馬シリーズ",
+    "originalTitle": "Dead Cert",
+    "jpPublishedYear": 1986,
+    "sourceNote": "書誌(早川書房、1986年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ディック・フランシス 著 ; 菊池光 訳」による。初刊年1968年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "second-shot",
+    "title": "第二の銃声",
+    "titleKana": "だい2のじゅうせい",
+    "authorIds": [
+      "anthony-berkeley"
+    ],
+    "detectiveIds": [
+      "roger-sheringham"
+    ],
+    "translatorIds": [
+      "nishizaki-ken"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1930,
+    "status": "completed",
+    "synopsis": "殺人ごっこの余興の最中に本物の死体が出る。推理の可謬性をめぐる作者の関心が表れた一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ロジャー・シェリンガムシリーズ",
+    "originalTitle": "The Second Shot",
+    "jpPublishedYear": 2011,
+    "sourceNote": "書誌(東京創元社、2011年、ISBN 9784488123079)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アントニイ・バークリー 著,西崎憲 訳」による。初刊年1936年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "jumping-jenny",
+    "title": "ジャンピング・ジェニイ",
+    "titleKana": "じゃんぴんぐじぇにい",
+    "authorIds": [
+      "anthony-berkeley"
+    ],
+    "detectiveIds": [
+      "roger-sheringham"
+    ],
+    "translatorIds": [
+      "karino-ichiro"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1933,
+    "status": "completed",
+    "synopsis": "殺人者に扮する仮装パーティの夜、絞首台の人形の隣で女性が死ぬ。皮肉な展開で知られる代表作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ロジャー・シェリンガムシリーズ",
+    "originalTitle": "Jumping Jenny",
+    "jpPublishedYear": 2009,
+    "sourceNote": "書誌(東京創元社、2009年、ISBN 9784488123062)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アントニイ・バークリー 著,狩野一郎 訳」による。初刊年2001年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "top-storey-murder",
+    "title": "最上階の殺人",
+    "titleKana": "さいじょうかいのさつじん",
+    "authorIds": [
+      "anthony-berkeley"
+    ],
+    "detectiveIds": [
+      "roger-sheringham"
+    ],
+    "translatorIds": [
+      "fujimura-hiromi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1931,
+    "status": "completed",
+    "synopsis": "アパート最上階で老女が殺される。シェリンガムが素人探偵として捜査に加わる一編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "seriesName": "ロジャー・シェリンガムシリーズ",
+    "originalTitle": "Top Storey Murder",
+    "jpPublishedYear": 2024,
+    "sourceNote": "書誌(東京創元社、2024年、ISBN 9784488123093)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アントニイ・バークリー 著,藤村裕美 訳」による。初刊年2001年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "piccadilly-murder",
+    "title": "ピカデリーの殺人",
+    "titleKana": "ぴかでりーのさつじん",
+    "authorIds": [
+      "anthony-berkeley"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "mano-akihiro"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "status": "completed",
+    "synopsis": "ホテルのラウンジで毒殺を目撃した小柄な男が、証言者として事件に巻き込まれる。皮肉の効いた長編。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Piccadilly Murder",
+    "jpPublishedYear": 1984,
+    "sourceNote": "書誌(東京創元社、1984年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アントニイ・バークリー 著,真野明裕 訳」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+  },
+  {
+    "id": "as-for-the-woman",
+    "title": "レディに捧げる殺人物語",
+    "titleKana": "れでいにささげるさつじんも",
+    "authorIds": [
+      "francis-iles"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ayukawa-nobuo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "kaigai-koten",
+      "suspense",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1939,
+    "status": "completed",
+    "synopsis": "若い男と年上の女性の関係を、心理を細かく追いながら描く。犯罪心理小説を切り開いた作者の一作。",
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "updatedAt": "2026-08-07",
+    "originalTitle": "As for the Woman",
+    "jpPublishedYear": 1985,
+    "sourceNote": "書誌(東京創元社、1985年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「フランシス・アイルズ 著 ; 鮎川信夫 訳」による。初刊年1972年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   }
 ]

@@ -1109,5 +1109,35 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "ashibe-taku"
+  },
+  {
+    "id": "dr-thorndyke",
+    "name": "ソーンダイク博士",
+    "nameKana": "そーんだいくはかせ",
+    "description": "科学的な物証の分析で事件を解く探偵。実験と観察を重んじる姿勢は後年の科学捜査ものの原型となった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "austin-freeman"
+  },
+  {
+    "id": "nero-wolfe",
+    "name": "ネロ・ウルフ",
+    "nameKana": "ねろうるふ",
+    "description": "蘭の栽培と美食を愛し、めったに家を出ない巨漢の探偵。外回りの調査は助手アーチー・グッドウィンが担う。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "rex-stout"
+  },
+  {
+    "id": "george-smiley",
+    "name": "ジョージ・スマイリー",
+    "nameKana": "じょーじすまいりー",
+    "description": "目立たない風貌の情報部員。派手な活劇とは無縁の、書類と記憶をたどる地味な仕事で敵を追い詰める。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "creatorAuthorId": "john-le-carre"
   }
 ]

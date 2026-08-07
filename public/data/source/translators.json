@@ -927,5 +927,108 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hikage-jokichi",
+    "name": "日影丈吉",
+    "nameKana": "ひかげじょうきち",
+    "description": "小説家・翻訳家。フランス語圏の作品を訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1908
+  },
+  {
+    "id": "kitamura-taro",
+    "name": "北村太郎",
+    "nameKana": "きたむらたろう",
+    "description": "詩人・翻訳家。フランスのミステリを訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1922
+  },
+  {
+    "id": "mochizuki-yoshiro",
+    "name": "望月芳郎",
+    "nameKana": "もちづきよしろう",
+    "description": "フランス文学者・翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tabe-takemitsu",
+    "name": "田部武光",
+    "nameKana": "たべたけみつ",
+    "description": "翻訳家。フランスの小説を訳している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hirai-isaku",
+    "name": "平井イサク",
+    "nameKana": "ひらいいさく",
+    "description": "翻訳家。英米の冒険小説・ミステリを数多く訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "murakami-hiroki",
+    "name": "村上博基",
+    "nameKana": "むらかみひろき",
+    "description": "翻訳家。ル・カレやマクリーンなどイギリスの作品を訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1936
+  },
+  {
+    "id": "shinohara-shin",
+    "name": "篠原慎",
+    "nameKana": "しのはらしん",
+    "description": "翻訳家。フォーサイスの作品を訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nishizaki-ken",
+    "name": "西崎憲",
+    "nameKana": "にしざきけん",
+    "description": "翻訳家・作家。英国の小説を訳し、アンソロジーの編纂も手がける。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "karino-ichiro",
+    "name": "狩野一郎",
+    "nameKana": "かりのいちろう",
+    "description": "翻訳家。英国の古典ミステリを訳している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mano-akihiro",
+    "name": "真野明裕",
+    "nameKana": "まのあきひろ",
+    "description": "翻訳家。英米のミステリを訳している。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ayukawa-nobuo",
+    "name": "鮎川信夫",
+    "nameKana": "あゆかわのぶお",
+    "description": "詩人・翻訳家。英米の小説を訳した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
+    "updatedAt": "2026-08-07",
+    "birthYear": 1920
   }
 ]
