@@ -278,5 +278,23 @@
     "externalLinks": {},
     "sourceNote": "出版社の概要は各社公式サイト等の一般に公開されている情報に基づく。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mainichi-shimbun",
+    "name": "毎日新聞出版(毎日新聞社)",
+    "nameKana": "まいにちしんぶんしゅっぱん",
+    "description": "毎日新聞社系の出版社。2016年に毎日新聞社の出版事業を分社化して発足した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nihon-hyoronsha",
+    "name": "日本評論社",
+    "nameKana": "にほんひょうろんしゃ",
+    "description": "法律・経済・数学などの専門書を刊行する出版社。ミステリ関連では『天城一の密室犯罪学教程』などを手がけた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]
