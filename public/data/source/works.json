@@ -67054,5 +67054,475 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koinogondorashinsouban",
+    "title": "恋のゴンドラ　新装版",
+    "titleKana": "こいのごんどらしんそうばん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "suspense",
+      "igai-na-hannin",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "逃げ場のないゴンドラで、浮気相手と婚約者が鉢合わせる。密室から始まる恋愛ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "asahina-san-to-himitsu-no-aibou",
+    "title": "朝比奈さんと秘密の相棒",
+    "titleKana": "あさひなさんとひみつのあいぼう",
+    "authorIds": [
+      "higashigawa-tokuya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "gakuen",
+      "nichijo-no-nazo",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "鯉ケ窪学園を舞台にしたユーモアミステリ。理事長の娘・朝比奈麗華が、学園で起きる事件に挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "anegodekagekitou",
+    "title": "姐御刑事　激闘",
+    "titleKana": "あねごでかげきとう",
+    "authorIds": [
+      "minamihideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "hardboiled"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "東京地検特捜部の男性が殺された事件を追う女性刑事を描く警察サスペンス。シリーズ第3弾。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arugorizumu-no-sashou",
+    "title": "アルゴリズムの査証",
+    "titleKana": "あるごりずむのさしょう",
+    "authorIds": [
+      "kaido-takeru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "東城大学医学部付属病院を舞台にしたシリーズ最新作。臨床研修マッチングや働き方改革が波乱を呼ぶ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kono-sumaho-de-chikarougoku-kara-dasshutsu-shite",
+    "title": "このスマホで地下牢獄から脱出してください",
+    "titleKana": "このすまほでちかろうごくからだっしゅつしてください",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "目覚めると顔を撃たれた死体と見知らぬスマホがあった。電池が尽きれば死——読む脱出ゲーム。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work",
+    "title": "噺家志ん平捕物帖　品川偽心",
+    "titleKana": "",
+    "authorIds": [
+      "kazenomachio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "jidai-mystery",
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "若き噺家が事件の真相に「オチ」をつける、落語と捕物帖を掛け合わせた新シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tanteibuhenochousenjouhoukagohamisuteritotomonis",
+    "title": "探偵部への挑戦状　放課後はミステリーとともに　新装版",
+    "titleKana": "たんていぶへのちょうせんじょうほうかごはみすてりーとともにしんそうばん",
+    "authorIds": [
+      "higashigawa-tokuya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "gakuen",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": null,
+    "status": "completed",
+    "synopsis": "鯉ケ窪学園探偵部の副部長・霧ケ峰涼が、ミステリ研究会の部長と推理合戦を繰り広げる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kodoku-na-yoru",
+    "title": "孤独な夜",
+    "titleKana": "こどくなよる",
+    "authorIds": [
+      "author-102821"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-406076"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "kaigai-koten"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "刑事ケイト・リンヴィルのシリーズ第4作。女性殺人事件の現場から捜査が始まる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "EINSAME NACHT",
+    "jpPublishedYear": 2026
+  },
+  {
+    "id": "shayoukan-satsujin-jiken",
+    "title": "斜陽館殺人事件",
+    "titleKana": "しゃようかんさつじんじけん",
+    "authorIds": [
+      "author-322718"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakayama-yutaka"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "yakata-mono"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "英国貴族の館で起きた塔の書斎の密室殺人に、流浪の名探偵が挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE CASE OF THE CANTERFELL CODICIL",
+    "jpPublishedYear": 2026
+  },
+  {
+    "id": "yomei-isshuukan-no-tantei-to-shite",
+    "title": "余命一週間の探偵として",
+    "titleKana": "よめいいっしゅうかんのたんていとして",
+    "authorIds": [
+      "horijakuson"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-526072"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "dokusha-e-no-chosen",
+      "igai-na-hannin"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "ハロウィーンの晩に殴打された27歳のジェットが、自分を殺した犯人を探す。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "NOT QUITE DEAD YET",
+    "jpPublishedYear": 2026
+  },
+  {
+    "id": "bokutachi-no-kokuhaku",
+    "title": "ぼくたちの告白",
+    "titleKana": "ぼくたちのこくはく",
+    "authorIds": [
+      "author-88101"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "honkaku",
+      "jojutsu-trick",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "第24回『このミステリーがすごい!』大賞・隠し玉作品。どんでん返しを重ねる推理戦を描く。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kakashi-no-mura-no-satsujin",
+    "title": "案山子の村の殺人",
+    "titleKana": "かかしのむらのさつじん",
+    "authorIds": [
+      "kusutanitasuku"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "dokusha-e-no-chosen",
+      "kotou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "案山子だらけの山村を舞台にした犯人当て。読者への挑戦状を備える。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ryouken-no-hokori",
+    "title": "猟犬の誇り",
+    "titleKana": "りょうけんのほこり",
+    "authorIds": [
+      "author-849872"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-998977"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "igai-na-hannin"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "連続殺人犯だけを狙う連続殺人犯を、孤高のFBI捜査官が追う。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "HEAD CASES",
+    "jpPublishedYear": 2026
+  },
+  {
+    "id": "keiji-no-kyoukaisen",
+    "title": "刑事の境界線",
+    "titleKana": "けいじのきょうかいせん",
+    "authorIds": [
+      "miyajimaakemichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "第24回『このミステリーがすごい!』大賞文庫グランプリ受賞作。モジュラー型の警察ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "minamo-no-chouka",
+    "title": "水面の弔花",
+    "titleKana": "みなものちょうか",
+    "authorIds": [
+      "author-780568"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tamaki-toru"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "kaigai-koten"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "イングランド北東部を舞台に、浴槽で絞殺された女性の事件をヴェラ警部が追う。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "HIDDEN DEPTHS",
+    "jpPublishedYear": 2026
   }
 ]

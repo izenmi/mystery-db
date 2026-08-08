@@ -503,5 +503,23 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "rights-sha",
+    "name": "ライツ社",
+    "nameKana": "らいつしゃ",
+    "description": "2016年創業の出版社。",
+    "externalLinks": {},
+    "sourceNote": "楽天ブックスの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "saizusha",
+    "name": "彩図社",
+    "nameKana": "さいずしゃ",
+    "description": "1993年創業の出版社。実話・怪談系の書籍も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "楽天ブックスの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

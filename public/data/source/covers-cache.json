@@ -434,6 +434,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-08T05:48:30.653Z"
   },
+  "anegodekagekitou": {
+    "title": "姐御刑事　激闘",
+    "isbn": "9784408560335",
+    "matchedTitle": "姐御刑事　激闘",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0335/9784408560335.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:44:59.283Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18737327/"
+  },
   "ankoku-douwa": {
     "title": "暗黒童話",
     "isbn": "9784087476958",
@@ -649,6 +658,15 @@
     "resolvedAt": "2026-08-08T00:10:35.814Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15179355/"
   },
+  "arugorizumu-no-sashou": {
+    "title": "アルゴリズムの査証",
+    "isbn": "9784299080165",
+    "matchedTitle": "アルゴリズムの査証",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0165/9784299080165_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:00.438Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18682629/"
+  },
   "arupaton-no-tenshitachi": {
     "title": "アルパートンの天使たち",
     "isbn": "9784087607949",
@@ -666,6 +684,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T05:09:52.174Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/151568/"
+  },
+  "asahina-san-to-himitsu-no-aibou": {
+    "title": "朝比奈さんと秘密の相棒",
+    "isbn": "9784408538716",
+    "matchedTitle": "朝比奈さんと秘密の相棒",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8716/9784408538716_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:44:57.492Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17988350/"
   },
   "asakusa-enoken-ichiza-no-arashi": {
     "title": "浅草エノケン一座の嵐",
@@ -1165,6 +1192,15 @@
     "resolvedAt": "2026-08-04T05:32:48.189Z",
     "note": "登録どおりクリスティー文庫の羽田詩津子訳。自動取得では偕成社の児童向け版が当たっていたため差し替えた。",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11255355/"
+  },
+  "bokutachi-no-kokuhaku": {
+    "title": "ぼくたちの告白",
+    "isbn": "9784299077233",
+    "matchedTitle": "ぼくたちの告白",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7233/9784299077233_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:09.677Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18639982/"
   },
   "bokyo-minato": {
     "title": "望郷",
@@ -5633,6 +5669,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-07T15:26:21.505Z"
   },
+  "kakashi-no-mura-no-satsujin": {
+    "title": "案山子の村の殺人",
+    "isbn": "9784488020231",
+    "matchedTitle": "案山子の村の殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0231/9784488020231.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:10.830Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17649576/"
+  },
   "kakei-hotei": {
     "title": "火刑法廷",
     "isbn": null,
@@ -6122,6 +6167,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-04T05:27:32.457Z",
     "note": "書影は新潮文庫の合本版(第一部〜第五部)。文庫版は大幅に改稿されている。"
+  },
+  "keiji-no-kyoukaisen": {
+    "title": "刑事の境界線",
+    "isbn": "9784299078810",
+    "matchedTitle": "刑事の境界線",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8810/9784299078810_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:13.116Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18608103/"
   },
   "keiji-no-manazashi": {
     "title": "刑事のまなざし",
@@ -6793,6 +6847,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T15:23:20.465Z"
   },
+  "kodoku-na-yoru": {
+    "title": "孤独な夜",
+    "isbn": "9784488211172",
+    "matchedTitle": "孤独な夜 下",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1172/9784488211172_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:06.224Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18650529/"
+  },
   "kodomo-no-itazura": {
     "title": "子供の悪戯",
     "isbn": null,
@@ -6881,6 +6944,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T09:45:09.116Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11529630/"
+  },
+  "koinogondorashinsouban": {
+    "title": "恋のゴンドラ　新装版",
+    "isbn": "9784408560380",
+    "matchedTitle": "恋のゴンドラ　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0380/9784408560380.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:44:56.341Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18737332/"
   },
   "koko-nyushi": {
     "title": "高校入試",
@@ -7011,6 +7083,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:52:23.478Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4062214/"
+  },
+  "kono-sumaho-de-chikarougoku-kara-dasshutsu-shite": {
+    "title": "このスマホで地下牢獄から脱出してください",
+    "isbn": "9784408539225",
+    "matchedTitle": "このスマホで地下牢獄から脱出してください",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9225/9784408539225_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:01.584Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18657551/"
   },
   "konoyo-no-hate": {
     "title": "此の世の果ての殺人",
@@ -8652,6 +8733,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2473/2000003002473.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T15:26:25.177Z"
+  },
+  "minamo-no-chouka": {
+    "title": "水面の弔花",
+    "isbn": "9784488245139",
+    "matchedTitle": "水面の弔花",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5139/9784488245139_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:14.269Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18581749/"
   },
   "minarai-keikan-goroshi": {
     "title": "見習い警官殺し",
@@ -11057,6 +11147,15 @@
     "resolvedAt": "2026-08-08T06:15:00.774Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14265043/"
   },
+  "ryouken-no-hokori": {
+    "title": "猟犬の誇り",
+    "isbn": "9784488180065",
+    "matchedTitle": "猟犬の誇り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0065/9784488180065_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:11.970Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18618431/"
+  },
   "ryouken-tantei": {
     "title": "猟犬探偵",
     "isbn": null,
@@ -11788,6 +11887,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T15:34:00.650Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12153250/"
+  },
+  "shayoukan-satsujin-jiken": {
+    "title": "斜陽館殺人事件",
+    "isbn": "9784488241094",
+    "matchedTitle": "斜陽館殺人事件",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1094/9784488241094_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:07.375Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18650255/"
   },
   "shi-ga-saigo-ni": {
     "title": "死が最後にやってくる",
@@ -13367,6 +13475,15 @@
     "resolvedAt": "2026-08-08T09:02:16.941Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16827038/"
   },
+  "tanteibuhenochousenjouhoukagohamisuteritotomonis": {
+    "title": "探偵部への挑戦状　放課後はミステリーとともに　新装版",
+    "isbn": "9784408560250",
+    "matchedTitle": "探偵部への挑戦状　放課後はミステリーとともに　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0250/9784408560250_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:03.907Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18657555/"
+  },
   "tanteijutsu-oshiemasu": {
     "title": "探偵術教えます",
     "isbn": "9784480435026",
@@ -14857,6 +14974,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-08T06:15:17.554Z"
   },
+  "work": {
+    "title": "噺家志ん平捕物帖　品川偽心",
+    "isbn": "9784408560236",
+    "matchedTitle": "噺家志ん平捕物帖　品川偽心中",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0236/9784408560236_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:02.734Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18657553/"
+  },
   "wycherly-woman": {
     "title": "ウィチャリー家の女",
     "isbn": null,
@@ -15096,6 +15222,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:37.769Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16268666/"
+  },
+  "yomei-isshuukan-no-tantei-to-shite": {
+    "title": "余命一週間の探偵として",
+    "isbn": "9784488135102",
+    "matchedTitle": "余命一週間の探偵として",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5102/9784488135102_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:08.524Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18650664/"
   },
   "yonmannin-no-mokugekisha": {
     "title": "四万人の目撃者",
