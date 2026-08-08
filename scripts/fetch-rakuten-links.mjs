@@ -54,8 +54,8 @@ async function fetchRakuten(url) {
       await sleep(2000 * (attempt + 1));
       continue;
     }
-    if (res.status !== 429 || attempt >= 2) return res;
-    await sleep(5000 * (attempt + 1));
+    if (res.status !== 429 || attempt >= 4) return res;
+    await sleep(10000 * (attempt + 1));
   }
 }
 
@@ -94,7 +94,9 @@ for (const [id, v] of targets) {
     console.log(`  ${ok + miss}/${targets.length} (ok=${ok} miss=${miss})`);
     writeFileSync(CACHE_PATH, `${JSON.stringify(cache, null, 2)}\n`);
   }
-  await sleep(400);
+  // 楽天APIは1日の呼び出しが嵩むと429を返し始める。RL_SLEEP で間隔を緩められるようにしてある
+  // (既定400ms、429が出るようなら1500〜3000msにする)。
+  await sleep(Number(process.env.RL_SLEEP ?? 400));
 }
 writeFileSync(CACHE_PATH, `${JSON.stringify(cache, null, 2)}\n`);
 console.log(`完了: ${ok}件に商品ページURLを保存、${miss}件は該当なし。`);

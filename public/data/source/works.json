@@ -61004,5 +61004,182 @@
     "updatedAt": "2026-08-07",
     "originalTitle": "Memoirs of an invisible man",
     "jpPublishedYear": 1988
+  },
+  {
+    "id": "motsaruto-wa-komoriuta-o-utawanai",
+    "title": "モーツァルトは子守唄を歌わない",
+    "titleKana": "もーつぁるとわこもりうたおうたわない",
+    "authorIds": [
+      "morimasahiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "森雅裕による長編ミステリ。第31回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1985,
+        "result": "江戸川乱歩賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fenikkusu-no-choushou",
+    "title": "フェニックスの弔鐘",
+    "titleKana": "ふぇにっくすのちょうしょう",
+    "authorIds": [
+      "abeyouichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "阿部陽一による長編ミステリ。第36回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1990,
+        "result": "江戸川乱歩賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kensatsu-sousa",
+    "title": "検察捜査",
+    "titleKana": "けんさつそうさ",
+    "authorIds": [
+      "nakajimahiroyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "houtei",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "中嶋博行による長編ミステリ。検察の捜査を題材にしている。第40回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 1994,
+        "result": "江戸川乱歩賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doutoku-no-jikan",
+    "title": "道徳の時間",
+    "titleKana": "どうとくのじかん",
+    "authorIds": [
+      "go-katsuhiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "gakuen",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "呉勝浩による長編ミステリ。第61回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2015,
+        "result": "江戸川乱歩賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tenshi-no-futaku-enjeru-baretto",
+    "title": "天使の負託 ――エンジェル・バレット――",
+    "titleKana": "てんしのふたく",
+    "authorIds": [
+      "minowatakafumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "箕輪尊文による長編ミステリ。第72回江戸川乱歩賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "edogawa-rampo-sho",
+        "year": 2026,
+        "result": "江戸川乱歩賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
   }
 ]
