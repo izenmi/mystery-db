@@ -44778,7 +44778,8 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/battle-royale"
   },
   {
     "id": "shiki",
@@ -44814,7 +44815,8 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/shiki"
   },
   {
     "id": "warau-yamazaki",
@@ -45526,7 +45528,8 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/shin-sekai-yori"
   },
   {
     "id": "juu-to-chokoreto",
@@ -47783,7 +47786,8 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-07",
+    "relatedComicUrl": "https://izenmi.github.io/manga-db/works/kamigami-no-itadaki"
   },
   {
     "id": "soukyuu-no-subaru",
