@@ -67524,5 +67524,1158 @@
     "updatedAt": "2026-08-07",
     "originalTitle": "HIDDEN DEPTHS",
     "jpPublishedYear": 2026
+  },
+  {
+    "id": "oukoku",
+    "title": "王国",
+    "titleKana": "おうこく",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "magazine-house",
+    "themeIds": [
+      "suspense",
+      "closed-circle",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "生まれ故郷の海を守りたいと願い、ウェルネス・ツーリズムの会社を立ち上げた青年。夢が形になりかけた矢先に悲劇が起き、関係者九人それぞれの隠しごとが浮かび上がる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hon-o-yomu-noga-chouhayai-hito-no-atama-no-naka",
+    "title": "本を読むのが超速い人の頭の中ってどうなってんの殺人事件",
+    "titleKana": "ほんおよむのがちょうはやいひとのあたまのなかってどうなってんのさつじんじけん",
+    "authorIds": [
+      "shirai-tomoyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "殺人計画を練る男たちと、宇宙人を監視する小学生。本好きの刑事が不可解な事件に挑む。A7という判型そのものが仕掛けに組み込まれた本格ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyouaku-no-hama",
+    "title": "凶悪の浜",
+    "titleKana": "きょうあくのはま",
+    "authorIds": [
+      "ross-macdonald"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "kaigai-koten"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "私立探偵リュウ・アーチャーもの。ハリウッドの周縁で消えた女性を追ううち、映画産業の裏側に沈められた暴力が姿を現す。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE BARBAROUS COAST",
+    "jpPublishedYear": 2026
+  },
+  {
+    "id": "anomari-no-tsuioku",
+    "title": "アノマリーの追憶 天久鷹央の推理カルテ",
+    "titleKana": "あのまりーのついおく",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "悪魔に取り憑かれたような症状を示す赤ん坊と、謎の肉食獣に足を食われた青い血の男。怪奇か病か、天才医師・天久鷹央が二つの事件の「診断」に挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wasurenagusa-o-sagashite",
+    "title": "勿忘草をさがして",
+    "titleKana": "わすれなぐさおさがして",
+    "authorIds": [
+      "makiryousuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "校舎から消えていく鉢植えと、毎年届く差出人不明の押し花の栞。部活を辞めて無気力な航大と、植物に詳しい不愛想な青年・拓海が謎を追う。第32回鮎川哲也賞優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "ayukawa-tetsuya-sho",
+        "year": 2022,
+        "result": "優秀賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arigeta-niwa-te-o-dasuna",
+    "title": "アリゲーターには手を出すな",
+    "titleKana": "ありげーたーにわておだすな",
+    "authorIds": [
+      "author-278893"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-618539"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "boken-spy",
+      "nichijo-no-nazo"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "町の象徴であるワニを狙う密猟者が現れた。CIA工作員フォーチュンと老婦人二人組が今日もシンフルの町を疾走する〈ワニ町〉シリーズ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "LATER GATOR",
+    "jpPublishedYear": 2026
+  },
+  {
+    "id": "mabataki-sura-yurusanai",
+    "title": "瞬きすら許さない",
+    "titleKana": "まばたきすらゆるさない",
+    "authorIds": [
+      "author-544106"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-263638"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "tokushu-settei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "百戦錬磨の警視正とAI捜査官が未解決事件に挑む。英国推理作家協会賞最優秀新人賞受賞作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "IN THE BLINK OF AN EYE",
+    "jpPublishedYear": 2026
+  },
+  {
+    "id": "kohiten-tareran-no-jikenbo",
+    "title": "珈琲店タレーランの事件簿9 ピーベリーは美しく輝く",
+    "titleKana": "こーひーてんたれーらんのじけんぼ",
+    "authorIds": [
+      "okazakitakuma"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "連続する低評価レビュー、かけ替えられた文庫カバー、消えた猫。珈琲店タレーランで起きた出来事をバリスタの切間美星が解きほぐすシリーズ第9弾。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eikyuu-toudo-no-misshitsu-manmosu-satsujin-jiken",
+    "title": "永久凍土の密室 マンモス殺人事件",
+    "titleKana": "えいきゅうとうどのみっしつまんもすさつじんじけん",
+    "authorIds": [
+      "aoipeki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "入口を塞がれた洞窟で見つかったマンモス狩りの青年の死体、現代日本で消えたレプリカの牙、復活したマンモスの象舎で起きた殺人。時代をまたいで重なる密室。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shingakki-ni-dake-mieru-seiza",
+    "title": "新学期にだけ見える星座",
+    "titleKana": "しんがっきにだけみえるせいざ",
+    "authorIds": [
+      "nitadori-kei"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "誰もいない作法室で割れた壺、水平移動するガーベラ、閉ざされた部屋のモンスター。市立高校の生徒たちが校内外の謎に挑むシリーズ第8弾。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "iinuma-ikka-ni-shazai-shimasu",
+    "title": "飯沼一家に謝罪します",
+    "titleKana": "いいぬまいっかにしゃざいします",
+    "authorIds": [
+      "terauchikoutarou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "tokushu-settei",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "四夜連続で放送されたモキュメンタリー番組『飯沼一家に謝罪します』を書籍化。消えた一家、謎の儀式、テレビ業界の裏側が絡み合う。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saigo-no-koutei-to-nazotoki-o",
+    "title": "最後の皇帝と謎解きを",
+    "titleKana": "さいごのこうていとなぞときお",
+    "authorIds": [
+      "inumarukouhei"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "紫禁城で起きた密室殺人に、廃帝・溥儀と日本人絵師が挑む。身分も国も超えた友情を描く歴史ミステリ。第24回『このミステリーがすごい!』大賞・大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-taisho",
+        "year": 2026,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toudai-risan-no-akuma",
+    "title": "東大理三の悪魔(4) Another story 隣り合う世界の君へ",
+    "titleKana": "とうだいりさんのあくま",
+    "authorIds": [
+      "koumuramorio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "『東大理三の悪魔』のもうひとつの世界を描く書き下ろしスピンオフ。外科研修医が出会った患者の背中の古傷が、小学生時代の記憶を呼び起こす。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toudai-risan-no-akuma-2",
+    "title": "東大理三の悪魔(3) マウナケア・プロジェクト",
+    "titleKana": "とうだいりさんのあくま",
+    "authorIds": [
+      "koumuramorio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "ハワイ島の出入りを規制された街モエウハネへ案内された東大医学部6年生。街を支配する不文律の正体とは。天才と秀才の物語の完結編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akeboshi",
+    "title": "暁星",
+    "titleKana": "あけぼし",
+    "authorIds": [
+      "minato-kanae"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "文部科学大臣で作家でもある男が高校生の式典で刺殺された。逮捕された男が週刊誌に手記を発表し、新興宗教への恨みが綴られる。ノンフィクションと小説が交錯する。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meitantei-ni-sayonara-o",
+    "title": "名探偵にさよならを",
+    "titleKana": "めいたんていにさよならお",
+    "authorIds": [
+      "konishimasateru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "meitantei",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "レビー小体型認知症の祖父が、孫娘の持ち込む謎を安楽椅子から解き明かす。古典ミステリが彩るシリーズ完結編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "naze-ashikajiru-no-koto-o-hanashitewa-ikenai-nok",
+    "title": "なぜ「あしか汁」のことを話してはいけないのか",
+    "titleKana": "なぜあしかじるのことおはなしてわいけないのか",
+    "authorIds": [
+      "miuraharumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "kaiki-gensou",
+      "tokushu-settei",
+      "shinrai-dekinai-katarite"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "急死した大叔父の日記にあった奇妙な言葉「あしか汁」。その正体を調べる過程を記録の形でたどるモキュメンタリー・ホラー。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shikakejima",
+    "title": "仕掛島",
+    "titleKana": "しかけじま",
+    "authorIds": [
+      "higashigawa-tokuya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "kotou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "瀬戸内の離島に集められた一族。球形展望室を持つ別荘で遺言が読み上げられた翌朝、相続人の一人が死体で見つかる。嵐で島は孤絶し、二十年前の人間消失の影が迫る。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kenkyou-tonneru-ni-matsuwaru-kaii",
+    "title": "県境トンネルにまつわる怪異",
+    "titleKana": "けんきょうとんねるにまつわるかいい",
+    "authorIds": [
+      "nanaoyoshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "seishun",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "1984年の夏、静岡と愛知を結ぶ心霊スポットのトンネルで中学生が消えた。仲間たちが捜索に向かうが、そこで遭遇したのは霊とは異なる何かだった。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "minikui-futari",
+    "title": "みにくいふたり",
+    "titleKana": "みにくいふたり",
+    "authorIds": [
+      "rokakouen"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "交換留学で台湾を訪れた女子高生が、無人の教室で気配に出会う。その夜に現れた美しくも強烈な不快感を伴う少女との交流が、恋を殺意へと変えていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "douse-sorosoro-shinundashi",
+    "title": "どうせそろそろ死ぬんだし",
+    "titleKana": "どうせそろそろしぬんだし",
+    "authorIds": [
+      "kousakamaguro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "closed-circle"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "余命宣告された人々が集う山荘の交流会で、参加者の一人が突然死する。自然死か殺人か。探偵と助手が閉ざされた別荘で真相を追う。第23回『このミステリーがすごい!』大賞・文庫グランプリ受賞作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-taisho",
+        "year": 2025,
+        "result": "文庫グランプリ"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ichijigen-no-sashiki",
+    "title": "一次元の挿し木",
+    "titleKana": "いちじげんのさしき",
+    "authorIds": [
+      "matsushitaryuunosuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "古人骨のDNA鑑定が、隠されてきた血のつながりを暴いていく。第23回『このミステリーがすごい!』大賞・文庫グランプリ受賞作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-taisho",
+        "year": 2025,
+        "result": "文庫グランプリ"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toudai-risan-no-akuma-tensai-to-shuusai-no-kaiko",
+    "title": "東大理三の悪魔",
+    "titleKana": "とうだいりさんのあくま",
+    "authorIds": [
+      "koumuramorio"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "tokushu-settei",
+      "suspense",
+      "gakuen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "東京大学理科三類に通うノボルは、模試で異様な成績を残す。天才と秀才の出会いから、常識を超えた世界が広がっていく知的エンタテインメント。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nazo-no-kaori-wa-panya-kara",
+    "title": "謎の香りはパン屋から",
+    "titleKana": "なぞのかおりわぱんやから",
+    "authorIds": [
+      "tsuchiyausagi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "クロワッサン、フランスパン、シナモンロール。焼きたてのパンの香りが漂うパン屋で起きる小さな謎を解いていく連作。第23回『このミステリーがすごい!』大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-taisho",
+        "year": 2025,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "noroi-no-symptom",
+    "title": "呪いのシンプトム　天久鷹央の推理カルテ",
+    "titleKana": "",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "水神の祟り、化け猫の憑依、頭蓋骨から消えた銃弾。呪いとしか思えない謎に天久鷹央が下す診断とは。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shishakai",
+    "title": "死写会",
+    "titleKana": "ししゃかい",
+    "authorIds": [
+      "igarashitakahisa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "suspense",
+      "tokushu-settei",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "巨匠監督が最新作の完成直後に不審死し、強行された試写会で参加者が集団自殺する。残された現場映像から奇妙な点が浮かび上がる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "moudoku-no-prison",
+    "title": "猛毒のプリズン　天久鷹央の事件カルテ",
+    "titleKana": "",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "yakata-mono",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "長野の山奥の洋館に招かれた天久鷹央を待っていたのは、計算機工学の天才からの「最後の依頼」だった。やがて殺人が起き、嫌疑は鷹央自身に向かう。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ippensan",
+    "title": "いっぺんさん",
+    "titleKana": "いっぺんさん",
+    "authorIds": [
+      "shukawaminato"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "tanpenshu",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "願いを一度だけ叶えるという神様を探しに山へ向かった少年と友人。ノスタルジーと不思議が溶け合う短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "warau-shukujo-futari",
+    "title": "嗤う淑女　二人",
+    "titleKana": "わらうしゅくじょふたり",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "高級ホテルの宴会場で十七人が毒殺され、犠牲者の一人が「1」と記された紙片を握っていた。防犯カメラに映っていたのは指名手配中のあの女だった。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seimei-no-ryakudatsusha",
+    "title": "生命の略奪者",
+    "titleKana": "",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "臓器移植のリレーを踏みにじる連続臓器強奪事件が起きる。心臓を運ぶコーディネーターへの襲撃を皮切りに被害は広がっていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zettai-reido-no-teroru",
+    "title": "絶対零度のテロル 天久鷹央の事件カルテ",
+    "titleKana": "ぜったいれいどのてろる",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "九月の熱帯夜、救急外来に搬送された身元不明の男性の死因は凍死だった。不可解な状況の裏でテロリストの影が動きだす。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meitantei-no-mama-de-ite",
+    "title": "名探偵のままでいて",
+    "titleKana": "めいたんていのままでいて",
+    "authorIds": [
+      "konishimasateru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "meitantei",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "密室殺人、人間消失、幽霊騒動。孫娘が持ち込む謎を、認知症の祖父が鮮やかに解き明かす安楽椅子探偵もの。第21回『このミステリーがすごい!』大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-taisho",
+        "year": 2023,
+        "result": "大賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shinwa-no-misshitsu",
+    "title": "神話の密室",
+    "titleKana": "",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "酒が一滴もないはずの閉鎖病棟で泥酔を繰り返す作家と、勝利の瞬間にリングで死亡した王者。二つの密室に天久鷹央が挑む。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "madan-no-shashu",
+    "title": "魔弾の射手",
+    "titleKana": "",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "廃病院で看護師が転落死した。自殺と見なされたが、娘は母が一人で死ぬはずがないと訴える。見えない魔弾を放ったのは誰か。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rashinban-no-satsui",
+    "title": "羅針盤の殺意　天久鷹央の推理カルテ",
+    "titleKana": "",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "帝都大学の元主任教授で、鷹央が唯一「先生」と呼ぶ師が不治の病に冒されていた。師を殺したのは誰か。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hiren-no-syndrome",
+    "title": "悲恋のシンドローム",
+    "titleKana": "",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "自宅マンションで襲われたはずの女性が、十キロ以上離れた港で遺体となって見つかる。捜査の途中で鷹央は「私は手を引く」と宣言する。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "genei-no-shujutsushitsu",
+    "title": "幻影の手術室",
+    "titleKana": "",
+    "authorIds": [
+      "chinen-mikito"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "手術後のオペ室で麻酔医が死亡した。院内カメラが捉えていたのは、透明人間と格闘した末に殺害される彼の姿だった。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": true,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
   }
 ]
