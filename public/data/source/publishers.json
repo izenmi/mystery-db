@@ -404,5 +404,95 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "tougensha",
+    "name": "桃源社",
+    "nameKana": "とうげんしゃ",
+    "description": "1950年代から1980年代にかけて探偵小説・怪奇小説の復刻に力を入れた出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "iwaya-shoten",
+    "name": "岩谷書店",
+    "nameKana": "いわやしょてん",
+    "description": "探偵小説誌『宝石』を刊行していた出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shunyodo-shoten",
+    "name": "春陽堂書店",
+    "nameKana": "しゅんようどうしょてん",
+    "description": "1878年創業の出版社。春陽文庫で探偵小説を多く刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kosaido-shuppan",
+    "name": "広済堂出版",
+    "nameKana": "こうさいどうしゅっぱん",
+    "description": "1960年創業の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "kofusha",
+    "name": "光風社",
+    "nameKana": "こうふうしゃ",
+    "description": "推理小説を刊行していた出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "chuokoronsha",
+    "name": "中央公論社",
+    "nameKana": "ちゅうおうこうろんしゃ",
+    "description": "1886年創業の出版社。1999年に中央公論新社へ改組した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sanichi-shobo",
+    "name": "三一書房",
+    "nameKana": "さんいちしょぼう",
+    "description": "1945年創業の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "yamato-shobo",
+    "name": "大和書房",
+    "nameKana": "だいわしょぼう",
+    "description": "1961年創業の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "hakusuisha",
+    "name": "白水社",
+    "nameKana": "はくすいしゃ",
+    "description": "1915年創業の出版社。海外文学の翻訳で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "seikaisha",
+    "name": "星海社",
+    "nameKana": "せいかいしゃ",
+    "description": "講談社系の出版社。星海社FICTIONSなどを刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

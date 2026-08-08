@@ -14376,7 +14376,7 @@
     "updatedAt": "2026-08-04"
   },
   {
-    "id": "satsujinki-2",
+    "id": "satsujinki-2-gyakushuhen",
     "title": "殺人鬼II 逆襲篇",
     "titleKana": "さつじんきつーぎゃくしゅうへん",
     "authorIds": [
@@ -20854,7 +20854,7 @@
     "sourceNote": "書誌(講談社、1993年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「我孫子武丸」による。初刊年1989年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
   },
   {
-    "id": "misshitsu-satsujin-game-2",
+    "id": "misshitsu-satsujin-game-2-0",
     "title": "密室殺人ゲーム２．０",
     "titleKana": "みっしつさつじんげーむにてんぜろ",
     "authorIds": [
@@ -27212,6 +27212,11 @@
         "awardId": "honkaku-mystery-best10",
         "year": 2023,
         "result": "国内篇第1位"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2023,
+        "result": "2023年版 国内編 第2位"
       }
     ],
     "sourceNote": "書誌(新潮社、2026年、ISBN 9784101044828)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「白井智之 著」による。初刊年2022年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
@@ -38848,6 +38853,11 @@
         "awardId": "mephisto-sho",
         "year": 2001,
         "result": "受賞"
+      },
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2002,
+        "result": "2002年版 国内編 第8位"
       }
     ],
     "mediaMix": {
@@ -42132,42 +42142,6 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2025,
         "result": "2025年版 国内編 第2位"
-      }
-    ],
-    "mediaMix": {
-      "movie": false,
-      "drama": false,
-      "anime": false,
-      "comic": false
-    },
-    "externalLinks": {},
-    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "meitantei-no-ikenie-2",
-    "title": "名探偵のいけにえ 人民教会殺人事件",
-    "titleKana": "めいたんていのいけにえ",
-    "authorIds": [
-      "shirai-tomoyuki"
-    ],
-    "detectiveIds": [],
-    "translatorIds": [],
-    "publisherId": "shinchosha",
-    "themeIds": [
-      "tokushu-settei",
-      "honkaku",
-      "closed-circle"
-    ],
-    "origin": "jp",
-    "firstPublishedYear": 2022,
-    "status": "completed",
-    "synopsis": "病も怪我も存在せず、失われた四肢さえ蘇るという奇蹟の楽園ジョーデンタウン。その特殊な条件下で起きる殺人に論理で挑む。",
-    "awardResults": [
-      {
-        "awardId": "kono-mystery-ga-sugoi",
-        "year": 2023,
-        "result": "2023年版 国内編 第2位"
       }
     ],
     "mediaMix": {
@@ -48398,7 +48372,7 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "suitei-muzai-2",
+    "id": "muzai-innocent",
     "title": "無罪",
     "titleKana": "すいていむざい",
     "authorIds": [
@@ -48415,7 +48389,7 @@
       "shakaiha"
     ],
     "origin": "overseas",
-    "firstPublishedYear": 1988,
+    "firstPublishedYear": 2010,
     "status": "completed",
     "synopsis": "検事補ラスティ・サビッチが、同僚女性検事の殺害容疑をかけられる。法廷ミステリの代表作。",
     "awardResults": [
@@ -48432,7 +48406,7 @@
       "comic": false
     },
     "externalLinks": {},
-    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。 『推定無罪』の続編。刊行年を2010年に訂正(2026-08-08)。",
     "updatedAt": "2026-08-07",
     "originalTitle": "Presumed innocent",
     "jpPublishedYear": 1988
@@ -50236,42 +50210,6 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "id": "kemuri-ka-tsuchi-ka-kuimono-2",
-    "title": "煙か土か食い物",
-    "titleKana": "けむりかつちかくいもの",
-    "authorIds": [
-      "maijououtarou"
-    ],
-    "detectiveIds": [],
-    "translatorIds": [],
-    "publisherId": "kodansha",
-    "themeIds": [
-      "shin-honkaku",
-      "kazoku",
-      "noir"
-    ],
-    "origin": "jp",
-    "firstPublishedYear": 2001,
-    "status": "completed",
-    "synopsis": "腕利きの救命外科医・奈津川四郎に凶報が届く。故郷の福井で起きた連続主婦殺人と、家族の因縁。",
-    "awardResults": [
-      {
-        "awardId": "kono-mystery-ga-sugoi",
-        "year": 2002,
-        "result": "2002年版 国内編 第8位"
-      }
-    ],
-    "mediaMix": {
-      "movie": false,
-      "drama": false,
-      "anime": false,
-      "comic": false
-    },
-    "externalLinks": {},
-    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
     "updatedAt": "2026-08-07"
   },
   {
@@ -61184,6 +61122,1748 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「江戸川乱歩賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaimansou-kidan",
+    "title": "海鰻荘奇談",
+    "titleKana": "かいまんそうきだん",
+    "authorIds": [
+      "kayamashigeru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tougensha",
+    "themeIds": [
+      "kaiki-gensou",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1948,
+    "status": "completed",
+    "synopsis": "香山滋による、幻想味の強い探偵小説。第1回日本探偵作家クラブ賞新人賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1948,
+        "result": "新人賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ishi-no-shita-no-kiroku",
+    "title": "石の下の記録",
+    "titleKana": "いしのしたのきろく",
+    "authorIds": [
+      "ooshitaudaru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "iwaya-shoten",
+    "themeIds": [
+      "honkaku",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1951,
+    "status": "completed",
+    "synopsis": "大下宇陀児による長編。第4回日本探偵作家クラブ賞長編賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1951,
+        "result": "長編賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hikawa-rou-shuu-suiren-fujin",
+    "title": "睡蓮夫人",
+    "titleKana": "ひかわろうしゅう",
+    "authorIds": [
+      "hikawarou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chikuma-shobo",
+    "themeIds": [
+      "kaiki-gensou",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1954,
+    "status": "completed",
+    "synopsis": "氷川瓏の作品集。表題作は第7回日本探偵作家クラブ賞奨励賞を受けている。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1954,
+        "result": "奨励賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "baikokudo",
+    "title": "売国奴",
+    "titleKana": "ばいこくど",
+    "authorIds": [
+      "nagasesango"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shunyodo-shoten",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1957,
+    "status": "completed",
+    "synopsis": "永瀬三吾による作品。第8回日本探偵作家クラブ賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1955,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kitsune-no-tori",
+    "title": "狐の鶏",
+    "titleKana": "きつねのとり",
+    "authorIds": [
+      "hikagejoukichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "kaiki-gensou",
+      "honkaku",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "日影丈吉による、台湾を舞台にした幻想的な作品。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1956,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kao",
+    "title": "顔",
+    "titleKana": "かお",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "tanpenshu",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1956,
+    "status": "completed",
+    "synopsis": "松本清張の短編集。社会派推理の出発点となった作品群を収める。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1957,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fue-fukeba-hito-ga-shinu",
+    "title": "笛吹けば人が死ぬ",
+    "titleKana": "ふえふけばひとがしぬ",
+    "authorIds": [
+      "tsunodakikuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kosaido-shuppan",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "角田喜久雄による長編推理。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1958,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yonmannin-no-mokugekisha",
+    "title": "四万人の目撃者",
+    "titleKana": "よんまんにんのもくげきしゃ",
+    "authorIds": [
+      "arimayorichika"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "野球場を舞台に、4万人の観客の前で起きた事件を描く。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1959,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "umi-no-kiba",
+    "title": "海の牙",
+    "titleKana": "うみのきば",
+    "authorIds": [
+      "minakamitsutomu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1960,
+    "status": "completed",
+    "synopsis": "水上勉による社会派推理。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1961,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hitokui",
+    "title": "人喰い",
+    "titleKana": "ひとくい",
+    "authorIds": [
+      "sasazawasaho"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "honkaku",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1960,
+    "status": "completed",
+    "synopsis": "笹沢左保による長編推理。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1961,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hosoi-akai-ito",
+    "title": "細い赤い糸",
+    "titleKana": "ほそいあかいいと",
+    "authorIds": [
+      "asukatakashi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kofusha",
+    "themeIds": [
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1961,
+    "status": "completed",
+    "synopsis": "飛鳥高による長編推理。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1962,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yoru-no-owaru-toki",
+    "title": "夜の終る時",
+    "titleKana": "よるのおわるとき",
+    "authorIds": [
+      "yuukishouji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoronsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1963,
+    "status": "completed",
+    "synopsis": "結城昌治による警察小説。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1964,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "satsui-to-iu-na-no-kachiku",
+    "title": "殺意という名の家畜",
+    "titleKana": "さついというなのかちく",
+    "authorIds": [
+      "kounotensei"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "hardboiled",
+      "noir",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1963,
+    "status": "completed",
+    "synopsis": "河野典生による作品。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1964,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "karei-naru-shuubun",
+    "title": "華麗なる醜聞",
+    "titleKana": "かれいなるしゅうぶん",
+    "authorIds": [
+      "sanoyou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "佐野洋による長編推理。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1965,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fuujin-chitai",
+    "title": "風塵地帯",
+    "titleKana": "ふうじんちたい",
+    "authorIds": [
+      "miyoshitooru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "sanichi-shobo",
+    "themeIds": [
+      "boken-spy",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1966,
+    "status": "completed",
+    "synopsis": "三好徹による作品。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1967,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mousou-ginkou",
+    "title": "妄想銀行",
+    "titleKana": "もうそうぎんこう",
+    "authorIds": [
+      "hoshishinichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "tanpenshu",
+      "kaiki-gensou",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1967,
+    "status": "completed",
+    "synopsis": "星新一のショートショート集。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1968,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kujaku-no-michi",
+    "title": "孔雀の道",
+    "titleKana": "くじゃくのみち",
+    "authorIds": [
+      "chin-shunshin"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "shakaiha",
+      "jidai-mystery",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "陳舜臣による作品。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1970,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gyokurei-yo-futatabi",
+    "title": "玉嶺よふたたび",
+    "titleKana": "ぎょくれいよふたたび",
+    "authorIds": [
+      "chin-shunshin"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "jidai-mystery",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "陳舜臣による、中国の石窟をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1970,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nippon-chinbotsu",
+    "title": "日本沈没",
+    "titleKana": "にっぽんちんぼつ",
+    "authorIds": [
+      "komatsusakyou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "tokushu-settei",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "日本列島の沈没という事態に、科学者と政府がどう向き合うかを描く。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1974,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "doumyaku-rettou",
+    "title": "動脈列島",
+    "titleKana": "どうみゃくれっとう",
+    "authorIds": [
+      "shimizuitsukou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1974,
+    "status": "completed",
+    "synopsis": "新幹線を舞台にした社会派サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1975,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sakai-jiken-gii",
+    "title": "事件",
+    "titleKana": "さかいじけんぎい",
+    "authorIds": [
+      "oookashouhei"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "jidai-mystery",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "大岡昇平が堺事件の史料を読み解いた作品。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1978,
+        "result": "長編賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "daiyuukai",
+    "title": "大誘拐",
+    "titleKana": "だいゆうかい",
+    "authorIds": [
+      "tendoushin"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "老女誘拐という奇想から始まる、天藤真の代表作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1979,
+        "result": "長編賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sutarin-ansatsu-keikaku",
+    "title": "スターリン暗殺計画",
+    "titleKana": "すたーりんあんさつけいかく",
+    "authorIds": [
+      "hiyamayoshiaki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "boken-spy",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "檜山良昭による、スターリン暗殺を題材にした長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1979,
+        "result": "長編賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arisu-no-kuni-no-satsujin",
+    "title": "アリスの国の殺人",
+    "titleKana": "ありすのくにのさつじん",
+    "authorIds": [
+      "tsujimasaki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "yamato-shobo",
+    "themeIds": [
+      "honkaku",
+      "jojutsu-trick",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "辻真先による、『不思議の国のアリス』を下敷きにした長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1982,
+        "result": "長編賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tenzan-o-koete",
+    "title": "天山を越えて",
+    "titleKana": "てんざんおこえて",
+    "authorIds": [
+      "kurumizawakoushi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "boken-spy",
+      "jidai-mystery",
+      "kaigai-koten"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "胡桃沢耕史による、天山を越える旅を描く長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1983,
+        "result": "長編部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hokkushi-no-ikyou-no-bouken",
+    "title": "ホック氏の異郷の冒険",
+    "titleKana": "ほっくしのいきょうのぼうけん",
+    "authorIds": [
+      "kanouichirou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "kaigai-koten"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "加納一朗による、シャーロック・ホームズを題材にした作品。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1984,
+        "result": "長編部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kizutsuita-yajuu",
+    "title": "傷ついた野獣",
+    "titleKana": "きずついたやじゅう",
+    "authorIds": [
+      "tomonoakira"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "boken-spy",
+      "hardboiled",
+      "tanpenshu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "伴野朗による作品。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1984,
+        "result": "短編および連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kawaki-no-machi",
+    "title": "渇きの街",
+    "titleKana": "かわきのまち",
+    "authorIds": [
+      "kitakatakenzou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "hardboiled",
+      "noir",
+      "shiritsu-tantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "北方謙三によるハードボイルド長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1985,
+        "result": "長編部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kabe",
+    "title": "壁・旅芝居殺人事件",
+    "titleKana": "かべ",
+    "authorIds": [
+      "minagawahiroko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "hakusuisha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "皆川博子による長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1985,
+        "result": "長編部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "somuite-kokyou",
+    "title": "背いて故郷",
+    "titleKana": "そむいてこきょう",
+    "authorIds": [
+      "shimizutatsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "hardboiled",
+      "boken-spy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "志水辰夫による冒険小説。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1986,
+        "result": "長編部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hokusai-satsujin-jiken",
+    "title": "北斎殺人事件",
+    "titleKana": "ほくさいさつじんじけん",
+    "authorIds": [
+      "takahashikatsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "浮世絵師・葛飾北斎をめぐる連続殺人を描く。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1987,
+        "result": "長編部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kizuna",
+    "title": "絆",
+    "titleKana": "きずな",
+    "authorIds": [
+      "kosugikenji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "houtei",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "小杉健治による法廷ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1988,
+        "result": "長編部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ugetsusou-satsujin-jiken",
+    "title": "雨月荘殺人事件",
+    "titleKana": "うげつそうさつじんじけん",
+    "authorIds": [
+      "wakushunzou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoronsha",
+    "themeIds": [
+      "honkaku",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "和久峻三による長編推理。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1989,
+        "result": "長編部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hana-no-moto-nite-haru-shinan",
+    "title": "花の下にて春死なむ",
+    "titleKana": "はなのもとにてはるしなん",
+    "authorIds": [
+      "kitamorikou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "shiritsu-tantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "ビアバー「香菜里屋」の店主・工藤が、客の持ち込む謎を解く連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 1999,
+        "result": "短編および連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zankou",
+    "title": "残光",
+    "titleKana": "ざんこう",
+    "authorIds": [
+      "azumanaomi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "東直己による、札幌のススキノを舞台にしたハードボイルド。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2001,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eien-no-mori-hakubutsukan-wakusei",
+    "title": "永遠の森 博物館惑星",
+    "titleKana": "えいえんのもり",
+    "authorIds": [
+      "sugahiroe"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "tokushu-settei",
+      "kaiki-gensou",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "あらゆる芸術を収蔵する博物館惑星を舞台にした連作。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2001,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "arabia-no-yoru-no-shuzoku",
+    "title": "アラビアの夜の種族",
+    "titleKana": "あらびあのよるのしゅぞく",
+    "authorIds": [
+      "furukawahideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "boken-spy",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "古川日出男による、アラビアを舞台にした長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2002,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ishi-no-naka-no-kumo",
+    "title": "石の中の蜘蛛",
+    "titleKana": "いしのなかのくも",
+    "authorIds": [
+      "asaguremitsufumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "suspense",
+      "tokushu-settei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "浅暮三文による長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2003,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "wairudo-souru",
+    "title": "ワイルド・ソウル",
+    "titleKana": "わいるどそうる",
+    "authorIds": [
+      "kakineryousuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "noir",
+      "shakaiha",
+      "boken-spy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "日本から南米へ棄民として渡った人々の復讐を描く。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2004,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ken-to-bara-no-natsu",
+    "title": "剣と薔薇の夏",
+    "titleKana": "けんとばらのなつ",
+    "authorIds": [
+      "tomatsuatsunori"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "jidai-mystery",
+      "honkaku",
+      "kaigai-koten"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "戸松淳矩による、18世紀を舞台にした長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2005,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hyakunenhou",
+    "title": "百年法",
+    "titleKana": "ひゃくねんほう",
+    "authorIds": [
+      "yamadamuneki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "tokushu-settei",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "不老不死が実現した社会で、100年後の死を義務づける法をめぐる物語。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2013,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kiniro-kikai",
+    "title": "金色機械",
+    "titleKana": "きんいろきかい",
+    "authorIds": [
+      "tsunekawakoutarou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "jidai-mystery",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "恒川光太郎による、江戸期を舞台にした幻想味のある長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2014,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "inosento-deizu",
+    "title": "イノセント・デイズ",
+    "titleKana": "いのせんとでいず",
+    "authorIds": [
+      "hayamikazumasa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "死刑判決を受けた女性の半生を、周囲の証言から描き直していく。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2015,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gusha-no-doku",
+    "title": "愚者の毒",
+    "titleKana": "ぐしゃのどく",
+    "authorIds": [
+      "usamimakoto"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "iyamisu",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "宇佐美まことによる長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2017,
+        "result": "長編及び連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "inbijiburu",
+    "title": "インビジブル",
+    "titleKana": "いんびじぶる",
+    "authorIds": [
+      "sakagamiizumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha",
+      "jidai-mystery"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "戦後の大阪を舞台に、警察機構の統合に翻弄される刑事たちを描く。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2021,
+        "result": "長編および連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "semi-kaeru",
+    "title": "蟬かえる",
+    "titleKana": "せみかえる",
+    "authorIds": [
+      "sakuradatomoya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "昆虫好きの青年・魞沢泉が、日常の中の謎を解いていく連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2021,
+        "result": "長編および連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yoru-no-douhyou",
+    "title": "夜の道標",
+    "titleKana": "よるのどうひょう",
+    "authorIds": [
+      "ashizawa-yo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoron-shinsha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "芦沢央による長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2023,
+        "result": "長編および連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "naito-rando",
+    "title": "不夜島（ナイトランド）",
+    "titleKana": "ないとらんど",
+    "authorIds": [
+      "ogidouakira"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shodensha",
+    "themeIds": [
+      "noir",
+      "jidai-mystery",
+      "hardboiled"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "荻堂顕による、戦後の島を舞台にした長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2024,
+        "result": "長編および連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "konrondo",
+    "title": "崑崙奴",
+    "titleKana": "こんろんど",
+    "authorIds": [
+      "koizumikajuu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "seikaisha",
+    "themeIds": [
+      "jidai-mystery",
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "古泉迦十による長編。",
+    "awardResults": [
+      {
+        "awardId": "mystery-writers-japan",
+        "year": 2025,
+        "result": "長編および連作短編集部門"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「日本推理作家協会賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
     "updatedAt": "2026-08-07"
   }
 ]
