@@ -359,5 +359,14 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "gyoshu-bunka",
+    "name": "行舟文化",
+    "nameKana": "ぎょうしゅうぶんか",
+    "description": "2018年創業の出版社。海外本格ミステリの翻訳叢書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌および版元公式サイトで確認。",
+    "updatedAt": "2026-08-08"
   }
 ]

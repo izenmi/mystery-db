@@ -53549,5 +53549,2117 @@
     "updatedAt": "2026-08-07",
     "originalTitle": "BLACKTOP WASTELAND",
     "jpPublishedYear": 2022
+  },
+  {
+    "id": "gallows-court-shokeidai-hiroba-no-onna",
+    "title": "処刑台広場の女",
+    "titleKana": "GALLOWSCOURT",
+    "authorIds": [
+      "author-455076"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "密室での奇妙な自殺、不可解な焼死。連続する事件の背後に浮かぶのは、名探偵レイチェル・サヴァナク自身の影だった。記者ジェイコブが彼女の秘密に迫る。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2024,
+        "result": "2024年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "GALLOWS COURT",
+    "jpPublishedYear": 2020,
+    "seriesName": "レイチェル・サヴァナク・シリーズ"
+  },
+  {
+    "id": "za-boda",
+    "title": "ザ・ボーダー",
+    "titleKana": "ざぼーだー",
+    "authorIds": [
+      "don-winslow"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "harpercollins-japan",
+    "themeIds": [
+      "noir",
+      "hardboiled",
+      "boken-spy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "ドン・ウィンズロウによる麻薬戦争三部作の完結編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE BORDER",
+    "jpPublishedYear": 2019,
+    "seriesName": "麻薬戦争三部作"
+  },
+  {
+    "id": "mr-mercedes-misuta-merusedesu",
+    "title": "ミスター・メルセデス",
+    "titleKana": "MRMERCEDES",
+    "authorIds": [
+      "sutibunkingu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "shiraishi-ro"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "早朝の市民ホールに一台のメルセデスが突っ込み、8名が死亡した。退職刑事ホッジズが未解決のまま残されたこの事件に再び向き合う。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2017,
+        "result": "2017年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "MR.MERCEDES",
+    "jpPublishedYear": 2015,
+    "seriesName": "ビル・ホッジズ三部作"
+  },
+  {
+    "id": "jigen-shihei-gosutoman",
+    "title": "時限紙幣 ゴーストマン",
+    "titleKana": "じげんしへい",
+    "authorIds": [
+      "hobbuzuroja"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "noir",
+      "hardboiled",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "強盗の後始末を請け負う「ゴーストマン」を主人公にしたクライムノベル。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2015,
+        "result": "2015年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "GHOSTMAN",
+    "jpPublishedYear": 2014
+  },
+  {
+    "id": "waga-na-wa-reddo",
+    "title": "わが名はレッド",
+    "titleKana": "わがなわれっど",
+    "authorIds": [
+      "author-822893"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-218905"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "noir",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "シェイマス・スミスによるクライムノベル。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2003,
+        "result": "2003年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Red dock",
+    "jpPublishedYear": 2002
+  },
+  {
+    "id": "the-green-mile-600-gurin-mairu-000600-yami-no-ka",
+    "title": "グリーン・マイル",
+    "titleKana": "THEGREENMILE600",
+    "authorIds": [
+      "sutibunkingu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "shiraishi-ro"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "1930年代の刑務所を舞台にした連作。死刑囚監房「グリーン・マイル」で起きる出来事を看守の回想として描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1998,
+        "result": "1998年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Green Mile",
+    "jpPublishedYear": 1996
+  },
+  {
+    "id": "shi-no-aji",
+    "title": "死の味",
+    "titleKana": "しのあじ",
+    "authorIds": [
+      "jieimuzupd"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "aokihisae"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "P・D・ジェイムズによるアダム・ダルグリッシュ警視シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1988,
+        "result": "1988年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "A taste for death",
+    "jpPublishedYear": 1987,
+    "seriesName": "アダム・ダルグリッシュ・シリーズ"
+  },
+  {
+    "id": "death-notice-shibou-tsuuchisho-ankokusha",
+    "title": "死亡通知書 暗黒者",
+    "titleKana": "DEATHNOTICE",
+    "authorIds": [
+      "shuukouki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "inamurabungo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "死すべき罪人の名をネット上で募り、予告どおりに殺害を繰り返す劇場型の犯人〈エウメニデス〉。挑戦状を受け取った刑事・羅飛が事件を追う。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2021,
+        "result": "2021年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "死亡通知单",
+    "jpPublishedYear": 2019,
+    "seriesName": "死亡通知書シリーズ"
+  },
+  {
+    "id": "gannen-shun-shi-sai",
+    "title": "元年春之祭",
+    "titleKana": "がんねんしゅんしさい",
+    "authorIds": [
+      "rikushuusa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "inamurabungo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "jidai-mystery",
+      "dokusha-e-no-chosen"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "前漢時代の中国。山中の名家を訪ねた少女が、かつてこの地で起きた奇妙な殺人事件の推理を試みる。そこへ新たな事件が起こる。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2019,
+        "result": "2019年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "元年春之祭",
+    "jpPublishedYear": 2016
+  },
+  {
+    "id": "the-shadow-of-the-wind-kaze-no-kage",
+    "title": "風の影",
+    "titleKana": "THESHADOWOFTHEWIND",
+    "authorIds": [
+      "ruisu-safonkarurosu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-437497"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense",
+      "boken-spy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "戦後のバルセロナ。少年ダニエルは《忘れられた本の墓場》で一冊の本と出会い、その著者の運命を追ううちに街の過去へ分け入っていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2007,
+        "result": "2007年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "La sombra del viento",
+    "jpPublishedYear": 2004
+  },
+  {
+    "id": "it",
+    "title": "IT",
+    "titleKana": "It",
+    "authorIds": [
+      "sutibunkingu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "obifusa"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "スティーヴン・キングの長編。少年時代に恐怖と対峙した仲間たちが、大人になって再び故郷へ戻る。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1993,
+        "result": "1993年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "It",
+    "jpPublishedYear": 1991
+  },
+  {
+    "id": "furiki-diki",
+    "title": "フリーキー・ディーキー",
+    "titleKana": "ふりーきーでぃーきー",
+    "authorIds": [
+      "renadoerumoa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "takami-hiroshi"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "noir",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "エルモア・レナードによるクライムノベル。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1989,
+        "result": "1989年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Freaky Deaky",
+    "jpPublishedYear": 1989
+  },
+  {
+    "id": "kisetsu-no-owari",
+    "title": "季節の終り",
+    "titleKana": "きせつのおわり",
+    "authorIds": [
+      "ryuinmaikeruz"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ishidayoshihiko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "shiritsu-tantei",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "マイクル・Z・リューインによる私立探偵アルバート・サムスン・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1989,
+        "result": "1989年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Out of season",
+    "jpPublishedYear": 1989,
+    "seriesName": "アルバート・サムスン・シリーズ"
+  },
+  {
+    "id": "true-crime-story-turu-kuraimu-sutori",
+    "title": "トゥルー・クライム・ストーリー",
+    "titleKana": "TRUECRIMESTORY",
+    "authorIds": [
+      "author-988474"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "shinrai-dekinai-katarite",
+      "jojutsu-trick"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "大学の学生寮から消えた女子学生ゾーイ。失踪に取り憑かれたイヴリンの取材原稿と、作家ノックスとのやり取りで構成された一冊。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2024,
+        "result": "2024年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "TRUE CRIME STORY",
+    "jpPublishedYear": 2022
+  },
+  {
+    "id": "diogenesu-hensoukyoku",
+    "title": "ディオゲネス変奏曲",
+    "titleKana": "でぃおげねすへんそうきょく",
+    "authorIds": [
+      "chinkouki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "inamurabungo"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "tanpenshu",
+      "honkaku",
+      "nichijo-no-nazo"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "雨の大学教室で学生にまぎれた謎の人物「X」を捜す推理合戦「見えないX」など、17編を収めた短編集。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "第歐根尼變奏曲",
+    "jpPublishedYear": 2019
+  },
+  {
+    "id": "da-fosu",
+    "title": "ダ・フォース",
+    "titleKana": "だふぉーす",
+    "authorIds": [
+      "don-winslow"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "harpercollins-japan",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "noir",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "ドン・ウィンズロウによるニューヨーク市警を舞台にした長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2019,
+        "result": "2019年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE FORCE",
+    "jpPublishedYear": 2018
+  },
+  {
+    "id": "more-twisted-poka-ressun",
+    "title": "ポーカー・レッスン",
+    "titleKana": "MORETWISTED",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "tanpenshu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "ジェフリー・ディーヴァーによる短編集。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2014,
+        "result": "2014年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "More Twisted",
+    "jpPublishedYear": 2007
+  },
+  {
+    "id": "andawarudo-usa",
+    "title": "アンダーワールドUSA",
+    "titleKana": "あんだーわーるどUSA",
+    "authorIds": [
+      "james-ellroy"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tamura-yoshinobu"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "noir",
+      "shakaiha",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "ジェイムズ・エルロイによるアンダーワールドUSA三部作の完結編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2012,
+        "result": "2012年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Blood's a rover",
+    "jpPublishedYear": 2011,
+    "seriesName": "アンダーワールドUSA三部作"
+  },
+  {
+    "id": "akuma-wa-sugu-soko-ni",
+    "title": "悪魔はすぐそこに",
+    "titleKana": "あくまわすぐそこに",
+    "authorIds": [
+      "author-210606"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-ran"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "gakuen"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "D・M・ディヴァインによる長編ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2008,
+        "result": "2008年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Devil at your elbow",
+    "jpPublishedYear": 2007
+  },
+  {
+    "id": "shinuhodo-ii-onna",
+    "title": "死ぬほどいい女",
+    "titleKana": "しぬほどいいおんな",
+    "authorIds": [
+      "author-841821"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "mikawa-kiyoshi"
+    ],
+    "publisherId": "fusosha",
+    "themeIds": [
+      "noir",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "ジム・トンプスンによるクライムノベル。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2003,
+        "result": "2003年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "A hell of a woman",
+    "jpPublishedYear": 2002
+  },
+  {
+    "id": "kokoro-no-kudakeru-oto",
+    "title": "心の砕ける音",
+    "titleKana": "こころのくだけるおと",
+    "authorIds": [
+      "thomas-h-cook"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "muramatsukiyoshi"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "トマス・H・クックによる長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2002,
+        "result": "2002年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Places in the dark",
+    "jpPublishedYear": 2001
+  },
+  {
+    "id": "jon-ranpurieru-no-jisho",
+    "title": "ジョン・ランプリエールの辞書",
+    "titleKana": "じょんらんぷりえーるのじしょ",
+    "authorIds": [
+      "author-751708"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "aokisumiko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "boken-spy",
+      "kaiki-gensou",
+      "jidai-mystery"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "ローレンス・ノーフォークによる歴史大作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2001,
+        "result": "2001年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Lemprière's dictionary",
+    "jpPublishedYear": 2000
+  },
+  {
+    "id": "akutou-paka-enjeru",
+    "title": "悪党パーカー/エンジェル",
+    "titleKana": "あくとうぱーかーえんじぇる",
+    "authorIds": [
+      "sutakurichado"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kimurajirou"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "noir",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "リチャード・スタークによる悪党パーカー・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2000,
+        "result": "2000年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Comeback",
+    "jpPublishedYear": 1999,
+    "seriesName": "悪党パーカー・シリーズ"
+  },
+  {
+    "id": "gorin-no-bara",
+    "title": "五輪の薔薇",
+    "titleKana": "ごりんのばら",
+    "authorIds": [
+      "author-183203"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "fujiwarashinpei"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "jidai-mystery",
+      "boken-spy",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "チャールズ・パリサーによる19世紀英国を舞台にした長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1999,
+        "result": "1999年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Quincunx",
+    "jpPublishedYear": 1998
+  },
+  {
+    "id": "seijaku-no-sakebi",
+    "title": "静寂の叫び",
+    "titleKana": "せいじゃくのさけび",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "hidanoyuuko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "ジェフリー・ディーヴァーによる長編サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1998,
+        "result": "1998年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "A maiden's grave",
+    "jpPublishedYear": 1997
+  },
+  {
+    "id": "tomo-yo-tatakai-no-hate-ni",
+    "title": "友よ、戦いの果てに",
+    "titleKana": "ともよたたかいのはてに",
+    "authorIds": [
+      "james-crumley"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kodaka-nobumitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "ジェイムズ・クラムリーによる私立探偵小説。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1997,
+        "result": "1997年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Mexican tree duck",
+    "jpPublishedYear": 1996
+  },
+  {
+    "id": "the-general-s-daughter-shiyougun-no-musume",
+    "title": "将軍の娘",
+    "titleKana": "THEGENERALSDAUGHTER",
+    "authorIds": [
+      "domiruneruson"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "uedakimiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "軍の基地で発見された将軍の娘の遺体。捜査官ポール・ブレナーが事件を追う。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1995,
+        "result": "1995年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The general's daughter",
+    "jpPublishedYear": 1993
+  },
+  {
+    "id": "tasogare-ni-makku-no-mise-de",
+    "title": "黄昏にマックの店で",
+    "titleKana": "たそがれにまっくのみせで",
+    "authorIds": [
+      "tomasurosu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "fujimotokazuko"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "boken-spy",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "ロス・トーマスによる長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1993,
+        "result": "1993年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Twilight at Mac's place",
+    "jpPublishedYear": 1992
+  },
+  {
+    "id": "maboroshi-no-owari",
+    "title": "幻の終わり",
+    "titleKana": "まぼろしのおわり",
+    "authorIds": [
+      "author-64557"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "serizawamegumi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "キース・ピータースンによる新聞記者ジョン・ウェルズ・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1992,
+        "result": "1992年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "There fell a shadow",
+    "jpPublishedYear": 1991,
+    "seriesName": "ジョン・ウェルズ・シリーズ"
+  },
+  {
+    "id": "akage-no-sutorega",
+    "title": "赤毛のストレーガ",
+    "titleKana": "あかげのすとれーが",
+    "authorIds": [
+      "andoryuvakusu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "sasadamasako"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "noir",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "アンドリュー・ヴァクスによるバーク・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1988,
+        "result": "1988年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Strega",
+    "jpPublishedYear": 1988,
+    "seriesName": "バーク・シリーズ"
+  },
+  {
+    "id": "defender-of-the-innocent-eirengurafu-bengoshi-no",
+    "title": "エイレングラフ弁護士の事件簿",
+    "titleKana": "DEFENDEROFTHEINNOCENT",
+    "authorIds": [
+      "lawrence-block"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tamura-yoshinobu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "tanpenshu",
+      "houtei",
+      "igai-na-hannin"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "「有罪になれば報酬は不要」と言い切る弁護士マーティン・エイレングラフ。その常に無罪を勝ち取る手際を描く連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2025,
+        "result": "2025年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "DEFENDER OF THE INNOCENT",
+    "jpPublishedYear": 2014
+  },
+  {
+    "id": "the-october-list-okutoba-risuto",
+    "title": "オクトーバー・リスト",
+    "titleKana": "THEOCTOBERLIST",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tsuchiyaakira"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "jojutsu-trick"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "最終章から始まり第1章へさかのぼる逆行構成の長編。娘を誘拐され、秘密のリストの引き渡しを迫られた女ガブリエラの一夜を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2022,
+        "result": "2022年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE OCTOBER LIST",
+    "jpPublishedYear": 2016
+  },
+  {
+    "id": "november-road-juuichigatsu-ni-sarishi-mono",
+    "title": "11月に去りし者",
+    "titleKana": "NOVEMBERROAD",
+    "authorIds": [
+      "rubani"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "harpercollins-japan",
+    "themeIds": [
+      "noir",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "1963年11月、ケネディ暗殺の報に自らの死を予感した暗黒街の男ギドリーが、訳ありの母娘と出会い、家族連れを装って西へ逃げる。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2020,
+        "result": "2020年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "NOVEMBER ROAD",
+    "jpPublishedYear": 2018
+  },
+  {
+    "id": "ayaka-shi-no-uradoori",
+    "title": "あやかしの裏通り",
+    "titleKana": "あやかしのうらどおり",
+    "authorIds": [
+      "author-667713"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "hiraoka-atsushi"
+    ],
+    "publisherId": "gyoshu-bunka",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "kaiki-gensou"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "ポール・アルテによる本格ミステリ。年末ミステリランキング各誌で上位に入った。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2019,
+        "result": "2019年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "La ruelle fantôme",
+    "jpPublishedYear": 2018
+  },
+  {
+    "id": "mou-kako-wa-iranai",
+    "title": "もう過去はいらない",
+    "titleKana": "もうかこわいらない",
+    "authorIds": [
+      "author-546341"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-452703"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "ダニエル・フリードマンによる老刑事バック・シャッツ・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2016,
+        "result": "2016年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "DON'T EVER LOOK BACK",
+    "jpPublishedYear": 2015,
+    "seriesName": "バック・シャッツ・シリーズ"
+  },
+  {
+    "id": "akuma-no-hane",
+    "title": "悪魔の羽根",
+    "titleKana": "あくまのはね",
+    "authorIds": [
+      "minette-walters"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "narikawa-yuko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "iyamisu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "ミネット・ウォルターズによる長編サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2016,
+        "result": "2016年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE DEVIL'S FEATHER",
+    "jpPublishedYear": 2015
+  },
+  {
+    "id": "hari-kubato-jiken",
+    "title": "ハリー・クバート事件",
+    "titleKana": "はりーくばーとじけん",
+    "authorIds": [
+      "joerudikeru"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tachibana-akemi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "gakuen"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "ジョエル・ディケールによる長編。作家ハリー・クバートをめぐる事件を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2015,
+        "result": "2015年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "LA VÉRITÉ SUR L'AFFAIRE HARRY QUEBERT",
+    "jpPublishedYear": 2014
+  },
+  {
+    "id": "buraddo-buraza",
+    "title": "ブラッド・ブラザー",
+    "titleKana": "ぶらっどぶらざー",
+    "authorIds": [
+      "author-80976"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "misumi-kazuyo"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "ジャック・カーリイによるカーソン・ライダー・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2012,
+        "result": "2012年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Blood brother",
+    "jpPublishedYear": 2011,
+    "seriesName": "カーソン・ライダー・シリーズ"
+  },
+  {
+    "id": "eko-paku",
+    "title": "エコー・パーク",
+    "titleKana": "えこーぱーく",
+    "authorIds": [
+      "michael-connelly"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "マイクル・コナリーによるハリー・ボッシュ・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2011,
+        "result": "2011年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Echo park",
+    "jpPublishedYear": 2010,
+    "seriesName": "ハリー・ボッシュ・シリーズ"
+  },
+  {
+    "id": "guragu-57",
+    "title": "グラーグ57",
+    "titleKana": "ぐらーぐ57",
+    "authorIds": [
+      "tom-rob-smith"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "1949年のモスクワ教会爆破に加担した保安機関員レオ・デミドフが、7年後、過去の罪の報いに直面する。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2010,
+        "result": "2010年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The secret speech",
+    "jpPublishedYear": 2009,
+    "seriesName": "レオ・デミドフ三部作"
+  },
+  {
+    "id": "tango-suteppu",
+    "title": "タンゴステップ",
+    "titleKana": "たんごすてっぷ",
+    "authorIds": [
+      "henning-mankell"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yanagisawa-yumiko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "森で隠遁生活を送っていた元警察官が殺され、床には血で描かれたタンゴのステップの跡が残されていた。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2009,
+        "result": "2009年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Danslararens aterkomst",
+    "jpPublishedYear": 2008,
+    "seriesName": "クルト・ヴァランダー・シリーズ"
+  },
+  {
+    "id": "rojou-no-jiken",
+    "title": "路上の事件",
+    "titleKana": "ろじょうのじけん",
+    "authorIds": [
+      "jogoazu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-626641"
+    ],
+    "publisherId": "fusosha",
+    "themeIds": [
+      "tanpenshu",
+      "shiritsu-tantei",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "ジョー・ゴアズによる短編集。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2008,
+        "result": "2008年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Cases",
+    "jpPublishedYear": 2007
+  },
+  {
+    "id": "12banme-no-kado",
+    "title": "12番目のカード",
+    "titleKana": "12ばんめのかーど",
+    "authorIds": [
+      "jeffery-deaver"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ikeda-makiko"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "ジェフリー・ディーヴァーによるリンカーン・ライム・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2007,
+        "result": "2007年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The twelfth card",
+    "jpPublishedYear": 2006,
+    "seriesName": "リンカーン・ライム・シリーズ"
+  },
+  {
+    "id": "hyakubanme-no-otoko",
+    "title": "百番目の男",
+    "titleKana": "ひゃくばんめのおとこ",
+    "authorIds": [
+      "author-80976"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "misumi-kazuyo"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "ジャック・カーリイのデビュー作。カーソン・ライダー・シリーズの第1作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2006,
+        "result": "2006年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The hundredth man",
+    "jpPublishedYear": 2005,
+    "seriesName": "カーソン・ライダー・シリーズ"
+  },
+  {
+    "id": "kariforunia-garu",
+    "title": "カリフォルニア・ガール",
+    "titleKana": "かりふぉるにあがーる",
+    "authorIds": [
+      "author-252442"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-32074"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "T・ジェファーソン・パーカーによる長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2006,
+        "result": "2006年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "California girl",
+    "jpPublishedYear": 2005
+  },
+  {
+    "id": "daku-rain",
+    "title": "ダークライン",
+    "titleKana": "だーくらいん",
+    "authorIds": [
+      "author-599263"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-85579"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "seishun",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "ジョー・R・ランズデールによる長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2004,
+        "result": "2004年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "A fine dark line",
+    "jpPublishedYear": 2003
+  },
+  {
+    "id": "bin-no-naka-no-shuki",
+    "title": "壜の中の手記",
+    "titleKana": "びんのなかのしゅき",
+    "authorIds": [
+      "jerarudokashu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-573798"
+    ],
+    "publisherId": "shobunsha",
+    "themeIds": [
+      "tanpenshu",
+      "kaiki-gensou",
+      "tokushu-settei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "ミステリ・怪奇小説・SF・ファンタジーにまたがる作品を残した異色の短編作家による傑作選。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2003,
+        "result": "2003年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The oxoxoco bottle",
+    "jpPublishedYear": 2002
+  },
+  {
+    "id": "waga-shinzou-no-itami",
+    "title": "わが心臓の痛み",
+    "titleKana": "わがしんぞうのいたみ",
+    "authorIds": [
+      "michael-connelly"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "fusosha",
+    "themeIds": [
+      "shiritsu-tantei",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "マイクル・コナリーによる長編。心臓移植を受けた元FBI捜査官テリー・マッケイレブを描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2001,
+        "result": "2001年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Blood work",
+    "jpPublishedYear": 2000
+  },
+  {
+    "id": "kurisumasu-ni-shoujo-wa-kaeru",
+    "title": "クリスマスに少女は還る",
+    "titleKana": "くりすますにしょうじょわかえる",
+    "authorIds": [
+      "author-331141"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "mutai-natsuko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "クリスマス間近のある日、2人の少女が失踪する。15年前の双子の妹殺害事件の記憶が刑事ルージュに蘇るが、犯人は今も服役中だった。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2000,
+        "result": "2000年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Judas child",
+    "jpPublishedYear": 1999
+  },
+  {
+    "id": "kuro-to-ao",
+    "title": "黒と青",
+    "titleKana": "くろとあお",
+    "authorIds": [
+      "author-695125"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-281156"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "hardboiled"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "イアン・ランキンによるジョン・リーバス警部シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1999,
+        "result": "1999年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Black and blue",
+    "jpPublishedYear": 1998,
+    "seriesName": "ジョン・リーバス・シリーズ"
+  },
+  {
+    "id": "soukyuu-no-kanata-e",
+    "title": "蒼穹のかなたへ",
+    "titleKana": "そうきゅうのかなたえ",
+    "authorIds": [
+      "robert-goddard"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-866777"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "boken-spy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "ロバート・ゴダードによる長編サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1998,
+        "result": "1998年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Into the blue",
+    "jpPublishedYear": 1997
+  },
+  {
+    "id": "karibu-shotou-no-tegakari",
+    "title": "カリブ諸島の手がかり",
+    "titleKana": "かりぶしょとうのてがかり",
+    "authorIds": [
+      "author-740927"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kurasakakiichirou"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "tanpenshu",
+      "honkaku",
+      "kaiki-gensou"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "T・S・ストリブリングによるポジオリ教授ものの短編集。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1998,
+        "result": "1998年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Clues of the Caribbees",
+    "jpPublishedYear": 1997,
+    "seriesName": "ポジオリ教授シリーズ"
+  },
+  {
+    "id": "tsumibukaki-yuuwaku-no-manbo",
+    "title": "罪深き誘惑のマンボ",
+    "titleKana": "つみぶかきゆうわくのまんぼ",
+    "authorIds": [
+      "author-599263"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kamatasanpei"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "ジョー・R・ランズデールによるハップ&レナード・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1997,
+        "result": "1997年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The two-bear mambo",
+    "jpPublishedYear": 1996,
+    "seriesName": "ハップ&レナード・シリーズ"
   }
 ]
