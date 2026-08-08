@@ -53748,5 +53748,445 @@
     "updatedAt": "2026-08-07",
     "originalTitle": "The way through the woods",
     "jpPublishedYear": 1993
+  },
+  {
+    "id": "kagi",
+    "title": "鉤",
+    "titleKana": "かぎ",
+    "authorIds": [
+      "uesutoreikudonarudoe"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kimurajirou-tr"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "noir",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "行き詰まった作家と、妻を殺したい男。二人が交わした取引が、思わぬ方向へ転がっていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2004,
+        "result": "2004年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The hook",
+    "jpPublishedYear": 2003
+  },
+  {
+    "id": "manekarezaru-kyakutachi-no-byuffe",
+    "title": "招かれざる客たちのビュッフェ",
+    "titleKana": "まねかれざるきゃくたちのびゅっふぇ",
+    "authorIds": [
+      "christianna-brand"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-871755"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tanpenshu",
+      "igai-na-hannin"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "英国ミステリ史上でも異彩を放つ作家による短編集。技巧を凝らした作品が並ぶ。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1991,
+        "result": "1991年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Buffet for unwelcome guests",
+    "jpPublishedYear": 1990
+  },
+  {
+    "id": "desu-chea-no-satsujin",
+    "title": "デスチェアの殺人",
+    "titleKana": "ですちぇあのさつじん",
+    "authorIds": [
+      "mw-craven"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "higashino-sayaka"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "殺された男が率いていたカルト教団と、その子どもたち。ワシントン・ポー・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2026,
+        "result": "2026年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE MERCY CHAIR",
+    "jpPublishedYear": 2025
+  },
+  {
+    "id": "sotsugyousei-niwa-mukanai-shinjitsu",
+    "title": "卒業生には向かない真実",
+    "titleKana": "そつぎょうせいにわむかないしんじつ",
+    "authorIds": [
+      "author-840893"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-526072"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "seishun",
+      "gakuen"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "「わたしはこの真実から、決して目を背けない」——高校生ピップのシリーズ完結編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2024,
+        "result": "2024年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "AS GOOD AS DEAD",
+    "jpPublishedYear": 2023
+  },
+  {
+    "id": "jakku-gurasu-den-uchuuteki-satsujinsha",
+    "title": "ジャック・グラス伝 宇宙的殺人者",
+    "titleKana": "じゃっくぐらすでん",
+    "authorIds": [
+      "author-37130"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "uchidamasayuki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "tokushu-settei",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "稀代の犯罪者ジャック・グラス。宇宙を舞台にした本格ミステリとSFの融合作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2018,
+        "result": "2018年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "JACK GLASS",
+    "jpPublishedYear": 2017
+  },
+  {
+    "id": "kagi-2",
+    "title": "鉤",
+    "titleKana": "かぎ",
+    "authorIds": [
+      "uesutoreikudonarudoe"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kimurajirou-tr"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "noir",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "行き詰まった作家と、妻を殺したい男。二人が交わした取引が、思わぬ方向へ転がっていく。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2004,
+        "result": "2004年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The hook",
+    "jpPublishedYear": 2003
+  },
+  {
+    "id": "manekarezaru-kyakutachi-no-byuffe-2",
+    "title": "招かれざる客たちのビュッフェ",
+    "titleKana": "まねかれざるきゃくたちのびゅっふぇ",
+    "authorIds": [
+      "christianna-brand"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-871755"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tanpenshu",
+      "igai-na-hannin"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "英国ミステリ史上でも異彩を放つ作家による短編集。技巧を凝らした作品が並ぶ。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1991,
+        "result": "1991年版 海外編 第5位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Buffet for unwelcome guests",
+    "jpPublishedYear": 1990
+  },
+  {
+    "id": "desu-chea-no-satsujin-2",
+    "title": "デスチェアの殺人",
+    "titleKana": "ですちぇあのさつじん",
+    "authorIds": [
+      "mw-craven"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "higashino-sayaka"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "honkaku",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "殺された男が率いていたカルト教団と、その子どもたち。ワシントン・ポー・シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2026,
+        "result": "2026年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE MERCY CHAIR",
+    "jpPublishedYear": 2025
+  },
+  {
+    "id": "sotsugyousei-niwa-mukanai-shinjitsu-2",
+    "title": "卒業生には向かない真実",
+    "titleKana": "そつぎょうせいにわむかないしんじつ",
+    "authorIds": [
+      "author-840893"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-526072"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "seishun",
+      "gakuen"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "「わたしはこの真実から、決して目を背けない」——高校生ピップのシリーズ完結編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2024,
+        "result": "2024年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "AS GOOD AS DEAD",
+    "jpPublishedYear": 2023
+  },
+  {
+    "id": "kuroki-kouya-no-hate",
+    "title": "黒き荒野の果て",
+    "titleKana": "くろきこうやのはて",
+    "authorIds": [
+      "sakosubi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kagayama-takuro"
+    ],
+    "publisherId": "harpercollins-japan",
+    "themeIds": [
+      "noir",
+      "kazoku",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "米国南部で自動車修理工場を営むボーレガードが、家族のために再び犯罪へ足を踏み入れる。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2023,
+        "result": "2023年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "BLACKTOP WASTELAND",
+    "jpPublishedYear": 2022
+  },
+  {
+    "id": "jakku-gurasu-den-uchuuteki-satsujinsha-2",
+    "title": "ジャック・グラス伝 宇宙的殺人者",
+    "titleKana": "じゃっくぐらすでん",
+    "authorIds": [
+      "author-37130"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "uchidamasayuki"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "tokushu-settei",
+      "honkaku",
+      "meitantei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "稀代の犯罪者ジャック・グラス。宇宙を舞台にした本格ミステリとSFの融合作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2018,
+        "result": "2018年版 海外編 第6位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "JACK GLASS",
+    "jpPublishedYear": 2017
   }
 ]

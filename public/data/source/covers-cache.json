@@ -1944,6 +1944,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T04:42:23.293Z"
   },
+  "faia-woru-2": {
+    "title": "ファイアーウォール",
+    "isbn": "9784488209148",
+    "matchedTitle": "ファイアーウォール（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9148/9784488209148.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:38:49.082Z"
+  },
   "fainaru-kantori": {
     "title": "ファイナル・カントリー",
     "isbn": null,
@@ -4513,6 +4521,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T02:59:58.862Z"
   },
+  "kemonotachi-no-teien-2": {
+    "title": "獣たちの庭園",
+    "isbn": null,
+    "matchedTitle": "獣たちの庭園",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6364/2000002456364.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T00:39:20.518Z"
+  },
   "kemuri-ka-tsuchi-ka-kuimono": {
     "title": "煙か土か食い物 Smoke, Soil or Sacrifices",
     "isbn": null,
@@ -6686,6 +6702,14 @@
     "resolvedAt": "2026-08-04T03:51:38.389Z",
     "note": "登録した新潮文庫『モルグ街の殺人・黄金虫』(巽孝之訳)に手動で合わせた(自動取得では別出版社版が当たっていた)"
   },
+  "mori-o-nukeru-michi-2": {
+    "title": "森を抜ける道",
+    "isbn": null,
+    "matchedTitle": "森を抜ける道",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2254/2000003732254.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T00:39:23.976Z"
+  },
   "morocco-suisho-no-nazo": {
     "title": "モロッコ水晶の謎",
     "isbn": "9784062759885",
@@ -6707,6 +6731,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6673/9784062646673.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:29.879Z"
+  },
+  "mou-toshi-wa-torenai": {
+    "title": "もう年はとれない",
+    "isbn": null,
+    "matchedTitle": "もう年はとれない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0743/2000002900743.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T00:38:47.915Z"
   },
   "moumoku-no-karasu": {
     "title": "盲目の鴉",
@@ -7665,6 +7697,12 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-07T05:40:28.282Z"
   },
+  "pari-no-aparutoman-2": {
+    "title": "パリのアパルトマン",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T00:38:43.271Z"
+  },
   "partners-in-crime": {
     "title": "おしどり探偵",
     "isbn": "9784151300523",
@@ -7959,6 +7997,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6636/2000004266636.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T15:34:34.531Z"
+  },
+  "rasuto-chairudo-2": {
+    "title": "ラスト・チャイルド",
+    "isbn": "9784151767036",
+    "matchedTitle": "ラスト・チャイルド（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7036/9784151767036.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:38:50.281Z"
   },
   "ratman": {
     "title": "ラットマン",
@@ -9806,6 +9852,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:27.177Z"
   },
+  "suripingu-doru-2": {
+    "title": "スリーピング・ドール",
+    "isbn": null,
+    "matchedTitle": "スリーピング・ドール　下",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6311/2000002456311.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T00:38:54.454Z"
+  },
   "suripu-woka": {
     "title": "スリープウォーカー マンチェスター市警 エイダン・ウェイツ",
     "isbn": null,
@@ -9841,6 +9895,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8068/9784488288068_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T22:52:17.811Z"
+  },
+  "suugakuteki-ni-arienai-2": {
+    "title": "数学的にありえない",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T00:39:17.034Z"
   },
   "swan": {
     "title": "スワン",
@@ -9881,6 +9941,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5392/2000000135392.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T15:32:11.593Z"
+  },
+  "taipei-puraibeto-ai": {
+    "title": "台北プライベートアイ",
+    "isbn": "9784163913674",
+    "matchedTitle": "台北プライベートアイ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3674/9784163913674.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:38:23.354Z"
   },
   "taiyo-ga-ippai": {
     "title": "太陽がいっぱい",
@@ -10633,6 +10701,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:51:07.940Z"
   },
+  "uchuu-tantei-magunasu-ridorufu-2": {
+    "title": "宇宙探偵マグナス・リドルフ",
+    "isbn": "9784336059208",
+    "matchedTitle": "宇宙探偵マグナス・リドルフ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9208/9784336059208.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:38:44.466Z"
+  },
   "ue-to-soto": {
     "title": "上と外",
     "isbn": "9784344410190",
@@ -10684,6 +10760,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-07T05:41:37.056Z"
+  },
+  "unagi-no-wana-2": {
+    "title": "ウナギの罠",
+    "isbn": "9784594094065",
+    "matchedTitle": "ウナギの罠",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4065/9784594094065_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:38:21.001Z"
   },
   "undead-girl-murder-farce": {
     "title": "アンデッドガール・マーダーファルス",
@@ -11110,6 +11194,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T07:18:10.186Z"
   },
+  "yoake-made-ni-dareka-ga-2": {
+    "title": "夜明けまでに誰かが",
+    "isbn": "9784488135096",
+    "matchedTitle": "夜明けまでに誰かが",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5096/9784488135096_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:38:19.839Z"
+  },
   "yoake-no-machi-de": {
     "title": "夜明けの街で",
     "isbn": "9784043718085",
@@ -11404,6 +11496,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8312/9784065368312_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T15:25:57.416Z"
+  },
+  "yuutousei-wa-tantei-ni-mukanai-2": {
+    "title": "優等生は探偵に向かない",
+    "isbn": "9784488135065",
+    "matchedTitle": "優等生は探偵に向かない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5065/9784488135065_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T00:38:22.152Z"
   },
   "yuzai": {
     "title": "友罪",
