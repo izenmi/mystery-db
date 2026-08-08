@@ -494,5 +494,14 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "magazine-house",
+    "name": "マガジンハウス",
+    "nameKana": "まがじんはうす",
+    "description": "1945年創業の出版社。雑誌を中心に書籍も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

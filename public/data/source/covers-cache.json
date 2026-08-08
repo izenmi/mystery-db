@@ -5627,6 +5627,15 @@
     "resolvedAt": "2026-08-07T05:10:16.696Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5733596/"
   },
+  "kanojo-ga-tantei-de-nakereba": {
+    "title": "彼女が探偵でなければ",
+    "isbn": "9784041134771",
+    "matchedTitle": "彼女が探偵でなければ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4771/9784041134771_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T08:24:14.506Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17971356/"
+  },
   "kanojo-no-inai-hikouki": {
     "title": "彼女のいない飛行機",
     "isbn": null,
@@ -5666,6 +5675,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8466/2000006688466.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-07T05:10:15.539Z"
+  },
+  "kanzen-renai": {
+    "title": "完全恋愛",
+    "isbn": null,
+    "matchedTitle": "完全恋愛",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4209/2000000204209.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T08:24:18.064Z"
   },
   "kao": {
     "title": "顔",
@@ -12665,6 +12682,12 @@
     "coverUrl": "https://c.bookwalker.jp/8323842/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-04T02:50:27.177Z"
+  },
+  "suno-howaito-meitantei-sanzunokawa-kotowari-to-s": {
+    "title": "スノーホワイト 名探偵三途川理と少女の鏡は千の目を持つ",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T08:24:13.326Z"
   },
   "suri-agetsu-mittsu-no-menou": {
     "title": "スリー・アゲーツ 三つの瑪瑙",

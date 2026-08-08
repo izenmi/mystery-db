@@ -516,6 +516,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2006,
         "result": "第6回受賞"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2006,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -723,6 +728,11 @@
         "awardId": "ayukawa-tetsuya-sho",
         "year": 2017,
         "result": "受賞"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2018,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -776,6 +786,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2020,
         "result": "第20回受賞"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2020,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -2220,6 +2235,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2022,
         "result": "第22回受賞(小説部門)"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2022,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -3024,6 +3044,11 @@
         "awardId": "mystery-writers-japan",
         "year": 2004,
         "result": "長編及び連作短編集部門"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2004,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -3570,6 +3595,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2007,
         "result": "第7回受賞(小説部門)"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2007,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -3774,6 +3804,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2014,
         "result": "第15位"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2013,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -3845,6 +3880,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2003,
         "result": "第3回受賞(笠井潔『オイディプス症候群』と同時受賞)"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2003,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -6867,6 +6907,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2008,
         "result": "第8回受賞(小説部門)"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2008,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -7310,6 +7355,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2011,
         "result": "2011年版 国内編 第7位"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2010,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -7506,6 +7556,11 @@
         "awardId": "mystery-writers-japan",
         "year": 2011,
         "result": "長編及び連作短編集部門"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2011,
+        "result": "受賞"
       }
     ]
   },
@@ -7616,6 +7671,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2005,
         "result": "第5回受賞(小説部門)"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2005,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -10656,6 +10716,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2017,
         "result": "第17回受賞"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2017,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -21039,7 +21104,14 @@
     "externalLinks": {},
     "updatedAt": "2026-08-07",
     "seriesName": "密室殺人ゲームシリーズ",
-    "sourceNote": "書誌(講談社、2013年、ISBN 9784062772525)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+    "sourceNote": "書誌(講談社、2013年、ISBN 9784062772525)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「歌野晶午」による。初刊年2009年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2010,
+        "result": "受賞"
+      }
+    ]
   },
   {
     "id": "joosama-to-watashi",
@@ -27414,6 +27486,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2023,
         "result": "2023年版 国内編 第2位"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2023,
+        "result": "受賞"
       }
     ],
     "sourceNote": "書誌(新潮社、2026年、ISBN 9784101044828)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「白井智之 著」による。初刊年2022年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
@@ -42079,6 +42156,11 @@
         "awardId": "mystery-writers-japan",
         "year": 2024,
         "result": "長編および連作短編集部門"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2024,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -42544,6 +42626,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2026,
         "result": "2026年版 国内編 第2位"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2026,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -43471,6 +43558,11 @@
         "awardId": "mystery-writers-japan",
         "year": 2002,
         "result": "長編及び連作短編集部門"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2002,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -50317,6 +50409,11 @@
         "awardId": "mystery-writers-japan",
         "year": 2022,
         "result": "長編および連作短編集部門"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2022,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -63324,6 +63421,11 @@
         "awardId": "mystery-writers-japan",
         "year": 2021,
         "result": "長編および連作短編集部門"
+      },
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2021,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -65119,6 +65221,114 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "suno-howaito-meitantei-sanzunokawa-kotowari-to-s",
+    "title": "スノーホワイト 名探偵三途川理と少女の鏡は千の目を持つ",
+    "titleKana": "すのーほわいと",
+    "authorIds": [
+      "morikawatomoki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "名探偵・三途川理が、千の目を持つ鏡をめぐる事件に挑む。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2014,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「本格ミステリ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanojo-ga-tantei-de-nakereba",
+    "title": "彼女が探偵でなければ",
+    "titleKana": "かのじょがたんていでなければ",
+    "authorIds": [
+      "itsukiyuu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "honkaku",
+      "rensaku-tanpen",
+      "shiritsu-tantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "人の本性を暴くことに執着してきた探偵・森田みどりが、子どもたちをめぐる謎にのめり込む。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2025,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「本格ミステリ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanzen-renai",
+    "title": "完全恋愛",
+    "titleKana": "かんぜんれんあい",
+    "authorIds": [
+      "makisatsuji"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "magazine-house",
+    "themeIds": [
+      "honkaku",
+      "jojutsu-trick",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "牧薩次(辻真先)による長編。第9回本格ミステリ大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "honkaku-mystery-taisho",
+        "year": 2009,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「本格ミステリ大賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
     "updatedAt": "2026-08-07"
   }
 ]
