@@ -368,5 +368,41 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌および版元公式サイトで確認。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ronsosha",
+    "name": "論創社",
+    "nameKana": "ろんそうしゃ",
+    "description": "1978年創業の出版社。『論創海外ミステリ』叢書で未訳・稀少な海外ミステリを継続的に刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shakai-shisosha",
+    "name": "社会思想社",
+    "nameKana": "しゃかいしそうしゃ",
+    "description": "現代教養文庫を刊行していた出版社。2002年に倒産。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "soshisha",
+    "name": "草思社",
+    "nameKana": "そうししゃ",
+    "description": "1968年創業の出版社。ノンフィクションと海外文学の翻訳を手がける。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "sony-magazines",
+    "name": "ソニー・マガジンズ",
+    "nameKana": "そにーまがじんず",
+    "description": "ソニー系の出版社。ヴィレッジブックスの前身として海外小説の翻訳を刊行していた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]

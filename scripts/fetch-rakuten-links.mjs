@@ -8,7 +8,8 @@
  *
  * **APIが返す `affiliateUrl` は使わない。** リクエストに `affiliateId` を付けても無視され、
  * アプリケーションに紐づく別のアフィリエイトID(g00q072n.…)で組み立てられたURLが返ってくることを
- * 実測で確認したため(2026-08-08)。取り違えるとアフィリエイト収益が別アカウントに入ってしまう。
+ * 実測で確認したため(2026-08-08)。**このIDはサイト運営者本人のものではない**ことを確認済みなので、
+ * 使うとアフィリエイト収益がまるごと別アカウントに入ってしまう。
  * ここでは素の `itemUrl` だけを保存し、アフィリエイトIDでの包装はフロント側
  * (src/ui/common/WorkCover.tsx の rakutenBooksUrl)で行う。
  *
@@ -40,7 +41,19 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function fetchRakuten(url) {
   for (let attempt = 0; ; attempt++) {
-    const res = await fetch(url, { headers: { Referer: REFERER_URL, Origin: ORIGIN_URL } });
+    // node の fetch は既定でタイムアウトしないため、接続がハングするとジョブごと止まる
+    // (1000件超のバッチで実際に踏んだ)。必ず AbortSignal で打ち切ること。
+    let res;
+    try {
+      res = await fetch(url, {
+        headers: { Referer: REFERER_URL, Origin: ORIGIN_URL },
+        signal: AbortSignal.timeout(20000),
+      });
+    } catch {
+      if (attempt >= 2) return undefined;
+      await sleep(2000 * (attempt + 1));
+      continue;
+    }
     if (res.status !== 429 || attempt >= 2) return res;
     await sleep(5000 * (attempt + 1));
   }
@@ -55,7 +68,7 @@ async function itemUrlForIsbn(isbn) {
     hits: "1",
   });
   const res = await fetchRakuten(`${API}?${params.toString()}`);
-  if (!res.ok) return undefined;
+  if (!res || !res.ok) return undefined;
   const data = await res.json().catch(() => ({}));
   const item = data?.Items?.[0]?.Item;
   return item?.itemUrl || undefined;
