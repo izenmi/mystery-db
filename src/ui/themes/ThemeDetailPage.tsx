@@ -4,6 +4,7 @@ import { getTheme } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
+import { matchesKeyword, themeOptionsOf } from "../common/useWorkFilter";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 
 const ORIGIN_OPTIONS: { value: string; label: string }[] = [
@@ -49,13 +50,24 @@ export function ThemeDetailPage() {
   });
 
   const [params, setParams] = useSearchParams();
+  const q = params.get("q") ?? "";
+  // このページ自身のテーマは全作品が持っていて絞り込みにならないので選択肢から外す
+  const other = params.get("theme") ?? "";
   const origin = params.get("origin") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
   const sort = params.get("sort") ?? "year-desc";
 
+  const options = useMemo(
+    () => themeOptionsOf(state.status === "ready" ? state.data?.works : undefined, id),
+    [state, id],
+  );
+
   const filtered = useMemo(() => {
     if (state.status !== "ready" || !state.data) return [];
+    const keyword = q.trim().toLowerCase();
     return state.data.works.filter((w) => {
+      if (!matchesKeyword(w, keyword)) return false;
+      if (other && !w.themeIds.includes(other)) return false;
       if (origin && w.origin !== origin) return false;
       if (mediaMix === "movie" && !w.mediaMix?.movie) return false;
       if (mediaMix === "drama" && !w.mediaMix?.drama) return false;
@@ -69,7 +81,7 @@ export function ThemeDetailPage() {
       }
       return true;
     });
-  }, [state, origin, mediaMix]);
+  }, [state, origin, mediaMix, q, other]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -87,13 +99,13 @@ export function ThemeDetailPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["origin", "mediaMix"]) {
+    for (const key of ["q", "theme", "origin", "mediaMix"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(origin || mediaMix);
+  const hasActiveFilters = Boolean(q || other || origin || mediaMix);
 
   return (
     <div className="page">
@@ -111,6 +123,23 @@ export function ThemeDetailPage() {
           <p className="page-subtitle">{state.data.workCount}作品</p>
           {state.data.description && <p>{state.data.description}</p>}
           <div className="filter-row">
+            <input
+              type="search"
+              value={q}
+              placeholder="タイトル・作者で絞り込み"
+              aria-label="タイトル・作者で絞り込み"
+              onChange={(e) => updateParam("q", e.target.value)}
+            />
+            {options.length > 0 && (
+              <select value={other} onChange={(e) => updateParam("theme", e.target.value)}>
+                <option value="">他のテーマで絞り込み</option>
+                {options.map((o) => (
+                  <option value={o.value} key={o.value}>
+                    {o.label}
+                  </option>
+                ))}
+              </select>
+            )}
             <select value={origin} onChange={(e) => updateParam("origin", e.target.value)}>
               <option value="">国内/海外で絞り込み</option>
               {ORIGIN_OPTIONS.map((o) => (
