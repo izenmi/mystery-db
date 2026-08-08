@@ -51954,5 +51954,841 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "burakku-raito",
+    "title": "ブラックライト",
+    "titleKana": "ぶらっくらいと",
+    "authorIds": [
+      "hantasuteibun"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-743224"
+    ],
+    "publisherId": "fusosha",
+    "themeIds": [
+      "boken-spy",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "元海兵隊の狙撃手ボブ・リー・スワガーを主人公にしたシリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1999,
+        "result": "1999年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Black light",
+    "jpPublishedYear": 1998
+  },
+  {
+    "id": "akumu-no-bakansu",
+    "title": "悪夢のバカンス",
+    "titleKana": "あくむのばかんす",
+    "authorIds": [
+      "konranshiyari"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamamoto-yayoi"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "休暇先で起きた出来事から、女性たちが窮地に追い込まれていくサスペンス。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1992,
+        "result": "1992年版 海外編 第3位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Savages",
+    "jpPublishedYear": 1991
+  },
+  {
+    "id": "gusha-no-machi",
+    "title": "愚者の街",
+    "titleKana": "ぐしゃのまち",
+    "authorIds": [
+      "tomasurosu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-994575"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "noir",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "「社長が殺されたってのは、俺が殺されたってことでもある」——腐敗した街を舞台にしたクライムノベル。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2024,
+        "result": "2024年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The fools in town are on our side",
+    "jpPublishedYear": 2023
+  },
+  {
+    "id": "kohansou",
+    "title": "湖畔荘",
+    "titleKana": "こはんそう",
+    "authorIds": [
+      "keitomoton"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "aokisumiko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "kaiki-gensou"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "英国の湖畔の館で、幼い子どもが忽然と消えた。数十年後、その謎に女性作家が向き合う。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2018,
+        "result": "2018年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "THE LAKE HOUSE",
+    "jpPublishedYear": 2017
+  },
+  {
+    "id": "baddo-monkizu",
+    "title": "バッド・モンキーズ",
+    "titleKana": "ばっどもんきーず",
+    "authorIds": [
+      "author-821489"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakagawashou"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "tokushu-settei",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "自分は悪人だけを殺す秘密組織の一員だと語る女。その供述の真偽が揺らいでいく。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2010,
+        "result": "2010年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Bad monkeys",
+    "jpPublishedYear": 2009
+  },
+  {
+    "id": "20seiki-no-yuureitachi",
+    "title": "20世紀の幽霊たち",
+    "titleKana": "20せいきのゆうれいたち",
+    "authorIds": [
+      "author-166682"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "miyawakitakao-tr"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "kaiki-gensou",
+      "tanpenshu",
+      "jojutsu-trick"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "幽霊、怪物、そして日常の裂け目。ホラーと幻想を横断する短編集。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2009,
+        "result": "2009年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "20th century ghosts",
+    "jpPublishedYear": 2008
+  },
+  {
+    "id": "mono-shika-kakenakatta-monokaki",
+    "title": "物しか書けなかった物書き",
+    "titleKana": "ものしかかけなかったものかき",
+    "authorIds": [
+      "author-317443"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamamotomitsunobu"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "honkaku",
+      "tanpenshu",
+      "igai-na-hannin"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "書けなくなった物書きをめぐる表題作ほか、皮肉の効いた短編を集めた作品集。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2008,
+        "result": "2008年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The man who could only write things and other stories",
+    "jpPublishedYear": 2007
+  },
+  {
+    "id": "kagayaku-danpen",
+    "title": "輝く断片",
+    "titleKana": "かがやくだんぺん",
+    "authorIds": [
+      "sutajiyonshiodoa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yanashitakiichirou"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "tanpenshu",
+      "tokushu-settei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "SFと幻想の境界に立つ作家の傑作選。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2006,
+        "result": "2006年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Bright segment and other stories",
+    "jpPublishedYear": 2005
+  },
+  {
+    "id": "da-vinchi-kodo",
+    "title": "ダ・ヴィンチ・コード",
+    "titleKana": "だゔぃんちこーど",
+    "authorIds": [
+      "dan-brown"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "echizen-toshiya"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "suspense",
+      "jidai-mystery",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "ルーヴル美術館で館長が殺害され、遺体は奇妙な形に配置されていた。宗教史の謎を追う冒険ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2005,
+        "result": "2005年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The Da Vinci code",
+    "jpPublishedYear": 2004
+  },
+  {
+    "id": "fainaru-kantori",
+    "title": "ファイナル・カントリー",
+    "titleKana": "ふぁいなるかんとりー",
+    "authorIds": [
+      "james-crumley"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kodaka-nobumitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "hardboiled",
+      "shiritsu-tantei",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "テキサスを舞台にした私立探偵ミロ・ミロドラゴヴィッチのシリーズ最終作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2005,
+        "result": "2005年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The final country",
+    "jpPublishedYear": 2004
+  },
+  {
+    "id": "sairento-gemu",
+    "title": "サイレント・ゲーム",
+    "titleKana": "さいれんとげーむ",
+    "authorIds": [
+      "author-197525"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "gotouyukiko"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "houtei",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "銃規制をめぐる訴訟を軸に、法廷とメディアの力学を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2004,
+        "result": "2004年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Silent witness",
+    "jpPublishedYear": 2003
+  },
+  {
+    "id": "daishi-no-tobira",
+    "title": "第四の扉",
+    "titleKana": "だいしのとびら",
+    "authorIds": [
+      "author-667713"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "hiraoka-atsushi"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "honkaku",
+      "misshitsu",
+      "yakata-mono"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "オックスフォード近郊の小村に建つダーンリー家の屋敷。降霊術と密室が絡み合う本格ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2003,
+        "result": "2003年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "La quatrième porte",
+    "jpPublishedYear": 2002
+  },
+  {
+    "id": "ono",
+    "title": "斧",
+    "titleKana": "おの",
+    "authorIds": [
+      "uesutoreikudonarudoe"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kimurajirou-tr"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "noir",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "リストラされた男が、再就職のために競合する候補者を排除しようと決意する。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2002,
+        "result": "2002年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The ax",
+    "jpPublishedYear": 2001
+  },
+  {
+    "id": "otori-bengoshi",
+    "title": "囮弁護士",
+    "titleKana": "おとりべんごし",
+    "authorIds": [
+      "author-862250"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "sougousha"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "houtei",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "弁護士が仕掛けられた罠に絡め取られていく法廷サスペンス。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 2001,
+        "result": "2001年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Personal injuries",
+    "jpPublishedYear": 2000
+  },
+  {
+    "id": "saru-kitarinaba",
+    "title": "猿来たりなば",
+    "titleKana": "さるきたりなば",
+    "authorIds": [
+      "ferazuerizabesu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "nakamura-yuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "kaigai-koten",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "英国の家庭を舞台にした本格ミステリ。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1999,
+        "result": "1999年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Don't monkey with murder",
+    "jpPublishedYear": 1998
+  },
+  {
+    "id": "tetsu-no-kase",
+    "title": "鉄の枷",
+    "titleKana": "てつのかせ",
+    "authorIds": [
+      "minette-walters"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "narikawa-yuko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "suspense",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "死者の頭に被せられていた奇妙な枷。CWAゴールドダガー賞を受けた長編。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1998,
+        "result": "1998年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The scold's bridle",
+    "jpPublishedYear": 1996
+  },
+  {
+    "id": "tekishu",
+    "title": "敵手",
+    "titleKana": "てきしゅ",
+    "authorIds": [
+      "dick-francis"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kikuchi-mitsu"
+    ],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "suspense",
+      "noir",
+      "shakaiha"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "馬の脚が切断される残忍な事件が続発する。元ジョッキーの探偵が競馬界の暗部に迫る。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1997,
+        "result": "1997年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Come to grief",
+    "jpPublishedYear": 1996
+  },
+  {
+    "id": "kurisumasu-no-furosuto",
+    "title": "クリスマスのフロスト",
+    "titleKana": "くりすますのふろすと",
+    "authorIds": [
+      "rdwingufirudo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "serizawamegumi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "ロンドンから70マイルの田舎町デントン。フロスト警部シリーズの第1作。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1995,
+        "result": "1995年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Frost at Christmas",
+    "jpPublishedYear": 1994
+  },
+  {
+    "id": "wocchazu",
+    "title": "ウォッチャーズ",
+    "titleKana": "うぉっちゃーず",
+    "authorIds": [
+      "author-487195"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-994575"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense",
+      "tokushu-settei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "遺伝子操作によって生み出された存在をめぐるサスペンス・ホラー。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1994,
+        "result": "1994年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Watchers",
+    "jpPublishedYear": 1993
+  },
+  {
+    "id": "fukurou-no-sakebi",
+    "title": "ふくろうの叫び",
+    "titleKana": "ふくろうのさけび",
+    "authorIds": [
+      "patricia-highsmith"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "miyawakiyuuko"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "noir"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "四人の男女が織りなす愛憎劇。ロバートの結婚生活が崩れていく過程を描く。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1992,
+        "result": "1992年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "The cry of the owl",
+    "jpPublishedYear": 1993
+  },
+  {
+    "id": "mizari",
+    "title": "ミザリー",
+    "titleKana": "みざりー",
+    "authorIds": [
+      "sutibunkingu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yanokouzaburou"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense",
+      "tokushu-settei"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "雪道の事故で半身不随になった流行作家が、自称「一番のファン」の女性に監禁される。",
+    "awardResults": [
+      {
+        "awardId": "kono-mystery-ga-sugoi",
+        "year": 1991,
+        "result": "1991年版 海外編 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「このミステリーがすごい!」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Misery",
+    "jpPublishedYear": 1990
   }
 ]
