@@ -7031,15 +7031,6 @@
     "resolvedAt": "2026-08-04T05:20:28.495Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15695522/"
   },
-  "koi-to-kinki-no-purediketto": {
-    "title": "恋と禁忌の述語論理",
-    "isbn": "9784065139950",
-    "matchedTitle": "恋と禁忌の述語論理",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9950/9784065139950_1_11.jpg?_ex=400x400",
-    "source": "rakuten-books",
-    "resolvedAt": "2026-08-08T07:56:46.838Z",
-    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15695522/"
-  },
   "koibumi": {
     "title": "恋文",
     "isbn": "9784101405209",
@@ -15262,15 +15253,6 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-08T06:15:17.554Z"
   },
-  "work": {
-    "title": "噺家志ん平捕物帖　品川偽心",
-    "isbn": "9784408560236",
-    "matchedTitle": "噺家志ん平捕物帖　品川偽心中",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0236/9784408560236_1_3.jpg?_ex=400x400",
-    "source": "rakuten-books",
-    "resolvedAt": "2026-08-08T11:45:02.734Z",
-    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18657553/"
-  },
   "wycherly-woman": {
     "title": "ウィチャリー家の女",
     "isbn": null,
@@ -15990,5 +15972,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T05:10:24.917Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15197168/"
+  },
+  "hanashika-shinpei-torimonochou-shinagawa-nisegokoro": {
+    "title": "噺家志ん平捕物帖　品川偽心",
+    "isbn": "9784408560236",
+    "matchedTitle": "噺家志ん平捕物帖　品川偽心中",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0236/9784408560236_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T11:45:02.734Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18657553/"
   }
 }

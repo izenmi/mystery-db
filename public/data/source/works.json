@@ -10854,7 +10854,8 @@
       "honkaku",
       "taju-kaiketsu",
       "gakuen",
-      "rensaku-tanpen"
+      "rensaku-tanpen",
+      "meitantei"
     ],
     "origin": "jp",
     "firstPublishedYear": 2015,
@@ -10877,7 +10878,7 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/恋と禁忌の述語論理"
     },
     "sourceNote": "2015年1月7日、講談社ノベルスより刊行。第51回メフィスト賞を受賞した著者のデビュー作。以上をWikipedia日本語版で確認。",
-    "updatedAt": "2026-08-04"
+    "updatedAt": "2026-08-08"
   },
   {
     "id": "rakuen-tantei",
@@ -32949,7 +32950,7 @@
   },
   {
     "id": "kvinden-i-buret",
-    "title": "特捜部Q",
+    "title": "特捜部Q ―檻の中の女―",
     "titleKana": "とくそうぶきゅー",
     "authorIds": [
       "jussi-adler-olsen"
@@ -32976,7 +32977,7 @@
       "comic": false
     },
     "externalLinks": {},
-    "updatedAt": "2026-08-07",
+    "updatedAt": "2026-08-08",
     "seriesName": "特捜部Qシリーズ",
     "originalTitle": "Kvinden i buret",
     "jpPublishedYear": 2012,
@@ -32984,7 +32985,7 @@
   },
   {
     "id": "fasandraeberne",
-    "title": "特捜部Q",
+    "title": "特捜部Q ―キジ殺し―",
     "titleKana": "とくそうぶきゅー",
     "authorIds": [
       "jussi-adler-olsen"
@@ -33012,7 +33013,7 @@
       "comic": false
     },
     "externalLinks": {},
-    "updatedAt": "2026-08-07",
+    "updatedAt": "2026-08-08",
     "seriesName": "特捜部Qシリーズ",
     "originalTitle": "Fasandræberne",
     "jpPublishedYear": 2013,
@@ -64401,42 +64402,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "koi-to-kinki-no-purediketto",
-    "title": "恋と禁忌の述語論理",
-    "titleKana": "こいときんきのぷれでぃけっと",
-    "authorIds": [
-      "inoue-magi"
-    ],
-    "detectiveIds": [],
-    "translatorIds": [],
-    "publisherId": "kodansha",
-    "themeIds": [
-      "honkaku",
-      "taju-kaiketsu",
-      "meitantei"
-    ],
-    "origin": "jp",
-    "firstPublishedYear": 2015,
-    "status": "completed",
-    "synopsis": "雪山の洋館での殺人。犯人は双子のどちらかだが、いずれでも矛盾が生じる。奇蹟の実在を信じる探偵が挑む。",
-    "awardResults": [
-      {
-        "awardId": "mephisto-sho",
-        "year": 2015,
-        "result": "第51回受賞"
-      }
-    ],
-    "mediaMix": {
-      "movie": false,
-      "drama": false,
-      "anime": false,
-      "comic": false
-    },
-    "externalLinks": {},
-    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「メフィスト賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "id": "dareka-ga-mite-iru",
     "title": "誰かが見ている",
     "titleKana": "だれかがみている",
@@ -67206,7 +67171,7 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "id": "work",
+    "id": "hanashika-shinpei-torimonochou-shinagawa-nisegokoro",
     "title": "噺家志ん平捕物帖　品川偽心",
     "titleKana": "",
     "authorIds": [
@@ -67233,7 +67198,7 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
-    "updatedAt": "2026-08-07"
+    "updatedAt": "2026-08-08"
   },
   {
     "id": "tanteibuhenochousenjouhoukagohamisuteritotomonis",
