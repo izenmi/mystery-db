@@ -173,6 +173,12 @@
     "resolvedAt": "2026-08-04T07:35:48.223Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15559863/"
   },
+  "akai-kioku": {
+    "title": "緋い記憶",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T09:45:31.801Z"
+  },
   "akai-yakata-no-himitsu": {
     "title": "赤い館の秘密",
     "isbn": "9784488116026",
@@ -235,6 +241,24 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T21:48:49.663Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11751356/"
+  },
+  "akudou": {
+    "title": "悪道",
+    "isbn": "9784062937658",
+    "matchedTitle": "悪道　五右衛門の復讐",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7658/9784062937658.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:55.246Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15083752/"
+  },
+  "akugyaku": {
+    "title": "悪逆",
+    "isbn": "9784022519375",
+    "matchedTitle": "悪逆",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9375/9784022519375_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:46:10.901Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17629348/"
   },
   "akui": {
     "title": "悪意",
@@ -3096,6 +3120,15 @@
     "resolvedAt": "2026-08-07T02:59:20.891Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14988335/"
   },
+  "gemu-no-oukoku": {
+    "title": "ゲームの王国",
+    "isbn": "9784150314064",
+    "matchedTitle": "ゲームの王国 下",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4064/9784150314064.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:52.891Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16092872/"
+  },
   "general-rouge": {
     "title": "ジェネラル・ルージュの凱旋",
     "isbn": "9784800249081",
@@ -3320,6 +3353,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-08T06:03:05.787Z"
+  },
+  "gosaintan": {
+    "title": "ゴサインタン 神の座",
+    "isbn": "9784087446104",
+    "matchedTitle": "ゴサインタン 神の座",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6104/9784087446104_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:48.216Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17732544/"
   },
   "goshoku-no-satsujinsha": {
     "title": "五色の殺人者",
@@ -3945,6 +3987,23 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T03:00:07.092Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/187599/"
+  },
+  "heisa-byoutou": {
+    "title": "閉鎖病棟",
+    "isbn": "9784101288079",
+    "matchedTitle": "閉鎖病棟",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1012/10128807.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:47.038Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/879088/"
+  },
+  "heizougari": {
+    "title": "平蔵狩り",
+    "isbn": null,
+    "matchedTitle": "平蔵狩り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6103/2000004816103.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-08T09:45:59.902Z"
   },
   "henshin": {
     "title": "変身",
@@ -5382,6 +5441,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T23:06:12.968Z"
   },
+  "kagami-no-haimen": {
+    "title": "鏡の背面",
+    "isbn": "9784087711523",
+    "matchedTitle": "鏡の背面",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1523/9784087711523_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:46:02.255Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15538202/"
+  },
   "kagami-no-kojou": {
     "title": "かがみの孤城",
     "isbn": "9784591153321",
@@ -5459,6 +5527,15 @@
     "resolvedAt": "2026-08-07T02:24:30.841Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15545393/"
   },
+  "kagekikyou": {
+    "title": "蔭桔梗",
+    "isbn": "9784488402280",
+    "matchedTitle": "蔭桔梗",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2280/9784488402280_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:10.273Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17553196/"
+  },
   "kagemusha-tokugawa-ieyasu": {
     "title": "影武者徳川家康",
     "isbn": "9784101174150",
@@ -5491,6 +5568,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T06:42:10.714Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15118164/"
+  },
+  "kagi-no-nai-yume-o-miru": {
+    "title": "鍵のない夢を見る",
+    "isbn": "9784167903985",
+    "matchedTitle": "鍵のない夢を見る",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3985/9784167903985.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:44.676Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13238778/"
   },
   "kaijin-nijumenso": {
     "title": "怪人二十面相",
@@ -6787,6 +6873,15 @@
     "resolvedAt": "2026-08-08T07:56:46.838Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15695522/"
   },
+  "koibumi": {
+    "title": "恋文",
+    "isbn": "9784101405209",
+    "matchedTitle": "恋文・私の叔父さん",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5209/9784101405209_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:09.116Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11529630/"
+  },
   "koko-nyushi": {
     "title": "高校入試",
     "isbn": "9784041038093",
@@ -7065,6 +7160,24 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:32.087Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/825241/"
+  },
+  "koubai-no-hana": {
+    "title": "光媒の花",
+    "isbn": "9784087468915",
+    "matchedTitle": "光媒の花",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8915/9784087468915_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:51.715Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11919829/"
+  },
+  "koukai-to-shinjitsu-no-iro": {
+    "title": "後悔と真実の色",
+    "isbn": "9784344419339",
+    "matchedTitle": "後悔と真実の色",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9339/9784344419339.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:50.550Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11941107/"
   },
   "kouroumu-no-satsujin": {
     "title": "紅楼夢の殺人",
@@ -8918,6 +9031,12 @@
     "source": "kobo",
     "resolvedAt": "2026-08-08T07:56:20.853Z"
   },
+  "mugen-ningyou-shinjukuzame-4-chouhen-keiji-shous": {
+    "title": "無間人形 新宿鮫IV",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-08T09:45:39.763Z"
+  },
   "mugen-no-i": {
     "title": "ムゲンのi",
     "isbn": "9784575242096",
@@ -9640,6 +9759,15 @@
     "resolvedAt": "2026-08-08T07:56:50.880Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17919152/"
   },
+  "nochi-no-kousetsu-hyaku-monogatari": {
+    "title": "後巷説百物語",
+    "isbn": "9784043620043",
+    "matchedTitle": "後巷説百物語",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0043/9784043620043_1_12.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:40.975Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4305244/"
+  },
   "nomen-satsujin-jiken": {
     "title": "能面殺人事件",
     "isbn": null,
@@ -9708,6 +9836,15 @@
     "resolvedAt": "2026-08-07T15:25:51.651Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16014173/"
   },
+  "nozoki-koheiji": {
+    "title": "覘き小平次",
+    "isbn": "9784043620067",
+    "matchedTitle": "覘き小平次",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0067/9784043620067_1_10.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:49.387Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5762838/"
+  },
   "nozokiya-no-tomasu": {
     "title": "のぞき屋のトマス",
     "isbn": null,
@@ -9757,6 +9894,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:43:16.290Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15545064/"
+  },
+  "ochiru": {
+    "title": "落ちる",
+    "isbn": "9784480435309",
+    "matchedTitle": "落ちる／黒い木の葉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5309/9784480435309_1_71.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:06.790Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15497852/"
   },
   "oidipusu-shoukougun": {
     "title": "オイディプス症候群",
@@ -9849,6 +9995,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T05:11:30.903Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4130625/"
+  },
+  "onna-no-kokkai": {
+    "title": "女の国会",
+    "isbn": "9784344042636",
+    "matchedTitle": "女の国会",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2636/9784344042636_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:54.067Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17815483/"
   },
   "onna-shacho-ni-kanpai": {
     "title": "女社長に乾杯!",
@@ -12227,6 +12382,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-07T22:52:16.545Z"
   },
+  "shounen-to-inu": {
+    "title": "少年と犬",
+    "isbn": "9784163912042",
+    "matchedTitle": "少年と犬",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2042/9784163912042_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:45.866Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16285563/"
+  },
   "shourei-a": {
     "title": "症例A",
     "isbn": "9784043690015",
@@ -13818,6 +13982,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T23:06:52.100Z"
   },
+  "tooku-no-kousetsu-hyakumonogatari": {
+    "title": "遠巷説百物語",
+    "isbn": "9784125014579",
+    "matchedTitle": "遠巷説百物語",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4579/9784125014579_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:46:08.534Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17218135/"
+  },
   "tookute-asai-umi": {
     "title": "遠くて浅い海",
     "isbn": null,
@@ -13920,6 +14093,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T15:25:24.009Z"
   },
+  "toukyou-zeronen": {
+    "title": "東京零年",
+    "isbn": "9784087716139",
+    "matchedTitle": "東京零年",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6139/9784087716139.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:46:01.092Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13299551/"
+  },
   "toumei-ningen-no-kokuhaku": {
     "title": "透明人間の告白",
     "isbn": null,
@@ -13957,6 +14139,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T05:48:03.151Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17575732/"
+  },
+  "tsubame-wa-modotte-konai": {
+    "title": "燕は戻ってこない",
+    "isbn": "9784087717617",
+    "matchedTitle": "燕は戻ってこない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7617/9784087717617_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:46:09.710Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17025136/"
   },
   "tsubasa-aru-yami": {
     "title": "翼ある闇 メルカトル鮎最後の事件",
@@ -14183,6 +14374,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T06:57:17.140Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17638466/"
+  },
+  "umi-to-tsuki-no-meito": {
+    "title": "海と月の迷路",
+    "isbn": "9784062935098",
+    "matchedTitle": "海と月の迷路（下）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5098/9784062935098_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:56.393Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14445214/"
   },
   "un-long-dimanche": {
     "title": "長い日曜日",
@@ -14551,6 +14751,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T04:14:58.698Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14500227/"
+  },
+  "watashi-no-otoko": {
+    "title": "私の男",
+    "isbn": "9784167784010",
+    "matchedTitle": "私の男",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4010/9784167784010.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-08T09:45:43.355Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6443081/"
   },
   "watashi-o-hanasanaide": {
     "title": "わたしを離さないで",

@@ -506,6 +506,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2006,
         "result": "第6回受賞"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2005,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -1599,6 +1604,11 @@
         "awardId": "naoki-sho",
         "year": 1999,
         "result": "第120回受賞"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 1998,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -2190,6 +2200,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2022,
         "result": "第22回受賞(小説部門)"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2021,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -6315,6 +6330,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2007,
         "result": "2007年版 国内編 第6位"
+      },
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2007,
+        "result": "受賞"
       }
     ]
   },
@@ -8040,6 +8060,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2009,
         "result": "2009年版 国内編 第1位"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2007,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -8244,6 +8269,11 @@
         "awardId": "naoki-sho",
         "year": 1996,
         "result": "第114回受賞"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 1995,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -8390,6 +8420,11 @@
         "awardId": "naoki-sho",
         "year": 2010,
         "result": "第142回受賞"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2009,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -27116,7 +27151,14 @@
     },
     "externalLinks": {},
     "updatedAt": "2026-08-07",
-    "sourceNote": "書誌(講談社、2014年、ISBN 9784062779661)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「奥田英朗 [著]」による。初刊年1984年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+    "sourceNote": "書誌(講談社、2014年、ISBN 9784062779661)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「奥田英朗 [著]」による。初刊年1984年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2009,
+        "result": "受賞"
+      }
+    ]
   },
   {
     "id": "lupin-no-shosoku",
@@ -28814,6 +28856,11 @@
         "awardId": "naoki-sho",
         "year": 2011,
         "result": "第144回受賞"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2010,
+        "result": "受賞"
       }
     ],
     "sourceNote": "書誌(文藝春秋、2013年、ISBN 9784167838669)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「道尾秀介 著」による。初刊年2010年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
@@ -29220,6 +29267,11 @@
         "awardId": "yamamoto-shugoro-sho",
         "year": 2012,
         "result": "第26回受賞"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2013,
+        "result": "受賞"
       }
     ],
     "sourceNote": "書誌(新潮社、2015年、ISBN 9784101240299)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「小野不由美著」による。初刊年2012年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
@@ -29308,7 +29360,14 @@
     },
     "externalLinks": {},
     "updatedAt": "2026-08-07",
-    "sourceNote": "書誌(角川書店、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「岩井志麻子 [著]」による。初刊年1999年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
+    "sourceNote": "書誌(角川書店、2002年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「岩井志麻子 [著]」による。初刊年1999年は同APIで同書名の全版を引いて確認。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2000,
+        "result": "受賞"
+      }
+    ]
   },
   {
     "id": "igaku-no-tamago",
@@ -30240,6 +30299,11 @@
         "awardId": "naoki-sho",
         "year": 2017,
         "result": "第156回受賞"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2016,
+        "result": "受賞"
       }
     ],
     "sourceNote": "書誌(幻冬舎、2016年、ISBN 9784344030039)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「恩田陸 著」による。あらすじは独自要約(コピペなし、真相・トリックには触れていない)。"
@@ -41766,6 +41830,11 @@
         "awardId": "honkaku-mystery-taisho",
         "year": 2024,
         "result": "受賞"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2024,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -42086,6 +42155,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 1993,
         "result": "1993年版 国内編 第1位"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 1992,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -42156,6 +42230,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 1989,
         "result": "1989年版 国内編 第1位"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 1989,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -42541,6 +42620,11 @@
         "awardId": "mystery-writers-japan",
         "year": 1997,
         "result": "長編部門"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 1997,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -43250,6 +43334,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 1998,
         "result": "1998年版 国内編 第3位"
+      },
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 1998,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -44423,6 +44512,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 1992,
         "result": "1992年版 国内編 第3位"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 1991,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -45152,6 +45246,11 @@
         "awardId": "mystery-writers-japan",
         "year": 1990,
         "result": "長編部門"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 1990,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -45401,6 +45500,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2019,
         "result": "2019年版 国内編 第5位"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2018,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -45437,6 +45541,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2016,
         "result": "2016年版 国内編 第5位"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2015,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -47428,6 +47537,16 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2024,
         "result": "2024年版 国内編 第6位"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2023,
+        "result": "受賞"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2023,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -47658,6 +47777,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2013,
         "result": "2013年版 国内編 第6位"
+      },
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2012,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -47915,6 +48039,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2001,
         "result": "2001年版 国内編 第6位"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2000,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -50163,6 +50292,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2015,
         "result": "2015年版 国内編 第8位"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2014,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -50563,6 +50697,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 1998,
         "result": "1998年版 国内編 第8位"
+      },
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 1967,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -50818,6 +50957,11 @@
         "awardId": "kono-mystery-ga-sugoi",
         "year": 2023,
         "result": "2023年版 国内編 第9位"
+      },
+      {
+        "awardId": "naoki-sho",
+        "year": 2022,
+        "result": "受賞"
       }
     ],
     "mediaMix": {
@@ -66046,6 +66190,869 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「松本清張賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ochiru",
+    "title": "落ちる",
+    "titleKana": "おちる",
+    "authorIds": [
+      "takigawakyou"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "honkaku",
+      "tanpenshu",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "多岐川恭による短編集。第40回直木賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1958,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koibumi",
+    "title": "恋文",
+    "titleKana": "こいぶみ",
+    "authorIds": [
+      "renjo-mikihiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "rensaku-tanpen",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "連城三紀彦による連作短編集。第91回直木賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1984,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kagekikyou",
+    "title": "蔭桔梗",
+    "titleKana": "かげききょう",
+    "authorIds": [
+      "awasaka-tsumao"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "honkaku",
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "紋章上絵師の章次を軸に、男女の恋愛にからむ謎解きを描く連作短編集。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1990,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akai-kioku",
+    "title": "緋い記憶",
+    "titleKana": "あかいきおく",
+    "authorIds": [
+      "takahashikatsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "kaiki-gensou",
+      "suspense",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "高橋克彦による、記憶をめぐる連作短編集。第106回直木賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1991,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "mugen-ningyou-shinjukuzame-4-chouhen-keiji-shous",
+    "title": "無間人形 新宿鮫IV",
+    "titleKana": "むげんにんぎょう",
+    "authorIds": [
+      "osawa-arimasa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "hardboiled",
+      "keisatsu-shosetsu",
+      "noir"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "新宿署の刑事・鮫島が、新型覚醒剤の密造をめぐる事件に挑むシリーズ第4作。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 1993,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nochi-no-kousetsu-hyaku-monogatari",
+    "title": "後巷説百物語",
+    "titleKana": "のちのこうせつひゃくものがたり",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "jidai-mystery",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "明治十年。一等巡査の矢作らが、ある伝説の真偽を確かめるべく隠居老人・一白翁を訪ねる。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 2003,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "watashi-no-otoko",
+    "title": "私の男",
+    "titleKana": "わたしのおとこ",
+    "authorIds": [
+      "sakurabakazuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "kazoku",
+      "iyamisu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "落ちぶれた貴族のような男・淳悟と、その養女・花。物語は二人の過去へ遡っていく。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 2007,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kagi-no-nai-yume-o-miru",
+    "title": "鍵のない夢を見る",
+    "titleKana": "かぎのないゆめおみる",
+    "authorIds": [
+      "tsujimuramizuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "iyamisu",
+      "tanpenshu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "盗癖のあるよそ者の女、婚期を逃した女の焦り、育児に悩む若い母親——女性たちの心の落とし穴を描く短編集。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 2012,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shounen-to-inu",
+    "title": "少年と犬",
+    "titleKana": "しょうねんといぬ",
+    "authorIds": [
+      "haseseishuu"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "suspense",
+      "rensaku-tanpen",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "傷つき悩む人々に寄り添う一匹の犬を軸にした連作。",
+    "awardResults": [
+      {
+        "awardId": "naoki-sho",
+        "year": 2020,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "heisa-byoutou",
+    "title": "閉鎖病棟",
+    "titleKana": "へいさびょうとう",
+    "authorIds": [
+      "hahakigihousei"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "精神科病棟で暮らす患者たちの日常を破ったのは、ある殺人事件だった。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 1995,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gosaintan",
+    "title": "ゴサインタン 神の座",
+    "titleKana": "ごさいんたん",
+    "authorIds": [
+      "shinodasetsuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "suspense",
+      "shakaiha",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "ネパール女性と結婚して全財産を失った豪農の鈴木が、失踪した妻を探して神の山へ向かう。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 1996,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nozoki-koheiji",
+    "title": "覘き小平次",
+    "titleKana": "のぞきこへいじ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "chuokoron-shinsha",
+    "themeIds": [
+      "kaiki-gensou",
+      "jidai-mystery",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "京極夏彦による、幽霊役者・小平次をめぐる怪談。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2003,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koukai-to-shinjitsu-no-iro",
+    "title": "後悔と真実の色",
+    "titleKana": "こうかいとしんじつのいろ",
+    "authorIds": [
+      "nukui-tokuro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "suspense",
+      "igai-na-hannin"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "若い女性の人差し指を切り取る「指蒐集家」を追う捜査一課の西條輝司が、一線を越えて窮地に立つ。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2010,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "koubai-no-hana",
+    "title": "光媒の花",
+    "titleKana": "こうばいのはな",
+    "authorIds": [
+      "michio-shusuke"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "rensaku-tanpen",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "認知症の母と暮らす男の秘密、幼い兄妹が犯した罪——哀しみに満ちた6章の連作群像劇。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2010,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gemu-no-oukoku",
+    "title": "ゲームの王国",
+    "titleKana": "げーむのおうこく",
+    "authorIds": [
+      "ogawasatoshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "hayakawa",
+    "themeIds": [
+      "tokushu-settei",
+      "shakaiha",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "小川哲による、カンボジアを舞台にした長編。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2018,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "onna-no-kokkai",
+    "title": "女の国会",
+    "titleKana": "おんなのこっかい",
+    "authorIds": [
+      "shinkawahotate"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "houtei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "野党第一党の高月馨が、共闘関係にあった与党議員の自殺をきっかけに窮地へ追い込まれる。",
+    "awardResults": [
+      {
+        "awardId": "yamamoto-shugoro-sho",
+        "year": 2025,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akudou",
+    "title": "悪道",
+    "titleKana": "あくどう",
+    "authorIds": [
+      "morimura-seiichi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "jidai-mystery",
+      "boken-spy",
+      "suspense"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "森村誠一による時代小説。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2011,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "umi-to-tsuki-no-meito",
+    "title": "海と月の迷路",
+    "titleKana": "うみとつきのめいと",
+    "authorIds": [
+      "osawa-arimasa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "mainichi-shimbun",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha",
+      "kotou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "軍艦島を舞台に、若き警察官・荒巻が「全島一家族」を掲げる島で許されざる捜査に踏み込む。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2014,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "heizougari",
+    "title": "平蔵狩り",
+    "titleKana": "へいぞうがり",
+    "authorIds": [
+      "osaka-go"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "jidai-mystery",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "逢坂剛による、長谷川平蔵を主人公にした時代小説。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2015,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。あらすじの典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "toukyou-zeronen",
+    "title": "東京零年",
+    "titleKana": "とうきょうぜろねん",
+    "authorIds": [
+      "akagawa-jiro"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "介護施設の父がTVに映った男を見て発作を起こす。娘の亜紀が過去の殺人事件へたどり着く。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2016,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kagami-no-haimen",
+    "title": "鏡の背面",
+    "titleKana": "かがみのはいめん",
+    "authorIds": [
+      "shinodasetsuko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "suspense",
+      "iyamisu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "女性シェルターの火災で「先生」が死亡した。だがスタッフはその正体に疑念を抱く。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2019,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tooku-no-kousetsu-hyakumonogatari",
+    "title": "遠巷説百物語",
+    "titleKana": "とおくのこうせつひゃくものがたり",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "kaiki-gensou",
+      "jidai-mystery",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "遠野を舞台にした巷説百物語シリーズの一作。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2022,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsubame-wa-modotte-konai",
+    "title": "燕は戻ってこない",
+    "titleKana": "つばめわもどってこない",
+    "authorIds": [
+      "kirino-natsuo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "shakaiha",
+      "suspense",
+      "kazoku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "代理出産を題材に、産む側と依頼する側の非対称を描く。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2023,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "akugyaku",
+    "title": "悪逆",
+    "titleKana": "あくぎゃく",
+    "authorIds": [
+      "kurokawa-hiroyuki"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbunsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "noir",
+      "hardboiled"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "社会に巣食う悪党が次々に殺害される。警察捜査を知り尽くした男と、大阪府警の刑事たちの攻防。",
+    "awardResults": [
+      {
+        "awardId": "yoshikawa-eiji-bungaku-sho",
+        "year": 2024,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「直木三十五賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
     "updatedAt": "2026-08-07"
   }
 ]
