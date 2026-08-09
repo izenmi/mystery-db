@@ -2,9 +2,9 @@ import { Link, useParams } from "react-router-dom";
 import { getDetective } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { WorkCard } from "../common/WorkCard";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { useWorkFilter } from "../common/useWorkFilter";
+import { WorkGrid } from "../common/WorkGrid";
 
 /** 既定の並びは発表順(古い順)。「どれから読めばいいか」がこのページの用なので、
  *  ここだけ defaultSort を year-asc にしている。絞り込みは他の一覧ページと揃えて出す。 */
@@ -12,7 +12,7 @@ export function DetectiveDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getDetective(id!), [id]);
   const detective = state.status === "ready" ? state.data : undefined;
-  const { sorted, controls, hasActiveFilters } = useWorkFilter(detective?.works, "year-asc");
+  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(detective?.works, "year-asc");
 
   useSeo({
     title: detective?.name,
@@ -79,11 +79,7 @@ export function DetectiveDetailPage() {
             </p>
           )}
           {sorted.length === 0 && <EmptyState text="該当する作品がありません。" />}
-          <div className="work-grid">
-            {sorted.map((w) => (
-              <WorkCard work={w} key={w.id} />
-            ))}
-          </div>
+          <WorkGrid works={sorted} coverView={coverView} />
         </>
       )}
     </div>

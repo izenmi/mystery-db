@@ -3,8 +3,9 @@ import { useSearchParams } from "react-router-dom";
 import { getDetectives, getPublishers, getThemes, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { WorkCard } from "../common/WorkCard";
 import { useSeo } from "../common/useSeo";
+import { WorkGrid } from "../common/WorkGrid";
+import { useCoverView } from "../common/useCoverView";
 
 const ORIGIN_OPTIONS: { value: string; label: string }[] = [
   { value: "jp", label: "国内作品" },
@@ -99,6 +100,7 @@ function Pager({ page, totalPages, onGoToPage }: { page: number; totalPages: num
 
 export function WorkListPage() {
   const [params, setParams] = useSearchParams();
+  const { coverView, toggle } = useCoverView();
   const q = params.get("q") ?? "";
   const themeId = params.get("theme") ?? "";
   const publisherId = params.get("publisher") ?? "";
@@ -277,6 +279,7 @@ export function WorkListPage() {
             フィルターをクリア
           </button>
         )}
+        {toggle}
       </div>
 
       {worksState.status === "loading" && <Loading />}
@@ -289,11 +292,7 @@ export function WorkListPage() {
           </p>
           {filtered.length === 0 && <EmptyState />}
           {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
-          <div className="work-grid">
-            {pageItems.map((w) => (
-              <WorkCard work={w} key={w.id} />
-            ))}
-          </div>
+          <WorkGrid works={pageItems} coverView={coverView} />
           {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
         </>
       )}
