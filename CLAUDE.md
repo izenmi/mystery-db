@@ -30,7 +30,7 @@
   - 全Workの`authorIds`(空配列不可)/`detectiveIds`/`translatorIds`/`publisherId`/`themeIds`/`awardResults[].awardId` の参照整合性
   - `DetectiveSource.creatorAuthorId` が `authors.json` に存在すること、`firstAppearanceWorkId` が指定されていれば `works.json` に存在すること
   - **`origin` の整合性**: `"overseas"` なら `translatorIds` が1件以上あり `originalTitle` があること / `"jp"` なら `translatorIds`・`originalTitle`・`jpPublishedYear` がいずれも空であること
-- 著者・探偵・翻訳者・出版社・テーマの詳細ページは、それぞれの作品一覧を`WorkGenerated`型でフル展開して埋め込む(`WorkCard`をそのまま再利用できるようにするため)
+- 著者・探偵・翻訳者・出版社・テーマの詳細ページは、作品を`workIds`で参照する(下記「転送量の設計」)
 
 ### 転送量の設計(2026-08-12。**作品をフル展開して埋め込まない**)
 
