@@ -3,6 +3,7 @@ import { NavLink } from "react-router-dom";
 const LINKS = [
   { to: "/works", label: "作品一覧" },
   { to: "/themes", label: "テーマ" },
+  { to: "/series", label: "シリーズ" },
   { to: "/authors", label: "著者" },
   { to: "/detectives", label: "探偵" },
   { to: "/translators", label: "翻訳者" },

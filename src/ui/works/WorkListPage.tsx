@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
-import { getDetectives, getPublishers, getThemes, getWorks } from "../../data/manifest";
+import { getDetectives, getPublishers, getSeriesList, getThemes, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { useSeo } from "../common/useSeo";
@@ -13,8 +13,8 @@ const ORIGIN_OPTIONS: { value: string; label: string }[] = [
 ];
 
 const VOLUME_OPTIONS: { value: string; label: string }[] = [
-  { value: "single", label: "単巻作品" },
-  { value: "series", label: "シリーズ作品(複数巻)" },
+  { value: "single", label: "単巻(1冊完結)" },
+  { value: "series", label: "複数巻" },
 ];
 
 const MEDIA_MIX_OPTIONS: { value: string; label: string }[] = [
@@ -105,6 +105,7 @@ export function WorkListPage() {
   const themeId = params.get("theme") ?? "";
   const publisherId = params.get("publisher") ?? "";
   const detectiveId = params.get("detective") ?? "";
+  const seriesName = params.get("series") ?? "";
   const origin = params.get("origin") ?? "";
   const volume = params.get("volume") ?? "";
   const award = params.get("award") ?? "";
@@ -116,6 +117,7 @@ export function WorkListPage() {
   const themesState = useAsyncData(getThemes, []);
   const publishersState = useAsyncData(getPublishers, []);
   const detectivesState = useAsyncData(getDetectives, []);
+  const seriesState = useAsyncData(getSeriesList, []);
 
   useSeo({
     title: "作品一覧",
@@ -135,6 +137,7 @@ export function WorkListPage() {
       }
       if (themeId && !w.themeIds.includes(themeId)) return false;
       if (publisherId && w.publisherId !== publisherId) return false;
+      if (seriesName && w.seriesName !== seriesName) return false;
       if (detectiveId && !w.detectiveIds.includes(detectiveId)) return false;
       if (origin && w.origin !== origin) return false;
       // volumeCount is left unset for the standalone novels that make up most of the catalogue,
@@ -154,7 +157,7 @@ export function WorkListPage() {
       }
       return true;
     });
-  }, [worksState, q, themeId, publisherId, detectiveId, origin, volume, award, mediaMix]);
+  }, [worksState, q, themeId, publisherId, detectiveId, seriesName, origin, volume, award, mediaMix]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -185,14 +188,14 @@ export function WorkListPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["q", "theme", "publisher", "detective", "origin", "volume", "award", "mediaMix", "page"]) {
+    for (const key of ["q", "theme", "publisher", "detective", "series", "origin", "volume", "award", "mediaMix", "page"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
   const hasActiveFilters = Boolean(
-    q || themeId || publisherId || detectiveId || origin || volume || award || mediaMix
+    q || themeId || publisherId || detectiveId || seriesName || origin || volume || award || mediaMix
   );
 
   return (
@@ -234,6 +237,19 @@ export function WorkListPage() {
                 {p.name}
               </option>
             ))}
+          </select>
+        )}
+        {/* 1作しかないシリーズは絞り込んでも件数が変わらないので選択肢から外す */}
+        {seriesState.status === "ready" && (
+          <select value={seriesName} onChange={(e) => updateParam("series", e.target.value)}>
+            <option value="">シリーズで絞り込み</option>
+            {seriesState.data
+              .filter((x) => x.workCount > 1)
+              .map((x) => (
+                <option value={x.id} key={x.id}>
+                  {x.name}({x.workCount})
+                </option>
+              ))}
           </select>
         )}
         <select value={origin} onChange={(e) => updateParam("origin", e.target.value)}>
