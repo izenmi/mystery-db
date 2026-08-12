@@ -126,7 +126,9 @@ export interface AwardSource {
 // ---- generated data (public/data/generated/*.json, built by scripts/generate-manifest.mjs) ----
 
 /** Denormalized work: source fields plus resolved names for direct rendering. */
-export interface WorkGenerated extends WorkSource {
+/** あらすじ・出典メモ・updatedAt は含まない — 作品詳細ページでしか使わないのに works.json の
+ *  3分の1を占めていたので work-texts.json に分けてある(WorkTexts / getWorkTexts)。 */
+export interface WorkGenerated extends Omit<WorkSource, "synopsis" | "sourceNote" | "updatedAt"> {
   authorNames: string[];
   detectiveNames: string[];
   translatorNames: string[];
@@ -157,19 +159,21 @@ export interface PersonOrPublisherGenerated {
   description: string;
   externalLinks: ExternalLinks;
   workCount: number;
-  works: WorkGenerated[];
+  /** 刊行年の古い順。実データは works.json 側にあり、表示側で id から引き直す。 */
+  workIds: string[];
 }
 
 export interface DetectiveGenerated extends DetectiveSource {
   creatorAuthorName: string;
   workCount: number;
   /** Sorted by firstPublishedYear ascending — the reading order for the series. */
-  works: WorkGenerated[];
+  workIds: string[];
 }
 
 export interface ThemeGenerated extends ThemeSource {
   workCount: number;
-  works: WorkGenerated[];
+  /** 刊行年の古い順。実データは works.json 側にあり、表示側で id から引き直す。 */
+  workIds: string[];
 }
 
 /** シリーズはエンティティではなく works.json の `seriesName`(自由文)から build 時に組み立てる。
@@ -179,7 +183,8 @@ export interface SeriesGenerated {
   id: string;
   name: string;
   workCount: number;
-  works: WorkGenerated[];
+  /** 刊行年の古い順。実データは works.json 側にあり、表示側で id から引き直す。 */
+  workIds: string[];
 }
 
 export interface AwardWinner {
@@ -195,6 +200,9 @@ export interface AwardGenerated extends AwardSource {
   workCount: number;
   winners: AwardWinner[];
 }
+
+/** 作品詳細ページだけが読む長文(generated/work-texts.json)。キーは作品id。 */
+export type WorkTexts = Record<string, { synopsis: string; sourceNote: string }>;
 
 export interface Counts {
   works: number;

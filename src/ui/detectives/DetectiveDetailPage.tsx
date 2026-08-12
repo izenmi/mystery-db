@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { getDetective } from "../../data/manifest";
+import { getDetective, getWorksByIds } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
@@ -12,7 +12,13 @@ export function DetectiveDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getDetective(id!), [id]);
   const detective = state.status === "ready" ? state.data : undefined;
-  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(detective?.works, "year-asc");
+  // 登場作品の実データは works.json 側にある(DetectiveGenerated は workIds しか持たない)。
+  const worksState = useAsyncData(
+    () => (detective ? getWorksByIds(detective.workIds) : Promise.resolve([])),
+    [detective],
+  );
+  const detectiveWorks = worksState.status === "ready" ? worksState.data : undefined;
+  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(detectiveWorks, "year-asc");
 
   useSeo({
     title: detective?.name,
@@ -59,7 +65,7 @@ export function DetectiveDetailPage() {
           {state.data.firstAppearanceWorkId && (
             <p className="page-subtitle">
               初登場: <Link to={`/works/${state.data.firstAppearanceWorkId}`}>
-                {state.data.works.find((w) => w.id === state.data!.firstAppearanceWorkId)?.title ??
+                {detectiveWorks?.find((w) => w.id === state.data!.firstAppearanceWorkId)?.title ??
                   state.data.firstAppearanceWorkId}
               </Link>
             </p>
@@ -75,7 +81,7 @@ export function DetectiveDetailPage() {
           {controls}
           {hasActiveFilters && (
             <p className="page-subtitle">
-              絞り込み結果 {sorted.length}件 / 全{state.data.works.length}件
+              絞り込み結果 {sorted.length}件 / 全{state.data.workCount}件
             </p>
           )}
           {sorted.length === 0 && <EmptyState text="該当する作品がありません。" />}
