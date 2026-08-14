@@ -5187,10 +5187,10 @@
     "title": "ジェゼベルの死",
     "isbn": "9784150730024",
     "matchedTitle": "ジェゼベルの死",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=400x400",
+    "coverUrl": null,
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-04T07:29:58.159Z",
-    "note": "著者名表記の揺れで自動取得が一致しなかったため、ハヤカワ・ミステリ文庫版のISBNを直接指定した。",
+    "resolvedAt": "2026-08-14T22:37:51.220Z",
+    "note": "著者名表記の揺れで自動取得が一致しなかったため、ハヤカワ・ミステリ文庫版のISBNを直接指定した。ただし楽天ブックスはその書影を持たず(noimage_01.gif)、BOOK☆WALKER・openBD・Google Books にも該当なし(電子版が存在しない)。偽の「画像なし」画像を出すより表紙なしとして扱う。購入リンクは有効。",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/44753/"
   },
   "jibuzu-no-jikenbo": {
