@@ -151,9 +151,10 @@ export function WorkListPage() {
       ) {
         return false;
       }
+      if (!matchesCopies(w, copies)) return false;
       return true;
     });
-  }, [worksState, q, themeId, publisherId, detectiveId, seriesName, origin, volume, award, mediaMix]);
+  }, [worksState, q, themeId, publisherId, detectiveId, seriesName, origin, volume, award, mediaMix, copies]);
 
   const sorted = useMemo(() => sortWorks(filtered, sort), [filtered, sort]);
 
@@ -186,7 +187,7 @@ export function WorkListPage() {
   }
 
   const hasActiveFilters = Boolean(
-    q || themeId || publisherId || detectiveId || seriesName || origin || volume || award || mediaMix
+    q || themeId || publisherId || detectiveId || seriesName || origin || volume || award || mediaMix || copies
   );
 
   return (
@@ -266,6 +267,14 @@ export function WorkListPage() {
         <select value={mediaMix} onChange={(e) => updateParam("mediaMix", e.target.value)}>
           <option value="">映像化・コミカライズで絞り込み</option>
           {MEDIA_MIX_OPTIONS.map((o) => (
+            <option value={o.value} key={o.value}>
+              {o.label}
+            </option>
+          ))}
+        </select>
+        <select value={copies} onChange={(e) => updateParam("copies", e.target.value)}>
+          <option value="">発行部数で絞り込み</option>
+          {COPIES_FILTER_OPTIONS.map((o) => (
             <option value={o.value} key={o.value}>
               {o.label}
             </option>

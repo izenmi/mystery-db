@@ -42,7 +42,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from prep import get, norm  # noqa: E402
 from circulation_common import (  # noqa: E402
     EXCLUDE, NUMBER, RANK_FRANCHISE, RANK_NAME, RANK_ORIGINAL, RANK_PLAIN,
-    TSV_HEADER, rank_of, scope_of, to_copies,
+    TSV_HEADER, covers_whole_series, rank_of, scope_of, to_copies,
 )
 
 WIKI_PREFIX = "https://ja.wikipedia.org/wiki/"
@@ -147,7 +147,8 @@ def search_title(title: str) -> str | None:
     return None
 
 
-def candidates(wikitext: str, medium: str = "novel", min_year: int = 0) -> list[dict]:
+def candidates(wikitext: str, medium: str = "novel", min_year: int = 0,
+               volume_count: int = 0) -> list[dict]:
     """部数らしき記述を集める。選ぶのは呼び出し側(と最終的には人間)。
 
     **文ではなく読点区切りの節を単位にする。** 1つの文に
@@ -188,6 +189,10 @@ def candidates(wikitext: str, medium: str = "novel", min_year: int = 0) -> list[
                 asof = ""
             if asof:
                 last_asof = asof
+
+            # 「1〜3巻合わせて」のような部分値は捨てる(既刊全体を覆う範囲なら通す)
+            if not covers_whole_series(clause, volume_count):
+                continue
 
             best = None
             for nm in NUMBER.finditer(clause):
@@ -297,7 +302,7 @@ def main():
         if wikitext:
             # 刊行年は sf-db が jpPublishedYear、他は firstPublishedYear を持つ
             year = w.get("firstPublishedYear") or w.get("jpPublishedYear") or 0
-            best = pick(candidates(wikitext, args.medium, year))
+            best = pick(candidates(wikitext, args.medium, year, w.get("volumeCount") or 0))
             if not best:
                 # 記事は取れたが部数の記述が無かった。記録しないと --refill が毎回また
                 # 同じ記事を引きに行き、**未調査件数がいつまでも減らない**(実際にそうなった)。
