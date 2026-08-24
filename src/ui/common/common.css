@@ -1098,3 +1098,22 @@ button.chip {
 .home-section__more + .home-section__more {
   margin-left: 14px;
 }
+
+/* ---- タッチ端末のフォーム部品 ---- */
+
+/* iOS Safari は font-size が 16px 未満の入力欄・セレクトにフォーカスするとページ全体を自動で
+   拡大し、フォーカスを外しても縮小して戻さない。以前は viewport の maximum-scale=1.0 が
+   副作用としてこれを抑えていたが、ピンチズームを許可するためにその指定を外した(2026-08-24)
+   ので、タッチ端末側で 16px を下回らないようにして防ぐ。pointer: coarse に限定しているため
+   デスクトップの見た目は変わらない。
+   .search-box / .filter-row select とは詳細度が同じ(後勝ち)なので、**必ず両ルールより後ろ**
+   = このファイルの末尾に置くこと。 */
+@media (pointer: coarse) {
+  input,
+  select,
+  textarea,
+  .search-box,
+  .filter-row select {
+    font-size: 16px;
+  }
+}
