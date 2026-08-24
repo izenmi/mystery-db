@@ -1,6 +1,7 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
 import { useCoverView } from "./useCoverView";
+import { COPIES_FILTER_OPTIONS, SORT_OPTIONS, matchesCopies, sortWorks } from "./workSort";
 import type { WorkGenerated } from "../../types";
 
 /**
@@ -26,12 +27,6 @@ const MEDIA_MIX_OPTIONS = [
   { value: "anime", label: "アニメ化" },
   { value: "comic", label: "コミカライズ" },
   { value: "none", label: "メディアミックスなし" },
-];
-
-const SORT_OPTIONS = [
-  { value: "year-desc", label: "刊行年が新しい順" },
-  { value: "year-asc", label: "刊行年が古い順" },
-  { value: "kana", label: "五十音順" },
 ];
 
 /** タイトル・読み・制作者名のいずれかにキーワードが含まれるか。
@@ -92,6 +87,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
   const mediaMix = params.get("mediaMix") ?? "";
   const theme = params.get("theme") ?? "";
   const series = params.get("series") ?? "";
+  const copies = params.get("copies") ?? "";
   const sort = params.get("sort") ?? defaultSort;
   const options = useMemo(() => themeOptionsOf(works), [works]);
   const seriesOptions = useMemo(() => seriesOptionsOf(works), [works]);
@@ -109,16 +105,12 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
       if (mediaMix === "none" && (w.mediaMix?.movie || w.mediaMix?.drama || w.mediaMix?.anime || w.mediaMix?.comic)) return false;
       if (theme && !w.themeIds.includes(theme)) return false;
       if (series && w.seriesName !== series) return false;
+      if (!matchesCopies(w, copies)) return false;
       return true;
     });
-  }, [works, q, status, mediaMix, theme, series]);
+  }, [works, q, status, mediaMix, theme, series, copies]);
 
-  const sorted = useMemo(() => {
-    if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
-    if (sort === "year-desc") return [...filtered].sort((a, b) => b.firstPublishedYear - a.firstPublishedYear);
-    if (sort === "kana") return [...filtered].sort((a, b) => a.titleKana.localeCompare(b.titleKana, "ja"));
-    return filtered;
-  }, [filtered, sort]);
+  const sorted = useMemo(() => sortWorks(filtered, sort), [filtered, sort]);
 
   function updateParam(key: string, value: string) {
     const next = new URLSearchParams(params);
@@ -128,7 +120,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || status || mediaMix || theme || series);
+  const hasActiveFilters = Boolean(q || status || mediaMix || theme || series || copies);
 
   const controls = (
     <div className="filter-row">
@@ -175,6 +167,14 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           ))}
         </select>
       )}
+      <select value={copies} onChange={(e) => updateParam("copies", e.target.value)}>
+        <option value="">発行部数で絞り込み</option>
+        {COPIES_FILTER_OPTIONS.map((o) => (
+          <option value={o.value} key={o.value}>
+            {o.label}
+          </option>
+        ))}
+      </select>
       <select
         value={sort}
         onChange={(e) => updateParam("sort", e.target.value === defaultSort ? "" : e.target.value)}
@@ -191,7 +191,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           className="filter-clear-btn"
           onClick={() => {
             const next = new URLSearchParams(params);
-            ["q", "status", "mediaMix", "theme", "series"].forEach((k) => next.delete(k));
+            ["q", "status", "mediaMix", "theme", "series", "copies"].forEach((k) => next.delete(k));
             setParams(next, { replace: true });
           }}
         >

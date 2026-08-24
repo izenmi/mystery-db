@@ -6,6 +6,7 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
 import { WorkCover, amazonSearchUrl, rakutenBooksUrl } from "../common/WorkCover";
 import { BASE_PATH, DEFAULT_OG_IMAGE, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
+import { SCOPE_LABEL, formatAsOf, formatCopies } from "../common/workSort";
 import type { WorkGenerated } from "../../types";
 
 const STATUS_LABEL: Record<string, string> = {
@@ -152,6 +153,27 @@ export function WorkDetailPage() {
                 {state.data.mediaMix?.anime && " / アニメ化"}
                 {state.data.mediaMix?.comic && " / コミカライズ"}
               </p>
+
+              {/* 出版社の公表値は「刷った部数」であって実売ではない。ここを曖昧にすると
+                  読者が実売ランキングだと誤解するので、時点・範囲・典拠まで添えて出す。 */}
+              {state.data.circulation && (
+                <p className="circulation">
+                  累計発行部数 <strong>{formatCopies(state.data.circulation.copies)}</strong>
+                  <span className="circulation__note">
+                    （{formatAsOf(state.data.circulation.asOf)}・{SCOPE_LABEL[state.data.circulation.scope]}／
+                    出版社等の公表による発行部数で、実売部数ではありません
+                    {state.data.circulation.sourceUrl && (
+                      <>
+                        {" "}
+                        <a href={state.data.circulation.sourceUrl} target="_blank" rel="noreferrer">
+                          出典
+                        </a>
+                      </>
+                    )}
+                    ）
+                  </span>
+                </p>
+              )}
               {state.data.seriesName && (
                 <p className="page-subtitle">
                   <Link to={`/series/${encodeURIComponent(state.data.seriesName)}`}>

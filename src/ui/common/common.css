@@ -942,6 +942,18 @@ h1 {
 }
 
 /* アフィリエイト表記(全ページ下部) */
+/* 作品詳細の累計発行部数。数字だけ本文と同じ大きさで、但し書き(時点・実売ではない旨)は
+   affiliate-notice と同じ控えめな色・サイズに落とす。装飾は付けない(デザイン方針)。 */
+.circulation {
+  margin: 4px 0 0;
+}
+
+.circulation__note {
+  color: var(--color-text-muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+}
+
 .affiliate-notice {
   max-width: 1200px;
   margin: 40px auto 24px;

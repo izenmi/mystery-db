@@ -1,0 +1,110 @@
+{
+  "brave-story": {
+    "copies": 2800000,
+    "asOf": "2021-05",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC"
+  },
+  "byakuyako": {
+    "copies": 1000000,
+    "asOf": "2006-01",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/白夜行"
+  },
+  "dying-eye": {
+    "copies": 1000000,
+    "asOf": "2017-12",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/ダイイング・アイ"
+  },
+  "hinoko": {
+    "copies": 550000,
+    "asOf": "2016-02",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/火の粉"
+  },
+  "hyoka": {
+    "copies": 2900000,
+    "asOf": "2021-12",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/古典部シリーズ"
+  },
+  "incite-mill": {
+    "copies": 680000,
+    "asOf": "2025-01",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/インシテミル"
+  },
+  "jukkakukan": {
+    "copies": 1520000,
+    "asOf": "2022-12",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/十角館の殺人"
+  },
+  "kazokugari": {
+    "copies": 1200000,
+    "asOf": "2014",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/家族狩り"
+  },
+  "kokuhaku": {
+    "copies": 3000000,
+    "asOf": "2022-10",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/告白_(湊かなえ)"
+  },
+  "kyoko-suiri": {
+    "copies": 5000000,
+    "asOf": "2023-05",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/虚構推理"
+  },
+  "nanakai-shinda-otoko": {
+    "copies": 300000,
+    "asOf": "2014",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/西澤保彦"
+  },
+  "nazotoki-dinner": {
+    "copies": 930000,
+    "asOf": "2011-12",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/謎解きはディナーのあとで"
+  },
+  "osoroshi-mishimaya": {
+    "copies": 3000000,
+    "asOf": "2023",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/三島屋変調百物語"
+  },
+  "ryusei-no-kizuna": {
+    "copies": 650000,
+    "asOf": "2009",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/流星の絆"
+  },
+  "shijinso": {
+    "copies": 1000000,
+    "asOf": "2021-08",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/屍人荘の殺人"
+  },
+  "shippu-rondo": {
+    "copies": 1000000,
+    "asOf": "1996-10",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/%E7%96%BE%E9%A2%A8%E3%83%AD%E3%83%B3%E3%83%89"
+  },
+  "stepfather-step": {
+    "copies": 1000000,
+    "asOf": "2012-01",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%95%E3%82%A1%E3%82%B6%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%86%E3%83%83%E3%83%97"
+  },
+  "subete-ga-f": {
+    "copies": 900000,
+    "asOf": "2021-12",
+    "scope": "domestic",
+    "sourceUrl": "https://ja.wikipedia.org/wiki/すべてがFになる"
+  }
+}

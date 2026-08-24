@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import type { WorkGenerated } from "../../types";
 import { WorkCover } from "./WorkCover";
+import { formatCopies } from "./workSort";
 
 const STATUS_LABEL: Record<string, string> = {
   completed: "完結",
@@ -50,6 +51,8 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
           {work.origin === "overseas" && " / 海外"}
           {work.volumeCount && work.volumeCount > 1 && ` / 全${work.volumeCount}巻 / ${STATUS_LABEL[work.status]}`}
           {mediaMixLabel(work) && ` / ${mediaMixLabel(work)}`}
+          {/* カードでは数字だけ。時点とscopeは作品詳細ページで出す(この行が長くなりすぎるため) */}
+          {work.circulation && ` / 累計${formatCopies(work.circulation.copies)}`}
         </div>
         {work.seriesName && (
           <div className="work-card__series">

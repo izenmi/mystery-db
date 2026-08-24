@@ -123,6 +123,20 @@ export interface AwardSource {
   updatedAt: string;
 }
 
+/** 出版社が公表した「シリーズ累計発行部数」。**実売部数ではない**(実売は公開されていない)。
+ *  刷った部数の発表値で、電子版・海外版を含むことも多く、必ず「◯年◯月時点」とセットで意味を持つ。
+ *  ビルド時に public/data/source/circulation.json から解決する(coverUrl と同じ扱い)。 */
+export interface WorkCirculation {
+  /** 実数で持つ(3000万部なら 30000000)。桁を丸めた文字列にするとソートできなくなる。 */
+  copies: number;
+  /** `YYYY-MM` または `YYYY`。発表時点。 */
+  asOf: string;
+  /** 国内のみの数字か、全世界(海外版込み)か。混ぜると比較が壊れるので必ず区別する。 */
+  scope: "domestic" | "worldwide";
+  sourceUrl?: string;
+  note?: string;
+}
+
 // ---- generated data (public/data/generated/*.json, built by scripts/generate-manifest.mjs) ----
 
 /** Denormalized work: source fields plus resolved names for direct rendering. */
@@ -148,6 +162,9 @@ export interface WorkGenerated extends Omit<WorkSource, "synopsis" | "sourceNote
   /** Ids of similar works, best first, computed at build time by generate-manifest.mjs.
    *  Only present in generated/works.json — the copies embedded in the cross-reference lists
    *  omit it to keep those files small. */
+  /** 累計発行部数(source/circulation.json 由来)。公表値が見つかっていない作品には**付かない**。
+   *  一覧の並べ替えに使うので works.json 側に載せる必要がある。 */
+  circulation?: WorkCirculation;
   relatedWorkIds?: string[];
 }
 

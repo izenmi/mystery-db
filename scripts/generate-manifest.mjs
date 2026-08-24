@@ -27,6 +27,12 @@ const awards = readSource("awards");
 const coversCachePath = path.join(sourceDir, "covers-cache.json");
 const coversCache = existsSync(coversCachePath) ? JSON.parse(readFileSync(coversCachePath, "utf-8")) : {};
 
+// Optional: 出版社公表の「シリーズ累計発行部数」。scripts/fetch-circulation.py が候補を集め、
+// 目視確認したものだけを scripts/apply-circulation.py が書き込む(コミットする)。
+// 実売部数ではない — 詳細は ranobe-db の CLAUDE.md「累計発行部数」の節を参照。
+const circulationPath = path.join(sourceDir, "circulation.json");
+const circulation = existsSync(circulationPath) ? JSON.parse(readFileSync(circulationPath, "utf-8")) : {};
+
 const authorsById = new Map(authors.map((a) => [a.id, a]));
 const detectivesById = new Map(detectives.map((d) => [d.id, d]));
 const translatorsById = new Map(translators.map((t) => [t.id, t]));
@@ -92,6 +98,30 @@ for (const [label, list] of [
   for (const item of list) {
     if (seen.has(item.id)) errors.push(`duplicate ${label} id "${item.id}"`);
     seen.add(item.id);
+  }
+}
+
+// circulation.json は work id をキーにした別ファイルなので、id を打ち間違えても本文には何も出ず
+// 「なぜか部数が出ない作品」として黙って埋もれる。checkRef と同じ思想でビルドを落とす。
+for (const [id, c] of Object.entries(circulation)) {
+  if (!workIds.has(id)) {
+    errors.push(`circulation.json: unknown work id "${id}"`);
+    continue;
+  }
+  // 手編集を想定しているファイルなので、値が壊れていても TypeError ではなく errors に積む
+  if (c === null || typeof c !== "object") {
+    errors.push(`circulation.json "${id}": entry must be an object (got ${JSON.stringify(c)})`);
+    continue;
+  }
+  if (!Number.isInteger(c.copies) || c.copies <= 0) {
+    errors.push(`circulation.json "${id}": copies must be a positive integer (got ${JSON.stringify(c.copies)})`);
+  }
+  // 「◯年◯月時点」が無い発行部数は比較にならないので必須にする
+  if (!/^\d{4}(-\d{2})?$/.test(c.asOf ?? "")) {
+    errors.push(`circulation.json "${id}": asOf must be YYYY or YYYY-MM (got ${JSON.stringify(c.asOf)})`);
+  }
+  if (c.scope !== "domestic" && c.scope !== "worldwide") {
+    errors.push(`circulation.json "${id}": scope must be "domestic" or "worldwide" (got ${JSON.stringify(c.scope)})`);
   }
 }
 
@@ -201,6 +231,8 @@ const worksGenerated = works.map(({ synopsis, sourceNote, updatedAt, ...w }) => 
     result: r.result,
   })),
   coverUrl: coversCache[w.id]?.coverUrl ?? undefined,
+  // 累計発行部数(公表値がある作品だけキーが生える)
+  circulation: circulation[w.id] ?? undefined,
   // 購入リンクを商品ページへ直リンクするために使う(covers-cache が解決したISBN)
   isbn: coversCache[w.id]?.isbn ?? undefined,
   // 楽天ブックスの商品ページURL(購入リンクの直リンク用)

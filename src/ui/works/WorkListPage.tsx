@@ -6,6 +6,7 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { useSeo } from "../common/useSeo";
 import { WorkGrid } from "../common/WorkGrid";
 import { useCoverView } from "../common/useCoverView";
+import { COPIES_FILTER_OPTIONS, SORT_OPTIONS, matchesCopies, sortWorks } from "../common/workSort";
 
 const ORIGIN_OPTIONS: { value: string; label: string }[] = [
   { value: "jp", label: "国内作品" },
@@ -23,12 +24,6 @@ const MEDIA_MIX_OPTIONS: { value: string; label: string }[] = [
   { value: "anime", label: "アニメ化" },
   { value: "comic", label: "コミカライズ" },
   { value: "none", label: "映像化・コミカライズなし" },
-];
-
-const SORT_OPTIONS: { value: string; label: string }[] = [
-  { value: "year-desc", label: "発表年が新しい順" },
-  { value: "year-asc", label: "発表年が古い順" },
-  { value: "kana", label: "五十音順" },
 ];
 
 const PAGE_SIZE = 50;
@@ -110,6 +105,7 @@ export function WorkListPage() {
   const volume = params.get("volume") ?? "";
   const award = params.get("award") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
+  const copies = params.get("copies") ?? "";
   const sort = params.get("sort") ?? "year-desc";
   const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
 
@@ -159,12 +155,7 @@ export function WorkListPage() {
     });
   }, [worksState, q, themeId, publisherId, detectiveId, seriesName, origin, volume, award, mediaMix]);
 
-  const sorted = useMemo(() => {
-    if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
-    if (sort === "year-desc") return [...filtered].sort((a, b) => b.firstPublishedYear - a.firstPublishedYear);
-    if (sort === "kana") return [...filtered].sort((a, b) => a.titleKana.localeCompare(b.titleKana, "ja"));
-    return filtered;
-  }, [filtered, sort]);
+  const sorted = useMemo(() => sortWorks(filtered, sort), [filtered, sort]);
 
   const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
   const page = Math.min(pageParam, totalPages);
@@ -188,7 +179,7 @@ export function WorkListPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["q", "theme", "publisher", "detective", "series", "origin", "volume", "award", "mediaMix", "page"]) {
+    for (const key of ["q", "theme", "publisher", "detective", "series", "origin", "volume", "award", "mediaMix", "copies", "page"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
