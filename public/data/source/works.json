@@ -69193,5 +69193,205 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会)。初刊は実業之日本社2006年5月で、2013年8月の光文社版・2026年4月の版はいずれも再刊にあたる。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
     "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "gothictown",
+    "title": "ゴシックタウン",
+    "titleKana": "ごしっくたうん",
+    "authorIds": [
+      "emily-carpenter"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "ooshimayutaka"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou"
+    ],
+    "origin": "overseas",
+    "originalTitle": "Gothictown",
+    "firstPublishedYear": 2025,
+    "jpPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "ニューヨークの一流料理店を畳んで鬱屈を抱えていたビリーのもとに、南部の小さな町から移住の誘いが届く。百ドルで買える豪邸に事業補助金まで付くという。慎重に調べたうえで夫と娘と猫を連れて移り住み、のどかな暮らしを満喫していたビリーは、やがて町の過剰なもてなしの裏側に触れてしまう。シャーリイ・ジャクスンの系譜に連なるアメリカン・ゴシック。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "邦題・訳者・出版社・原題は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。東京創元社2026年6月)。原著の刊行年2025年はOpen Libraryの書誌で確認した。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "tasogare-no-jusei",
+    "title": "黄昏の銃声",
+    "titleKana": "たそがれのじゅうせい",
+    "authorIds": [
+      "cj-box"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-452703"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "boken-spy"
+    ],
+    "origin": "overseas",
+    "originalTitle": "Long Range",
+    "firstPublishedYear": 2020,
+    "jpPublishedYear": 2026,
+    "status": "completed",
+    "seriesName": "ジョー・ピケットシリーズ",
+    "synopsis": "猟区管理官のジョー・ピケットは、ヒューイット判事が狙撃されたとの報を受ける。自宅を狙われた判事は無事だったが、弾は妻に当たり瀕死の重傷を負わせた。判事は自分が有罪を宣告した者の中に犯人がいると断じ、法執行官たちに捜査を命じる。ジョーは射撃の名手である盟友の鷹匠ネイトに協力を求め、遠距離からの一撃をめぐる調べを進めていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "邦題・訳者・出版社・原題は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。東京創元社2026年6月)。原著の刊行年2020年はOpen Libraryの書誌で確認した。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "istanbul-no-satsujin",
+    "title": "イスタンブールの殺人",
+    "titleKana": "いすたんぶーるのさつじん",
+    "authorIds": [
+      "erica-ruth-neubauer"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "yamada-junko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "meitantei",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "originalTitle": "Intrigue in Istanbul",
+    "firstPublishedYear": 2023,
+    "jpPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "婚約者のレドヴァースを父に引き合わせるため、ジェーンは故郷のボストンへ戻る。ところが父のヴンダリー教授は借金を残して姿を消していた。置き手紙から行き先を知った二人はイスタンブールへ向かうが、教授は見つからないばかりか、二人は尾行され、手がかりを握る人物までが殺される。一九二〇年代の異国を舞台にした歴史ミステリのシリーズ第四作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "邦題・訳者・出版社・原題は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。東京創元社2026年5月)。原著の刊行年2023年はOpen Libraryの書誌で確認した。版元はアガサ賞受賞シリーズと謳っているが、受賞は同シリーズ第1作の最優秀デビュー長編賞であり本作自体の受賞ではないため登録していない。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "kanojotachi-no-nazotoki-no-yoru",
+    "title": "彼女たちの謎解きの夜",
+    "titleKana": "かのじょたちのなぞときのよる",
+    "authorIds": [
+      "nina-simon"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "kanbayashi-miwa"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "meitantei",
+      "kazoku"
+    ],
+    "origin": "overseas",
+    "originalTitle": "Mother-Daughter Murder Night",
+    "firstPublishedYear": 2023,
+    "jpPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "不動産バイヤーのラナは癌を告げられ、娘のベスと十五歳の孫娘ジャックと同居することになる。ところがジャックがアルバイト中に湿地で他殺死体を見つけてしまい、刑事たちから犯人であるかのように厳しく問い詰められる。孫を守るため、ラナは薬の副作用でままならない体に上質のスーツをまとい、ウィッグとハイヒールで武装して独自の調査に乗り出す。三世代の女性を描く謎解き。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "邦題・訳者・出版社・原題は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。東京創元社2026年5月)。原著の刊行年2023年はOpen Libraryの書誌で確認した。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "sokoku-naki-monotachi-e",
+    "title": "祖国なき者たちへ",
+    "titleKana": "そこくなきものたちへ",
+    "authorIds": [
+      "elizabeth-wein"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-135917"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "suspense",
+      "boken-spy"
+    ],
+    "origin": "overseas",
+    "originalTitle": "Stateless",
+    "firstPublishedYear": 2023,
+    "jpPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "一九三七年、ヨーロッパで青少年エアレースが始まる。十二人のパイロットが英国を発ち、飛行機でタイムを競い合う催しだ。ただ一人の女性パイロットであるステラは、その空中で恐るべき光景を目にする。前を行く二機のうち、上の機が下の機へ意図的に接近したように見えたのだ。片方は海に墜落した。身の危険を感じながら、ステラは事故か殺人かを調べはじめる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "邦題・訳者・出版社・原題は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。東京創元社2026年4月)。原著の刊行年2023年はOpen Libraryの書誌で確認した。国際スリラー作家協会賞ヤングアダルト部門を受賞しているが、awards.jsonに該当する賞を持たないため受賞歴には登録していない。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "kinkoyaburi-no-goka-na-chosa",
+    "title": "金庫破りの豪華な調査",
+    "titleKana": "きんこやぶりのごうかなちょうさ",
+    "authorIds": [
+      "ashley-weaver"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [
+      "tr-410029"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "boken-spy",
+      "suspense"
+    ],
+    "origin": "overseas",
+    "originalTitle": "Locked in Pursuit",
+    "firstPublishedYear": 2024,
+    "jpPublishedYear": 2026,
+    "status": "completed",
+    "seriesName": "金庫破りシリーズ",
+    "synopsis": "金庫破りのエリーは、ラムゼイ少佐とともにドイツのスパイ活動を妨害する任務に就いてきた。ある日、強盗事件を報じる新聞記事に違和感を覚えたエリーは少佐を訪ね、その裏にもっと大きな企てがあるらしいと分かって調査を始める。ところが聞き込みの最中、ホテルの一室で女性の遺体を見つけてしまう。腕利きの金庫破りと堅物の青年少佐が組むシリーズ第四作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "邦題・訳者・出版社・原題は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。東京創元社2026年8月)。原著の刊行年2024年はOpen Libraryの書誌で確認した。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
   }
 ]
