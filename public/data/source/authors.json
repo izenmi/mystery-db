@@ -1426,7 +1426,7 @@
   {
     "id": "sjowall-wahloo",
     "name": "マイ・シューヴァル&ペール・ヴァールー",
-    "nameKana": "まいしゅーう゛ぁるあんどぺーるう゛ぁーるー",
+    "nameKana": "まいしゅーゔぁるあんどぺーるゔぁーるー",
     "description": "スウェーデンの作家夫妻。刑事マルティン・ベックを主人公にした全10作で、社会派警察小説の原型を作った。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
@@ -1527,7 +1527,7 @@
   {
     "id": "victor-lavalle",
     "name": "ヴィクター・ラヴァル",
-    "nameKana": "う゛ぃくたーらう゛ぁる",
+    "nameKana": "ゔぃくたーらゔぁる",
     "description": "アメリカの作家。ホラーと社会批評を融合させた作品を書く。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
@@ -1616,7 +1616,7 @@
   {
     "id": "mw-craven",
     "name": "M・W・クレイヴン",
-    "nameKana": "えむだぶりゅーくれいう゛ん",
+    "nameKana": "えむだぶりゅーくれいゔん",
     "description": "イギリスの作家。刑事ワシントン・ポーのシリーズで英国推理作家協会賞を受賞した。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
@@ -1762,7 +1762,7 @@
   {
     "id": "peter-lovesey",
     "name": "ピーター・ラヴゼイ",
-    "nameKana": "ぴーたーらう゛ぜい",
+    "nameKana": "ぴーたーらゔぜい",
     "description": "イギリスの作家。ヴィクトリア朝を舞台にした歴史ミステリと現代ものの両方を手がける。",
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
@@ -2230,7 +2230,7 @@
   {
     "id": "nikietsuko",
     "name": "仁木悦子",
-    "nameKana": "にき,えつこ",
+    "nameKana": "にきえつこ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -2338,7 +2338,7 @@
   {
     "id": "tomonoakira",
     "name": "伴野朗",
-    "nameKana": "ともの,あきら",
+    "nameKana": "とものあきら",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -2356,7 +2356,7 @@
   {
     "id": "kajitatsuo",
     "name": "梶龍雄",
-    "nameKana": "かじ,たつお",
+    "nameKana": "かじたつお",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -2482,7 +2482,7 @@
   {
     "id": "kawadayaichirou",
     "name": "川田弥一郎",
-    "nameKana": "かわだ,やいちろう",
+    "nameKana": "かわだやいちろう",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -2842,7 +2842,7 @@
   {
     "id": "sobukenichi",
     "name": "蘇部健一",
-    "nameKana": "そぶ,けんいち",
+    "nameKana": "そぶけんいち",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3481,7 +3481,7 @@
   {
     "id": "shimomuraatsushi",
     "name": "下村敦史",
-    "nameKana": "しもむら,あつし",
+    "nameKana": "しもむらあつし",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3562,7 +3562,7 @@
   {
     "id": "deividdogodon",
     "name": "デイヴィッド・ゴードン",
-    "nameKana": "デイヴィッド・ゴードン",
+    "nameKana": "でいゔぃっどごーどん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3571,7 +3571,7 @@
   {
     "id": "kyaroruokonneru",
     "name": "キャロル・オコンネル",
-    "nameKana": "キャロル・オコンネル",
+    "nameKana": "きゃろるおこんねる",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3580,7 +3580,7 @@
   {
     "id": "roririndoramondo",
     "name": "ローリー・リン・ドラモンド",
-    "nameKana": "ローリー・リン・ドラモンド",
+    "nameKana": "ろーりーりんどらもんど",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3589,7 +3589,7 @@
   {
     "id": "sarawotazu",
     "name": "サラ・ウォーターズ",
-    "nameKana": "サラ・ウォーターズ",
+    "nameKana": "さらうぉーたーず",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3598,7 +3598,7 @@
   {
     "id": "jeremidoronfirudo",
     "name": "ジェレミー・ドロンフィールド",
-    "nameKana": "ジェレミー・ドロンフィールド",
+    "nameKana": "じぇれみーどろんふぃーるど",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3616,7 +3616,7 @@
   {
     "id": "jondaningu",
     "name": "ジョン・ダニング",
-    "nameKana": "ジョン・ダニング",
+    "nameKana": "じょんだにんぐ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3625,7 +3625,7 @@
   {
     "id": "rejinarudohiru",
     "name": "レジナルド・ヒル",
-    "nameKana": "レジナルド・ヒル",
+    "nameKana": "れじなるどひる",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3643,7 +3643,7 @@
   {
     "id": "horijakuson",
     "name": "ホリー・ジャクソン",
-    "nameKana": "ホリー・ジャクソン",
+    "nameKana": "ほりーじゃくそん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3841,7 +3841,7 @@
   {
     "id": "jimutonpusun",
     "name": "ジム・トンプスン",
-    "nameKana": "ジム・トンプスン",
+    "nameKana": "じむとんぷすん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3895,7 +3895,7 @@
   {
     "id": "jeimuzukarurosubureiku",
     "name": "ジェイムズ・カルロス・ブレイク",
-    "nameKana": "ジェイムズ・カルロス・ブレイク",
+    "nameKana": "じぇいむずかるろすぶれいく",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3913,7 +3913,7 @@
   {
     "id": "joerutaunzurirojazu",
     "name": "ジョエル・タウンズリー・ロジャーズ",
-    "nameKana": "ジョエル・タウンズリー・ロジャーズ",
+    "nameKana": "じょえるたうんずりーろじゃーず",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3931,7 +3931,7 @@
   {
     "id": "sukottoturo",
     "name": "スコット・トゥロー",
-    "nameKana": "スコット・トゥロー",
+    "nameKana": "すこっととぅろー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3958,7 +3958,7 @@
   {
     "id": "matinedowazu",
     "name": "マーティン・エドワーズ",
-    "nameKana": "マーティン・エドワーズ",
+    "nameKana": "まーてぃんえどわーず",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3976,7 +3976,7 @@
   {
     "id": "josefunokkusu",
     "name": "ジョセフ・ノックス",
-    "nameKana": "ジョセフ・ノックス",
+    "nameKana": "じょせふのっくす",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3985,7 +3985,7 @@
   {
     "id": "ianpeazu",
     "name": "イーアン・ペアーズ",
-    "nameKana": "イーアン・ペアーズ",
+    "nameKana": "いーあんぺあーず",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -3994,7 +3994,7 @@
   {
     "id": "joide",
     "name": "ジョー・イデ",
-    "nameKana": "ジョー・イデ",
+    "nameKana": "じょーいで",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4012,7 +4012,7 @@
   {
     "id": "deividdobeniofu",
     "name": "デイヴィッド・ベニオフ",
-    "nameKana": "デイヴィッド・ベニオフ",
+    "nameKana": "でいゔぃっどべにおふ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4021,7 +4021,7 @@
   {
     "id": "maikerusheibon",
     "name": "マイケル・シェイボン",
-    "nameKana": "マイケル・シェイボン",
+    "nameKana": "まいけるしぇいぼん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4030,7 +4030,7 @@
   {
     "id": "deividdopisu",
     "name": "デイヴィッド・ピース",
-    "nameKana": "デイヴィッド・ピース",
+    "nameKana": "でいゔぃっどぴーす",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4192,7 +4192,7 @@
   {
     "id": "wiriamusho",
     "name": "ウィリアム・ショー",
-    "nameKana": "ウィリアム・ショー",
+    "nameKana": "うぃりあむしょー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4210,7 +4210,7 @@
   {
     "id": "hannatinte",
     "name": "ハンナ・ティンテ",
-    "nameKana": "ハンナ・ティンテ",
+    "nameKana": "はんなてぃんて",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4237,7 +4237,7 @@
   {
     "id": "charuzuwirufodo",
     "name": "チャールズ・ウィルフォード",
-    "nameKana": "チャールズ・ウィルフォード",
+    "nameKana": "ちゃーるずうぃるふぉーど",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4255,7 +4255,7 @@
   {
     "id": "teriheizu",
     "name": "テリー・ヘイズ",
-    "nameKana": "テリー・ヘイズ",
+    "nameKana": "てりーへいず",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4354,7 +4354,7 @@
   {
     "id": "umeharakatsufumi",
     "name": "梅原克文",
-    "nameKana": "うめはら,かつふみ",
+    "nameKana": "うめはらかつふみ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4399,7 +4399,7 @@
   {
     "id": "konranshiyari",
     "name": "シャーリー・コンラン",
-    "nameKana": "こんらん,しやーりー",
+    "nameKana": "こんらんしやーりー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4426,7 +4426,7 @@
   {
     "id": "mattorafu",
     "name": "マット・ラフ",
-    "nameKana": "マット・ラフ",
+    "nameKana": "まっとらふ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4435,7 +4435,7 @@
   {
     "id": "johiru",
     "name": "ジョー・ヒル",
-    "nameKana": "ジョー・ヒル",
+    "nameKana": "じょーひる",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4444,7 +4444,7 @@
   {
     "id": "robatotui",
     "name": "ロバート・トゥーイ",
-    "nameKana": "ロバート・トゥーイ",
+    "nameKana": "ろばーととぅーい",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4462,7 +4462,7 @@
   {
     "id": "sutajiyonshiodoa",
     "name": "シオドア・スタージョン",
-    "nameKana": "すたーじよん,しおどあ",
+    "nameKana": "すたーじよんしおどあ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4471,7 +4471,7 @@
   {
     "id": "richadonosupatasun",
     "name": "リチャード・ノース・パタースン",
-    "nameKana": "リチャード・ノース・パタースン",
+    "nameKana": "りちゃーどのーすぱたーすん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4480,7 +4480,7 @@
   {
     "id": "poruarute",
     "name": "ポール・アルテ",
-    "nameKana": "ポール・アルテ",
+    "nameKana": "ぽーるあるて",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4507,7 +4507,7 @@
   {
     "id": "yanekusutoremu",
     "name": "ヤーン・エクストレム",
-    "nameKana": "ヤーン・エクストレム",
+    "nameKana": "やーんえくすとれむ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4525,7 +4525,7 @@
   {
     "id": "gyomumyusso",
     "name": "ギョーム・ミュッソ",
-    "nameKana": "ギョーム・ミュッソ",
+    "nameKana": "ぎょーむみゅっそ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4543,7 +4543,7 @@
   {
     "id": "danierufuridoman",
     "name": "ダニエル・フリードマン",
-    "nameKana": "ダニエル・フリードマン",
+    "nameKana": "だにえるふりーどまん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4552,7 +4552,7 @@
   {
     "id": "adamufaua",
     "name": "アダム・ファウアー",
-    "nameKana": "アダム・ファウアー",
+    "nameKana": "あだむふぁうあー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4588,7 +4588,7 @@
   {
     "id": "adamurobatsu",
     "name": "アダム・ロバーツ",
-    "nameKana": "アダム・ロバーツ",
+    "nameKana": "あだむろばーつ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4606,7 +4606,7 @@
   {
     "id": "sheimasusumisu",
     "name": "シェイマス・スミス",
-    "nameKana": "シェイマス・スミス",
+    "nameKana": "しぇいますすみす",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4642,7 +4642,7 @@
   {
     "id": "rorensunofoku",
     "name": "ローレンス・ノーフォーク",
-    "nameKana": "ローレンス・ノーフォーク",
+    "nameKana": "ろーれんすのーふぉーく",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4660,7 +4660,7 @@
   {
     "id": "charuzuparisa",
     "name": "チャールズ・パリサー",
-    "nameKana": "チャールズ・パリサー",
+    "nameKana": "ちゃーるずぱりさー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4669,7 +4669,7 @@
   {
     "id": "kisupitasun",
     "name": "キース・ピータースン",
-    "nameKana": "キース・ピータースン",
+    "nameKana": "きーすぴーたーすん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4687,7 +4687,7 @@
   {
     "id": "jakkukarii",
     "name": "ジャック・カーリイ",
-    "nameKana": "ジャック・カーリイ",
+    "nameKana": "じゃっくかーりい",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4723,7 +4723,7 @@
   {
     "id": "ianrankin",
     "name": "イアン・ランキン",
-    "nameKana": "イアン・ランキン",
+    "nameKana": "いあんらんきん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4741,7 +4741,7 @@
   {
     "id": "firippuka",
     "name": "フィリップ・カー",
-    "nameKana": "フィリップ・カー",
+    "nameKana": "ふぃりっぷかー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4759,7 +4759,7 @@
   {
     "id": "furanshisubidingu",
     "name": "フランシス・ビーディング",
-    "nameKana": "フランシス・ビーディング",
+    "nameKana": "ふらんしすびーでぃんぐ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4777,7 +4777,7 @@
   {
     "id": "arisufini",
     "name": "アリス・フィーニー",
-    "nameKana": "アリス・フィーニー",
+    "nameKana": "ありすふぃーにー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4786,7 +4786,7 @@
   {
     "id": "robatoropuresuti",
     "name": "ロバート・ロプレスティ",
-    "nameKana": "ロバート・ロプレスティ",
+    "nameKana": "ろばーとろぷれすてぃ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4822,7 +4822,7 @@
   {
     "id": "rozanesujei",
     "name": "S・J・ローザン",
-    "nameKana": "ろーざん,えす,じぇい",
+    "nameKana": "ろーざんえすじぇい",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4840,7 +4840,7 @@
   {
     "id": "wiriamurandi",
     "name": "ウィリアム・ランディ",
-    "nameKana": "ウィリアム・ランディ",
+    "nameKana": "うぃりあむらんでぃ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4858,7 +4858,7 @@
   {
     "id": "jirumagon",
     "name": "ジル・マゴーン",
-    "nameKana": "ジル・マゴーン",
+    "nameKana": "じるまごーん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4876,7 +4876,7 @@
   {
     "id": "konwerubanado",
     "name": "バーナード・コーンウェル",
-    "nameKana": "こーんうぇる,ばーなーど",
+    "nameKana": "こーんうぇるばーなーど",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4912,7 +4912,7 @@
   {
     "id": "arunedaru",
     "name": "アルネ・ダール",
-    "nameKana": "アルネ・ダール",
+    "nameKana": "あるねだーる",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4921,7 +4921,7 @@
   {
     "id": "nikurasunattoodagu",
     "name": "ニクラス・ナット・オ・ダーグ",
-    "nameKana": "ニクラス・ナット・オ・ダーグ",
+    "nameKana": "にくらすなっとおだーぐ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4930,7 +4930,7 @@
   {
     "id": "makugurini",
     "name": "マーク・グリーニー",
-    "nameKana": "マーク・グリーニー",
+    "nameKana": "まーくぐりーにー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4939,7 +4939,7 @@
   {
     "id": "sutibukyavana",
     "name": "スティーヴ・キャヴァナー",
-    "nameKana": "スティーヴ・キャヴァナー",
+    "nameKana": "すてぃーゔきゃゔぁなー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4948,7 +4948,7 @@
   {
     "id": "jurianbanzu",
     "name": "ジュリアン・バーンズ",
-    "nameKana": "ジュリアン・バーンズ",
+    "nameKana": "じゅりあんばーんず",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4966,7 +4966,7 @@
   {
     "id": "ruisubeiyado",
     "name": "ルイス・ベイヤード",
-    "nameKana": "ルイス・ベイヤード",
+    "nameKana": "るいすべいやーど",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4975,7 +4975,7 @@
   {
     "id": "toroikukku",
     "name": "トロイ・クック",
-    "nameKana": "トロイ・クック",
+    "nameKana": "とろいくっく",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -4993,7 +4993,7 @@
   {
     "id": "denisurehein",
     "name": "デニス・レヘイン",
-    "nameKana": "デニス・レヘイン",
+    "nameKana": "でにすれへいん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5011,7 +5011,7 @@
   {
     "id": "danshimonzu",
     "name": "ダン・シモンズ",
-    "nameKana": "ダン・シモンズ",
+    "nameKana": "だんしもんず",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5029,7 +5029,7 @@
   {
     "id": "deividdomatin",
     "name": "デイヴィッド・マーティン",
-    "nameKana": "デイヴィッド・マーティン",
+    "nameKana": "でいゔぃっどまーてぃん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5038,7 +5038,7 @@
   {
     "id": "wiriamudiru",
     "name": "ウィリアム・ディール",
-    "nameKana": "ウィリアム・ディール",
+    "nameKana": "うぃりあむでぃーる",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5047,7 +5047,7 @@
   {
     "id": "benjaminsutibunson",
     "name": "ベンジャミン・スティーヴンソン",
-    "nameKana": "ベンジャミン・スティーヴンソン",
+    "nameKana": "べんじゃみんすてぃーゔんそん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5065,7 +5065,7 @@
   {
     "id": "porubenjamin",
     "name": "ポール・ベンジャミン",
-    "nameKana": "ポール・ベンジャミン",
+    "nameKana": "ぽーるべんじゃみん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5074,7 +5074,7 @@
   {
     "id": "rarapuresukotto",
     "name": "ラーラ・プレスコット",
-    "nameKana": "ラーラ・プレスコット",
+    "nameKana": "らーらぷれすこっと",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5083,7 +5083,7 @@
   {
     "id": "haranerisun",
     "name": "ハーラン・エリスン",
-    "nameKana": "ハーラン・エリスン",
+    "nameKana": "はーらんえりすん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5092,7 +5092,7 @@
   {
     "id": "jonvadon",
     "name": "ジョン・ヴァードン",
-    "nameKana": "ジョン・ヴァードン",
+    "nameKana": "じょんゔぁーどん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5101,7 +5101,7 @@
   {
     "id": "dottohachison",
     "name": "ドット・ハチソン",
-    "nameKana": "ドット・ハチソン",
+    "nameKana": "どっとはちそん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5110,7 +5110,7 @@
   {
     "id": "sheinkun",
     "name": "シェイン・クーン",
-    "nameKana": "シェイン・クーン",
+    "nameKana": "しぇいんくーん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5119,7 +5119,7 @@
   {
     "id": "sutibuhokkensumisu",
     "name": "スティーヴ・ホッケンスミス",
-    "nameKana": "スティーヴ・ホッケンスミス",
+    "nameKana": "すてぃーゔほっけんすみす",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5128,7 +5128,7 @@
   {
     "id": "deividdoariguzanda",
     "name": "デイヴィッド・アリグザンダー",
-    "nameKana": "デイヴィッド・アリグザンダー",
+    "nameKana": "でいゔぃっどありぐざんだー",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5155,7 +5155,7 @@
   {
     "id": "janvotoran",
     "name": "ジャン・ヴォートラン",
-    "nameKana": "ジャン・ヴォートラン",
+    "nameKana": "じゃんゔぉーとらん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5173,7 +5173,7 @@
   {
     "id": "patorikkurueru",
     "name": "パトリック・ルエル",
-    "nameKana": "パトリック・ルエル",
+    "nameKana": "ぱとりっくるえる",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5227,7 +5227,7 @@
   {
     "id": "jeromuruburi",
     "name": "ジェローム・ルブリ",
-    "nameKana": "ジェローム・ルブリ",
+    "nameKana": "じぇろーむるぶり",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5236,7 +5236,7 @@
   {
     "id": "arekkusupaveji",
     "name": "アレックス・パヴェージ",
-    "nameKana": "アレックス・パヴェージ",
+    "nameKana": "あれっくすぱゔぇーじ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5272,7 +5272,7 @@
   {
     "id": "aranguren",
     "name": "アラン・グレン",
-    "nameKana": "アラン・グレン",
+    "nameKana": "あらんぐれん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5281,7 +5281,7 @@
   {
     "id": "kazuoishiguro",
     "name": "カズオ・イシグロ",
-    "nameKana": "カズオ・イシグロ",
+    "nameKana": "かずおいしぐろ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5290,7 +5290,7 @@
   {
     "id": "sutanriierin",
     "name": "スタンリィ・エリン",
-    "nameKana": "スタンリィ・エリン",
+    "nameKana": "すたんりぃえりん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5299,7 +5299,7 @@
   {
     "id": "kurisutofapurisuto",
     "name": "クリストファー・プリースト",
-    "nameKana": "クリストファー・プリースト",
+    "nameKana": "くりすとふぁーぷりーすと",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5308,7 +5308,7 @@
   {
     "id": "wairudopashivaru",
     "name": "パーシヴァル・ワイルド",
-    "nameKana": "わいるど,ぱーしゔぁる",
+    "nameKana": "わいるどぱーしゔぁる",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5317,7 +5317,7 @@
   {
     "id": "maikerusureido",
     "name": "マイケル・スレイド",
-    "nameKana": "マイケル・スレイド",
+    "nameKana": "まいけるすれいど",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5326,7 +5326,7 @@
   {
     "id": "denisuriman",
     "name": "デニス・リーマン",
-    "nameKana": "デニス・リーマン",
+    "nameKana": "でにすりーまん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5353,7 +5353,7 @@
   {
     "id": "robatoribuzu",
     "name": "ロバート・リーヴズ",
-    "nameKana": "ロバート・リーヴズ",
+    "nameKana": "ろばーとりーゔず",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -5416,7 +5416,7 @@
   {
     "id": "minowatakafumi",
     "name": "箕輪尊文",
-    "nameKana": "みのわ,たかふみ",
+    "nameKana": "みのわたかふみ",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -6361,7 +6361,7 @@
   {
     "id": "author-102821",
     "name": "シャルロッテ・リンク",
-    "nameKana": "シャルロッテ・リンク",
+    "nameKana": "しゃるろってりんく",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -6397,7 +6397,7 @@
   {
     "id": "author-849872",
     "name": "ジョン・マクマホン",
-    "nameKana": "ジョン・マクマホン",
+    "nameKana": "じょんまくまほん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -6415,7 +6415,7 @@
   {
     "id": "author-780568",
     "name": "アン・クリーヴス",
-    "nameKana": "アン・クリーヴス",
+    "nameKana": "あんくりーゔす",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -6433,7 +6433,7 @@
   {
     "id": "author-278893",
     "name": "ジャナ・デリオン",
-    "nameKana": "ジャナ・デリオン",
+    "nameKana": "じゃなでりおん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -6442,7 +6442,7 @@
   {
     "id": "author-544106",
     "name": "ジョー・キャラハン",
-    "nameKana": "ジョー・キャラハン",
+    "nameKana": "じょーきゃらはん",
     "description": "ミステリ作品を手がける小説家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
@@ -6676,7 +6676,7 @@
   {
     "id": "ashley-weaver",
     "name": "アシュリー・ウィーヴァー",
-    "nameKana": "あしゅりーうぃーう゛ぁー",
+    "nameKana": "あしゅりーうぃーゔぁー",
     "description": "第二次大戦下のロンドンを舞台にした〈金庫破り〉シリーズで知られるアメリカの作家。",
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの責任表示および版元の紹介文で確認(2026-08-26照会)。",
