@@ -68643,5 +68643,280 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
     "updatedAt": "2026-08-15"
+  },
+  {
+    "id": "rondon-scone-no-nazo",
+    "title": "倫敦スコーンの謎",
+    "titleKana": "ろんどんすこーんのなぞ",
+    "authorIds": [
+      "yonezawa-honobu"
+    ],
+    "detectiveIds": [
+      "kobato-jogoro"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "gakuen",
+      "seishun",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "seriesName": "小市民シリーズ",
+    "synopsis": "小市民であろうと努める小鳩君と小佐内さんが、高校二年の夏までに出会った四つの謎を収める。友人からの頼まれごとで持ち上がる美術作品の真贋、目の前のジェラートに手をつけない人物の理由など、日常の隙間にひそむ小さな引っかかりが題材になる。派手な事件ではなく、腑に落ちる説明を探し当てるまでの筋道そのものを楽しませる連作。シリーズ第二短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。東京創元社2026年4月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "hannin-wa-genba-ni-kubi-dake-modoru",
+    "title": "犯人は現場に首だけ戻る",
+    "titleKana": "はんにんはげんばにくびだけもどる",
+    "authorIds": [
+      "kurachi-jun"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "honkaku",
+      "meitantei",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "フリーライターの折本光一は、浮世離れした友人の久世敬太郎とともに、一日だけ捜査を体験してレポートを出す「非正規雇用捜査官」に採用される。向かった先は強盗殺人のあった民家で、事件から十日後、なぜか門柱に生首が置かれていた。正義の執行人の仕業か愉快犯かと謎が深まるなか、体験を終えた久世はあっさり真相が分かったと告げる。ブラックユーモアの効いた本格ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。実業之日本社2026年7月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "inu-to-nigeru",
+    "title": "犬と逃げる",
+    "titleKana": "いぬとにげる",
+    "authorIds": [
+      "sato-seinan"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "長崎県島原市の小学校の校庭に、一匹の犬が迷い込んで保護される。時を同じくして東京の多摩川河川敷で身元不明の遺体が見つかるが、捜査線上に浮かんだ容疑者は姿を消していた。男はなぜ逃げるのか、どこへ向かうのか。逃走の道行きと犬との関わりを重ねながら、追う側と追われる側の双方を描いていく。著者のデビュー十五周年記念作にあたる長編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。実業之日本社2026年7月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "vampdog-wa-sakebanai",
+    "title": "ヴァンプドッグは叫ばない",
+    "titleKana": "ばんぷどっぐはさけばない",
+    "authorIds": [
+      "ichikawa-yuto"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "honkaku",
+      "tokushu-settei",
+      "keisatsu-shosetsu"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "seriesName": "マリア&漣シリーズ",
+    "synopsis": "U国MD州で現金輸送車の襲撃事件が起き、犯人一味の車は遠く離れたA州で乗り捨てられていた。応援要請を受けたマリアと漣が厳戒態勢の州都へ向かうと、その裏では二十年前の無差別連続殺人犯が収容先から脱走し、同じ手口の殺人が始まっていた。一方、隠れ家に潜伏していた襲撃犯たちのうち一人が殺される。二つの事件が並走する本格ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会)。初刊は東京創元社2023年8月で、2026年7月の版は文庫化にあたる。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "toshi-densetsu-no-shotai-oshiemasu",
+    "title": "都市伝説の正体教えます",
+    "titleKana": "としでんせつのしょうたいおしえます",
+    "authorIds": [
+      "kumase-toshiya"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou",
+      "nichijo-no-nazo"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "深夜の踏切で、専門学校生の美夜乃は上半身だけの霊テケテケに追われる。逃げ切った彼女が体験談をSNSに投稿した翌朝、ちょうど同じ時刻に女性が列車に轢かれて死亡したと報じられた。美夜乃は人殺しではないかと炎上するなか、都市伝説研究の特任准教授を名乗る男から「あなたは人殺しではない」というメッセージが届く。怪異譚を論理で腑分けしていく一作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。宝島社2026年7月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "anata-niwa-korosemasen",
+    "title": "あなたには、殺せません",
+    "titleKana": "あなたにはころせません",
+    "authorIds": [
+      "ishimochiasami"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "tojo",
+      "rensaku-tanpen",
+      "honkaku"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "あるNPO法人には、罪を犯すべきか悩む人々が相談に訪れる。相談員は訪問者から犯行計画を聞き出し、その穴を一つずつ指摘していく。相棒の剽窃に怒るミュージシャン、夫の罪の露見を恐れる妻など、持ち込まれる事情はさまざまだ。実行される前の計画を検討の俎上に載せるという趣向で、議論そのものが読みどころになる倒叙ミステリ短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会)。初刊は東京創元社2023年7月で、2026年6月の版は文庫化にあたる。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "wakadanna-wa-meitantei",
+    "title": "若旦那は名探偵　七不思議なのに八つある",
+    "titleKana": "わかだんなはめいたんていななふしぎなのにやっつある",
+    "authorIds": [
+      "tanaka-hirofumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "jidai-mystery",
+      "tojo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "seriesName": "若旦那は名探偵シリーズ",
+    "synopsis": "江戸の岡っ引き伴次のもとに居候する大坂の若旦那・伊太郎が、退屈しのぎに難事件へ首を突っ込む。歌舞伎役者の中村葱蔵は、ハマり役を親方の息子へ譲れと強要されたことを恨んで手を下し、露見を避けようと捜査を攪乱する。事故として片づけられかけたところに伊太郎が現れ、道楽息子と侮られたまま推理を組み立てていく。人情とユーモアを効かせた時代ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。実業之日本社2024年6月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "wakadanna-wa-meitantei-yurei-ni-natta-otoko",
+    "title": "若旦那は名探偵　幽霊になった男",
+    "titleKana": "わかだんなはめいたんていゆうれいになったおとこ",
+    "authorIds": [
+      "tanaka-hirofumi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "jidai-mystery",
+      "meitantei",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "seriesName": "若旦那は名探偵シリーズ",
+    "synopsis": "馬喰町の岡っ引き伴次のもとに居候する大坂の若旦那・伊太郎が、再び江戸の難事件に挑む。両国広小路の寄席で噺家の見事な怪談噺に感心していたところ、同じ高座を見て悪巧みを思いつく者がいた(「幽霊になった男」)。天狗の仕業とされた殺しの下手人を暴く「天狗裁き」を併録する。落語の演目を下敷きにした人情時代ミステリの第二作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。実業之日本社2026年6月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "shingan-aiba",
+    "title": "心眼",
+    "titleKana": "しんがん",
+    "authorIds": [
+      "aiba-hideo"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "keisatsu-shosetsu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "街頭に立ち、行き交う人の顔を見続けて指名手配犯を割り出す通称〈見当たり捜査班〉。時代遅れと揶揄されるアナログな手法に戸惑いながらも、若き刑事の片桐は不可解な事件を追う。有楽町駅で殺人が起きるが、停電のため防犯カメラは役に立たない。新任の捜査一課長はハイテク捜査を掲げて班の不要論を唱えはじめる。人の目と機械の目を対置した警察小説。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会)。初刊は実業之日本社2023年7月で、2026年6月の版は文庫化にあたる。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
   }
 ]

@@ -6564,5 +6564,41 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sato-seinan",
+    "name": "佐藤青南",
+    "nameKana": "さとうせいなん",
+    "description": "警察小説・サスペンスを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの責任表示および楽天ブックスの書誌で確認(2026-08-26照会)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "kumase-toshiya",
+    "name": "久真瀬敏也",
+    "nameKana": "くませとしや",
+    "description": "都市伝説や怪異を題材にしたミステリを手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの責任表示および楽天ブックスの書誌で確認(2026-08-26照会)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "tanaka-hirofumi",
+    "name": "田中啓文",
+    "nameKana": "たなかひろふみ",
+    "description": "時代小説・ユーモアミステリからSFまで幅広く手がける小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの責任表示および楽天ブックスの書誌で確認(2026-08-26照会)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "aiba-hideo",
+    "name": "相場英雄",
+    "nameKana": "あいばひでお",
+    "description": "経済事件や警察組織を題材にした社会派作品で知られる小説家。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの責任表示および楽天ブックスの書誌で確認(2026-08-26照会)。",
+    "updatedAt": "2026-08-26"
   }
 ]
