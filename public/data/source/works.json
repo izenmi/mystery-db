@@ -68918,5 +68918,280 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会)。初刊は実業之日本社2023年7月で、2026年6月の版は文庫化にあたる。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
     "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "scarlet-letter",
+    "title": "スカーレット・レター",
+    "titleKana": "すかーれっとれたー",
+    "authorIds": [
+      "igarashitakahisa"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "suspense",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "文芸編集者の春川澄香は、新人作家を訪ねて岩手の温泉宿へ向かう。部屋で見つけた赤い封筒を境に、不気味な幻聴や老人の幻影が澄香にまとわりつきはじめる。時を同じくして、東京ではベストセラー作家が失踪し、岩手の町では女性が不審な死を遂げていた。二つの出来事と、澄香がこの町を訪れた本当の理由とが重なっていくサスペンス。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会)。初刊は実業之日本社2023年3月で、2026年6月の版は文庫化にあたる。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "kokyu-no-jujutsuhi",
+    "title": "後宮の呪術妃",
+    "titleKana": "こうきゅうのじゅじゅつひ",
+    "authorIds": [
+      "shirakawa-naoshi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "tokushu-settei",
+      "meitantei"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "一族を漢軍に滅ぼされた翠玉は、敵討ちのため後宮に忍び込むが、皇帝に近づく機会は訪れない。一方、記録係の女史である雪花は、妃嬪の葬儀で遺体の首が切断され別人の頭部が縫い合わされていることを指摘し、周囲の怒りを買ってしまう。事実を曲げない雪花は、後宮で相次ぐ妃嬪の急死と失踪について三日で情報を集めるよう命じられる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。宝島社2026年6月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "kyoto-imadegawa-nazotoki-kitchencar",
+    "title": "京都今出川の謎解きキッチンカー",
+    "titleKana": "きょうといまでがわのなぞとききっちんかー",
+    "authorIds": [
+      "irika-shion"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "京都の志桜大学に通う黒江古都は、謎めいた同級生の初島一葉に誘われてキッチンカーで働きはじめる。確かな料理の腕と鋭い観察眼を併せ持つ一葉は、絶品のメニューを出しながら街で起きる小さな不思議を解きほぐしていく。縁日に置き去りにされたホットサンド、屋台でスリが用いた手口。営業と推理を重ねる二人は、やがて予想外のネット炎上に巻き込まれる。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。宝島社2026年5月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "renzoku-satsujinki-kaeru-otoko-futatabi",
+    "title": "連続殺人鬼カエル男ふたたび",
+    "titleKana": "れんぞくさつじんきかえるおとこふたたび",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "seriesName": "カエル男シリーズ",
+    "synopsis": "凄惨な手口と稚拙な犯行声明文で世間を震撼させた連続猟奇殺人事件から十ヵ月。事件を担当した精神科医の自宅が爆破され、焼け跡から炭化した遺体と、あの犯行声明文が見つかる。報復とみられる動きに、刑事の渡瀬と古手川のコンビが再び走り出す。事件の関係者だった有働さゆりもまた動きはじめ、刑法と責任能力の線引きが問われていく。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。宝島社2018年5月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "renzoku-satsujinki-kaeru-otoko-kanketsuhen",
+    "title": "連続殺人鬼カエル男　完結編",
+    "titleKana": "れんぞくさつじんきかえるおとこかんけつへん",
+    "authorIds": [
+      "nakayama-shichiri"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "suspense",
+      "keisatsu-shosetsu",
+      "shakaiha"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "seriesName": "カエル男シリーズ",
+    "synopsis": "医療刑務所を脱走した有働さゆりの行方は、依然としてつかめないままだった。そんななか、精神疾患を抱えた殺人犯を無罪に導いた人権派弁護士が殺され、遺体のかたわらにはあの犯行声明文が残されていた。これまでと異なる動きを見せる相手に翻弄される捜査一課の渡瀬と古手川は、ある人物から思わぬ提案を受ける。心神喪失と刑罰をめぐるシリーズの決着編。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会)。初刊は宝島社2024年11月で、2026年8月の版は文庫化にあたる。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "kakuriyo-made-no-yorimichi",
+    "title": "幽世までの寄り道　介護施設・灯影庵の謎日誌",
+    "titleKana": "かくりよまでのよりみちかいごしせつほかげあんのなぞにっし",
+    "authorIds": [
+      "kameno-jin"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "kaiki-gensou"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "湘南海岸の近くに建つ高齢者介護施設「灯影庵」は、もとは病院だった建物を使っている。施設に現れる座敷童の正体、誰が運転しても送迎対象ではない家に停まってしまう送迎バス、各所から見つかった現金の由来。強い霊感を持つ介護士の嶺玉やよひが、入居者やその家族に寄り添いながら不可思議な出来事の理由を解きほぐしていく連作ミステリ。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。宝島社2026年8月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "nazo-no-kaori-wa-panya-kara-2",
+    "title": "謎の香りはパン屋から2",
+    "titleKana": "なぞのかおりはぱんやから2",
+    "authorIds": [
+      "tsuchiyausagi"
+    ],
+    "detectiveIds": [],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "nichijo-no-nazo",
+      "rensaku-tanpen"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "大学二年生になった市倉小春は念願の漫画家デビューを決め、店長の堂前やレナ先輩に囲まれて大阪府豊中市のパン屋〈ノスティモ〉でのアルバイトを続けていた。初めての後輩となる高校生の杏樹も加わり、賑やかな四月が過ぎていく。ところが「来月は毎日でもシフトに入る」と張り切って退勤した杏樹が、数時間後に辞めたいと言い出す。焼きたてのパンが香る日常の謎。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。宝島社2026年4月)。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "hokago-wa-mystery-to-tomoni",
+    "title": "放課後はミステリーとともに",
+    "titleKana": "ほうかごはみすてりーとともに",
+    "authorIds": [
+      "higashigawa-tokuya"
+    ],
+    "detectiveIds": [
+      "kirigamine-ryo"
+    ],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "gakuen",
+      "nichijo-no-nazo",
+      "rensaku-tanpen",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "seriesName": "鯉ケ窪学園シリーズ",
+    "synopsis": "鯉ケ窪学園探偵部の副部長・霧ケ峰涼は、某エアコンと同じ名前をからかわれながらも校内の騒動に引き寄せられる。校庭上空に現れたUFOらしき物体、珈琲をめぐる毒殺未遂、校舎から消えた泥棒。持ち込まれる謎はどれも突飛だが、推理はたいてい五里霧中に迷い込む。軽妙な会話と端正な論理を両立させた、シリーズを代表する学園ミステリ短編集。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": true,
+      "anime": false,
+      "comic": true
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会。実業之日本社2011年2月)。2026年6月の版は新装版にあたる。ドラマ化・コミカライズはNDLの書誌(TBS版・カスヤナガト画のジュニア文庫版)で確認した。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "satsui-wa-kanarazu-sando-aru",
+    "title": "殺意は必ず三度ある",
+    "titleKana": "さついはかならずさんどある",
+    "authorIds": [
+      "higashigawa-tokuya"
+    ],
+    "detectiveIds": [
+      "kirigamine-ryo"
+    ],
+    "translatorIds": [],
+    "publisherId": "jitsugyo-no-nihonsha",
+    "themeIds": [
+      "gakuen",
+      "honkaku",
+      "seishun"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "seriesName": "鯉ケ窪学園シリーズ",
+    "synopsis": "鯉ケ窪学園のグラウンドから、野球のベースが盗まれるという珍事が起きる。続いてライバル校との練習試合の最中、白昼堂々と野球部監督の死体が見つかった。学園探偵部ののんきな三人組は、事件の見立てを検証するため壮大なアリバイ実験に乗り出すことになる。学園の日常と本格の手続きを噛み合わせた、ユーモアミステリのシリーズ第二作。",
+    "awardResults": [],
+    "mediaMix": {
+      "movie": false,
+      "drama": false,
+      "anime": false,
+      "comic": false
+    },
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で確認(2026-08-26照会)。初刊は実業之日本社2006年5月で、2013年8月の光文社版・2026年4月の版はいずれも再刊にあたる。あらすじは版元の紹介文を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
+    "updatedAt": "2026-08-26"
   }
 ]

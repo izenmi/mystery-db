@@ -1159,5 +1159,17 @@
     "sourceNote": "日本語版Wikipediaの当該人物・作品記事で確認。",
     "updatedAt": "2026-08-07",
     "creatorAuthorId": "isaac-asimov"
+  },
+  {
+    "id": "kirigamine-ryo",
+    "name": "霧ケ峰涼",
+    "nameKana": "きりがみねりょう",
+    "creatorAuthorId": "higashigawa-tokuya",
+    "occupation": "高校生",
+    "description": "鯉ケ窪学園探偵部の副部長を務める女子高生。エアコンのような名前をからかわれつつ、校内で起きる不可解な出来事に首を突っ込んでは推理を組み立てる。",
+    "firstAppearanceWorkId": "hokago-wa-mystery-to-tomoni",
+    "externalLinks": {},
+    "sourceNote": "人物像・初登場作品は版元の紹介文で確認した(2026-08-26照会)。真相に関わる記述は含めていない。",
+    "updatedAt": "2026-08-26"
   }
 ]
