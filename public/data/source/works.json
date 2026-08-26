@@ -67022,8 +67022,8 @@
   },
   {
     "id": "koinogondorashinsouban",
-    "title": "恋のゴンドラ　新装版",
-    "titleKana": "こいのごんどらしんそうばん",
+    "title": "恋のゴンドラ",
+    "titleKana": "こいのごんどら",
     "authorIds": [
       "higashino-keigo"
     ],
@@ -67036,7 +67036,7 @@
       "kazoku"
     ],
     "origin": "jp",
-    "firstPublishedYear": 2026,
+    "firstPublishedYear": 2016,
     "status": "completed",
     "synopsis": "逃げ場のないゴンドラのなかで、浮気相手と婚約者がまさかの鉢合わせをしてしまう。降りるまでの数分間、いったいどうやり過ごせばいいのか。絶体絶命の密室から物語は始まっていく。スキー場を舞台に、複数の男女の思惑が入り乱れながら次々と事態が転がっていくのだ。ノンストップの痛快恋愛ミステリーとして書かれた連作である。",
     "awardResults": [],
@@ -67048,7 +67048,7 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
-    "updatedAt": "2026-08-15"
+    "updatedAt": "2026-08-26"
   },
   {
     "id": "asahina-san-to-himitsu-no-aibou",
@@ -67172,8 +67172,8 @@
   },
   {
     "id": "hanashika-shinpei-torimonochou-shinagawa-nisegokoro",
-    "title": "噺家志ん平捕物帖　品川偽心",
-    "titleKana": "",
+    "title": "噺家志ん平捕物帖　品川偽心中",
+    "titleKana": "はなしかしんぺいとりものちょうしながわにせしんじゅう",
     "authorIds": [
       "kazenomachio"
     ],
@@ -67198,12 +67198,12 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
-    "updatedAt": "2026-08-15"
+    "updatedAt": "2026-08-26"
   },
   {
     "id": "tanteibuhenochousenjouhoukagohamisuteritotomonis",
-    "title": "探偵部への挑戦状　放課後はミステリーとともに　新装版",
-    "titleKana": "たんていぶへのちょうせんじょうほうかごはみすてりーとともにしんそうばん",
+    "title": "探偵部への挑戦状",
+    "titleKana": "たんていぶへのちょうせんじょう",
     "authorIds": [
       "higashigawa-tokuya"
     ],
@@ -67216,7 +67216,7 @@
       "meitantei"
     ],
     "origin": "jp",
-    "firstPublishedYear": null,
+    "firstPublishedYear": 2013,
     "status": "completed",
     "synopsis": "霧ケ峰涼は某エアコンのような名前の、鯉ケ窪学園探偵部の副部長である。ミス鯉高祭を見に行こうとすると、なぜか事件に出くわしてしまうのだ。しかも今回は、ミステリ研究会の部長という最大のライバルが立ちはだかる。絶対に負けられない推理合戦が開幕する。軽妙な会話と端正な論理を両立させた、人気シリーズの一作である。",
     "awardResults": [],
@@ -67228,7 +67228,8 @@
     },
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年は国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はWikipedia日本語版「各賞」の受賞作一覧で確認(2026-08-07照会)。あらすじは版元の紹介文およびWikipedia記事を参考にした独自要約(コピペなし、真相・トリックには触れていない)。",
-    "updatedAt": "2026-08-15"
+    "updatedAt": "2026-08-26",
+    "seriesName": "鯉ケ窪学園シリーズ"
   },
   {
     "id": "kodoku-na-yoru",
