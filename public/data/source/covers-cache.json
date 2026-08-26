@@ -412,6 +412,14 @@
     "resolvedAt": "2026-08-08T05:42:21.031Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3737484/"
   },
+  "anata-niwa-korosemasen": {
+    "title": "あなたには、殺せません",
+    "isbn": "9784488028961",
+    "matchedTitle": "あなたには、殺せません",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8961/9784488028961_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:09.870Z"
+  },
   "anaza-nisenichi": {
     "title": "Another2001",
     "isbn": "9784041134085",
@@ -3462,6 +3470,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-15T03:03:22.704Z"
   },
+  "gothictown": {
+    "title": "ゴシックタウン",
+    "isbn": "9784488538033",
+    "matchedTitle": "ゴシックタウン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8033/9784488538033_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:26.571Z"
+  },
   "gotoba-densetsu": {
     "title": "後鳥羽伝説殺人事件",
     "isbn": "9784041607015",
@@ -3921,6 +3937,14 @@
     "resolvedAt": "2026-08-07T01:54:58.248Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16211238/"
   },
+  "hannin-wa-genba-ni-kubi-dake-modoru": {
+    "title": "犯人は現場に首だけ戻る",
+    "isbn": "9784408539171",
+    "matchedTitle": "犯人は現場に首だけ戻る",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9171/9784408539171_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:05.072Z"
+  },
   "hanochi": {
     "title": "半落ち",
     "isbn": "9784062751940",
@@ -4342,6 +4366,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2519/9784061842519_1_10.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:39:38.575Z"
+  },
+  "hokago-wa-mystery-to-tomoni": {
+    "title": "放課後はミステリーとともに",
+    "isbn": "9784408537719",
+    "matchedTitle": "放課後はミステリーとともに",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7719/9784408537719.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:24.150Z"
   },
   "hokkushi-no-ikyou-no-bouken": {
     "title": "ホック氏の異郷の冒険",
@@ -4953,6 +4985,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-15T03:38:16.822Z"
   },
+  "inu-to-nigeru": {
+    "title": "犬と逃げる",
+    "isbn": "9784408538877",
+    "matchedTitle": "犬と逃げる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8877/9784408538877_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:06.254Z"
+  },
   "inu-wa-dokoda": {
     "title": "犬はどこだ",
     "isbn": "9784488451042",
@@ -5053,6 +5093,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T23:45:32.038Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1602533/"
+  },
+  "istanbul-no-satsujin": {
+    "title": "イスタンブールの殺人",
+    "isbn": "9784488286101",
+    "matchedTitle": "イスタンブールの殺人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6101/9784488286101_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:28.917Z"
   },
   "isutoreppusu-renzoku-satsujin": {
     "title": "イーストレップス連続殺人",
@@ -5798,6 +5846,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-15T03:42:00.854Z"
   },
+  "kakuriyo-made-no-yorimichi": {
+    "title": "幽世までの寄り道　介護施設・灯影庵の謎日誌",
+    "isbn": "9784299077493",
+    "matchedTitle": "幽世までの寄り道 介護施設・灯影庵の謎日誌",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7493/9784299077493_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:21.779Z"
+  },
   "kamen-butokai": {
     "title": "仮面舞踏会",
     "isbn": "9784041304389",
@@ -5965,6 +6021,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T15:34:58.705Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16181807/"
+  },
+  "kanojotachi-no-nazotoki-no-yoru": {
+    "title": "彼女たちの謎解きの夜",
+    "isbn": "9784488184070",
+    "matchedTitle": "彼女たちの謎解きの夜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4070/9784488184070_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:30.095Z"
   },
   "kansen-yugi": {
     "title": "感染遊戯",
@@ -6655,6 +6719,14 @@
     "resolvedAt": "2026-08-07T15:26:35.600Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17984197/"
   },
+  "kinkoyaburi-no-goka-na-chosa": {
+    "title": "金庫破りの豪華な調査",
+    "isbn": "9784488222116",
+    "matchedTitle": "金庫破りの豪華な調査",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2116/9784488222116_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:32.436Z"
+  },
   "kinou-ga-nakereba-ashita-mo-nai": {
     "title": "昨日がなければ明日もない",
     "isbn": "9784167916855",
@@ -7142,6 +7214,14 @@
     "resolvedAt": "2026-08-04T07:04:11.322Z",
     "note": "自動取得が著者名表記の揺れ(ジョン・ディクソン・カー/カーター・ディクスン)で一致せず未解決だったため、創元推理文庫版のISBNを直接指定した。",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11796762/"
+  },
+  "kokyu-no-jujutsuhi": {
+    "title": "後宮の呪術妃",
+    "isbn": "9784299078360",
+    "matchedTitle": "後宮の呪術妃",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8360/9784299078360_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:17.024Z"
   },
   "konbini-nashi-dewa-ikirarenai": {
     "title": "コンビニなしでは生きられない",
@@ -7817,6 +7897,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-07T04:16:41.235Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16546976/"
+  },
+  "kyoto-imadegawa-nazotoki-kitchencar": {
+    "title": "京都今出川の謎解きキッチンカー",
+    "isbn": "9784299077509",
+    "matchedTitle": "京都今出川の謎解きキッチンカー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7509/9784299077509_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:18.215Z"
   },
   "kyoto-satsujin-chizu": {
     "title": "京都殺人地図",
@@ -9688,6 +9776,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T12:38:41.918Z"
   },
+  "nazo-no-kaori-wa-panya-kara-2": {
+    "title": "謎の香りはパン屋から2",
+    "isbn": "9784299076502",
+    "matchedTitle": "謎の香りはパン屋から2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6502/9784299076502_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:22.981Z"
+  },
   "nazotoki-dinner": {
     "title": "謎解きはディナーのあとで",
     "isbn": "9784094087574",
@@ -11019,6 +11115,22 @@
     "resolvedAt": "2026-08-04T07:35:44.702Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6982228/"
   },
+  "renzoku-satsujinki-kaeru-otoko-futatabi": {
+    "title": "連続殺人鬼カエル男ふたたび",
+    "isbn": "9784800293527",
+    "matchedTitle": "連続殺人鬼カエル男ふたたび",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3527/9784800293527.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:19.399Z"
+  },
+  "renzoku-satsujinki-kaeru-otoko-kanketsuhen": {
+    "title": "連続殺人鬼カエル男　完結編",
+    "isbn": "9784299061188",
+    "matchedTitle": "連続殺人鬼カエル男 完結編",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1188/9784299061188_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:20.588Z"
+  },
   "reversal": {
     "title": "判決破棄",
     "isbn": null,
@@ -11258,6 +11370,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T05:57:27.023Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18165130/"
+  },
+  "rondon-scone-no-nazo": {
+    "title": "倫敦スコーンの謎",
+    "isbn": "9784488451134",
+    "matchedTitle": "倫敦スコーンの謎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1134/9784488451134_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:03.887Z"
   },
   "rongu-guddobai": {
     "title": "THE WRONG GOODBYE ロング・グッドバイ",
@@ -11747,6 +11867,14 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-08T06:57:35.677Z"
   },
+  "satsui-wa-kanarazu-sando-aru": {
+    "title": "殺意は必ず三度ある",
+    "isbn": "9784334766047",
+    "matchedTitle": "殺意は必ず三度ある",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6047/9784334766047.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:25.378Z"
+  },
   "satsujin-kigeki-no-13nin": {
     "title": "殺人喜劇の13人",
     "isbn": "9784488456054",
@@ -11850,6 +11978,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-15T03:20:41.465Z"
+  },
+  "scarlet-letter": {
+    "title": "スカーレット・レター",
+    "isbn": "9784408538228",
+    "matchedTitle": "スカーレット・レター",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8228/9784408538228_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:15.831Z"
   },
   "sculptress": {
     "title": "女彫刻家",
@@ -12307,6 +12443,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3099/9784488473099_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T12:38:24.659Z"
+  },
+  "shingan-aiba": {
+    "title": "心眼",
+    "isbn": "9784408538273",
+    "matchedTitle": "心眼",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8273/9784408538273_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:14.646Z"
   },
   "shinigami-no-furyoku": {
     "title": "死神の浮力",
@@ -12952,6 +13096,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-04T03:50:38.888Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6447531/"
+  },
+  "sokoku-naki-monotachi-e": {
+    "title": "祖国なき者たちへ",
+    "isbn": "9784488252069",
+    "matchedTitle": "祖国なき者たちへ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2069/9784488252069_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:31.276Z"
   },
   "solomon-no-gisho": {
     "title": "ソロモンの偽証",
@@ -13755,6 +13907,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-07T22:25:57.388Z"
   },
+  "tasogare-no-jusei": {
+    "title": "黄昏の銃声",
+    "isbn": "9784488127213",
+    "matchedTitle": "黄昏の銃声",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7213/9784488127213_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:27.744Z"
+  },
   "tasogare-no-sasayaki": {
     "title": "黄昏の囁き",
     "isbn": "9784065236857",
@@ -14406,6 +14566,14 @@
     "resolvedAt": "2026-08-04T04:51:56.176Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16533224/"
   },
+  "toshi-densetsu-no-shotai-oshiemasu": {
+    "title": "都市伝説の正体教えます",
+    "isbn": "9784299078285",
+    "matchedTitle": "都市伝説の正体教えます",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8285/9784299078285_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:08.664Z"
+  },
   "toshi-to-toshi": {
     "title": "都市と都市",
     "isbn": null,
@@ -14931,6 +15099,14 @@
     "resolvedAt": "2026-08-08T06:14:44.407Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18021232/"
   },
+  "vampdog-wa-sakebanai": {
+    "title": "ヴァンプドッグは叫ばない",
+    "isbn": "9784488028992",
+    "matchedTitle": "ヴァンプドッグは叫ばない",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8992/9784488028992_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:07.459Z"
+  },
   "vanished-man": {
     "title": "魔術師",
     "isbn": null,
@@ -14992,6 +15168,22 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T07:00:20.765Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6226219/"
+  },
+  "wakadanna-wa-meitantei": {
+    "title": "若旦那は名探偵　七不思議なのに八つある",
+    "isbn": "9784408558912",
+    "matchedTitle": "若旦那は名探偵　七不思議なのに八つある",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8912/9784408558912_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:11.060Z"
+  },
+  "wakadanna-wa-meitantei-yurei-ni-natta-otoko": {
+    "title": "若旦那は名探偵　幽霊になった男",
+    "isbn": "9784408560182",
+    "matchedTitle": "若旦那は名探偵　幽霊になった男",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0182/9784408560182_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-26T13:39:12.238Z"
   },
   "warau-iemon": {
     "title": "嗤う伊右衛門",
