@@ -422,3 +422,7 @@ game-db の `scripts/suggest-candidates.mjs`(IGDB版)と同じ発想。
   イラストレーター/作画家のいるサイト(ranobe-db・manga-db)固有で、著者詳細では表紙の絵柄が
   バラバラになるため
 
+
+---
+
+この機（Windows）での注意・進行状況・環境の罠は、同じフォルダの AGENTS.md と `../AGENTS.md` にある。
